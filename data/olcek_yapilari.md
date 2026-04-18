@@ -66,6 +66,16 @@ Orijinal ölçekte **düşük puan = iyi problem çözme** yönelimi anlamına g
 Ters puanlı maddeler `7 - puan` formülüyle düzeltilir (6'lı ölçek için).  
 Düzeltme sonrası: **yüksek puan = iyi problem çözme becerisi.**
 
+### PÇBÖ Alt Boyutları
+
+| Faktör | Alt Boyut Adı | Kısa Ad | Madde No | Madde Sayısı |
+|--------|--------------|---------|----------|--------------|
+| F1 | Problem Çözmeye Güvenme | PCG | 1, 2, 3, 4, 11, 19, 20, 23, 24, 27, 33 | 11 |
+| F2 | Yaklaşma-Kaçınma Stili | YKS | 5, 7, 8, 13, 14, 15, 16, 17, 21, 25, 26, 28, 30, 31, 32, 35 | 16 |
+| F3 | Kişisel Kontrol | KK | 6, 10, 18, 29, 34 | 5 |
+
+> **Not:** Maddeler 9, 12, 22 dolgu (filler) maddeleridir — toplam puana dahil edilir, alt boyutlara dahil edilmez.
+
 ### Ters Puanlı Maddeler (*)
 
 Excel sütun sırasına göre ters puanlanacak maddeler (madde metinleri olumsuz/negatif yönlü):
