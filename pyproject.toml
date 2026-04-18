@@ -1,9 +1,23 @@
 [project]
 name = "tez-analiz"
 version = "0.1.0"
-description = "Add your description here"
+description = "Tez istatistik analizi — İBDÖ ve PÇBÖ ön test / son test karşılaştırması"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "pandas>=3.0.2",
+    "pandas>=2.2",
+    "numpy>=1.26",
+    "scipy>=1.13",
+    "matplotlib>=3.8",
+    "seaborn>=0.13",
+    "openpyxl>=3.1",
+    "ipykernel>=6.29",
+    "nbformat>=5.10",
+]
+
+[dependency-groups]
+dev = [
+    "jupyter>=1.0",
+    "nbconvert>=7.16",
+    "python-docx>=1.1",
 ]
