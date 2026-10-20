@@ -2,7 +2,14 @@
 
 Bu klasör, tez için hazırlanan grafik, değerlendirme ve doğrulama dosyalarını içerir. Orijinal tez ve analiz dosyaları değiştirilmemiştir.
 
-## Güncel: grafikleri tez dosyasının içine eklenmiş kopya
+## En güncel tez: üç grafik eklenmiş tam dosya
+
+- **[Word — PÇBÖ ve iletişim grafikleri dahil](GOKHAN-KAYA-TEZ-3-grafik-eklenmis.docx)**
+- **[PDF — PÇBÖ ve iletişim grafikleri dahil](GOKHAN-KAYA-TEZ-3-grafik-eklenmis.pdf)**
+
+Şekil 4.1 PÇBÖ ön–son ortalamalarını, Şekil 4.2 iletişim ön–son ortalamalarını, Şekil 4.3 iletişimde ortalama farkları ve %95 güven aralıklarını gösterir. PÇBÖ grafiği kullanıcının talebi doğrultusunda mevcut GitHub kodu ve tez tablolarındaki puanlama esas alınarak eklenmiştir; hesaplar değiştirilmemiştir. Önceki iki-grafikli dosya arşiv olarak korunmuştur.
+
+## Önceki sürüm: iki iletişim grafiği eklenmiş kopya
 
 - **[Tezin tamamı — düzenlenmiş Word](GOKHAN-KAYA-TEZ-grafik-eklenmis.docx)**
 - **[Tezin tamamı — PDF görüntüleme sürümü](GOKHAN-KAYA-TEZ-grafik-eklenmis.pdf)**
