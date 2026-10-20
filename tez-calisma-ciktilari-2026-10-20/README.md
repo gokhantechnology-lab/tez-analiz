@@ -2,7 +2,15 @@
 
 Bu klasör, tez için hazırlanan grafik, değerlendirme ve doğrulama dosyalarını içerir. Orijinal tez ve analiz dosyaları değiştirilmemiştir.
 
-## Önce bu dosyalara bakın
+## Güncel: grafikleri tez dosyasının içine eklenmiş kopya
+
+- **[Tezin tamamı — düzenlenmiş Word](GOKHAN-KAYA-TEZ-grafik-eklenmis.docx)**
+- **[Tezin tamamı — PDF görüntüleme sürümü](GOKHAN-KAYA-TEZ-grafik-eklenmis.pdf)**
+- [Neler eklendi?](TEZE-EKLENENLER.md)
+
+Bu kopyada yalnızca iki iletişim grafiği, uygun bölüm içine başlık ve açıklamalarıyla eklendi. Eski çalışma dosyalarından farklı olarak tezin tamamını içerir. PÇBÖ taslakları bu tez dosyasına eklenmedi.
+
+## Önceki çalışma dosyaları
 
 - [İletişim nicel bulguları: tablolar, grafikler ve açıklamalar](iletisim-nicel-bulgular-duzenlenmis.docx)
 - [Yeni belgelerin değerlendirmesi ve yöntem düzeltmeleri](yeni-belgeler-dogrulama-ve-yontem.docx)
