@@ -2,6 +2,8 @@
 
 ## Yeni: dört görüşmenin nitel içerik analizi
 
+**Tek dosyada birleştirildi:** [Nicel bulgulardan sonra, sonuçtan önceki bölümün tamamı — Word](nitel-analiz-2026-10-22/NICEL-SONRASI-SONUC-ONCESI-TUM-BULGULAR.docx) / [PDF](nitel-analiz-2026-10-22/NICEL-SONRASI-SONUC-ONCESI-TUM-BULGULAR.pdf). 4.2 ve 4.3 bölümleri, 10 tablo ve 2 görsel birlikte yer alıyor.
+
 **Güncellendi:** Nitel bulgular dosyasında tema şeması ve K1–K4 karşılaştırma matrisi de yer alıyor. [Nicel–nitel ortak gösterim](nitel-analiz-2026-10-22/NICEL-NITEL-ORTAK-GOSTERIM.docx), tartışma aşaması için ayrı hazırlandı.
 
 - **[Teze aktarılacak nitel bulgular — Word](nitel-analiz-2026-10-22/TEZE-AKTARILACAK-NITEL-BULGULAR.docx)**

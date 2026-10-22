@@ -1,5 +1,13 @@
 # Nitel içerik analizi — 22 Ekim 2026
 
+## ÖNCE BU DOSYAYI AÇIN — Nicel bulgulardan sonra, sonuçtan önceki bölümün tamamı
+
+- **[Birleşik tam metin — Word](NICEL-SONRASI-SONUC-ONCESI-TUM-BULGULAR.docx)**
+- **[Birleşik tam metin — PDF](NICEL-SONRASI-SONUC-ONCESI-TUM-BULGULAR.pdf)**
+- [Kapsam ve yapılan tamamlamalar](BIRLESIK-DOSYA-KAPSAMI.md)
+
+13 sayfa: **4.2 Nitel Bulgular + 4.3 Nicel ve Nitel Bulguların Birlikte Sunumu**; 10 tablo, tema şeması ve beceri katkısı grafiği. Önceden ayrı ortak gösterim, Tablo 4.20 olarak metnin devamına alındı. Aşağıdaki dosyalar önceki ayrı çalışma çıktıları ve ayrıntılı analiz kayıtlarıdır; hepsini peş peşe kopyalamanız gerekmez. Sonuç–Tartışma–Öneriler bölümü bu dosyaya eklenmedi.
+
 Dört görüşmenin tamamı, gönderilen soru formu ve hocanın K1 için el yazısı notları esas alınarak incelendi. Ana tez dosyası değiştirilmedi.
 
 ## Önce okunacak dosya: yalnızca nitel bulgular

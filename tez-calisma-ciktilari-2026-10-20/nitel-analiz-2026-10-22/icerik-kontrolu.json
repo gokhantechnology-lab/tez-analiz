@@ -1,0 +1,33 @@
+{
+  "sections": [
+    "4.2. Nitel Bulgular",
+    "4.3. Nicel ve Nitel Bulguların Birlikte Sunumu"
+  ],
+  "tables": [
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "figures": [
+    "4.4 tema şeması",
+    "4.5 beceri katkısı katılımcı sayıları"
+  ],
+  "codes_unchanged": 53,
+  "response_units_unchanged": 44,
+  "graph_counts": {
+    "P11": 4,
+    "P12": 3,
+    "P13": 3,
+    "P14": 1,
+    "C10": 3
+  },
+  "main_thesis_modified": false,
+  "conclusion_section_written": false
+}
