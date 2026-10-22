@@ -383,5 +383,13 @@
         "K4"
       ]
     }
+  },
+  "visual_additions": {
+    "theme_diagram": "Şekil 4.4",
+    "comparison_table": "Tablo 4.19",
+    "comparison_rows": 7,
+    "joint_display_rows": 4,
+    "new_participants": 0,
+    "new_codes": 0
   }
 }

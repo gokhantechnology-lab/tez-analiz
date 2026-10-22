@@ -2,6 +2,8 @@
 
 ## Yeni: dört görüşmenin nitel içerik analizi
 
+**Güncellendi:** Nitel bulgular dosyasında tema şeması ve K1–K4 karşılaştırma matrisi de yer alıyor. [Nicel–nitel ortak gösterim](nitel-analiz-2026-10-22/NICEL-NITEL-ORTAK-GOSTERIM.docx), tartışma aşaması için ayrı hazırlandı.
+
 - **[Teze aktarılacak nitel bulgular — Word](nitel-analiz-2026-10-22/TEZE-AKTARILACAK-NITEL-BULGULAR.docx)**
 - **[Nitel bulguları PDF olarak görüntüle](nitel-analiz-2026-10-22/TEZE-AKTARILACAK-NITEL-BULGULAR.pdf)**
 - **[Hocanın dijital notları, tam analiz ve yöntem rehberi](nitel-analiz-2026-10-22/NITEL-BULGULAR-VE-ICERIK-ANALIZI.docx)**
