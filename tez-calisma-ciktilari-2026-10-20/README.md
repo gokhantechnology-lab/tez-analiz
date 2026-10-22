@@ -1,5 +1,14 @@
 # Tez çalışma çıktıları — 20 Ekim 2026
 
+## Yeni: dört görüşmenin nitel içerik analizi
+
+- **[Teze aktarılacak nitel bulgular — Word](nitel-analiz-2026-10-22/TEZE-AKTARILACAK-NITEL-BULGULAR.docx)**
+- **[Nitel bulguları PDF olarak görüntüle](nitel-analiz-2026-10-22/TEZE-AKTARILACAK-NITEL-BULGULAR.pdf)**
+- **[Hocanın dijital notları, tam analiz ve yöntem rehberi](nitel-analiz-2026-10-22/NITEL-BULGULAR-VE-ICERIK-ANALIZI.docx)**
+- [Nitel analiz klasörünün tamamı](nitel-analiz-2026-10-22/)
+
+Ana tez dosyasına henüz eklenmemiş, ayrı çalışma dosyalarıdır.
+
 Bu klasör, tez için hazırlanan grafik, değerlendirme ve doğrulama dosyalarını içerir. Orijinal tez ve analiz dosyaları değiştirilmemiştir.
 
 ## En güncel tez: üç grafik eklenmiş tam dosya

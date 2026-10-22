@@ -1,0 +1,387 @@
+{
+  "participants": 4,
+  "response_units": 44,
+  "codes": 53,
+  "response_code_links": 140,
+  "verbatim_excerpts_checked": 30,
+  "teacher_note_rows": 28,
+  "frequencies": {
+    "C01": {
+      "f": 4,
+      "participants": [
+        "K1",
+        "K2",
+        "K3",
+        "K4"
+      ]
+    },
+    "C02": {
+      "f": 4,
+      "participants": [
+        "K1",
+        "K2",
+        "K3",
+        "K4"
+      ]
+    },
+    "C03": {
+      "f": 4,
+      "participants": [
+        "K1",
+        "K2",
+        "K3",
+        "K4"
+      ]
+    },
+    "C04": {
+      "f": 2,
+      "participants": [
+        "K1",
+        "K4"
+      ]
+    },
+    "C05": {
+      "f": 4,
+      "participants": [
+        "K1",
+        "K2",
+        "K3",
+        "K4"
+      ]
+    },
+    "C06": {
+      "f": 1,
+      "participants": [
+        "K1"
+      ]
+    },
+    "C07": {
+      "f": 2,
+      "participants": [
+        "K3",
+        "K4"
+      ]
+    },
+    "C08": {
+      "f": 2,
+      "participants": [
+        "K2",
+        "K4"
+      ]
+    },
+    "C09": {
+      "f": 1,
+      "participants": [
+        "K3"
+      ]
+    },
+    "C10": {
+      "f": 3,
+      "participants": [
+        "K2",
+        "K3",
+        "K4"
+      ]
+    },
+    "C11": {
+      "f": 1,
+      "participants": [
+        "K4"
+      ]
+    },
+    "C12": {
+      "f": 1,
+      "participants": [
+        "K2"
+      ]
+    },
+    "L01": {
+      "f": 4,
+      "participants": [
+        "K1",
+        "K2",
+        "K3",
+        "K4"
+      ]
+    },
+    "L02": {
+      "f": 4,
+      "participants": [
+        "K1",
+        "K2",
+        "K3",
+        "K4"
+      ]
+    },
+    "L03": {
+      "f": 4,
+      "participants": [
+        "K1",
+        "K2",
+        "K3",
+        "K4"
+      ]
+    },
+    "L04": {
+      "f": 4,
+      "participants": [
+        "K1",
+        "K2",
+        "K3",
+        "K4"
+      ]
+    },
+    "L05": {
+      "f": 2,
+      "participants": [
+        "K2",
+        "K4"
+      ]
+    },
+    "L06": {
+      "f": 1,
+      "participants": [
+        "K4"
+      ]
+    },
+    "L07": {
+      "f": 1,
+      "participants": [
+        "K1"
+      ]
+    },
+    "L08": {
+      "f": 1,
+      "participants": [
+        "K1"
+      ]
+    },
+    "L09": {
+      "f": 2,
+      "participants": [
+        "K1",
+        "K3"
+      ]
+    },
+    "L10": {
+      "f": 3,
+      "participants": [
+        "K1",
+        "K2",
+        "K4"
+      ]
+    },
+    "L11": {
+      "f": 1,
+      "participants": [
+        "K4"
+      ]
+    },
+    "L12": {
+      "f": 2,
+      "participants": [
+        "K2",
+        "K3"
+      ]
+    },
+    "L13": {
+      "f": 1,
+      "participants": [
+        "K1"
+      ]
+    },
+    "L14": {
+      "f": 2,
+      "participants": [
+        "K2",
+        "K4"
+      ]
+    },
+    "P01": {
+      "f": 3,
+      "participants": [
+        "K1",
+        "K3",
+        "K4"
+      ]
+    },
+    "P02": {
+      "f": 1,
+      "participants": [
+        "K2"
+      ]
+    },
+    "P03": {
+      "f": 2,
+      "participants": [
+        "K1",
+        "K3"
+      ]
+    },
+    "P04": {
+      "f": 2,
+      "participants": [
+        "K1",
+        "K4"
+      ]
+    },
+    "P05": {
+      "f": 3,
+      "participants": [
+        "K1",
+        "K2",
+        "K3"
+      ]
+    },
+    "P06": {
+      "f": 1,
+      "participants": [
+        "K4"
+      ]
+    },
+    "P07": {
+      "f": 4,
+      "participants": [
+        "K1",
+        "K2",
+        "K3",
+        "K4"
+      ]
+    },
+    "P08": {
+      "f": 1,
+      "participants": [
+        "K1"
+      ]
+    },
+    "P09": {
+      "f": 1,
+      "participants": [
+        "K4"
+      ]
+    },
+    "P10": {
+      "f": 3,
+      "participants": [
+        "K2",
+        "K3",
+        "K4"
+      ]
+    },
+    "P11": {
+      "f": 4,
+      "participants": [
+        "K1",
+        "K2",
+        "K3",
+        "K4"
+      ]
+    },
+    "P12": {
+      "f": 3,
+      "participants": [
+        "K1",
+        "K3",
+        "K4"
+      ]
+    },
+    "P13": {
+      "f": 3,
+      "participants": [
+        "K2",
+        "K3",
+        "K4"
+      ]
+    },
+    "P14": {
+      "f": 1,
+      "participants": [
+        "K3"
+      ]
+    },
+    "P15": {
+      "f": 1,
+      "participants": [
+        "K4"
+      ]
+    },
+    "P16": {
+      "f": 1,
+      "participants": [
+        "K2"
+      ]
+    },
+    "P17": {
+      "f": 2,
+      "participants": [
+        "K2",
+        "K3"
+      ]
+    },
+    "P18": {
+      "f": 4,
+      "participants": [
+        "K1",
+        "K2",
+        "K3",
+        "K4"
+      ]
+    },
+    "R01": {
+      "f": 1,
+      "participants": [
+        "K1"
+      ]
+    },
+    "R02": {
+      "f": 1,
+      "participants": [
+        "K1"
+      ]
+    },
+    "R03": {
+      "f": 2,
+      "participants": [
+        "K2",
+        "K4"
+      ]
+    },
+    "R04": {
+      "f": 2,
+      "participants": [
+        "K2",
+        "K4"
+      ]
+    },
+    "R05": {
+      "f": 1,
+      "participants": [
+        "K2"
+      ]
+    },
+    "R06": {
+      "f": 1,
+      "participants": [
+        "K3"
+      ]
+    },
+    "R07": {
+      "f": 1,
+      "participants": [
+        "K4"
+      ]
+    },
+    "R08": {
+      "f": 1,
+      "participants": [
+        "K2"
+      ]
+    },
+    "R09": {
+      "f": 1,
+      "participants": [
+        "K4"
+      ]
+    }
+  }
+}
