@@ -4,6 +4,8 @@ Bu klasör, tez için hazırlanan grafik, değerlendirme ve doğrulama dosyalar�
 
 ## En güncel tez: üç grafik eklenmiş tam dosya
 
+**22 Ekim 2026 güncellemesi:** Aşağıdaki Word ve PDF dosyalarının görsel düzenlemeleri tamamlandı. Grafik etiketleri ve sayı sütunları hizalandı; örtüşen işaretler ayrıştırıldı; haftalık şema ve araştırma akışının kutu/metin yerleşimi düzeltildi. Veriler ve sonuçlar değişmedi. [Yapılan düzenlemeler](GORSEL-DUZELTMELER-2026-10-22.md).
+
 - **[Word — PÇBÖ ve iletişim grafikleri dahil](GOKHAN-KAYA-TEZ-3-grafik-eklenmis.docx)**
 - **[PDF — PÇBÖ ve iletişim grafikleri dahil](GOKHAN-KAYA-TEZ-3-grafik-eklenmis.pdf)**
 
