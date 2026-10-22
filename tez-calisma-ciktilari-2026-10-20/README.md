@@ -1,5 +1,10 @@
 # Tez çalışma çıktıları — 20 Ekim 2026
 
+## Yeni: Sonuç, Tartışma ve Öneriler
+
+**[11 sayfalık ayrı bölüm — Word](sonuc-tartisma-oneriler-2026-10-22/SONUC-TARTISMA-VE-ONERILER.docx)** / **[PDF](sonuc-tartisma-oneriler-2026-10-22/SONUC-TARTISMA-VE-ONERILER.pdf)**. Güncel tez ve 13 sayfalık birleşik bulgular esas alındı. [Kaynak ve birleştirme notu](sonuc-tartisma-oneriler-2026-10-22/KAYNAK-VE-UYUM-NOTU.md). Henüz ana tez dosyasına eklenmedi.
+
+
 ## Yeni: dört görüşmenin nitel içerik analizi
 
 **Tek dosyada birleştirildi:** [Nicel bulgulardan sonra, sonuçtan önceki bölümün tamamı — Word](nitel-analiz-2026-10-22/NICEL-SONRASI-SONUC-ONCESI-TUM-BULGULAR.docx) / [PDF](nitel-analiz-2026-10-22/NICEL-SONRASI-SONUC-ONCESI-TUM-BULGULAR.pdf). 4.2 ve 4.3 bölümleri, 10 tablo ve 2 görsel birlikte yer alıyor.
