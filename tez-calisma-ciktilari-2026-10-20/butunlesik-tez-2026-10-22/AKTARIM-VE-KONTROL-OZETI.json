@@ -1,0 +1,34 @@
+{
+  "combined_tables": 27,
+  "numbered_body_tables": 23,
+  "codebook_tables": 4,
+  "figures": 8,
+  "unchanged_demographic_instrument_and_quantitative_tables": 12,
+  "all_new_findings_and_discussion_paragraphs_transferred": true,
+  "interview_quotes_source_checked": 30,
+  "scale_item_counts": [
+    25,
+    35
+  ],
+  "interview_question_headings": 11,
+  "qualitative_codes": 53,
+  "bibliography_entries_with_intext_match": 28,
+  "removed_uncited_bibliography_entries": 10,
+  "removed_incomplete_bibliography_entry": 1,
+  "legacy_issue_records_resolved": 44,
+  "current_method_interviewees": 4,
+  "main_tex_ps_score_n": 40,
+  "main_tex_communication_n": 44,
+  "caption_numbering_checked": true,
+  "plagiarism_scan_performed": false,
+  "external_primary_source_verification_complete": false,
+  "pdf_pages": 101,
+  "index_cached_entries_checked": 90,
+  "page_overflow_words": 0,
+  "blank_body_pages": 0,
+  "final_artifacts_sha256": {
+    "GOKHAN-KAYA-TEZ-BUTUNLESIK.docx": "d8274cb3a7db75748bae08800004fc68f1e6d31bc80af3f6e29277008683be82",
+    "GOKHAN-KAYA-TEZ-BUTUNLESIK.pdf": "fd522a99fbab03ba7147a0267ad04ca6964cab76379c79ac877318e3ea093f05"
+  },
+  "tables_fit_text_width_cm": 15.9
+}

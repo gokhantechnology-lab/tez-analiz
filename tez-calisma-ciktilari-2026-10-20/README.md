@@ -1,5 +1,14 @@
 # Tez çalışma çıktıları — 20 Ekim 2026
 
+## EN GÜNCEL ANA TEZ — bütünleştirilmiş sürüm
+
+**[Ana tez — Word](butunlesik-tez-2026-10-22/GOKHAN-KAYA-TEZ-BUTUNLESIK.docx)** / **[PDF](butunlesik-tez-2026-10-22/GOKHAN-KAYA-TEZ-BUTUNLESIK.pdf)**
+
+Nitel bulgular, ortak değerlendirme, sonuç–tartışma–öneriler ve mevcut ekler ana dosyaya aktarıldı. Özet/yöntem uyumlandırıldı; kaynakça karşılığı olmayan atıflar bağlı iddialarıyla temizlendi. **Bundan sonra bu sürüm esas alınmalıdır.** [Tamamlama ve ekler rehberi](butunlesik-tez-2026-10-22/TEZ-TAMAMLAMA-VE-EKLER-REHBERI.pdf) / [Atıf–kaynakça kontrolü](butunlesik-tez-2026-10-22/ATIF-KAYNAKCA-KONTROLU.xlsx).
+
+Aşağıdaki ayrı dosyalar ve önceki ana tez kopyaları geçmiş çalışma sürümleridir.
+
+
 ## Yeni: Sonuç, Tartışma ve Öneriler
 
 **[11 sayfalık ayrı bölüm — Word](sonuc-tartisma-oneriler-2026-10-22/SONUC-TARTISMA-VE-ONERILER.docx)** / **[PDF](sonuc-tartisma-oneriler-2026-10-22/SONUC-TARTISMA-VE-ONERILER.pdf)**. Güncel tez ve 13 sayfalık birleşik bulgular esas alındı. [Kaynak ve birleştirme notu](sonuc-tartisma-oneriler-2026-10-22/KAYNAK-VE-UYUM-NOTU.md). Henüz ana tez dosyasına eklenmedi.
