@@ -1,5 +1,12 @@
 # Tez çalışma çıktıları — 20 Ekim 2026
 
+## EN GÜNCEL — 25 Ekim 2026, ortak 40 katılımcı
+
+**[Word](ortak-40-katilimci-2026-10-25/GOKHAN-KAYA-TEZ-ORTAK40-GUNCEL.docx)** · **[PDF](ortak-40-katilimci-2026-10-25/GOKHAN-KAYA-TEZ-ORTAK40-GUNCEL.pdf)** · **[Eski/yeni karşılaştırma](ortak-40-katilimci-2026-10-25/DANISMAN-DUZELTMESI-VE-KARSILASTIRMA.pdf)** · **[Analiz Excel’i](ortak-40-katilimci-2026-10-25/ORTAK-40-NICEL-ANALIZLER.xlsx)**
+
+Her iki ölçeğin ön ve son testinde aynı 40 kişi; araştırmacı teyidiyle 33 kadın/7 erkek. İletişim toplamında çift yönlü p=.098; anlamlı fark yok. PÇBÖ ana sonuçları korundu. Bundan sonra bu sürüm esas alınmalıdır. Aşağıdaki önceki tez bağlantıları geçmiş sürümlerdir.
+
+
 ## EN GÜNCEL ANA TEZ — bütünleştirilmiş sürüm
 
 **[Ana tez — Word](butunlesik-tez-2026-10-22/GOKHAN-KAYA-TEZ-BUTUNLESIK.docx)** / **[PDF](butunlesik-tez-2026-10-22/GOKHAN-KAYA-TEZ-BUTUNLESIK.pdf)**

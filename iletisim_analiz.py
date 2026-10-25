@@ -171,7 +171,7 @@ def normallik_testi(on: pd.DataFrame, son: pd.DataFrame) -> pd.DataFrame:
                 "Ölçüm": label,
                 "N": len(data),
                 "Shapiro-Wilk W": round(stat, 3),
-                "p": round(p, 3),
+                "p": float(p),
                 "Normal mi?": "Evet" if p > 0.05 else "Hayır",
             })
     return pd.DataFrame(rows)
@@ -199,7 +199,7 @@ def paired_ttest(on: pd.DataFrame, son: pd.DataFrame) -> pd.DataFrame:
             "N": n,
             "sd": sd,
             "t": round(t, 3),
-            "p": round(p, 3),
+            "p": float(p),
             "p < .05": "Evet*" if p < 0.05 else "Hayır",
             "Cohen's d": round(d, 3),
             "Etki Büyüklüğü": etki_buyuklugu(abs(d)),
@@ -220,8 +220,9 @@ def etki_buyuklugu(d: float) -> str:
 
 # ── Ana fonksiyon ─────────────────────────────────────────────────────────────
 
-def analiz_calistir() -> dict:
-    """Tüm analizi çalıştır, sonuçları dict olarak döndür."""
+def analiz_calistir(ortak_orneklem: bool = True) -> dict:
+    """Varsayılan: dört ölçümde aynı katılımcılar; ham sayılar ayrı alanlardadır."""
+    from ortak_orneklem import fark_tanilari
 
     # 1. Veri yükleme
     on_raw  = yukle_ve_temizle(ONTEST_PATH,  isim_ontest=True)
@@ -229,6 +230,14 @@ def analiz_calistir() -> dict:
 
     # 2. Eşleştirme
     on_es, son_es = esle(on_raw, son_raw)
+    # Danışman düzeltmesi: her iki ölçekte de aynı dört-ölçüm katılımcıları.
+    if ortak_orneklem:
+        from ortak_orneklem import ortak_numaralari_bul
+        ortak = ortak_numaralari_bul()
+        on_es = on_es[on_es['numara'].isin(ortak)].reset_index(drop=True)
+        son_es = son_es[son_es['numara'].isin(ortak)].reset_index(drop=True)
+        assert on_es['numara'].tolist() == son_es['numara'].tolist()
+
 
     # 3. Alt boyut puanları
     on_es  = faktor_puanla(on_es)
@@ -236,8 +245,11 @@ def analiz_calistir() -> dict:
 
     # 4. Analizler
     sonuclar = {
-        "n_ontest":   len(on_raw),
-        "n_sontest":  len(son_raw),
+        "n_ontest":   len(on_es) if ortak_orneklem else len(on_raw),
+        "n_sontest":  len(son_es) if ortak_orneklem else len(son_raw),
+        "n_ham_ontest": len(on_raw),
+        "n_ham_sontest": len(son_raw),
+        "ortak_orneklem": ortak_orneklem,
         "n_eslesen":  len(on_es),
         "on_eslesen":  on_es,
         "son_eslesen": son_es,
@@ -245,6 +257,7 @@ def analiz_calistir() -> dict:
         "tanimlayici": tanimlayici(on_es, son_es),
         "normallik":   normallik_testi(on_es, son_es),
         "ttest":       paired_ttest(on_es, son_es),
+        "fark_tanilari": fark_tanilari(on_es, son_es, FAKTÖR_ETIKET),
     }
     return sonuclar
 
@@ -261,6 +274,8 @@ if __name__ == "__main__":
 
     print("\n── Normallik Testi (Shapiro-Wilk) ──────────────")
     print(s["normallik"].to_string(index=False))
+    print("\n── Eşleştirilmiş Fark Puanları ve Duyarlılık ──")
+    print(s["fark_tanilari"].to_string(index=False))
 
     print("\n── Paired t-Test Sonuçları ─────────────────────")
     print(s["ttest"].to_string(index=False))

@@ -1,5 +1,14 @@
 # CLAUDE.md — tez-analiz
 
+## Güncel analiz kuralı — 25 Ekim 2026
+
+Her iki ölçeğin ön ve son testlerinde **aynı 40 kişi** kullanılmaktadır. `analiz_calistir()` varsayılanı dört dosyanın ortak ve eksiksiz katılımcı kümesini kullanır (`ortak_orneklem.py`). `ortak_orneklem=False` yalnızca eski ölçek-içi eşleştirmeyi karşılaştırmak içindir. Ham yanıt dosyaları ve puanlama değiştirilmedi. `n_ontest`/`n_sontest` varsayılan modda analiz grubudur; `n_ham_ontest`/`n_ham_sontest` kaynak kayıt sayılarıdır. Kimlikleri çıktılara yazdırmayın.
+
+Son ana tez: `tez-calisma-ciktilari-2026-10-20/ortak-40-katilimci-2026-10-25/GOKHAN-KAYA-TEZ-ORTAK40-GUNCEL.docx`. Araştırmacı teyidiyle 33 kadın/7 erkek. İletişim toplamı 3.828 → 3.923, t(39)=1.695, çift yönlü p=.098, |d_z|=.268; anlamlı fark yok. PÇBÖ ana t testi sonuçları değişmedi. Nitel dört kişi ortak grubun içindedir. Sonuçları anlamlı yapmak için kişi/madde/test seçmeyin; tek yönlü teste sonradan geçmeyin. Nitel kısım korunur.
+
+Eski notebookların kaydedilmiş çıktıları geçmiş sürüme ait olabilir; güncel sonuçlar ortak-40 klasöründeki Excel ve ana tezdedir. Veri kontrolü: `uv run python kontrol_ortak_orneklem.py`.
+
+
 Bu dosya, projeyi ilk kez gören yapay zeka araçlarına (Claude, Copilot, Cursor vb.) tam bağlam sağlamak için yazılmıştır.
 
 ---
@@ -9,7 +18,7 @@ Bu dosya, projeyi ilk kez gören yapay zeka araçlarına (Claude, Copilot, Curso
 Fen bilimleri eğitimi alanında hazırlanan yüksek lisans tezinin istatistik analiz pipeline'ı.
 
 **Araştırma deseni:** Tek grup, ön test – son test  
-**Katılımcılar:** ~50 öğrenci (her ölçekte eşleşen N değişir)  
+**Katılımcılar:** Dört ölçümde aynı 40 öğrenci  
 **Amaç:** Uygulanan eğitim programının iletişim becerileri ve problem çözme becerileri üzerindeki etkisini ölçmek  
 
 İki ölçek analiz edilmektedir:
@@ -63,7 +72,7 @@ tez-analiz/
 
 Ön test ve son test, **öğrenci numarası** üzerinden eşleştirilir. Yinelenen numara varsa son giriş alınır (`drop_duplicates(keep='last')`). Son test dosyasında tespit edilen bir yineleme vardı (İBDÖ: `100623009`).
 
-Eşleşen N: **İBDÖ = 44**, **PÇBÖ = 40**
+Eşleşen N: **İBDÖ = 40**, **PÇBÖ = 40**; aynı kişiler
 
 ---
 
@@ -111,11 +120,11 @@ LIKERT_MAP = {
 
 | Kod | Alt Boyut | Maddeler | α (bu çalışma) |
 |-----|-----------|----------|----------------|
-| F1_İİTB | İletişim İlkeleri ve Temel Beceriler | 1,3,6,13,15,16,21,23,24,25 | ~.79 |
-| F2_KİE | Kendini İfade Etme | 2,5,17,20 | ~.72 |
-| F3_EDSÖİ | Etkin Dinleme ve Sözel Olmayan İletişim | 10,11,12,18,19,22 | ~.64 |
-| F4_İKİ | İletişim Kurmaya İsteklilik | 4,7,8,9,14 | ~.71 |
-| — | **İBDÖ Toplam** | 1–25 | **0.857** |
+| F1_İİTB | İletişim İlkeleri ve Temel Beceriler | 1,3,6,13,15,16,21,23,24,25 | 0.673 |
+| F2_KİE | Kendini İfade Etme | 2,5,17,20 | 0.737 |
+| F3_EDSÖİ | Etkin Dinleme ve Sözel Olmayan İletişim | 10,11,12,18,19,22 | 0.644 |
+| F4_İKİ | İletişim Kurmaya İsteklilik | 4,7,8,9,14 | 0.574 |
+| — | **İBDÖ Toplam** | 1–25 | **0.865** |
 
 ### PÇBÖ (3 alt boyut)
 
@@ -153,13 +162,13 @@ Cohen's d sınıflandırması: < 0.2 Çok küçük | 0.2–0.5 Küçük | 0.5–
 
 ### İBDÖ — Anlamlı fark yok
 
-| Alt Boyut | Ön x̄ | Son x̄ | t(43) | p | d |
+| Alt Boyut | Ön x̄ | Son x̄ | t(39) | p | d |
 |-----------|-------|--------|--------|---|---|
-| İletişim İlkeleri ve Temel Beceriler | 3.920 | 3.993 | 1.102 | .277 | 0.166 |
-| Kendini İfade Etme | 3.653 | 3.790 | 1.416 | .164 | 0.213 |
-| Etkin Dinleme ve Sözel Olmayan İletişim | 3.909 | 3.992 | 1.326 | .192 | 0.200 |
-| İletişim Kurmaya İsteklilik | 3.705 | 3.741 | 0.649 | .520 | 0.098 |
-| **İBDÖ Toplam** | **3.832** | **3.910** | **1.476** | **.147** | **0.223** |
+| İletişim İlkeleri ve Temel Beceriler | 3.908 | 4.012 | 1.563 | .126 | 0.247 |
+| Kendini İfade Etme | 3.675 | 3.800 | 1.220 | .230 | 0.193 |
+| Etkin Dinleme ve Sözel Olmayan İletişim | 3.912 | 4.017 | 1.589 | .120 | 0.251 |
+| İletişim Kurmaya İsteklilik | 3.690 | 3.730 | 0.726 | .472 | 0.115 |
+| **İBDÖ Toplam** | **3.828** | **3.923** | **1.695** | **.098** | **0.268** |
 
 ### PÇBÖ — Toplam ve 2 alt boyutta anlamlı azalış (gelişim)
 
