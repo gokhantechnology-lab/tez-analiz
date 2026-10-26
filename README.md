@@ -1,16 +1,18 @@
 # Tez analiz ve çalışma dosyaları
 
-## EN GÜNCEL — 25 Ekim 2026, ortak 40 katılımcı
+## Güncel — 26 Ekim 2026, danışman düzenlemeleri
 
-**[Word](tez-calisma-ciktilari-2026-10-20/ortak-40-katilimci-2026-10-25/GOKHAN-KAYA-TEZ-ORTAK40-GUNCEL.docx)** · **[PDF](tez-calisma-ciktilari-2026-10-20/ortak-40-katilimci-2026-10-25/GOKHAN-KAYA-TEZ-ORTAK40-GUNCEL.pdf)** · **[Eski/yeni karşılaştırma](tez-calisma-ciktilari-2026-10-20/ortak-40-katilimci-2026-10-25/DANISMAN-DUZELTMESI-VE-KARSILASTIRMA.pdf)** · **[Analiz Excel’i](tez-calisma-ciktilari-2026-10-20/ortak-40-katilimci-2026-10-25/ORTAK-40-NICEL-ANALIZLER.xlsx)**
+**[Tez Word](tez-calisma-ciktilari-2026-10-20/danisman-duzeltmeleri-2026-10-26/GOKHAN-KAYA-TEZ-GUNCEL-26-10-2026.docx)** · **[Tez PDF](tez-calisma-ciktilari-2026-10-20/danisman-duzeltmeleri-2026-10-26/GOKHAN-KAYA-TEZ-GUNCEL-26-10-2026.pdf)** · **[Tüm paket ZIP](tez-calisma-ciktilari-2026-10-20/danisman-duzeltmeleri-2026-10-26/TEZ-VE-PYTHON-DOSYALARI-26-10-2026.zip)**
 
-Her iki ölçeğin ön ve son testinde aynı 40 kişi; araştırmacı teyidiyle 33 kadın/7 erkek. İletişim toplamında çift yönlü p=.098; anlamlı fark yok. PÇBÖ ana sonuçları korundu. Bundan sonra bu sürüm esas alınmalıdır. Aşağıdaki önceki tez bağlantıları geçmiş sürümlerdir.
+İki danışman PDF’si ve enstitü kılavuzu esas alındı. Aynı 40 kişi (33 kadın/7 erkek), tek gruplu ön test–son test deseni ve dört tamamlayıcı görüşme; ön testler ilk derste konu öğretiminden önce. Temel analiz sonuçları korundu. **SPSS’e geçiş kullanıcı kararıyla bekletildi; gerçek yazılım Python olarak belirtiliyor.**
 
+**[Hocaya Python bilgi notu](tez-calisma-ciktilari-2026-10-20/danisman-duzeltmeleri-2026-10-26/HOCAYA-SUNULACAK-PYTHON-BILGI-NOTU.pdf)** · **[Ayrıntılı görüşme rehberi](tez-calisma-ciktilari-2026-10-20/danisman-duzeltmeleri-2026-10-26/PYTHON-SAVUNMA-VE-GORUSME-REHBERI.pdf)** · **[Yapılanlar kontrol listesi](tez-calisma-ciktilari-2026-10-20/danisman-duzeltmeleri-2026-10-26/DANISMAN-TALEPLERI-VE-YAPILANLAR.pdf)** · **[Klasörün tamamı ve doğrulama sınırları](tez-calisma-ciktilari-2026-10-20/danisman-duzeltmeleri-2026-10-26/)**
 
-## Güncel bütünleştirilmiş tez
+## Sayısal analiz kaydı ve geçmiş sürümler
 
-**[Word dosyası](tez-calisma-ciktilari-2026-10-20/butunlesik-tez-2026-10-22/GOKHAN-KAYA-TEZ-BUTUNLESIK.docx)** · **[PDF](tez-calisma-ciktilari-2026-10-20/butunlesik-tez-2026-10-22/GOKHAN-KAYA-TEZ-BUTUNLESIK.pdf)** · **[Tamamlama/ekler rehberi](tez-calisma-ciktilari-2026-10-20/butunlesik-tez-2026-10-22/TEZ-TAMAMLAMA-VE-EKLER-REHBERI.pdf)**
+- [Ortak 40 kişinin analiz çalışma kitabı](tez-calisma-ciktilari-2026-10-20/ortak-40-katilimci-2026-10-25/ORTAK-40-NICEL-ANALIZLER.xlsx)
+- [25 Ekim ortak-40 dosyaları — geçmiş tez sürümü](tez-calisma-ciktilari-2026-10-20/ortak-40-katilimci-2026-10-25/)
+- [22 Ekim bütünleşik tez ve ekler rehberi — geçmiş sürüm](tez-calisma-ciktilari-2026-10-20/butunlesik-tez-2026-10-22/)
+- [Çalışma çıktı arşivi](tez-calisma-ciktilari-2026-10-20/)
 
-Nicel ve nitel bulgular, sonuç–tartışma–öneriler ve mevcut ekler birleştirildi. [Kapsam ve kontrol dosyaları](tez-calisma-ciktilari-2026-10-20/butunlesik-tez-2026-10-22/).
-
-# tez-analiz
+Benzerlik taraması ve enstitü teslim onayı bu çalışma kapsamında yapılmadı. Teslim belgelerinin durumu ve kaynak kontrol düzeyi güncel klasörde belirtilmiştir.

@@ -1,0 +1,890 @@
+[
+  {
+    "id": 1,
+    "pdf_page": 6,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 1",
+    "status": "Yazısız işaret — bağlam kontrol edildi",
+    "action": "Önceki sayı düzeltmesi korundu: her iki ölçekte aynı 40 kişi."
+  },
+  {
+    "id": 2,
+    "pdf_page": 6,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 2",
+    "status": "Yazısız işaret — bağlam kontrol edildi",
+    "action": "Önceki ortak 40 kişi analizi, güncel tablolar ve p=.098 korundu."
+  },
+  {
+    "id": 3,
+    "pdf_page": 6,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 3",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Özette süreç, uygulama ve nicel analizler tamamlandıktan sonra görüşme yapılması biçiminde açıklandı."
+  },
+  {
+    "id": 4,
+    "pdf_page": 6,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 4",
+    "status": "Kullanıcı kararıyla bekletildi — SPSS",
+    "action": "Kullanıcının açıklaması uygulandı: hocanın SPSS ifadesi varsayımsaldır; özette ve yöntemde gerçek yazılım Python olarak korunup açıklandı. Desen kararı değiştirilmedi."
+  },
+  {
+    "id": 5,
+    "pdf_page": 6,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 5",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Özet, bulgular ve sonuçlarda ortak 40 kişi esas alındı; sayısal tablolar değişmedi."
+  },
+  {
+    "id": 6,
+    "pdf_page": 6,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 6",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Özet sonuç cümlesindeki ölçek değişimi yerine öz değerlendirmelerde anlamlı değişim ifadesi kullanıldı."
+  },
+  {
+    "id": 7,
+    "pdf_page": 13,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 7",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Eğitim girişindeki kesin tanım hedeflenen bir süreç niteliğindedir biçiminde yumuşatıldı."
+  },
+  {
+    "id": 8,
+    "pdf_page": 14,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 8",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Bütün eğitim paradigmasını açıklama iddiası taşıyan tekrar paragrafı çıkarıldı."
+  },
+  {
+    "id": 9,
+    "pdf_page": 14,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 9",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Girişteki gereksiz aynı ifadesi ve çevresindeki tekrar metni çıkarıldı; ortak örneklem için gerekli aynı 40 kişi ifadesi korundu."
+  },
+  {
+    "id": 10,
+    "pdf_page": 14,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 10",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Nicel ölçümler ve dört görüşmenin farklı veri kaynakları olduğu açıklandı."
+  },
+  {
+    "id": 11,
+    "pdf_page": 14,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 11",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Araştırmada proje ürünü başarısı değerlendirildiği izlenimi veren ifade çıkarıldı."
+  },
+  {
+    "id": 12,
+    "pdf_page": 14,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 12",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Bütün beceri ve modelleri ölçmediğini tekrar eden gereksiz son cümle çıkarıldı."
+  },
+  {
+    "id": 13,
+    "pdf_page": 16,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 13",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Problem durumundaki tekrarlı amaç ve katkı anlatımları kısaltıldı."
+  },
+  {
+    "id": 14,
+    "pdf_page": 17,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 14",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Hocanın uygun bulduğu öz değerlendirme ifadesi korundu."
+  },
+  {
+    "id": 15,
+    "pdf_page": 17,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 15",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Ana problemde nicel kök değişmekte midir biçiminde düzenlendi."
+  },
+  {
+    "id": 16,
+    "pdf_page": 17,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 16",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Ana probleme sürece ilişkin deneyimler nasıldır kökü eklendi."
+  },
+  {
+    "id": 17,
+    "pdf_page": 17,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 17",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "İlk iki alt problem öz değerlendirmeler değişmekte midir biçiminde aynı formatta düzenlendi; ön/son ve anlamlı fark ifadeleri soru köklerinden çıkarıldı."
+  },
+  {
+    "id": 18,
+    "pdf_page": 17,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 18",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Üçüncü alt problem öğretim sürecine ilişkin görüşler nasıldır biçiminde kuruldu."
+  },
+  {
+    "id": 19,
+    "pdf_page": 17,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 19",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Dördüncü/beşinci alt problemler çıkarıldı; nitel temalar üçüncü soru altında korundu."
+  },
+  {
+    "id": 20,
+    "pdf_page": 17,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 20",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Enstitünün resmî sayfasından indirilen ve kullanıcı tarafından paylaşılan 2019 kılavuzuna göre bölüm sırası ve biçim düzenlendi."
+  },
+  {
+    "id": 21,
+    "pdf_page": 17,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 21",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Amaç bölümünde problem çözme ve iletişim öz değerlendirmeleri terminolojisi benimsendi."
+  },
+  {
+    "id": 22,
+    "pdf_page": 18,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 22",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Önem bölümündeki doğrudan katkı iddiaları beklenen katkı olarak yazıldı."
+  },
+  {
+    "id": 23,
+    "pdf_page": 18,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 23",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Dört görüşmenin tüm sınıfı temsil eden nitel karşılaştırma olduğu izlenimi kaldırıldı."
+  },
+  {
+    "id": 24,
+    "pdf_page": 18,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 24",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Görüşülen katılımcıların güçlükler hakkında anlattıklarını ele alma ifadesi kullanıldı."
+  },
+  {
+    "id": 25,
+    "pdf_page": 18,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 25",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Katkı, bağlam ve iki öz değerlendirme alanının birlikte ele alınması üzerinden açıklandı; ilk/tek araştırma iddiası kurulmadı."
+  },
+  {
+    "id": 26,
+    "pdf_page": 22,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 26",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Kaynağı olmayan kalıcılık değerlendirmesi yerine terimin tezdeki kullanım sınırı yazıldı."
+  },
+  {
+    "id": 27,
+    "pdf_page": 24,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 27",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "İkinci bölümün alt başlıkları 2.1., 2.2. vb. noktalama biçimine getirildi."
+  },
+  {
+    "id": 28,
+    "pdf_page": 25,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 28",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Doğrulanmayan tarihsel dönüşüm anlatısı yerine MEB 2018 programının somut amaçları ve uygulama beklentileri yazıldı."
+  },
+  {
+    "id": 29,
+    "pdf_page": 25,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 29",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Program ile PTÖ arasında ilişki kurulabileceği biçiminde sınırlı yorum kullanıldı; MEB 2025 ve Guo 2020 ile dayanaklandırıldı."
+  },
+  {
+    "id": 30,
+    "pdf_page": 25,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 30",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "OECD ilk metin kullanımında Türkçe adı ve İngilizce açılımıyla yazıldı."
+  },
+  {
+    "id": 31,
+    "pdf_page": 25,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 31",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Kaynağı doğrulanmayan PISA genellemeleri çıkarıldı; doğrulanmış rapor olmadan yeni PISA iddiası eklenmedi."
+  },
+  {
+    "id": 32,
+    "pdf_page": 25,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 32",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "PISA 2019 ifadesi ve ülkelerde öğretim yaklaşımına nedensellik atfeden genelleme çıkarıldı."
+  },
+  {
+    "id": 33,
+    "pdf_page": 25,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 33",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Fen eğitimi ve yeterlik anlatımı MEB 2018/2025, OECD 2018 ve ilgili derlemelerle yeniden kuruldu."
+  },
+  {
+    "id": 34,
+    "pdf_page": 26,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 34",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Kesin ve kaynaksız yarar genellemeleri kaldırıldı; araştırmaların kapsamına uygun ifadeler kullanıldı."
+  },
+  {
+    "id": 35,
+    "pdf_page": 26,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 35",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Motivasyon/tutumun her bağlamda artacağı iddiası kaldırıldı; Zhang ve Ma 2023 sonuçları kapsamı korunarak sunuldu."
+  },
+  {
+    "id": 36,
+    "pdf_page": 26,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 36",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Guo vd. 2020, Zhang ve Ma 2023 ve Bilgin vd. 2015 gibi okunan araştırmalar açıkça belirtildi."
+  },
+  {
+    "id": 37,
+    "pdf_page": 26,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 37",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Gerçek yaşamla ilişki, Guo vd. 2020 ile PTÖ özelliği olarak açıklandı; yaygınlık/etki iddiasına dönüştürülmedi."
+  },
+  {
+    "id": 38,
+    "pdf_page": 26,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 38",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Gecikmeli ölçüm olmadan kalıcılık artışı iddiası kaldırıldı; katılımcı algısı ile öğrenmenin korunması ayrıldı."
+  },
+  {
+    "id": 39,
+    "pdf_page": 26,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 39",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Resmî sitede erişilen ortak metnin 2025 sürümü kullanıldı; 2024 metni okunmuş gibi gösterilmedi."
+  },
+  {
+    "id": 40,
+    "pdf_page": 26,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 40",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Literatürde kendi ders uygulamasını anlatan ilgili paragraf çıkarıldı."
+  },
+  {
+    "id": 41,
+    "pdf_page": 26,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 41",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Programın bütün kazanımlarının ölçülmediğini tekrarlayan açıklama bu bölümden çıkarıldı."
+  },
+  {
+    "id": 42,
+    "pdf_page": 27,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 42",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Problem çözme başlığındaki araştırmanın kendi işlemlerini anlatan giriş çıkarıldı."
+  },
+  {
+    "id": 43,
+    "pdf_page": 28,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 43",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Problem çözme için MEB 2018 ve güncel ortak metin 2025 doğrudan kontrol edildi."
+  },
+  {
+    "id": 44,
+    "pdf_page": 28,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 44",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Problem türleri Jonassen 2000, güncel süreç bileşenleri MEB 2025 ile kaynaklandırıldı."
+  },
+  {
+    "id": 45,
+    "pdf_page": 28,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 45",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Proje görevleri ve kendi katılımcılarının kararlarını anlatan paragraf literatürden çıkarıldı."
+  },
+  {
+    "id": 46,
+    "pdf_page": 28,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 46",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Üstbiliş/öz düzenleme bağlantısı OECD 2018 ve Guo vd. 2020 kapsamında açıklandı."
+  },
+  {
+    "id": 47,
+    "pdf_page": 28,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 47",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "OECD 2018 belgesinin ilgili yeterlik açıklamaları doğrudan okundu ve politika çerçevesi olarak kullanıldı."
+  },
+  {
+    "id": 48,
+    "pdf_page": 29,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 48",
+    "status": "Yazısız işaret — bağlam kontrol edildi",
+    "action": "Araştırmanın kendi beceri verilerine ilişkin tekrar bu bölümden çıkarıldı."
+  },
+  {
+    "id": 49,
+    "pdf_page": 29,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 49",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Bulguların nasıl yorumlandığını anlatan kapsam paragrafı literatürden çıkarıldı."
+  },
+  {
+    "id": 50,
+    "pdf_page": 29,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 50",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Gerçek yaşam bağlamının öğrenmeyi mutlaka anlamlılaştırdığı yönündeki kaynaksız paragraf çıkarıldı."
+  },
+  {
+    "id": 51,
+    "pdf_page": 30,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 51",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Problem çözmenin doğal biçimde geliştirildiği yönündeki kesin genelleme çıkarıldı."
+  },
+  {
+    "id": 52,
+    "pdf_page": 30,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 52",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "İletişim, Korkut Owen ve Bugay 2014, Guo vd. 2020 ve MEB 2025 ile kavram/ölçüm/öğretim hedefi ayrımı korunarak açıklandı."
+  },
+  {
+    "id": 53,
+    "pdf_page": 30,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 53",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "İletişim başlığı ölçekle değil, iletişim ve karşılıklı anlama kavramıyla başlatıldı."
+  },
+  {
+    "id": 54,
+    "pdf_page": 30,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 54",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Öğrenmenin temel dinamiği gibi dayanağı belirsiz ifadeler çıkarıldı; kaynaklı iletişim kapsamı yazıldı."
+  },
+  {
+    "id": 55,
+    "pdf_page": 31,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 55",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Başarı/öz güven etkisi gibi doğrulanmayan genellemeler çıkarıldı."
+  },
+  {
+    "id": 56,
+    "pdf_page": 31,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 56",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Akademik başarı/motivasyon artışı iddiaları yerine kaynağı okunmuş kavramsal açıklama yazıldı."
+  },
+  {
+    "id": 57,
+    "pdf_page": 31,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 57",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Öğretmenlikte etki iddiaları yerine iletişimin kapsamı kaynakla anlatıldı."
+  },
+  {
+    "id": 58,
+    "pdf_page": 31,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 58",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Öğretim iklimi ve motivasyonda kesin etki cümleleri çıkarıldı."
+  },
+  {
+    "id": 59,
+    "pdf_page": 31,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 59",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Kaynağı belirsiz katkı genellemeleri yerine yerel makaledeki kavramsal açıklamalar kullanıldı."
+  },
+  {
+    "id": 60,
+    "pdf_page": 31,
+    "origin": "İlk PDF’de de var",
+    "request": "İlk PDF notu 60",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "İletişim kavramları kaynağa bağlandı; araştırmanın kendi uygulama değerlendirmesi bu başlıktan çıkarıldı."
+  },
+  {
+    "id": 61,
+    "pdf_page": 33,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "PTÖ literatüründe kendi çalışmasının kapsamını tekrarlamama",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Kendi katılımcı ve uygulamalarına ilişkin kapsam anlatımları kuramsal bölümden çıkarıldı."
+  },
+  {
+    "id": 62,
+    "pdf_page": 35,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "Yeni programdan kaynak",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "MEB’in erişilen 2025 ortak metni ve sürüm bilgisi kullanıldı."
+  },
+  {
+    "id": 63,
+    "pdf_page": 35,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "Olumlu değerlendirme",
+    "status": "Olumlu değerlendirme — korundu",
+    "action": "Onaylanan bağlama ilişkin bir düzeltme talebi bulunmuyor; bağlantının anlamı korundu."
+  },
+  {
+    "id": 64,
+    "pdf_page": 35,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "Yarar iddiasına kaynak",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "PTÖ yararları okunan derleme/meta-analizlerin gerçekten ölçtüğü alanlarla sınırlandırıldı."
+  },
+  {
+    "id": 65,
+    "pdf_page": 35,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "Gereksiz paragrafı çıkarma",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Tekrarlı kapsam paragrafı çıkarıldı."
+  },
+  {
+    "id": 66,
+    "pdf_page": 36,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "Afet eğitimi tanımını kaynaklandırma",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Kitagawa 2021 özgün kavramsal makalesiyle anlatım yeniden kuruldu."
+  },
+  {
+    "id": 67,
+    "pdf_page": 36,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "UNDRR kısaltmasının açıklanması",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Doğrulanmamış UNDRR’ye bağlı iddia ve kullanılmayan kaynak çıkarıldı; açıklamasız kısaltma bırakılmadı."
+  },
+  {
+    "id": 68,
+    "pdf_page": 36,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "Afet bilinci açıklamasına kaynak",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Kaynağı belirsiz kesin tanım yerine Kitagawa 2021 kapsamındaki açıklama kullanıldı."
+  },
+  {
+    "id": 69,
+    "pdf_page": 36,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "Gereksiz kapsam paragrafını çıkarma",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Kuramsal akışa ait olmayan sınırlandırma paragrafı çıkarıldı."
+  },
+  {
+    "id": 70,
+    "pdf_page": 37,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "Literatürde kendi ölçümlerini anlatmama",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Araştırmanın hangi verileri toplamadığına ilişkin paragraf çıkarıldı."
+  },
+  {
+    "id": 71,
+    "pdf_page": 37,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "Literatürde kendi sonuçlarını tartışmama",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Araştırmanın kendi sonuçlarına ilişkin tekrar çıkarıldı."
+  },
+  {
+    "id": 72,
+    "pdf_page": 37,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "Aynı tür kapsam tekrarını çıkarma",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Kuramsal akış dışındaki tekrar çıkarıldı."
+  },
+  {
+    "id": 73,
+    "pdf_page": 37,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "UNESCO açılımı",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Doğrulanamayan UNESCO 2015 iddiası ve kaynağı çıkarıldı; açıklamasız kurum atfı bırakılmadı."
+  },
+  {
+    "id": 74,
+    "pdf_page": 38,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "Kapsam tablosunu literatürden çıkarma",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Eski Tablo 2.1 kaldırıldı. Araçların yöntemdeki tablosu korundu; mevcut sayısal bulgu tabloları silinmedi."
+  },
+  {
+    "id": 75,
+    "pdf_page": 38,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "Gereksiz paragrafı silme",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Kaynağı belirsiz geniş yarar ve mesleki yeterlik genellemeleri çıkarıldı."
+  },
+  {
+    "id": 76,
+    "pdf_page": 39,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "Literatürü sürekli kendi çalışmasına bağlamama",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Afet eğitimi metni kavramsal açıklamalara odaklanacak biçimde yeniden düzenlendi."
+  },
+  {
+    "id": 77,
+    "pdf_page": 39,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "Bilişsel ve sosyal-duyuşsal katkı iddiasını sınırlandırma",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Ölçülmeyen değişimler çalışma sonucu olarak ileri sürülmedi; literatür bulguları kendi kapsamıyla yazıldı."
+  },
+  {
+    "id": 78,
+    "pdf_page": 39,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "Başlık dilini düzeltme",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "2.6 başlığı Konuyla İlgili Yapılmış Çalışmalar olarak düzenlendi."
+  },
+  {
+    "id": 79,
+    "pdf_page": 39,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "İlgili bulunmayan araştırmayı çıkarma",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Çokyaşar Özdemir’in dijital hikâye çalışması ana tez atıflarından çıkarıldı. Yöntem dilini incelemek için yerel örnek olarak okunması ayrı tutuldu. İlgisiz animasyon örneği de çıkarıldı; yerine gerçek PTÖ araştırması Bilgin vd. 2015 eklendi."
+  },
+  {
+    "id": 80,
+    "pdf_page": 43,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "Karma yerine tek gruplu ön test–son test deseni",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Türkçe/İngilizce özet, yöntem, akış ve yorumlar tek gruplu desen ile tamamlayıcı görüşmeler doğrultusunda uyumlandırıldı."
+  },
+  {
+    "id": 81,
+    "pdf_page": 43,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "Önerilen model anlatımı",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Kontrol grubu olmadan nedensellik kurmayan tek gruplu desen anlatımı benimsendi."
+  },
+  {
+    "id": 82,
+    "pdf_page": 43,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "Alternatif model anlatımı",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Görüşmeler ayrı analiz edilerek süreç deneyimlerini açıklayan tamamlayıcı bulgular olarak belirtildi."
+  },
+  {
+    "id": 83,
+    "pdf_page": 43,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "Karma bütünleştirme paragrafını silme",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Resmî karma yöntem bütünleştirmesi izlenimi veren paragraf çıkarıldı."
+  },
+  {
+    "id": 84,
+    "pdf_page": 44,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "Akışı model bölümünden taşıma",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Şekil 3.1 uygulama sürecine taşındı ve tamamlayıcı görüşme mantığıyla yeniden çizildi."
+  },
+  {
+    "id": 85,
+    "pdf_page": 45,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "40 kişilik çalışma grubu",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Dört ölçümde aynı 40 kişi korunarak metin ve tablolar kontrol edildi."
+  },
+  {
+    "id": 86,
+    "pdf_page": 45,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "57 sayısını düzeltme",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Güncel örneklem metni 40 kişiyle uyumlu tutuldu."
+  },
+  {
+    "id": 87,
+    "pdf_page": 45,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "Kadın sayısını kontrol etme",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Araştırmacının teyidine dayalı 33 kadın yazıldı."
+  },
+  {
+    "id": 88,
+    "pdf_page": 45,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "Erkek sayısını kontrol etme",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Araştırmacının teyidine dayalı 7 erkek yazıldı."
+  },
+  {
+    "id": 89,
+    "pdf_page": 45,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "40/44 ayrımını giderme",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Her iki ölçeğin ön ve son testleri aynı 40 kişi; dört görüşme tamamlayıcı veri olarak yazıldı."
+  },
+  {
+    "id": 90,
+    "pdf_page": 45,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "Araçları doğrudan adlandırma",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "İBDÖ, PÇBÖ ve yarı yapılandırılmış görüşme formu doğrudan belirtildi."
+  },
+  {
+    "id": 91,
+    "pdf_page": 46,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "Örnekleme göre alfa kontrolü",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Ortak-40 çalışma kitabındaki mevcut ön/son alfa kestirimleri ayrı olarak yöntem ve bulgu tablolarına aktarıldı."
+  },
+  {
+    "id": 92,
+    "pdf_page": 48,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "Görüşmelerin amacını sadeleştirme",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Öğretmen adaylarının öğretim sürecine yönelik görüşleri ifadesi kullanıldı."
+  },
+  {
+    "id": 93,
+    "pdf_page": 48,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "Satır aralığı",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Görüşme metni dahil ana metin 1,5 satır aralığına getirildi."
+  },
+  {
+    "id": 94,
+    "pdf_page": 48,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "Alan uzmanını açıklama",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Kullanıcının teyidiyle danışman Prof. Dr. Fatma Önen Öztürk ve notta verilen uzmanlık alanları belirtildi."
+  },
+  {
+    "id": 95,
+    "pdf_page": 48,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "Uzman incelemesi ve revizyonu açıklama",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Dil, anlaşılırlık ve amaca uygunluk incelemesi; erişilen taslak ile son formdaki sadeleşme somut olarak açıklandı."
+  },
+  {
+    "id": 96,
+    "pdf_page": 48,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "Taslak soru sayısı",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Erişilen ön taslağın da yedi ana sorulu olduğu belirtildi; tarih/sürüm geçmişi uydurulmadı."
+  },
+  {
+    "id": 97,
+    "pdf_page": 48,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "Yazılı içerik bulunmayan işaret",
+    "status": "Yazısız işaret — bağlam kontrol edildi",
+    "action": "Ayrı yazılı talep yok; çevresindeki görüşme formu düzenlemeleriyle birlikte kontrol edildi."
+  },
+  {
+    "id": 98,
+    "pdf_page": 48,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "K1–K4 kodlarını açıklama",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Kimliği gizleyen kodlar olarak açıklandı; sıra/başarı grubu izlenimi kaldırıldı."
+  },
+  {
+    "id": 99,
+    "pdf_page": 48,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "Analizi araç tanıtımından ayırma",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Araç bölümünde kayıtların yazıya aktarılması; içerik analizi ise Verilerin Analizi altında anlatıldı."
+  },
+  {
+    "id": 100,
+    "pdf_page": 49,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "Ön testi ilk haftaya taşıma",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Kullanıcı fiilen ilk ders, kısa bilgilendirme sonrası ve konu öğretimi öncesi uygulandığını doğruladı; metne ve şemaya işlendi."
+  },
+  {
+    "id": 101,
+    "pdf_page": 51,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "Ön testin öğretimden önce olması",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Aynı doğrulanmış sıra yöntem, uygulama, sınırlılık ve iki akış görselinde uyumlandırıldı."
+  },
+  {
+    "id": 102,
+    "pdf_page": 51,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "Uygulama açıklamasını anlaşılır kılma",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Haftalık tekrar açıklaması kısaltıldı, şemanın ne gösterdiği tek cümleyle belirtildi."
+  },
+  {
+    "id": 103,
+    "pdf_page": 51,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "Analiz bölümünün girişini kısaltma",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Bu bölümde araştırma verilerinin analizi açıklanmıştır cümlesi kullanıldı."
+  },
+  {
+    "id": 104,
+    "pdf_page": 52,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "Nicel/nitel analiz alt başlıklarını kaldırma",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "3.5.1/3.5.2 başlıkları kaldırıldı; işlemler tek Verilerin Analizi başlığı altında açıklandı."
+  },
+  {
+    "id": 105,
+    "pdf_page": 52,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "SPSS’e dönme",
+    "status": "Kullanıcı kararıyla bekletildi — SPSS",
+    "action": "Kullanıcı bu geçişi kapsam dışında bıraktı. Gerçek yazılım Python olarak korundu; SPSS kullanıldığı yazılmadı. Ayrı savunma dosyaları hazırlandı."
+  },
+  {
+    "id": 106,
+    "pdf_page": 52,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "Eşleşme ve 44 kişi açıklamasını düzeltme",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Veri hazırlama açıklaması sadeleştirildi; ortak 40 kişiyle tutarlı hâle getirildi."
+  },
+  {
+    "id": 107,
+    "pdf_page": 52,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "7 soru / 11 başlık / 44 birim karışıklığını kaldırma",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Ana metin ve görüşme formu tanıtımında yedi ana soru ve alt sorular kullanıldı; 11/44 anlatımı kaldırıldı."
+  },
+  {
+    "id": 108,
+    "pdf_page": 52,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "140 eşleşme ayrıntısına girmeme",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Ana yöntem anlatımından çıkarıldı; kodlama kanıtları mevcut ayrı analiz dosyalarında korunuyor."
+  },
+  {
+    "id": 109,
+    "pdf_page": 52,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "Yalnızca nasıl analiz edildiğini anlatma",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Kodlama, benzer kodların kategori/temalarda toplanması ve alıntıyla destekleme açık dille yazıldı."
+  },
+  {
+    "id": 110,
+    "pdf_page": 52,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "Anlaşılmayan frekans anlatımını sadeleştirme",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Yöntemde teknik sayım açıklaması kısaltıldı; bulgu tablolarında f’nin katılımcı sayısını gösterdiği açıklandı."
+  },
+  {
+    "id": 111,
+    "pdf_page": 52,
+    "origin": "Güncellenmiş PDF’de eklendi",
+    "request": "Danışmanın örnek tezlerine uygun yöntem dili",
+    "status": "Uygulandı / kontrol edildi",
+    "action": "Erişilen Çokyaşar Özdemir tezinin analiz anlatımı incelendi; yapısal sadelik esas alındı, cümleler veya o tezdeki istatistik kararları kopyalanmadı."
+  }
+]

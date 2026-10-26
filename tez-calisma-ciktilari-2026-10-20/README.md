@@ -1,3 +1,15 @@
+# Güncel dosyalar — 26 Ekim 2026
+
+**[Tez Word](danisman-duzeltmeleri-2026-10-26/GOKHAN-KAYA-TEZ-GUNCEL-26-10-2026.docx)** · **[Tez PDF](danisman-duzeltmeleri-2026-10-26/GOKHAN-KAYA-TEZ-GUNCEL-26-10-2026.pdf)** · **[Tüm paket ZIP](danisman-duzeltmeleri-2026-10-26/TEZ-VE-PYTHON-DOSYALARI-26-10-2026.zip)**
+
+[Hocaya Python bilgi notu](danisman-duzeltmeleri-2026-10-26/HOCAYA-SUNULACAK-PYTHON-BILGI-NOTU.pdf) · [Görüşme rehberi](danisman-duzeltmeleri-2026-10-26/PYTHON-SAVUNMA-VE-GORUSME-REHBERI.pdf) · [Kontrol listesi](danisman-duzeltmeleri-2026-10-26/DANISMAN-TALEPLERI-VE-YAPILANLAR.pdf) · [Güncel klasör ve kapsam](danisman-duzeltmeleri-2026-10-26/README.md)
+
+SPSS’e geçiş kullanıcı kararıyla beklemede. Aşağıdaki tarihlenmiş notlar ve dosyalar geçmiş çalışma kayıtlarıdır; güncel ana tez için yukarıdaki bağlantıları kullanın.
+
+---
+
+# Tarihli çalışma arşivi
+
 # Tez çalışma çıktıları — 20 Ekim 2026
 
 ## EN GÜNCEL — 25 Ekim 2026, ortak 40 katılımcı

@@ -1,0 +1,72 @@
+[
+  {
+    "author": "FATMA GÜLNUR ÖZCAN",
+    "year": "2026",
+    "subject": "Eğitim ve Öğretim",
+    "type": "Yüksek Lisans",
+    "lang": "Türkçe",
+    "yer": "BAHÇEŞEHİR ÜNİVERSİTESİ / ",
+    "title": "Öğretmenlerin yapay zeka okuryazarlık ve farkındalık düzeylerinin incelenmesi",
+    "tez_no": "998449",
+    "url": "https://tez.yok.gov.tr/UlusalTezMerkezi/tezBilgiDetay.jsp?kayitNo=iN_MG2vemjltYN-60FRbrA&tezNo=2kG_xGaKCX20QCfWwOZxXg",
+    "quote": "Araştırmanın nicel verilerinin analizinde Python tabanlı istatistiksel analiz araçları kullanılmıştır.",
+    "scope": "Eğitim bilimleri alanında, öğretmenlere uygulanan ölçeklerin nicel analizinde Python beyanı. Tezimizin öğretmen örneklemi ve ölçek verisi bağlamına yakın bir yazılım kullanım örneği; aynı desen veya aynı test olduğu ileri sürülmüyor.",
+    "verification": "YÖK künye ve Türkçe/İngilizce özet doğrudan okundu. Tam tez PDF’si doğrulanamadı; tezden sayfa numarası verilmedi."
+  },
+  {
+    "author": "NİHAT ŞENER",
+    "year": "2023",
+    "subject": "Eğitim ve Öğretim;Kamu Yönetimi",
+    "type": "Yüksek Lisans",
+    "lang": "Türkçe",
+    "yer": "HİTİT ÜNİVERSİTESİ / ",
+    "title": "Okul müdürlerinin liderlik stillerinin öğretmenlerin örgütsel bağlılık ve iş tatminlerine etkisi",
+    "tez_no": "805939",
+    "url": "https://tez.yok.gov.tr/UlusalTezMerkezi/tezBilgiDetay.jsp?kayitNo=hHU6tK5_53t3wQPlwfwszg&tezNo=-u1sEGJYaIK0LbPfRDjodw",
+    "quote": "Toplanan veriler Python programlama dili ile analiz edilmiş",
+    "scope": "Öğretmenlerin örgütsel bağlılık ve iş tatmini verilerinin Python ile analizi. Eğitim konulu sosyal bilimler tezinde nicel analiz için emsal; bütün işlemlerinin bizim çalışmayla eşdeğer olduğu ileri sürülmüyor.",
+    "verification": "YÖK künye ve Türkçe/İngilizce özet doğrudan okundu. Tam tez PDF’si doğrulanamadı; tezden sayfa numarası verilmedi."
+  },
+  {
+    "author": "BÜŞRA SARIAYDIN",
+    "year": "2026",
+    "subject": "İşletme",
+    "type": "Yüksek Lisans",
+    "lang": "Türkçe",
+    "yer": "MİLLİ SAVUNMA ÜNİVERSİTESİ / ",
+    "title": "Avrupa ülkelerinde liderlik tarzı algısının çalışan refahı üzerindeki etkisi: Avrupa Çalışma Koşulları Anketi 2024 verileriyle çok düzeyli bir analiz",
+    "tez_no": "1017743",
+    "url": "https://tez.yok.gov.tr/UlusalTezMerkezi/tezBilgiDetay.jsp?kayitNo=SDzNftIY1bBSzLOqyEdiuA&tezNo=Fh56B7onp4SjydOwDYf0Ww",
+    "quote": "EWCS 2024 verileri SPSS (.sav) formatında temin edilmiş ve Python programlama dili aracılığıyla analiz edilmiştir.",
+    "scope": "Sosyal bilimlerde Python ile nicel modelleme. .sav dosyasının SPSS formatında olması ile analizin SPSS’te yapılmasının farklı olduğunu açıkça gösteren örnek.",
+    "verification": "YÖK künye ve Türkçe/İngilizce özet doğrudan okundu. Tam tez PDF’si doğrulanamadı; tezden sayfa numarası verilmedi."
+  },
+  {
+    "author": "BARIŞ TEKBARAN",
+    "year": "2026",
+    "subject": "Aile Hekimliği",
+    "type": "Tıpta Uzmanlık",
+    "lang": "Türkçe",
+    "yer": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ / ",
+    "title": "Üçüncü basamak bir üniversite hastanesinde sağlık çalışanlarının sessiz istifa tutumlarının değerlendirilmesi",
+    "tez_no": "1016218",
+    "url": "https://tez.yok.gov.tr/UlusalTezMerkezi/tezBilgiDetay.jsp?kayitNo=rm3G-DL4wT9ahJYy1zq72Q&tezNo=F7P__mQVj7QQvFbfC8QWIA",
+    "quote": "Veriler Python ortamında bağımsız örneklem t-testi, tek yönlü MANOVA, ANOVA/Welch ve post-hoc analizleriyle değerlendirilmiştir.",
+    "scope": "Türkiye’de bir uzmanlık tezinde Python ile klasik hipotez testleri kullanımı. Eğitim tezi değildir; başka bir alandaki yazılım kullanımı örneğidir.",
+    "verification": "YÖK künye ve Türkçe/İngilizce özet doğrudan okundu. Tam tez PDF’si doğrulanamadı; tezden sayfa numarası verilmedi."
+  },
+  {
+    "author": "RUKİYE SENA TÜRK YILMAZ",
+    "year": "2021",
+    "subject": "Çocuk Sağlığı ve Hastalıkları",
+    "type": "Tıpta Uzmanlık",
+    "lang": "Türkçe",
+    "yer": "EGE ÜNİVERSİTESİ / ",
+    "title": "Ailelerin aşılar hakkında yaklaşım ve tutumları",
+    "tez_no": "677713",
+    "url": "https://tez.yok.gov.tr/UlusalTezMerkezi/tezBilgiDetay.jsp?kayitNo=KP9uwtXBuBKKbfvVDgIOcg&tezNo=Mgo1rnQX-W5kdToe6rCW8g",
+    "quote": "IBM – SPSS (The Statistical Package for Social Sciences) 25.0 paket programı ile birlikte Python'daki istatistik paketlerinden faydalanılmıştır.",
+    "scope": "SPSS ile Python’un birlikte beyan edildiği uzmanlık tezi. Yalnız Python kullanımı için tek başına emsal olarak sunulmamalıdır.",
+    "verification": "YÖK künye ve Türkçe/İngilizce özet doğrudan okundu. Tam tez PDF’si doğrulanamadı; tezden sayfa numarası verilmedi."
+  }
+]

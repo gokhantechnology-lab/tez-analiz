@@ -1,0 +1,83 @@
+{
+  "tez_pdf_sayfa": 94,
+  "word_tablo": 32,
+  "numarali_tablo": 22,
+  "kod_kitabi_devam_tablolari": 10,
+  "sekil": 8,
+  "kod_kitabi_veri_satiri": 53,
+  "degismeyen_ana_tablo_sayisi": 20,
+  "degisen_guvenirlik_tablosu": 2,
+  "guvenirlik_kaynagi": "Daha önce üretilen ORTAK-40-NICEL-ANALIZLER.xlsx; ölçüm zamanları ayrı raporlandı.",
+  "ham_veri_ve_puanlama_degistirildi": false,
+  "t_testi_sonuclari_degistirildi": false,
+  "katilimci_alintilari_degismedi": true,
+  "ozet_sozcukleri": {
+    "ÖZET": 239,
+    "ABSTRACT": 242
+  },
+  "kaynakca_kayit_sayisi": 17,
+  "tez_pdf_tiklanabilir_baglanti": 19,
+  "sekiller_basliklariyla_ayni_sayfada": true,
+  "bos_sayfa": 0,
+  "sayfa_disina_tasan_sozcuk": 0,
+  "software": "Python; gerçek SPSS doğrulaması yapılmadı.",
+  "orneklem": {
+    "n": 40,
+    "kadin": 33,
+    "erkek": 7
+  },
+  "kontrol_notu": "Microsoft Word uygulamasında açılış testi ve benzerlik taraması yapılmadı. PDF LibreOffice ile oluşturuldu.",
+  "dosyalar": {
+    "DANISMAN-KONTROL-LISTESI.xlsx": {
+      "bytes": 19057,
+      "sha256": "0d6f2045ce39ffe7d88ae6af61324fd13368a85d800bd5a080c2c4fb182c5cf2"
+    },
+    "DANISMAN-TALEPLERI-VE-YAPILANLAR.docx": {
+      "bytes": 39388,
+      "sha256": "67afb56f7a8e13c03b608e3d880dee0541765af8ac9887657cb0a6202e205a1d"
+    },
+    "DANISMAN-TALEPLERI-VE-YAPILANLAR.pdf": {
+      "bytes": 93358,
+      "sha256": "81504867580881ec38f16b748586e76ac7b5a600996b6a65985f83b98d06134d"
+    },
+    "GOKHAN-KAYA-TEZ-GUNCEL-26-10-2026.docx": {
+      "bytes": 1585509,
+      "sha256": "a97d7af0197d92dc5f63feda041f8587f68f3e33e6e1a4df060c276f0fd474da"
+    },
+    "GOKHAN-KAYA-TEZ-GUNCEL-26-10-2026.pdf": {
+      "bytes": 2426825,
+      "sha256": "9dd98aa36d5448bce428c917669bc916a52f7618b0e66fc2c83cacf05b4e90b7"
+    },
+    "HOCAYA-SUNULACAK-PYTHON-BILGI-NOTU.docx": {
+      "bytes": 38705,
+      "sha256": "65b85689d4b33243a19469792debf54ec88550e39bda7effc3e793e3ae906931"
+    },
+    "HOCAYA-SUNULACAK-PYTHON-BILGI-NOTU.pdf": {
+      "bytes": 68904,
+      "sha256": "5baf9f15559bdce9e26ca6ecd2d5d3a75dac7cb8252205cc212ea506781769cd"
+    },
+    "PYTHON-EMSAL-VE-KAYNAK-BAGLANTILARI.xlsx": {
+      "bytes": 9554,
+      "sha256": "649186d523b0c726846b0e8c07dd63855f1ae1c124a492ecaf6272d57654588b"
+    },
+    "PYTHON-SAVUNMA-VE-GORUSME-REHBERI.docx": {
+      "bytes": 43129,
+      "sha256": "66645315f2ca78e1356f5ff6746314a9e854b6d106f3fa47e15c4c9bbe885232"
+    },
+    "PYTHON-SAVUNMA-VE-GORUSME-REHBERI.pdf": {
+      "bytes": 117342,
+      "sha256": "c0149588c2edadb9d8eb7986fc00d82f7c6db3cde8a4d8cfe131556019b779f3"
+    }
+  },
+  "pdf_fontlari": [
+    "LiberationSerif",
+    "LiberationSerif-Bold",
+    "NotoSans-Regular",
+    "TimesNewRomanPS-BoldItalicMT",
+    "TimesNewRomanPS-BoldMT",
+    "TimesNewRomanPS-ItalicMT",
+    "TimesNewRomanPSMT"
+  ],
+  "dizin_sayfa_basvurulari": 87,
+  "dizin_son_kontrol": "0 değişen başvuru; sabit PDF sayfa eşleşmesi."
+}
