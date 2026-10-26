@@ -1,0 +1,73 @@
+{
+  "tez_pdf_sayfa": 95,
+  "korunan_fiziksel_tablo": 32,
+  "numarali_tablo": 22,
+  "korunan_katilimci_alintisi": 30,
+  "korunan_sekil": 8,
+  "gorsellerin_ikili_icerigi_ayni": true,
+  "ham_veri_puanlama_t_testi_yeniden_degistirildi": false,
+  "arastirma_sorulari_aynen_korundu": true,
+  "sonuc_tartisma_oneriler_metinleri_korundu": true,
+  "kaynakca": 19,
+  "eklenen_ozgun_yayin": 2,
+  "duzenleme_kaydi": 44,
+  "sekiller_basliklariyla_ayni_sayfada": true,
+  "bos_sayfa": [],
+  "tasan_sozcuk": [],
+  "pdf_fontlari": [
+    "BAAAAA+TimesNewRomanPS-BoldMT",
+    "CAAAAA+NotoSans-Regular",
+    "DAAAAA+TimesNewRomanPSMT",
+    "EAAAAA+TimesNewRomanPSMT",
+    "FAAAAA+TimesNewRomanPS-BoldMT",
+    "GAAAAA+TimesNewRomanPS-BoldMT",
+    "HAAAAA+TimesNewRomanPSMT",
+    "IAAAAA+LiberationSerif-Bold",
+    "JAAAAA+LiberationSerif",
+    "KAAAAA+TimesNewRomanPSMT",
+    "LAAAAA+TimesNewRomanPS-ItalicMT",
+    "MAAAAA+TimesNewRomanPS-ItalicMT",
+    "NAAAAA+TimesNewRomanPS-BoldItalicMT"
+  ],
+  "dizin_sayfa_basvurusu": 87,
+  "dizin_sayfalari_pdf_ile_kararli": true,
+  "yazilim": "Python; SPSS kararı bekliyor.",
+  "tablo_duzeni": "Öneri raporu ve iki alternatif örnek var; ana tez tabloları değiştirilmedi.",
+  "kaynak_dogrulama": "Amin vd. (2022) ve Weiyi vd. (2025) özgün tam metin; önceki kaynakların tamamı yeniden doğrulanmış sayılmaz.",
+  "tez_ornekleri": "Gözde Çokyaşar Özdemir 830106; Sümeyye Demiryapan 865670; Çiğdem Çakır Şık 810978; ilgili sayfalar tam metinden okundu.",
+  "sinirlar": [
+    "PÇBÖ anahtarı bu turda yeniden bağımsız doğrulanmadı.",
+    "Yeni benzerlik taraması yok.",
+    "Microsoft Word uygulamasında açılış testi yok; LibreOffice PDF kontrol edildi."
+  ],
+  "dosyalar": {
+    "GOKHAN-KAYA-TEZ-SESKAYDI-GUNCEL-26-10-2026.docx": {
+      "bytes": 1584988,
+      "sha256": "4107e7a4b1a63dcdec06ca4a5787f9d128b81a3f81adf97e2dd2742f4a6654e4"
+    },
+    "GOKHAN-KAYA-TEZ-SESKAYDI-GUNCEL-26-10-2026.pdf": {
+      "bytes": 2428343,
+      "sha256": "e2c748fcdf7963bf7789aec7665a3e5a6eebfdbde3ef06d1c278a44f7c500d9d"
+    },
+    "SESKAYDI-DUZELTME-VE-KAYNAK-KONTROLU.xlsx": {
+      "bytes": 21178,
+      "sha256": "d5f499d59f0925b22609124d81e990571447653e6b5dae59f4875b318028694f"
+    },
+    "SESKAYDI-TALEPLERI-VE-YAPILANLAR.docx": {
+      "bytes": 39299,
+      "sha256": "781a403d25e7951d5b8fda82316cb8c7a0f9fca8a38b034b9a5b1f2492228c60"
+    },
+    "SESKAYDI-TALEPLERI-VE-YAPILANLAR.pdf": {
+      "bytes": 87802,
+      "sha256": "4d2d54042b3f55dd49255f08687aa0cc6ab7d958e321bc116ead85edc5366b5a"
+    },
+    "TABLO-DUZENI-KARSILASTIRMA-VE-ONERI.docx": {
+      "bytes": 43013,
+      "sha256": "05722b071c8e0e500f3ba96d25fbe8cdf45b54224bb572382d73fb6a094b0b90"
+    },
+    "TABLO-DUZENI-KARSILASTIRMA-VE-ONERI.pdf": {
+      "bytes": 221474,
+      "sha256": "3a3b44d0124aadde1b7fba27e30fd2753b2341584ec2349282b86e87ec05f6a0"
+    }
+  }
+}

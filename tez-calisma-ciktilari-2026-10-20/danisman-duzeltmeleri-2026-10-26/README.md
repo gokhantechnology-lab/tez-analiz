@@ -1,3 +1,5 @@
+> Bu klasör önceki 26 Ekim sürümüdür. **[Ses kaydı sonrası güncel tez ve tablo raporu](../ses-kaydi-duzeltmeleri-2026-10-26/)**. Python savunma dosyaları bu klasörde kullanılabilir durumdadır.
+
 # 26 Ekim 2026 — danışman düzenlemeleri ve Python bilgi dosyaları
 
 Bu klasör, ilk danışman PDF’sindeki 60 not ile güncellenmiş PDF’ye eklenen 51 işaret/notun birlikte ele alındığı sürümdür. **SPSS’e geçiş kullanıcı kararıyla bekletilmiştir; kullanılan yazılım Python olarak doğru biçimde belirtilmektedir.**

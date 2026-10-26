@@ -1,10 +1,12 @@
-# Güncel dosyalar — 26 Ekim 2026
+# Güncel dosyalar — 26 Ekim 2026, ses kaydı sonrası
 
-**[Tez Word](danisman-duzeltmeleri-2026-10-26/GOKHAN-KAYA-TEZ-GUNCEL-26-10-2026.docx)** · **[Tez PDF](danisman-duzeltmeleri-2026-10-26/GOKHAN-KAYA-TEZ-GUNCEL-26-10-2026.pdf)** · **[Tüm paket ZIP](danisman-duzeltmeleri-2026-10-26/TEZ-VE-PYTHON-DOSYALARI-26-10-2026.zip)**
+**[Tez Word](ses-kaydi-duzeltmeleri-2026-10-26/GOKHAN-KAYA-TEZ-SESKAYDI-GUNCEL-26-10-2026.docx)** · **[Tez PDF — 95 sayfa](ses-kaydi-duzeltmeleri-2026-10-26/GOKHAN-KAYA-TEZ-SESKAYDI-GUNCEL-26-10-2026.pdf)** · **[Paket ZIP](ses-kaydi-duzeltmeleri-2026-10-26/SESKAYDI-SONRASI-TEZ-VE-RAPORLAR.zip)**
 
-[Hocaya Python bilgi notu](danisman-duzeltmeleri-2026-10-26/HOCAYA-SUNULACAK-PYTHON-BILGI-NOTU.pdf) · [Görüşme rehberi](danisman-duzeltmeleri-2026-10-26/PYTHON-SAVUNMA-VE-GORUSME-REHBERI.pdf) · [Kontrol listesi](danisman-duzeltmeleri-2026-10-26/DANISMAN-TALEPLERI-VE-YAPILANLAR.pdf) · [Güncel klasör ve kapsam](danisman-duzeltmeleri-2026-10-26/README.md)
+[Tablo raporu ve iki örnek düzen](ses-kaydi-duzeltmeleri-2026-10-26/TABLO-DUZENI-KARSILASTIRMA-VE-ONERI.pdf) · [Talep/yapılanlar listesi](ses-kaydi-duzeltmeleri-2026-10-26/SESKAYDI-TALEPLERI-VE-YAPILANLAR.pdf) · [Güncel klasör ve doğrulama sınırları](ses-kaydi-duzeltmeleri-2026-10-26/README.md)
 
-SPSS’e geçiş kullanıcı kararıyla beklemede. Aşağıdaki tarihlenmiş notlar ve dosyalar geçmiş çalışma kayıtlarıdır; güncel ana tez için yukarıdaki bağlantıları kullanın.
+Yöntem/görüşme anlatımı ve kaynak dengesi güncellendi; araştırma sorularının sade biçimi korundu. Tabloların alternatif düzeni önce ayrı raporlandı; ana tezdeki tablolar ve sonuçlar değişmedi. SPSS kararı bekliyor. [Önceki sürüm ve Python savunma dosyaları](danisman-duzeltmeleri-2026-10-26/).
+
+Aşağıdaki tarihli notlar geçmiş kayıtlardır; “en güncel” gibi eski ifadeler o tarihteki sürümü anlatır. Güncel tez yukarıdadır.
 
 ---
 
