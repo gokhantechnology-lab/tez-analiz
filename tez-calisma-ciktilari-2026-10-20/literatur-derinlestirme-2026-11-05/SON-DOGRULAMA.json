@@ -1,0 +1,203 @@
+{
+  "tarih": "2026-11-05",
+  "tez_pdf_sayfa": 90,
+  "numarali_tablo": 17,
+  "fiziksel_tablo": 27,
+  "kod_kitabi_satiri": 53,
+  "sekil": 2,
+  "gorusme_alt_soru": 11,
+  "soru_bazli_tablo": 11,
+  "birebir_alinti": 41,
+  "eski_30_alinti_korundu": true,
+  "ekler_metinleri_aynen_korundu": true,
+  "katilimci": 40,
+  "kadin": 33,
+  "erkek": 7,
+  "kaynakca": 23,
+  "bu_tur_eklenen_kaynak": 1,
+  "ozet_sozcukleri": {
+    "ÖZET": 231,
+    "ABSTRACT": 260
+  },
+  "dizin_basvurusu": 75,
+  "tablo_sayfa_kontrolu": [
+    {
+      "tablo": "Tablo 3.1 Çalışma Grubunun Temel Özellikleri",
+      "pdf_sayfa": 41,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 3.2. Araştırmada Kullanılan Veri Toplama Araçlarının Özellikleri",
+      "pdf_sayfa": 45,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.1 PÇBÖ Fark Puanlarının Shapiro–Wilk Testi Sonuçları",
+      "pdf_sayfa": 50,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.2 PÇBÖ Ön Test ve Son Test Puanlarının Bağımlı Örneklemler t Testi Sonuçları",
+      "pdf_sayfa": 50,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.3 İBDÖ Fark Puanlarının Shapiro–Wilk Testi Sonuçları",
+      "pdf_sayfa": 51,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.4 İBDÖ Ön Test ve Son Test Puanlarının Bağımlı Örneklemler t Testi Sonuçları",
+      "pdf_sayfa": 52,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.5 Problem Belirleme Deneyimleri",
+      "pdf_sayfa": 53,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.6 Grup Çalışmasının Problem Belirleme ve Çözmeye Katkısı",
+      "pdf_sayfa": 54,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.7 Çözüm Sürecinde İzlenen Yollar",
+      "pdf_sayfa": 55,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.8 Problem ve Çözüm Uyumsuzluğunda İzlenen Yollar",
+      "pdf_sayfa": 56,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.9 Bireysel Beceri Katkılarına İlişkin Görüşler",
+      "pdf_sayfa": 58,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.10 Fikirlerini İfade Etmeye İlişkin Görüşler",
+      "pdf_sayfa": 59,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.11 Görüş Ayrılıklarında Ortak Karar Yolları",
+      "pdf_sayfa": 60,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.12 Grup Çalışmasının Becerilere Katkısına İlişkin Görüşler",
+      "pdf_sayfa": 61,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.13 Doğal Afetleri Öğrenmeye İlişkin Görüşler",
+      "pdf_sayfa": 63,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.14 Sürecin Olumlu ve Olumsuz Yönlerine İlişkin Görüşler",
+      "pdf_sayfa": 64,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.15 Öğretim Sürecinde Düzenleme Beklentileri",
+      "pdf_sayfa": 66,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 1",
+      "pdf_sayfa": 85,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 2",
+      "pdf_sayfa": 86,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 3",
+      "pdf_sayfa": 87,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 4",
+      "pdf_sayfa": 87,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 5",
+      "pdf_sayfa": 88,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 6",
+      "pdf_sayfa": 88,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 7",
+      "pdf_sayfa": 89,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 8",
+      "pdf_sayfa": 89,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 9",
+      "pdf_sayfa": 89,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 10",
+      "pdf_sayfa": 90,
+      "hucre_icerigi_ayni_sayfada": true
+    }
+  ],
+  "bos_sayfa": [],
+  "tasan_sozcuk": [],
+  "sekiller_baslikla_ayni_sayfada": true,
+  "puanlama_yeniden_degistirildi": false,
+  "t_ve_p_karsilastirmasi": "Bu tur dokuz testin gösterimi önceki doğrulanmış analiz önbelleğiyle karşılaştırıldı; ham verilerde yeni analiz veya değişiklik yapılmadı.",
+  "PÇBÖ_yetkili_anahtar_bagimsiz_teyidi": false,
+  "benzerlik_taramasi": false,
+  "Microsoft_Word_uygulama_testi": false,
+  "pdf_uretimi": "LibreOffice",
+  "alfa_karsilastirmasi": 18,
+  "not_durumlari": {
+    "Yazısız işaret — bağlam kontrol edildi": 4,
+    "Uygulandı / kontrol edildi": 162,
+    "Bekliyor — gerçek SPSS çalıştırması": 2,
+    "Korundu / kontrol edildi": 3,
+    "Kısmen — düzen uygulandı, SPSS doğrulaması bekliyor": 1
+  },
+  "dosyalar": {
+    "DANISMAN-NOTLARI-VE-YENI-DUZENLEMELER.xlsx": {
+      "bytes": 45465,
+      "sha256": "ab9643090aff6c463f3cd19dd9b8ae61bc5e42b7367fe5e83bb71f31b9c0513a"
+    },
+    "GOKHAN-KAYA-TEZ-LITERATUR-GUNCEL-05-11-2026.docx": {
+      "bytes": 1564928,
+      "sha256": "ce82f1567b9e758aa7b348348242eaf8e157082671ab1137ffbf41f30a1c66b3"
+    },
+    "GOKHAN-KAYA-TEZ-LITERATUR-GUNCEL-05-11-2026.pdf": {
+      "bytes": 1625176,
+      "sha256": "3f43c9e2c61d79981ec347de40cefe020764e81ef76cc7da52f96236bb9e868e"
+    },
+    "YAPILANLAR-VE-BOLUM-STANDARTLARI.docx": {
+      "bytes": 41236,
+      "sha256": "f88e59940b5061ea9948a8ab01403f6aabc3c5dff2edcf58cd943b0a4462f19d"
+    },
+    "YAPILANLAR-VE-BOLUM-STANDARTLARI.pdf": {
+      "bytes": 142747,
+      "sha256": "35969e7cf49f68de5cee169e93f46dce7f58558bea6e1a907fadfd42f23bffe4"
+    }
+  },
+  "onceki_84_surum_27_tablo_hucreleri_ayni": true,
+  "onceki_84_surum_41_alinti_ayni": true,
+  "cikarilan_sekil_onceki_surumlerde": 6,
+  "spss_calistirildi": false
+}

@@ -1,0 +1,68 @@
+{
+  "onceki84": {
+    "toplam": 84,
+    "bolumler": {
+      "1. BÖLÜM: GİRİŞ": {
+        "baslangic_pdf": 13,
+        "sayfa": 6
+      },
+      "2. BÖLÜM: KAVRAMSAL ÇERÇEVE VE İLGİLİ ARAŞTIRMALAR": {
+        "baslangic_pdf": 19,
+        "sayfa": 15
+      },
+      "3. BÖLÜM: YÖNTEM": {
+        "baslangic_pdf": 34,
+        "sayfa": 10
+      },
+      "4. BULGULAR": {
+        "baslangic_pdf": 44,
+        "sayfa": 19
+      },
+      "5. SONUÇ, TARTIŞMA VE ÖNERİLER": {
+        "baslangic_pdf": 63,
+        "sayfa": 7
+      },
+      "KAYNAKÇA": {
+        "baslangic_pdf": 70,
+        "sayfa": 3
+      },
+      "EKLER": {
+        "baslangic_pdf": 73,
+        "sayfa": 12
+      }
+    }
+  },
+  "guncel": {
+    "toplam": 90,
+    "bolumler": {
+      "1. BÖLÜM: GİRİŞ": {
+        "baslangic_pdf": 13,
+        "sayfa": 6
+      },
+      "2. BÖLÜM: KAVRAMSAL ÇERÇEVE VE İLGİLİ ARAŞTIRMALAR": {
+        "baslangic_pdf": 19,
+        "sayfa": 21
+      },
+      "3. BÖLÜM: YÖNTEM": {
+        "baslangic_pdf": 40,
+        "sayfa": 10
+      },
+      "4. BULGULAR": {
+        "baslangic_pdf": 50,
+        "sayfa": 18
+      },
+      "5. SONUÇ, TARTIŞMA VE ÖNERİLER": {
+        "baslangic_pdf": 68,
+        "sayfa": 8
+      },
+      "KAYNAKÇA": {
+        "baslangic_pdf": 76,
+        "sayfa": 3
+      },
+      "EKLER": {
+        "baslangic_pdf": 79,
+        "sayfa": 12
+      }
+    }
+  }
+}

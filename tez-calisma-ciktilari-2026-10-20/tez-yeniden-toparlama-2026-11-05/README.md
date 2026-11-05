@@ -1,3 +1,5 @@
+> Bu 84 sayfalık dosya geçmiş sürümdür. [Güncel 90 sayfalık tez ve yapılanlar raporu](../literatur-derinlestirme-2026-11-05/README.md).
+
 # Güncel tez — 5 Kasım 2026, içerik yeniden düzenlendi
 
 [Tez Word](GOKHAN-KAYA-TEZ-GOZDEN-GECIRILMIS-05-11-2026.docx) · [Tez PDF — 84 sayfa](GOKHAN-KAYA-TEZ-GOZDEN-GECIRILMIS-05-11-2026.pdf) · [Tüm dosyalar ZIP](TEZ-VE-KARSILASTIRMA-DOSYALARI-05-11-2026.zip)

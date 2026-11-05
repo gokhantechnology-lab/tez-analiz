@@ -1,12 +1,12 @@
-# Güncel çalışma dosyaları
+# Tez analiz ve çalışma dosyaları
 
-## Güncel — 5 Kasım 2026, genişletilmiş ve kontrol edilmiş sürüm
+## Güncel — 5 Kasım 2026, literatürü derinleştirilmiş sürüm
 
-**[Tez Word](tez-yeniden-toparlama-2026-11-05/GOKHAN-KAYA-TEZ-GOZDEN-GECIRILMIS-05-11-2026.docx)** · **[Tez PDF — 84 sayfa](tez-yeniden-toparlama-2026-11-05/GOKHAN-KAYA-TEZ-GOZDEN-GECIRILMIS-05-11-2026.pdf)** · **[Tüm dosyalar ZIP](tez-yeniden-toparlama-2026-11-05/TEZ-VE-KARSILASTIRMA-DOSYALARI-05-11-2026.zip)**
+**[Word](literatur-derinlestirme-2026-11-05/GOKHAN-KAYA-TEZ-LITERATUR-GUNCEL-05-11-2026.docx)** · **[PDF — 90 sayfa](literatur-derinlestirme-2026-11-05/GOKHAN-KAYA-TEZ-LITERATUR-GUNCEL-05-11-2026.pdf)** · **[Tüm dosyalar ZIP](literatur-derinlestirme-2026-11-05/TEZ-VE-DUZENLEME-RAPORU-05-11-2026.zip)**
 
-[Değişiklik raporu](tez-yeniden-toparlama-2026-11-05/YENIDEN-DUZENLEME-VE-ICERIK-KARSILASTIRMASI.pdf) · [172 not ve içerik kontrolü](tez-yeniden-toparlama-2026-11-05/172-NOT-VE-ICERIK-KARSILASTIRMA-KONTROLU.xlsx) · [Kapsam ve bekleyen doğrulamalar](tez-yeniden-toparlama-2026-11-05/README.md)
+[Yapılanlar ve bölüm standartları](literatur-derinlestirme-2026-11-05/YAPILANLAR-VE-BOLUM-STANDARTLARI.pdf) · [Notların kontrolü](literatur-derinlestirme-2026-11-05/DANISMAN-NOTLARI-VE-YENI-DUZENLEMELER.xlsx) · [Kapsam ve doğrulama sınırları](literatur-derinlestirme-2026-11-05/README.md)
 
-Literatür, bulgular ve tartışma açıklamaları genişletildi. Aynı 40 katılımcı, analiz değerleri ve bütün tablo hücreleri korundu. Gerçek SPSS çalıştırması henüz yok; ana tezde gerçek yazılım bilgisi yer alır. PÇBÖ puanlama anahtarının bağımsız teyidi ve yeni benzerlik taraması bekliyor.
+Literatür 21 sayfa; araştırmaların karşılaştırılması, öğretim tasarımı ve tartışma geliştirildi. Aynı 40 kişi, tablo değerleri ve 41 alıntı korundu. Kaynakça 23 yayın. Gerçek SPSS çalıştırması, PÇBÖ anahtarının bağımsız teyidi ve benzerlik taraması bekliyor.
 
 ---
 

@@ -1,0 +1,47 @@
+{
+  "bu_tur_eklenen": [
+    {
+      "key": "condliffe2017",
+      "cite": "Condliffe ve arkadaşları (2017)",
+      "reference": "Condliffe, B., Quint, J., Visher, M. G., Bangser, M. R., Drohojowska, S., Saco, L., & Nelson, E. (2017). Project-based learning: A literature review (Working paper). MDRC. https://files.eric.ed.gov/fulltext/ED578933.pdf",
+      "journal": null,
+      "doi": null,
+      "used": "Projenin öğretimdeki yeri; rehberlik; öğrenci seçimi; değerlendirme; uygulama koşulları. İlk ve ortaöğretim ağırlıklı derleme olduğu açıklandı.",
+      "pages": "PDF 3, 9–17, 28–38, 47, 56–61; basılı iii, 3–11, 22–32, 41, 50–55.",
+      "tam_metin": "kaynaklar/condliffe-eric.pdf",
+      "bu_tur_eklendi": true,
+      "tam_metin_sha256": "d7956afec8fd652297abbbf8d709bf2e09371a0ef21dc7873b09643fa5ea67a7",
+      "erisim_tarihi": "2026-11-05"
+    }
+  ],
+  "onceki_surumde_dogrulanmis_eklemeler": [
+    {
+      "key": "dincol2020",
+      "cite": "Dinçol Özgür ve Yılmaz (2020)",
+      "reference": "Dinçol Özgür, S., & Yılmaz, A. (2020). Proje tabanlı öğrenme yaklaşımının öğretmen adaylarının tercih ettikleri öğrenme yaklaşımına, öz-yeterlik ve bilgi düzeyine etkisi. Necatibey Eğitim Fakültesi Elektronik Fen ve Matematik Eğitimi Dergisi, 14(1), 761–786. https://doi.org/10.17522/balikesirnef.673060",
+      "journal": "Necatibey Eğitim Fakültesi Elektronik Fen ve Matematik Eğitimi Dergisi, 14",
+      "doi": "10.17522/balikesirnef.673060",
+      "used": "Öğretmen eğitimi; farklı alt boyutlarda anlamlı/anlamlı olmayan sonuçlar; ölçümler farklı olduğu belirtilir.",
+      "pages": "Özet: PDF 5 (basılı 765); yöntem: PDF 9 (769); Tablo 4–5 ve tartışma."
+    },
+    {
+      "key": "ruslan2024",
+      "cite": "Ruslan ve arkadaşları (2024)",
+      "reference": "Ruslan, R., Lu’mu, L., Fakhri, M. M., Ahmar, A. S., & Fadhilatunisa, D. (2024). Effectiveness of the flipped project-based learning model based on Moodle LMS to improve student communication and problem-solving skills in learning programming. Education Sciences, 14(9), Article 1021. https://doi.org/10.3390/educsci14091021",
+      "journal": "Education Sciences, 14",
+      "doi": "10.3390/educsci14091021",
+      "used": "İletişim ve problem çözmede olumlu sonuç bildiren farklı müdahale; ters yüz+Moodle bileşenleri nedeniyle doğrudan eşdeğer sayılmaz.",
+      "pages": "Özet: PDF 1; yöntem/sonuçlar: PDF 4–11; tartışma/sonuç: PDF 12–14."
+    },
+    {
+      "key": "kutru2024",
+      "cite": "Kutru ve Hasançebi (2024)",
+      "reference": "Kutru, Ç., & Hasançebi, F. (2024). Argümantasyon tabanlı bilim öğrenme (ATBÖ) destekli STEM eğitiminin 7. sınıf öğrencilerinin iletişim, bilimsel yaratıcılık ve problem çözme becerileri ile eleştirel düşünme eğilimine etkisi. Dokuz Eylül Üniversitesi Buca Eğitim Fakültesi Dergisi, 59, 139–175. https://doi.org/10.53444/deubefd.1336324",
+      "journal": "Dokuz Eylül Üniversitesi Buca Eğitim Fakültesi Dergisi, 59",
+      "doi": "10.53444/deubefd.1336324",
+      "used": "Türkiye fen eğitimi iletişim bulguları; argümantasyon destekli STEM, PTÖ ile aynı yaklaşım olarak sunulmaz.",
+      "pages": "Özet: PDF 1–2; ölçek sonuçları ve iletişim tartışması (basılı 151–152, 161–162)."
+    }
+  ],
+  "not": "Bu tur yeni kaynak sayısı bir; diğer üç kayıt önceki sürümden devralındı."
+}
