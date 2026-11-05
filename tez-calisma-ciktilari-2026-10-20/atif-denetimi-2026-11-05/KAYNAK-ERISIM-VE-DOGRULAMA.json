@@ -1,0 +1,389 @@
+[
+  {
+    "yazar": "Amin",
+    "yil": 2022,
+    "erisim": "Tam metin",
+    "dayanak": "Özet, yöntem, gözlem göstergeleri",
+    "url": "https://doi.org/10.29303/jppipa.v8i4.1825",
+    "kanıt_sha256": "b5b802bb9ee1b417af7a08df539b7faa77a19ea9e41c401e171958298a7d6731",
+    "paragraflar": [
+      183,
+      184,
+      189,
+      190,
+      193,
+      243,
+      252,
+      464,
+      465
+    ]
+  },
+  {
+    "yazar": "Bilgin",
+    "yil": 2015,
+    "erisim": "Tam metin",
+    "dayanak": "Özet, örneklem ve sonuç: 33+33; başarı/öz yeterlik",
+    "url": "https://doi.org/10.12973/eurasia.2014.1015a",
+    "kanıt_sha256": "f114192f8966ebf9acddbf0ee01c925d5b7bb79b7448163daa988b690021f331",
+    "paragraflar": [
+      162,
+      204,
+      205,
+      237,
+      238,
+      251,
+      255,
+      450,
+      452,
+      453
+    ]
+  },
+  {
+    "yazar": "Condliffe",
+    "yil": 2017,
+    "erisim": "Tam metin",
+    "dayanak": "Basılı 4–11, 22–32 ve özet/sonuç; K–12 ağırlığı",
+    "url": "https://files.eric.ed.gov/fulltext/ED578933.pdf",
+    "kanıt_sha256": "e09a4e194ad561a5102951c4a803202ea0fcaa11a44f381a4b9b25394dcf57aa",
+    "paragraflar": [
+      209,
+      210,
+      213,
+      214,
+      215,
+      217,
+      220,
+      221,
+      253,
+      463,
+      472
+    ]
+  },
+  {
+    "yazar": "Dinçol Özgür",
+    "yil": 2020,
+    "erisim": "Tam metin",
+    "dayanak": "Özet, yöntem ve alt boyut sonuçları; PDF1,5,9 ve bulgular",
+    "url": "https://doi.org/10.17522/balikesirnef.673060",
+    "kanıt_sha256": "2696f2d565ec76d23bf92fb5a5ecc73d13462598c34fee2fb8c7eb0fde0ae4b3",
+    "paragraflar": [
+      162,
+      204,
+      205,
+      239,
+      240,
+      251,
+      255,
+      451,
+      452
+    ]
+  },
+  {
+    "yazar": "Guo",
+    "yil": 2020,
+    "erisim": "Tam metin",
+    "dayanak": "PDF1–5: tanım, seçim ölçütleri, çıktı/araç ayrımı",
+    "url": "https://doi.org/10.1016/j.ijer.2020.101586",
+    "kanıt_sha256": "9a839f050f82fd42c3c0a28cc3e1278d842cebd75f35002727d3091fb1216242",
+    "paragraflar": [
+      95,
+      134,
+      161,
+      166,
+      172,
+      173,
+      174,
+      177,
+      186,
+      188,
+      189,
+      190,
+      192,
+      195,
+      196,
+      197,
+      198,
+      200,
+      201,
+      202,
+      203,
+      211,
+      218,
+      221,
+      228,
+      234,
+      244,
+      246,
+      253,
+      255,
+      256,
+      466,
+      467,
+      471
+    ]
+  },
+  {
+    "yazar": "Heppner",
+    "yil": 1982,
+    "erisim": "Künye + ikincil içerik dayanağı",
+    "dayanak": "Özgün envanterin kaydı doğrulandı; öz değerlendirme niteliği Şahin1993 yayıncı özetiyle destekleniyor. Özgün anahtar görülmedi.",
+    "url": "https://doi.org/10.1037/0022-0167.29.1.66",
+    "kanıt_sha256": "224192d75779b8aedeefbdb254b0905b18fe38fabd5fe1a24a801e2cb4acbffe",
+    "paragraflar": [
+      100,
+      169,
+      170,
+      285,
+      447,
+      535
+    ]
+  },
+  {
+    "yazar": "Hsieh",
+    "yil": 2005,
+    "erisim": "Özet",
+    "dayanak": "PubMed PMID16204405: içerik analizi yaklaşımları; ayrıntılı prosedürün tam metin doğrulaması değildir.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/16204405/",
+    "kanıt_sha256": "145efca48bd47571241ee41deaa3f68ea5560a2c6efd6cb5536569584e929c7a",
+    "paragraflar": [
+      323
+    ]
+  },
+  {
+    "yazar": "Jonassen",
+    "yil": 2000,
+    "erisim": "Özet",
+    "dayanak": "Yayıncı özeti: yapılandırılmışlık, karmaşıklık, alana özgülük; dosya adı full olsa da metnin tamamına erişilmiş sayılmaz.",
+    "url": "https://doi.org/10.1007/BF02300500",
+    "kanıt_sha256": "c722233d55e21c9f530923cbd1c278738ef642c9d09d738d31b00bce57cbe998",
+    "paragraflar": [
+      164,
+      165,
+      174,
+      176,
+      449,
+      455
+    ]
+  },
+  {
+    "yazar": "Kitagawa",
+    "yil": 2021,
+    "erisim": "Tam metin",
+    "dayanak": "Özet ve bölümler2–4: dönemler, öğrenme biçimleri, kamusal pedagoji",
+    "url": "https://doi.org/10.3390/educsci11050233",
+    "kanıt_sha256": "765fe6cc65a46173fbed933b2a76c81e0250f0b6cc23333097e9b70dcb48e9e4",
+    "paragraflar": [
+      139,
+      223,
+      224,
+      227,
+      228,
+      231,
+      233,
+      249,
+      469
+    ]
+  },
+  {
+    "yazar": "Kokotsaki",
+    "yil": 2016,
+    "erisim": "Özet",
+    "dayanak": "Araştırma düzeni, rastgele atama sınırı, öğretmen desteği ve değerlendirme: kayıt özeti. Tam PDF erişilemedi.",
+    "url": "https://doi.org/10.1177/1365480216659733",
+    "kanıt_sha256": "d027478b8c9c284c69a973f2c875fbfbb41ec2970c002c9a02753528521ef1af",
+    "paragraflar": [
+      99,
+      185,
+      195,
+      199,
+      200,
+      207,
+      214,
+      245,
+      456,
+      470,
+      471,
+      472
+    ]
+  },
+  {
+    "yazar": "Korkut Owen",
+    "yil": 2014,
+    "erisim": "Tam metin",
+    "dayanak": "Basılı51–52,56–58: tanım, faktörler ve alfa; yayıncıda bildirilen DOI çözülmediği için makale URLsi kullanıldı.",
+    "url": "https://dergipark.org.tr/tr/pub/mersinefd/article/181805",
+    "kanıt_sha256": "1b1dd63c3ff9fc2b9a8fe5638e957d8a031d6d5d592fe8e717c85a48d491abd6",
+    "paragraflar": [
+      101,
+      136,
+      142,
+      179,
+      180,
+      181,
+      182,
+      188,
+      189,
+      190,
+      193,
+      243,
+      274,
+      275,
+      276,
+      277,
+      282,
+      459,
+      464,
+      507
+    ]
+  },
+  {
+    "yazar": "Kutru",
+    "yil": 2024,
+    "erisim": "Tam metin",
+    "dayanak": "Başlık, özet, iletişim/problem çözme sonuçları; ATBÖ-STEM, farklı yaş grubu",
+    "url": "https://doi.org/10.53444/deubefd.1336324",
+    "kanıt_sha256": "226cbe6b5839b4cc221c42dcb5e5aad0b87dfae0177798b1e5fdeeac5475108d",
+    "paragraflar": [
+      187,
+      241,
+      242,
+      252,
+      461,
+      462
+    ]
+  },
+  {
+    "yazar": "Lakens",
+    "yil": 2013,
+    "erisim": "Tam metin",
+    "dayanak": "Eşleştirilmiş ölçümde dz açıklaması; kaynak bu çalışmanın hesaplaması yerine gösterilmez.",
+    "url": "https://doi.org/10.3389/fpsyg.2013.00863",
+    "kanıt_sha256": "613b2e2b366795efde5b0726880df4a1f6d55911bf9cdf55cd41bf0c26ab6bf6",
+    "paragraflar": [
+      322
+    ]
+  },
+  {
+    "yazar": "MEB",
+    "yil": 2018,
+    "erisim": "Resmî tam metin",
+    "dayanak": "Özel amaçlar, bilimsel süreç/yaşam becerileri ve fen-mühendislik uygulamaları",
+    "url": "https://mufredat.meb.gov.tr/Dosyalar/201812312311937-FEN%20B%C4%B0L%C4%B0MLER%C4%B0%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI2018.pdf",
+    "kanıt_sha256": "9635eecde23824e3add830b5f33d8ddef579efa2cf5949039a607a803b74c539",
+    "paragraflar": [
+      94,
+      138,
+      154,
+      155,
+      156,
+      157,
+      171,
+      225,
+      226
+    ]
+  },
+  {
+    "yazar": "MEB",
+    "yil": 2025,
+    "erisim": "Resmî tam metin",
+    "dayanak": "PDF kapağı2025; kavramsal ve sosyal-duygusal beceriler; dosya adındaki2024 yayın yılı değildir.",
+    "url": "https://tymm.meb.gov.tr/upload/brosur/ortak_metin.pdf",
+    "kanıt_sha256": "60b385af563de44f0643c7003819fbaa1e7649151af31c9e2afd081bcdfc55af",
+    "paragraflar": [
+      160,
+      171
+    ]
+  },
+  {
+    "yazar": "OECD",
+    "yil": 2018,
+    "erisim": "Resmî tam metin",
+    "dayanak": "Bilgi-beceri-tutum-değerler; bilişsel/üstbilişsel beceriler",
+    "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2018/06/the-future-of-education-and-skills_5424dd26/54ac7020-en.pdf",
+    "kanıt_sha256": "a7f739469b3de36498c67b2ea1a29a68c7bee829a789c836819ceffe88dd9761",
+    "paragraflar": [
+      94,
+      137,
+      158,
+      159,
+      171
+    ]
+  },
+  {
+    "yazar": "Ruslan",
+    "yil": 2024,
+    "erisim": "Tam metin",
+    "dayanak": "Özet, yöntem, sonuç; ters yüz + Moodle + proje bileşenleri",
+    "url": "https://doi.org/10.3390/educsci14091021",
+    "kanıt_sha256": "3293c957b8a3e4265775dfa8a92c2f90338e5952020bee7a827293948c26fbc1",
+    "paragraflar": [
+      187,
+      206,
+      247,
+      248,
+      252,
+      460,
+      462
+    ]
+  },
+  {
+    "yazar": "Şahin",
+    "yil": 1993,
+    "erisim": "Özet",
+    "dayanak": "Yayıncı özeti psikometrik inceleme ve öz değerlendirme kapsamını doğruluyor; madde anahtarı tam metni erişilemedi.",
+    "url": "https://doi.org/10.1007/BF01177661",
+    "kanıt_sha256": "0b784fc78ec387ff82e7cbdc9cba07a3dfc8269c8b1b012ac744d2d92475efd9",
+    "paragraflar": [
+      169,
+      285,
+      447,
+      535
+    ]
+  },
+  {
+    "yazar": "Şeyihoğlu",
+    "yil": 2021,
+    "erisim": "Özet",
+    "dayanak": "Crossref yayıncı özeti:36öğretmen, afet okuryazarlığı ve program görüşleri. Tam PDF görülmüş sayılmadı.",
+    "url": "https://doi.org/10.33225/pec/21.79.781",
+    "kanıt_sha256": "c9ae152de8943b4296cb36217279c7aa06e396e5eb10497f9b2e42974312ca70",
+    "paragraflar": [
+      229,
+      230,
+      231,
+      234,
+      249,
+      469
+    ]
+  },
+  {
+    "yazar": "Weiyi",
+    "yil": 2025,
+    "erisim": "Tam metin",
+    "dayanak": "Özet ve temalar: üniversite sosyal problem çözme; iletişim/duygu düzenleme",
+    "url": "https://doi.org/10.3389/feduc.2025.1509641",
+    "kanıt_sha256": "caf54dc7b87fc7edd81ab5be0bee62bab726f8a2bff665ba6779fc389e50bd9c",
+    "paragraflar": [
+      167,
+      168,
+      174,
+      249
+    ]
+  },
+  {
+    "yazar": "Zhang",
+    "yil": 2023,
+    "erisim": "Tam metin",
+    "dayanak": "Yayıncı başlığı ve özet/sonuç: meta-analiz ve düzenleyici değişkenler",
+    "url": "https://doi.org/10.3389/fpsyg.2023.1202728",
+    "kanıt_sha256": "c9205df37317369b972efeadf62b3b81d9fb74171c2f38b2d8b3c8d969fdc900",
+    "paragraflar": [
+      161,
+      207,
+      245,
+      246,
+      253,
+      454
+    ]
+  }
+]

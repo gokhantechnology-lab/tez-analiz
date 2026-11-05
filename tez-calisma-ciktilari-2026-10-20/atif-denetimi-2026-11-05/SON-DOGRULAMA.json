@@ -1,0 +1,210 @@
+{
+  "tarih": "2026-11-05",
+  "tez_pdf_sayfa": 91,
+  "numarali_tablo": 17,
+  "fiziksel_tablo": 27,
+  "kod_kitabi_satiri": 53,
+  "sekil": 2,
+  "gorusme_alt_soru": 11,
+  "soru_bazli_tablo": 11,
+  "birebir_alinti": 41,
+  "eski_30_alinti_korundu": true,
+  "ekler_metinleri_aynen_korundu": true,
+  "katilimci": 40,
+  "kadin": 33,
+  "erkek": 7,
+  "kaynakca": 21,
+  "bu_tur_eklenen_kaynak": 0,
+  "ozet_sozcukleri": {
+    "ÖZET": 230,
+    "ABSTRACT": 258
+  },
+  "dizin_basvurusu": 75,
+  "tablo_sayfa_kontrolu": [
+    {
+      "tablo": "Tablo 3.1 Çalışma Grubunun Temel Özellikleri",
+      "pdf_sayfa": 42,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 3.2. Araştırmada Kullanılan Veri Toplama Araçlarının Özellikleri",
+      "pdf_sayfa": 46,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.1 PÇBÖ Fark Puanlarının Shapiro–Wilk Testi Sonuçları",
+      "pdf_sayfa": 51,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.2 PÇBÖ Ön Test ve Son Test Puanlarının Bağımlı Örneklemler t Testi Sonuçları",
+      "pdf_sayfa": 51,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.3 İBDÖ Fark Puanlarının Shapiro–Wilk Testi Sonuçları",
+      "pdf_sayfa": 52,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.4 İBDÖ Ön Test ve Son Test Puanlarının Bağımlı Örneklemler t Testi Sonuçları",
+      "pdf_sayfa": 53,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.5 Problem Belirleme Deneyimleri",
+      "pdf_sayfa": 54,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.6 Grup Çalışmasının Problem Belirleme ve Çözmeye Katkısı",
+      "pdf_sayfa": 55,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.7 Çözüm Sürecinde İzlenen Yollar",
+      "pdf_sayfa": 56,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.8 Problem ve Çözüm Uyumsuzluğunda İzlenen Yollar",
+      "pdf_sayfa": 57,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.9 Bireysel Beceri Katkılarına İlişkin Görüşler",
+      "pdf_sayfa": 59,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.10 Fikirlerini İfade Etmeye İlişkin Görüşler",
+      "pdf_sayfa": 60,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.11 Görüş Ayrılıklarında Ortak Karar Yolları",
+      "pdf_sayfa": 61,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.12 Grup Çalışmasının Becerilere Katkısına İlişkin Görüşler",
+      "pdf_sayfa": 62,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.13 Doğal Afetleri Öğrenmeye İlişkin Görüşler",
+      "pdf_sayfa": 64,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.14 Sürecin Olumlu ve Olumsuz Yönlerine İlişkin Görüşler",
+      "pdf_sayfa": 65,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.15 Öğretim Sürecinde Düzenleme Beklentileri",
+      "pdf_sayfa": 67,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 1",
+      "pdf_sayfa": 86,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 2",
+      "pdf_sayfa": 87,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 3",
+      "pdf_sayfa": 88,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 4",
+      "pdf_sayfa": 88,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 5",
+      "pdf_sayfa": 89,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 6",
+      "pdf_sayfa": 89,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 7",
+      "pdf_sayfa": 90,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 8",
+      "pdf_sayfa": 90,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 9",
+      "pdf_sayfa": 90,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 10",
+      "pdf_sayfa": 91,
+      "hucre_icerigi_ayni_sayfada": true
+    }
+  ],
+  "bos_sayfa": [],
+  "tasan_sozcuk": [],
+  "sekiller_baslikla_ayni_sayfada": true,
+  "puanlama_yeniden_degistirildi": false,
+  "t_ve_p_karsilastirmasi": "Bu tur dokuz testin gösterimi mevcut analiz önbelleğiyle karşılaştırıldı; ham veriler yeniden analiz edilmedi.",
+  "PÇBÖ_yetkili_anahtar_bagimsiz_teyidi": false,
+  "benzerlik_taramasi": false,
+  "Microsoft_Word_uygulama_testi": false,
+  "pdf_uretimi": "LibreOffice",
+  "alfa_karsilastirmasi": 18,
+  "not_durumlari": {
+    "Yazısız işaret — bağlam kontrol edildi": 4,
+    "Uygulandı / kontrol edildi": 162,
+    "Bekliyor — gerçek SPSS çalıştırması": 2,
+    "Korundu / kontrol edildi": 3,
+    "Kısmen — düzen uygulandı, SPSS doğrulaması bekliyor": 1
+  },
+  "dosyalar": {
+    "BASTAN-SONA-ATIF-KAYNAK-DENETIMI.xlsx": {
+      "bytes": 102621,
+      "sha256": "3bbf35e557cf8f3981aeafc43d72e7c6d4bcde995752add483a450ee53a5db6a"
+    },
+    "BASTAN-SONA-DENETIM-RAPORU.docx": {
+      "bytes": 40049,
+      "sha256": "954617c292f0b74b7127bcfd05d90f94ff0a984584937c3839a03f8be0dc72b1"
+    },
+    "BASTAN-SONA-DENETIM-RAPORU.pdf": {
+      "bytes": 87495,
+      "sha256": "42883ccc7b1664949df02c836b8f007fb474f5a7ddbb6c1da3c92e5627b05bfb"
+    },
+    "GOKHAN-KAYA-TEZ-ATIF-DENETIMLI-05-11-2026.docx": {
+      "bytes": 1564642,
+      "sha256": "bb8cc9c691bd3d31ae1f58625c53981a03a537014ef3408d64ce8df13abac432"
+    },
+    "GOKHAN-KAYA-TEZ-ATIF-DENETIMLI-05-11-2026.pdf": {
+      "bytes": 1623242,
+      "sha256": "f98b893f67cedde380f91c435b8a94e32026f192b214d029d0c2f7be9c48836e"
+    }
+  },
+  "spss_calistirmasi_dogrulandi": false,
+  "gecmis_surumlerde_cikarilan_sekil": 6,
+  "onceki90_surum_tum_tablo_hucreleri_ayni": true,
+  "onceki90_surum_41_alinti_ayni": true,
+  "paragraf_envanteri": 555,
+  "metin_duzeltmesi": 30,
+  "kaynak_erisim_duzeyleri": {
+    "tam_metin_resmi_dahil": 15,
+    "ozet": 5,
+    "kunye_ve_ikincil_dayanak": 1
+  }
+}

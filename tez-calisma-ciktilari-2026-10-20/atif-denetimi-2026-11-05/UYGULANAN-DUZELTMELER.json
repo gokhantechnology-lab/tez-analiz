@@ -1,0 +1,152 @@
+[
+  {
+    "once": "Araştırmanın çalışma grubu, bir devlet üniversitesinin Eğitim Fakültesi Fen Bilgisi Öğretmenliği programında ikinci sınıfta öğrenim gören 40 öğretmen adayından oluşmaktadır. Uygulama, Yer Bilimi dersinin yürütüldüğü kolay ulaşılabilir sınıf ortamında gerçekleştirilmiştir (Büyüköztürk vd., 2018). Analizlere, PÇBÖ ve İBDÖ’nün ön test ve son test ölçümlerinin tamamında kullanılabilir kaydı bulunan aynı katılımcılar alınmıştır.",
+    "sonra": "Araştırmanın çalışma grubu, bir devlet üniversitesinin Eğitim Fakültesi Fen Bilgisi Öğretmenliği programında ikinci sınıfta öğrenim gören 40 öğretmen adayından oluşmaktadır. Uygulama, Yer Bilimi dersinin yürütüldüğü kolay ulaşılabilir sınıf ortamında gerçekleştirilmiştir. Analizlere, PÇBÖ ve İBDÖ’nün ön test ve son test ölçümlerinin tamamında kullanılabilir kaydı bulunan aynı katılımcılar alınmıştır.",
+    "gerekce": "Çalışma grubuna ilişkin araştırmacı bilgisi dış kaynağın bulgusu değildir."
+  },
+  {
+    "once": "Ölçek verileri Python programlama dili ve SciPy kütüphanesi kullanılarak analiz edilmiştir (Virtanen vd., 2020). İki ölçeğin ön test ve son test kayıtları öğrenci numaraları üzerinden eşleştirilmiş; dört ölçümün tamamında kullanılabilir kaydı bulunan aynı 40 öğretmen adayı analize alınmıştır. Eksik yanıtlar için puan atanmamıştır.",
+    "sonra": "Ölçek verileri bağımlı örneklemler t testiyle analiz edilmiştir. İki ölçeğin ön test ve son test kayıtları öğrenci numaraları üzerinden eşleştirilmiş; dört ölçümün tamamında kullanılabilir kaydı bulunan aynı 40 öğretmen adayı analize alınmıştır. Eksik yanıtlar için puan atanmamıştır.",
+    "gerekce": "Yazılım adı kullanılmadan gerçekleşen analiz işlemleri anlatıldı; SPSS kullanımı ileri sürülmedi."
+  },
+  {
+    "once": "Araştırma, tek gruplu ön test–son test deseniyle yürütülmüştür. Çalışma grubunu, bir devlet üniversitesinin Fen Bilgisi Öğretmenliği programında ikinci sınıfta öğrenim gören ve her iki ölçeğin ön test ile son test ölçümlerinde kullanılabilir verisi bulunan aynı 40 öğretmen adayı oluşturmaktadır. Uygulama süreci sekiz haftalık ders akışı içinde yürütülmüştür. Sürece ilişkin deneyimleri açıklamak amacıyla çalışma tamamlandıktan sonra bu gruptan rastgele seçilen dört öğretmen adayıyla yarı yapılandırılmış görüşmeler yapılmıştır. Ölçek verileri Python’da bağımlı örneklemler t testiyle, görüşme verileri içerik analiziyle çözümlenmiştir.",
+    "sonra": "Araştırma, tek gruplu ön test–son test deseniyle yürütülmüştür. Çalışma grubunu, bir devlet üniversitesinin Fen Bilgisi Öğretmenliği programında ikinci sınıfta öğrenim gören ve her iki ölçeğin ön test ile son test ölçümlerinde kullanılabilir verisi bulunan aynı 40 öğretmen adayı oluşturmaktadır. Uygulama süreci sekiz haftalık ders akışı içinde yürütülmüştür. Sürece ilişkin deneyimleri açıklamak amacıyla çalışma tamamlandıktan sonra bu gruptan rastgele seçilen dört öğretmen adayıyla yarı yapılandırılmış görüşmeler yapılmıştır. Ölçek verileri bağımlı örneklemler t testiyle, görüşme verileri içerik analiziyle çözümlenmiştir.",
+    "gerekce": "Türkçe özet yazılım adı olmadan analizleri bildirir."
+  },
+  {
+    "once": "The study employed a one-group pretest–posttest design. Participants were the same 40 second-year pre-service science teachers at a public university who had usable data on both scales at both measurement occasions. The implementation took place within an eight-week course sequence. After the implementation, semi-structured interviews were conducted with four randomly selected participants to describe their experiences of the process. Paired-samples t tests were performed in Python, and interview data were analyzed through content analysis. The interviews provided supplementary information about the implementation.",
+    "sonra": "The study employed a one-group pretest–posttest design. Participants were the same 40 second-year pre-service science teachers at a public university who had usable data on both scales at both measurement occasions. The implementation took place within an eight-week course sequence. After the implementation, semi-structured interviews were conducted with four randomly selected participants to describe their experiences of the process. Paired-samples t tests were performed, and interview data were analyzed through content analysis. The interviews provided supplementary information about the implementation.",
+    "gerekce": "İngilizce özet yazılım adı olmadan analizleri bildirir."
+  },
+  {
+    "once": "Ölçek dört alt boyuttan oluşmaktadır ve her bir boyut iletişim becerilerinin farklı yönlerini temsil etmektedir:",
+    "sonra": "Korkut Owen ve Bugay’ın (2014, ss. 56–57) raporladığı dört alt boyutun madde sayıları ve kapsamları aşağıda verilmiştir:",
+    "gerekce": "Alt boyut listesinin özgün kaynağı ve sayfaları açıklandı."
+  },
+  {
+    "once": "Ölçeğin geliştirme çalışmasında toplam Cronbach alfa güvenirlik katsayısı .88 olarak rapor edilmiştir. Alt boyutlara ilişkin güvenirlik katsayıları ise .64 ile .79 arasında değişmektedir. Bu değerler, ölçeğin kabul edilebilir ve yüksek düzeyde iç tutarlılığa sahip olduğunu göstermektedir.",
+    "sonra": "Ölçeğin geliştirme çalışmasında toplam Cronbach alfa katsayısı ,88 olarak raporlanmıştır. Alt boyut katsayıları İletişim İlkeleri ve Temel Beceriler için ,79; Kendini İfade Etme için ,72; Etkin Dinleme ve Sözel Olmayan İletişim için ,64 ve İletişim Kurmaya İsteklilik için ,71’dir (Korkut Owen ve Bugay, 2014, s. 58). Bu katsayılar geliştirme çalışmasının örneklemine aittir; mevcut çalışma grubuna ilişkin katsayılar aşağıda ayrıca verilmiştir.",
+    "gerekce": "Özgün tam metin s.58 doğrulandı; genelleyici kabul edilebilir/yüksek güvenirlik yargısı çıkarıldı."
+  },
+  {
+    "once": "Kişisel Kontrol (5 madde): Bireyin problem çözme sürecini planlama, izleme ve kontrol etme becerilerine ilişkin algısını kapsamaktadır.",
+    "sonra": "Kişisel Kontrol (5 madde): Bu araştırmanın analizinde, problem durumları karşısında kişinin kendi kontrolüne ilişkin değerlendirmelerini ele alan alt boyut olarak kullanılmıştır.",
+    "gerekce": "Yetkili puanlama anahtarı görülmeden planlama/izleme becerisi ölçtüğü iddiası daraltıldı."
+  },
+  {
+    "once": "PÇBÖ, katılımcıların problem çözme becerilerindeki değişimi belirlemek amacıyla uygulama öncesinde ön test, proje tabanlı öğrenme süreci sonrasında ise son test olarak uygulanmıştır. Elde edilen veriler, öğretmen adaylarının problem çözme becerilerinde meydana gelen değişimin nicel olarak incelenmesi amacıyla analiz edilmiştir. Ölçeğe ait tüm maddeler Ek 2’de sunulmuştur.",
+    "sonra": "PÇBÖ, katılımcıların problem çözmeye ilişkin öz değerlendirmelerindeki değişimi belirlemek amacıyla uygulama öncesinde ön test, proje tabanlı öğrenme süreci sonrasında ise son test olarak uygulanmıştır. Elde edilen veriler, öğretmen adaylarının problem çözmeye ilişkin öz değerlendirmelerinde meydana gelen değişimin nicel olarak incelenmesi amacıyla analiz edilmiştir. Ölçeğe ait tüm maddeler Ek 2’de sunulmuştur.",
+    "gerekce": "Öz değerlendirme ile doğrudan beceri performansı ayrımı yöntem boyunca korundu."
+  },
+  {
+    "once": "PÇBÖ verilerinde ters yönde kodlanan maddelere 7 − ham puan dönüşümü uygulanmıştır. Toplam ve alt boyut puanları madde ortalamaları olarak raporlanmıştır. Kullanılan puanlama düzeninde düşük puan, kişinin kendisini problem çözme bakımından daha olumlu değerlendirmesine karşılık gelmektedir. Bu yön, toplam puandaki azalmanın yorumlanmasında esas alınmıştır (Heppner ve Petersen, 1982; Şahin vd., 1993).",
+    "sonra": "PÇBÖ verilerinde ters yönde kodlanan maddelere 7 − ham puan dönüşümü uygulanmıştır. Toplam ve alt boyut puanları madde ortalamaları olarak raporlanmıştır. Bu araştırmada kullanılan puanlama düzeninde düşük puan, kişinin kendisini problem çözme bakımından daha olumlu değerlendirmesi olarak yorumlanmış; toplam puandaki azalmanın açıklanmasında bu yön esas alınmıştır.",
+    "gerekce": "Gerçekte kullanılan işlem ile henüz bağımsız teyit edilmemiş özgün madde anahtarı birbirine dayanak gösterilmedi."
+  },
+  {
+    "once": "Proje tabanlı öğrenmede öğrencilerin algıladığı yararlar ile uygulama deneyimleri farklı inceleme alanlarıdır. Guo ve arkadaşları (2020), yükseköğretimdeki araştırmalarda bu alanların farklı araçlarla değerlendirildiğini göstermektedir. Bu nedenle öğretim sürecinin incelenmesi, yalnızca olumlu öğrenme değerlendirmelerini değil, yaşanan güçlükleri ve destek gereksinimlerini de kapsayabilir.",
+    "sonra": "Proje tabanlı öğrenmede öğrencilerin algıladığı yararlar ile uygulama deneyimleri farklı inceleme alanlarıdır. Guo, Saab, Post ve Admiraal (2020), yükseköğretimdeki araştırmalarda bu alanların farklı araçlarla değerlendirildiğini göstermektedir. Bu nedenle öğretim sürecinin incelenmesi, yalnızca olumlu öğrenme değerlendirmelerini değil, yaşanan güçlükleri ve destek gereksinimlerini de kapsayabilir.",
+    "gerekce": "Kılavuz s.17: üç–beş yazarlı eserin ilk atfında bütün yazarlar gösterildi."
+  },
+  {
+    "once": "Proje tabanlı öğrenmede bir problem üzerinde çalışılması, bilgi araştırılması ve kararların grup içinde tartışılması sürecin birbiriyle ilişkili yönleridir (Kokotsaki vd., 2016). Bu etkinliklerin öğretmen adaylarının problem çözme ve iletişime ilişkin öz değerlendirmelerine nasıl yansıdığını incelemek, araştırmanın çıkış noktasını oluşturmaktadır.",
+    "sonra": "Proje tabanlı öğrenmede bir problem üzerinde çalışılması, bilgi araştırılması ve kararların grup içinde tartışılması sürecin birbiriyle ilişkili yönleridir (Kokotsaki, Menzies ve Wiggins, 2016). Bu etkinliklerin öğretmen adaylarının problem çözme ve iletişime ilişkin öz değerlendirmelerine nasıl yansıdığını incelemek, araştırmanın çıkış noktasını oluşturmaktadır.",
+    "gerekce": "Kılavuz s.17: üç–beş yazarlı eserin ilk atfında bütün yazarlar gösterildi."
+  },
+  {
+    "once": "Öğretmen eğitimi bu beklentileri iki düzeyde ele almayı gerektirmektedir. Öğretmen adayları bir yandan kendi öğrenme süreçlerine katılmakta, diğer yandan gelecekte kullanabilecekleri öğretim yaklaşımlarını öğrenci olarak deneyimlemektedir. Bilgin ve arkadaşlarının (2015) fen öğretimi dersi araştırması ile Dinçol Özgür ve Yılmaz’ın (2020) kimya öğretmen adaylarıyla yürüttüğü çalışma bu bağlama örnek oluşturmaktadır. Bununla birlikte adayın bir uygulamaya katılması, o uygulamayı ileride etkili biçimde yürütebildiğinin doğrudan kanıtı değildir. Öğrenen olarak yaşanan deneyim ile öğretim yeterliği, araştırmada kullanılan ölçme araçlarının kapsamına göre ayrı değerlendirilmelidir.",
+    "sonra": "Öğretmen eğitimi bu beklentileri iki düzeyde ele almayı gerektirmektedir. Öğretmen adayları bir yandan kendi öğrenme süreçlerine katılmakta, diğer yandan gelecekte kullanabilecekleri öğretim yaklaşımlarını öğrenci olarak deneyimlemektedir. Bilgin, Karakuyu ve Ay’ın (2015) fen öğretimi dersi araştırması ile Dinçol Özgür ve Yılmaz’ın (2020) kimya öğretmen adaylarıyla yürüttüğü çalışma bu bağlama örnek oluşturmaktadır. Bununla birlikte adayın bir uygulamaya katılması, o uygulamayı ileride etkili biçimde yürütebildiğinin doğrudan kanıtı değildir. Öğrenen olarak yaşanan deneyim ile öğretim yeterliği, araştırmada kullanılan ölçme araçlarının kapsamına göre ayrı değerlendirilmelidir.",
+    "gerekce": "Kılavuz s.17: üç–beş yazarlı eserin ilk atfında bütün yazarlar gösterildi."
+  },
+  {
+    "once": "Problemin nasıl ele alındığı, çözüm için hangi bilgilerin gerekli görüldüğünü de etkileyebilir. Bir tasarım görevinde uygulanabilirlik ve kaynaklar öne çıkarken kişiler arası bir güçlükte farklı bakış açılarını anlama ve ortak karar verme önem kazanabilir. Weiyi ve arkadaşlarının (2025) üniversite öğrencilerinde sosyal problem çözme müdahalelerine ilişkin derlemesi, bilgi ve tutumların yanında kişiler arası iletişim ve duygu düzenleme gibi becerilerin de programlarda yer aldığını göstermektedir. Sosyal problem çözme, teknik veya tasarıma ilişkin problem çözmeyle bağlantılı olsa da aynı kapsamı ifade etmemektedir.",
+    "sonra": "Problemin nasıl ele alındığı, çözüm için hangi bilgilerin gerekli görüldüğünü de etkileyebilir. Bir tasarım görevinde uygulanabilirlik ve kaynaklar öne çıkarken kişiler arası bir güçlükte farklı bakış açılarını anlama ve ortak karar verme önem kazanabilir. Weiyi, Ma’rof ve Burhanuddin’in (2025) üniversite öğrencilerinde sosyal problem çözme müdahalelerine ilişkin derlemesi, bilgi ve tutumların yanında kişiler arası iletişim ve duygu düzenleme gibi becerilerin de programlarda yer aldığını göstermektedir. Sosyal problem çözme, teknik veya tasarıma ilişkin problem çözmeyle bağlantılı olsa da aynı kapsamı ifade etmemektedir.",
+    "gerekce": "Kılavuz s.17: üç–beş yazarlı eserin ilk atfında bütün yazarlar gösterildi."
+  },
+  {
+    "once": "Problem çözme sürecinde bireyin kendi yaklaşımını nasıl değerlendirdiği ayrı bir inceleme alanıdır. Heppner ve Petersen’in (1982) geliştirdiği envanter, kişinin problem çözmesine ilişkin algısına odaklanmaktadır. Türkçe uyarlama çalışması da bu öz değerlendirmelerin ölçülmesi bakımından bir dayanak oluşturmaktadır (Şahin vd., 1993). Bu tür araçlarla alınan puanlar, bireyin kendisini nasıl değerlendirdiğini göstermekte; tek başına bağımsız bir problemde sergilenen performansın yerine geçmemektedir.",
+    "sonra": "Problem çözme sürecinde bireyin kendi yaklaşımını nasıl değerlendirdiği ayrı bir inceleme alanıdır. Heppner ve Petersen’in (1982) geliştirdiği envanter, kişinin problem çözmesine ilişkin algısına odaklanmaktadır. Türkçe uyarlama çalışması da bu öz değerlendirmelerin ölçülmesi bakımından bir dayanak oluşturmaktadır (Şahin, Şahin ve Heppner, 1993). Bu tür araçlarla alınan puanlar, bireyin kendisini nasıl değerlendirdiğini göstermekte; tek başına bağımsız bir problemde sergilenen performansın yerine geçmemektedir.",
+    "gerekce": "Kılavuz s.17: üç–beş yazarlı eserin ilk atfında bütün yazarlar gösterildi."
+  },
+  {
+    "once": "Öğretmen adaylarının iletişimi sınıf içindeki davranışları üzerinden de incelenebilmektedir. Amin ve arkadaşları (2022), biyoloji öğretmen adaylarıyla yürüttükleri araştırmada soru sorma, yanıt verme, grup içinde etkileşim kurma, düşünceleri açıklama ve sunumlara tepki verme gibi göstergeleri gözlemle değerlendirmiştir. Çalışmada belirlenen güçlükler, iletişimin genel bir izlenim yerine belirli davranışlar üzerinden ele alınmasının sağlayabileceği bilgiyi göstermektedir.",
+    "sonra": "Öğretmen adaylarının iletişimi sınıf içindeki davranışları üzerinden de incelenebilmektedir. Amin, Karmila, Pantiwati, Adiansyah ve Yani (2022), biyoloji öğretmen adaylarıyla yürüttükleri araştırmada soru sorma, yanıt verme, grup içinde etkileşim kurma, düşünceleri açıklama ve sunumlara tepki verme gibi göstergeleri gözlemle değerlendirmiştir. Çalışmada belirlenen güçlükler, iletişimin genel bir izlenim yerine belirli davranışlar üzerinden ele alınmasının sağlayabileceği bilgiyi göstermektedir.",
+    "gerekce": "Kılavuz s.17: üç–beş yazarlı eserin ilk atfında bütün yazarlar gösterildi."
+  },
+  {
+    "once": "İletişimin öğretim içinde nasıl desteklendiği de önemlidir. Ruslan ve arkadaşları (2024), Moodle üzerinden yürütülen ters yüz edilmiş proje tabanlı öğrenme uygulamasında iletişim ve problem çözme bakımından olumlu sonuçlar bildirmiştir. Kutru ve Hasançebi (2024) ise argümantasyon destekli STEM etkinliklerinde iletişim becerilerini incelemiştir. Farklı içerik ve etkinlikler kullanan bu çalışmalar, iletişim sonuçlarının öğretim sürecinin özellikleriyle birlikte değerlendirilmesi gerektiğine işaret etmektedir.",
+    "sonra": "İletişimin öğretim içinde nasıl desteklendiği de önemlidir. Ruslan, Lu’mu, Fakhri, Ahmar ve Fadhilatunisa (2024), Moodle üzerinden yürütülen ters yüz edilmiş proje tabanlı öğrenme uygulamasında iletişim ve problem çözme bakımından olumlu sonuçlar bildirmiştir. Kutru ve Hasançebi (2024) ise argümantasyon destekli STEM etkinliklerinde iletişim becerilerini incelemiştir. Farklı içerik ve etkinlikler kullanan bu çalışmalar, iletişim sonuçlarının öğretim sürecinin özellikleriyle birlikte değerlendirilmesi gerektiğine işaret etmektedir.",
+    "gerekce": "Kılavuz s.17: üç–beş yazarlı eserin ilk atfında bütün yazarlar gösterildi."
+  },
+  {
+    "once": "Türkiye’de öğretmenlerle yürütülen Disiplinler Arası Afet Eğitimi Programı, afet eğitiminin farklı alanlardan katılımcılarla ele alınmasına bir örnektir. Şeyihoğlu ve arkadaşları (2021), program sonrasında afet okuryazarlığına ilişkin olumlu sonuçlar ve katılımcı görüşleri bildirmiştir. Çalışma, öğretmenlerin afet eğitimi deneyimleriyle ilgilidir; farklı bir beceri ölçeğinden alınan puanların yerine kullanılabilecek bir ölçüm değildir.",
+    "sonra": "Türkiye’de öğretmenlerle yürütülen Disiplinler Arası Afet Eğitimi Programı, afet eğitiminin farklı alanlardan katılımcılarla ele alınmasına bir örnektir. Şeyihoğlu, Kartal, Tekbiyik, Sezen Vekli ve Birinci Konur (2021), program sonrasında afet okuryazarlığına ilişkin olumlu sonuçlar ve katılımcı görüşleri bildirmiştir. Çalışma, öğretmenlerin afet eğitimi deneyimleriyle ilgilidir; farklı bir beceri ölçeğinden alınan puanların yerine kullanılabilecek bir ölçüm değildir.",
+    "gerekce": "Kılavuz s.17: üç–beş yazarlı eserin ilk atfında bütün yazarlar gösterildi."
+  },
+  {
+    "once": "Tablo 4.5’de problem ararken zorlandığını belirten katılımcılar K1, K3 ve K4’tür. K1 ve K3 özgünlük arayışını, K1 ve K4 ise yapılabilir bir problem seçme güçlüğünü açıklamıştır. K2 kısa bir araştırmayla problem belirleyebildiğini söylemiştir.",
+    "sonra": "Tablo 4.5’te problem ararken zorlandığını belirten katılımcılar K1, K3 ve K4’tür. K1 ve K3 özgünlük arayışını, K1 ve K4 ise yapılabilir bir problem seçme güçlüğünü açıklamıştır. K2 kısa bir araştırmayla problem belirleyebildiğini söylemiştir.",
+    "gerekce": "Tablo numarasının Türkçe okunuşuna göre ek düzeltildi."
+  },
+  {
+    "once": "Tablo 4.6’de bütün katılımcıların farklı fikir ve seçeneklerin ortaya çıkmasını grup çalışmasının katkıları arasında gördüğü anlaşılmaktadır. K1 yardımlaşmayı, K2 ise ortak değerlendirme ve grup büyüklüğünü ayrıca vurgulamıştır.",
+    "sonra": "Tablo 4.6’da bütün katılımcıların farklı fikir ve seçeneklerin ortaya çıkmasını grup çalışmasının katkıları arasında gördüğü anlaşılmaktadır. K1 yardımlaşmayı, K2 ise ortak değerlendirme ve grup büyüklüğünü ayrıca vurgulamıştır.",
+    "gerekce": "Tablo numarasının Türkçe okunuşuna göre ek düzeltildi."
+  },
+  {
+    "once": "Tablo 4.9’de dört katılımcı problem çözme becerisine katkı algısı bildirmiştir. Yaratıcı düşünme K1, K3 ve K4; araştırma becerisi K2, K3 ve K4; analitik düşünme ise K3 tarafından adlandırılmıştır. K2 iletişime katkıyı da belirtmiştir. Araştırma yaptığını anlatmak ile araştırma becerisinin geliştiğini söylemek ayrı tutulmuştur. Bu ifadeler katılımcıların kendi değerlendirmeleridir.",
+    "sonra": "Tablo 4.9’da dört katılımcı problem çözme becerisine katkı algısı bildirmiştir. Yaratıcı düşünme K1, K3 ve K4; araştırma becerisi K2, K3 ve K4; analitik düşünme ise K3 tarafından adlandırılmıştır. K2 iletişime katkıyı da belirtmiştir. Araştırma yaptığını anlatmak ile araştırma becerisinin geliştiğini söylemek ayrı tutulmuştur. Bu ifadeler katılımcıların kendi değerlendirmeleridir.",
+    "gerekce": "Tablo numarasının Türkçe okunuşuna göre ek düzeltildi."
+  },
+  {
+    "once": "Tablo 4.10’de dört katılımcının da fikirlerini rahatça dile getirebildiği ve bunu tanışıklık veya grup arkadaşlarını seçebilme ile ilişkilendirdiği görülmektedir. K3, gruplar rastgele oluşturulsaydı da çok fazla iletişim sorunu yaşayacağını düşünmediğini belirtmiştir. Bu anlatımlar uygulamadaki ifade ortamını açıklamakta, uygulama öncesine göre iletişim becerisinde değişimi tek başına göstermemektedir.",
+    "sonra": "Tablo 4.10’da dört katılımcının da fikirlerini rahatça dile getirebildiği ve bunu tanışıklık veya grup arkadaşlarını seçebilme ile ilişkilendirdiği görülmektedir. K3, gruplar rastgele oluşturulsaydı da çok fazla iletişim sorunu yaşayacağını düşünmediğini belirtmiştir. Bu anlatımlar uygulamadaki ifade ortamını açıklamakta, uygulama öncesine göre iletişim becerisinde değişimi tek başına göstermemektedir.",
+    "gerekce": "Tablo numarasının Türkçe okunuşuna göre ek düzeltildi."
+  },
+  {
+    "once": "Tablo 4.13’de dört katılımcı doğal afetlerin projelerle ele alınmasını öğrenmeye katkı ve akılda kalıcılık algısıyla ilişkilendirmiştir. Araştırma yapma ve edinilen bilgiyi uygulama bütün yanıtlarda bulunmaktadır. K2 ve K4 diğer grupların sunumlarını da öğrenme kaynağı olarak açıklamıştır.",
+    "sonra": "Tablo 4.13’te dört katılımcı doğal afetlerin projelerle ele alınmasını öğrenmeye katkı ve akılda kalıcılık algısıyla ilişkilendirmiştir. Araştırma yapma ve edinilen bilgiyi uygulama bütün yanıtlarda bulunmaktadır. K2 ve K4 diğer grupların sunumlarını da öğrenme kaynağı olarak açıklamıştır.",
+    "gerekce": "Tablo numarasının Türkçe okunuşuna göre ek düzeltildi."
+  },
+  {
+    "once": "Tablo 4.14’de olumlu değerlendirmelerle güçlükler birlikte bulunmaktadır. Katılımcılar öğrenmenin akılda kalıcılığını vurgulamış; K1 pratik yapma ve öğretmenliğe hazırlık, K4 aktif katılım üzerinde durmuştur. K1 ve K3 yoruculuğu, K1 ve K4 maliyeti, K2 beklemeyi, K4 ise zaman yükünü anlatmıştır. K2’nin başlangıçta yönlendirme beklentisi de aynı yanıtta yer almıştır.",
+    "sonra": "Tablo 4.14’te olumlu değerlendirmelerle güçlükler birlikte bulunmaktadır. Katılımcılar öğrenmenin akılda kalıcılığını vurgulamış; K1 pratik yapma ve öğretmenliğe hazırlık, K4 aktif katılım üzerinde durmuştur. K1 ve K3 yoruculuğu, K1 ve K4 maliyeti, K2 beklemeyi, K4 ise zaman yükünü anlatmıştır. K2’nin başlangıçta yönlendirme beklentisi de aynı yanıtta yer almıştır.",
+    "gerekce": "Tablo numarasının Türkçe okunuşuna göre ek düzeltildi."
+  },
+  {
+    "once": "Tablo 4.15’de başlangıç örnekleri ve yönlendirme, zamanın planlanması, malzeme desteği ve aşamaya göre görev düzenlemesi öne çıkmaktadır. K1 daha fazla süre ve serbest zamanın planlanmasını, K2 örnekler ve bütçe desteğini, K3 beklemelerin azaltılmasını, K4 ise başlangıç rehberliği ve aşamaya uygun görevleri istemiştir. K4 hazır problem verilmesini istemediğini ayrıca açıklamıştır.",
+    "sonra": "Tablo 4.15’te başlangıç örnekleri ve yönlendirme, zamanın planlanması, malzeme desteği ve aşamaya göre görev düzenlemesi öne çıkmaktadır. K1 daha fazla süre ve serbest zamanın planlanmasını, K2 örnekler ve bütçe desteğini, K3 beklemelerin azaltılmasını, K4 ise başlangıç rehberliği ve aşamaya uygun görevleri istemiştir. K4 hazır problem verilmesini istemediğini ayrıca açıklamıştır.",
+    "gerekce": "Tablo numarasının Türkçe okunuşuna göre ek düzeltildi."
+  },
+  {
+    "once": "Büyüköztürk, Ş., Kılıç Çakmak, E., Akgün, Ö. E., Karadeniz, Ş., & Demirel, F. (2018). Bilimsel araştırma yöntemleri. Pegem Akademi.",
+    "sonra": "",
+    "gerekce": "Metinde kullanımı kalmayan kaynak kaynakçadan çıkarıldı."
+  },
+  {
+    "once": "Virtanen, P., Gommers, R., Oliphant, T. E., Haberland, M., Reddy, T., Cournapeau, D., Burovski, E., Peterson, P., Weckesser, W., Bright, J., van der Walt, S. J., Brett, M., Wilson, J., Millman, K. J., Mayorov, N., Nelson, A. R. J., Jones, E., Kern, R., Larson, E., … Vázquez-Baeza, Y. (2020). SciPy 1.0: Fundamental algorithms for scientific computing in Python. Nature Methods, 17, 261–272. https://doi.org/10.1038/s41592-019-0686-2",
+    "sonra": "",
+    "gerekce": "Metinde kullanımı kalmayan kaynak kaynakçadan çıkarıldı."
+  },
+  {
+    "once": "Korkut Owen, F., & Bugay, A. (2014). İletişim Becerileri Ölçeği’nin geliştirilmesi: Geçerlik ve güvenirlik çalışması. Mersin Üniversitesi Eğitim Fakültesi Dergisi, 10(2), 51-64. https://doi.org/10.17860/efd.95021",
+    "sonra": "Korkut Owen, F., & Bugay, A. (2014). İletişim Becerileri Ölçeği’nin geliştirilmesi: Geçerlik ve güvenirlik çalışması. Mersin Üniversitesi Eğitim Fakültesi Dergisi, 10(2), 51-64. https://dergipark.org.tr/tr/pub/mersinefd/article/181805",
+    "gerekce": "Yayıncı DOI bildiriyor ancak DOI çözümleyici ve Crossref 404; erişilen özgün makale adresi kullanıldı."
+  },
+  {
+    "once": "Şahin, N., Şahin, N. H., & Heppner, P. P. (1993). Psychometric properties of the Problem Solving Inventory in a group of Turkish university students. Cognitive Therapy and Research, 17(4), 379-396.",
+    "sonra": "Şahin, N., Şahin, N. H., & Heppner, P. P. (1993). Psychometric properties of the Problem Solving Inventory in a group of Turkish university students. Cognitive Therapy and Research, 17(4), 379-396. https://doi.org/10.1007/BF01177661",
+    "gerekce": "Eksik DOI yayıncı ve Crossref üzerinden doğrulanarak eklendi."
+  },
+  {
+    "once": "Zhang, L., & Ma, Y. (2023). A study of the impact of project-based learning on student learning effects: A meta-analysis of the effectiveness of project-based learning in education. Frontiers in Psychology, 14, Article 1202728. https://doi.org/10.3389/fpsyg.2023.1202728",
+    "sonra": "Zhang, L., & Ma, Y. (2023). A study of the impact of project-based learning on student learning effects: A meta-analysis study. Frontiers in Psychology, 14, Article 1202728. https://doi.org/10.3389/fpsyg.2023.1202728",
+    "gerekce": "Makalenin başlığı yayıncı tam metni ve Crossref ile eşleştirildi."
+  },
+  {
+    "once": "Condliffe, B., Quint, J., Visher, M. G., Bangser, M. R., Drohojowska, S., Saco, L., & Nelson, E. (2017). Project-based learning: A literature review (Working paper). MDRC. https://files.eric.ed.gov/fulltext/ED578933.pdf",
+    "sonra": "Condliffe, B., Quint, J., Visher, M. G., Bangser, M. R., Drohojowska, S., Saco, L., et al. (2017). Project-based learning: A literature review (Working paper). MDRC. https://files.eric.ed.gov/fulltext/ED578933.pdf",
+    "gerekce": "Kılavuz s.21: İngilizce, altı yazardan fazla kaynakta ilk altı yazar ve et al. gösterimi."
+  }
+]

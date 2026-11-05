@@ -1,12 +1,12 @@
 # Tez analiz ve çalışma dosyaları
 
-## Güncel — 5 Kasım 2026, literatürü derinleştirilmiş sürüm
+## Güncel — 5 Kasım 2026, baştan sona atıf denetimi
 
-**[Word](tez-calisma-ciktilari-2026-10-20/literatur-derinlestirme-2026-11-05/GOKHAN-KAYA-TEZ-LITERATUR-GUNCEL-05-11-2026.docx)** · **[PDF — 90 sayfa](tez-calisma-ciktilari-2026-10-20/literatur-derinlestirme-2026-11-05/GOKHAN-KAYA-TEZ-LITERATUR-GUNCEL-05-11-2026.pdf)** · **[Tüm dosyalar ZIP](tez-calisma-ciktilari-2026-10-20/literatur-derinlestirme-2026-11-05/TEZ-VE-DUZENLEME-RAPORU-05-11-2026.zip)**
+**[Word](tez-calisma-ciktilari-2026-10-20/atif-denetimi-2026-11-05/GOKHAN-KAYA-TEZ-ATIF-DENETIMLI-05-11-2026.docx)** · **[PDF — 91 sayfa](tez-calisma-ciktilari-2026-10-20/atif-denetimi-2026-11-05/GOKHAN-KAYA-TEZ-ATIF-DENETIMLI-05-11-2026.pdf)** · **[Paket ZIP](tez-calisma-ciktilari-2026-10-20/atif-denetimi-2026-11-05/TEZ-VE-ATIF-DENETIMI-05-11-2026.zip)**
 
-[Yapılanlar ve bölüm standartları](tez-calisma-ciktilari-2026-10-20/literatur-derinlestirme-2026-11-05/YAPILANLAR-VE-BOLUM-STANDARTLARI.pdf) · [Notların kontrolü](tez-calisma-ciktilari-2026-10-20/literatur-derinlestirme-2026-11-05/DANISMAN-NOTLARI-VE-YENI-DUZENLEMELER.xlsx) · [Kapsam ve doğrulama sınırları](tez-calisma-ciktilari-2026-10-20/literatur-derinlestirme-2026-11-05/README.md)
+[Denetim raporu](tez-calisma-ciktilari-2026-10-20/atif-denetimi-2026-11-05/BASTAN-SONA-DENETIM-RAPORU.pdf) · [Paragraf/kaynak kontrolü Excel](tez-calisma-ciktilari-2026-10-20/atif-denetimi-2026-11-05/BASTAN-SONA-ATIF-KAYNAK-DENETIMI.xlsx) · [Kapsam ve açık noktalar](tez-calisma-ciktilari-2026-10-20/atif-denetimi-2026-11-05/README.md)
 
-Literatür 21 sayfa; araştırmaların karşılaştırılması, öğretim tasarımı ve tartışma geliştirildi. Aynı 40 kişi, tablo değerleri ve 41 alıntı korundu. Kaynakça 23 yayın. Gerçek SPSS çalıştırması, PÇBÖ anahtarının bağımsız teyidi ve benzerlik taraması bekliyor.
+555 paragraf kaydı, 30 düzeltme; kullanılmayan iki kaynağın çıkarılmasıyla 21 yayın. Yazılım adı yerine gerçekleşen testler anlatıldı. SPSS kullanımı ileri sürülmedi. PÇBÖ puanlama anahtarının bağımsız teyidi ve benzerlik taraması bekliyor. Sayısal tablolar ve 41 alıntı korundu.
 
 ## Analiz kaydı ve geçmiş sürümler
 

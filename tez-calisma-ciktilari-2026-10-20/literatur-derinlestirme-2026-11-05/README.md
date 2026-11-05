@@ -1,3 +1,5 @@
+> Bu 90 sayfalık dosya geçmiş sürümdür. [Güncel 91 sayfalık tez ve baştan sona denetim raporu](../atif-denetimi-2026-11-05/README.md).
+
 # Güncel tez — literatür ve tartışma derinleştirmesi, 5 Kasım 2026
 
 **[Word](GOKHAN-KAYA-TEZ-LITERATUR-GUNCEL-05-11-2026.docx)** · **[PDF — 90 sayfa](GOKHAN-KAYA-TEZ-LITERATUR-GUNCEL-05-11-2026.pdf)** · **[Paket ZIP](TEZ-VE-DUZENLEME-RAPORU-05-11-2026.zip)**
