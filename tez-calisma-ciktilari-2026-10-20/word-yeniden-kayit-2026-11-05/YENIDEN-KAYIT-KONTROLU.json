@@ -11,8 +11,10 @@
   "actual_Microsoft_Word_retest_passed": true,
   "previous_fix_insufficient": true,
   "files": {
-    "GOKHAN-KAYA-TEZ-WORD-YENIDEN-KAYIT-05-11-2026.pdf": "8f277b44e19f7f4b083bf7bc13a4177b00a06b81b7700dd40c797eb371e8a1de",
-    "GOKHAN-KAYA-TEZ-WORD-YENIDEN-KAYIT-05-11-2026.docx": "4de8cacd0cb35e8cb8c93507f90659d15e1521dfc42a0b1f812958b24bbb393d"
+    "GOKHAN-KAYA-TEZ-WORD-YENIDEN-KAYIT-05-11-2026.pdf": "2ab3a07c42e7ff8955abbcf47d26f3076420bf97601f43d899b746cf388003ef",
+    "GOKHAN-KAYA-TEZ-WORD-YENIDEN-KAYIT-05-11-2026.docx": "8060a135af92192984d2cd80cdbcaa3b9c16bbbde563b3213efd7c4b57862511"
   },
-  "actual_Word_retest_scope": "Araştırmacının Microsoft Word PDF çıktısında 91 sayfa ve 27 tablo kontrol edildi. Ardından yalnız EKLER dizin numarası ii→68 düzeltildi; son küçük düzeltme sonrası PDF yerel üretimdir."
+  "actual_Word_retest_scope": "Araştırmacının Microsoft Word PDF çıktısında 91 sayfa ve 27 tablo kontrol edildi. Ardından yalnız EKLER dizin numarası ii→68 düzeltildi; son küçük düzeltme sonrası PDF yerel üretimdir.",
+  "index_links_added": 75,
+  "link_change_scope": "Content and page text preserved; PDF internal destinations checked. Word Ctrl+click interaction not executed in this environment."
 }

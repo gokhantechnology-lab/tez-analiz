@@ -9,3 +9,6 @@ Bu sürümde, içerik sırası sağlam asıl dosya LibreOffice Office Open XML T
 **Araştırmacının Microsoft Word ile ürettiği test.pdf incelendi: 91 sayfa, doğru kapak/bölüm sırası ve 27 tablonun beklenen sayfalardaki tüm hücre metinleri doğrulandı.** Önceki içerik sırası bozukluğu bu çıktıda yoktur. Word PDF’sinin 91 sayfası yerel PDF ile metin bakımından örtüştü; boş sayfa veya sayfa dışına taşan sözcük saptanmadı. Dizin kontrolünde EKLER satırının ii yerine 68 olması gerektiği görüldü ve güncel DOCX/PDF’de düzeltildi. Bu tek numara düzeltmesinden sonraki PDF yerel üretimdir; diğer sayfaların metni Word çıktısıyla boşluk/noktalama normalizasyonu sonrasında aynıdır.
 
 [Yeniden kayıt kontrolü](YENIDEN-KAYIT-KONTROLU.json) · [Önceki iki ölçek SPSS doğrulaması](../spss-iki-olcek-dogrulanmis-2026-11-05/README.md)
+
+
+İçindekiler, tablolar ve şekiller listelerindeki toplam 75 satıra belge içi bağlantı eklendi. Tüm hedef yer imleri ve PDF iç bağlantıları kontrol edildi; sayfa metinleri ve 27 tablo değişmedi. Word’de Ctrl+tıklama, PDF’de doğrudan tıklama kullanılabilir. Bu dizinler mevcut sayfa numaralarını koruyan bağlantılı listelerdir; otomatik yeniden oluşturulan içindekiler alanı değildir. Sayfalar değişirse numaralar ayrıca güncellenmelidir.
