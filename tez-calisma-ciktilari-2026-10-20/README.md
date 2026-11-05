@@ -1,10 +1,12 @@
-# Güncel dosyalar — 5 Kasım 2026
+# Güncel çalışma dosyaları
 
-**[Word](danisman-tam-duzeltme-2026-11-05/GOKHAN-KAYA-TEZ-DANISMAN-GUNCEL-05-11-2026.docx)** · **[PDF — 68 sayfa](danisman-tam-duzeltme-2026-11-05/GOKHAN-KAYA-TEZ-DANISMAN-GUNCEL-05-11-2026.pdf)** · **[Paket ZIP](danisman-tam-duzeltme-2026-11-05/TEZ-VE-DANISMAN-DUZELTMELERI-05-11-2026.zip)**
+## Güncel — 5 Kasım 2026, genişletilmiş ve kontrol edilmiş sürüm
 
-[Ayrıntılı yapılanlar](danisman-tam-duzeltme-2026-11-05/DANISMAN-TALEPLERI-AYRINTILI-YAPILANLAR.pdf) · [172 notun kontrolü](danisman-tam-duzeltme-2026-11-05/172-NOT-DUZELTME-VE-DOGRULAMA-KONTROLU.xlsx) · [Kapsam ve bekleyen doğrulamalar](danisman-tam-duzeltme-2026-11-05/README.md)
+**[Tez Word](tez-yeniden-toparlama-2026-11-05/GOKHAN-KAYA-TEZ-GOZDEN-GECIRILMIS-05-11-2026.docx)** · **[Tez PDF — 84 sayfa](tez-yeniden-toparlama-2026-11-05/GOKHAN-KAYA-TEZ-GOZDEN-GECIRILMIS-05-11-2026.pdf)** · **[Tüm dosyalar ZIP](tez-yeniden-toparlama-2026-11-05/TEZ-VE-KARSILASTIRMA-DOSYALARI-05-11-2026.zip)**
 
-SPSS karşılaştırma komutları hazır; gerçek SPSS çalıştırması henüz yapılmadı. Ana tez gerçek yazılım bilgisiyle güncellendi. Aşağıdaki tarihli notlar geçmiş kayıtlardır; eski “en güncel” ifadeleri o tarihteki sürümü anlatır.
+[Değişiklik raporu](tez-yeniden-toparlama-2026-11-05/YENIDEN-DUZENLEME-VE-ICERIK-KARSILASTIRMASI.pdf) · [172 not ve içerik kontrolü](tez-yeniden-toparlama-2026-11-05/172-NOT-VE-ICERIK-KARSILASTIRMA-KONTROLU.xlsx) · [Kapsam ve bekleyen doğrulamalar](tez-yeniden-toparlama-2026-11-05/README.md)
+
+Literatür, bulgular ve tartışma açıklamaları genişletildi. Aynı 40 katılımcı, analiz değerleri ve bütün tablo hücreleri korundu. Gerçek SPSS çalıştırması henüz yok; ana tezde gerçek yazılım bilgisi yer alır. PÇBÖ puanlama anahtarının bağımsız teyidi ve yeni benzerlik taraması bekliyor.
 
 ---
 

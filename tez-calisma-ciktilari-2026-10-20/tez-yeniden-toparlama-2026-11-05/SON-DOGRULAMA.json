@@ -1,0 +1,216 @@
+{
+  "tarih": "2026-11-05",
+  "tez_pdf_sayfa": 84,
+  "numarali_tablo": 17,
+  "fiziksel_tablo": 27,
+  "kod_kitabi_satiri": 53,
+  "sekil": 2,
+  "gorusme_alt_soru": 11,
+  "soru_bazli_tablo": 11,
+  "birebir_alinti": 41,
+  "eski_30_alinti_korundu": true,
+  "ekler_metinleri_aynen_korundu": true,
+  "katilimci": 40,
+  "kadin": 33,
+  "erkek": 7,
+  "kaynakca": 22,
+  "ozet_sozcukleri": {
+    "ÖZET": 231,
+    "ABSTRACT": 260
+  },
+  "dizin_basvurusu": 66,
+  "tablo_sayfa_kontrolu": [
+    {
+      "tablo": "Tablo 3.1 Çalışma Grubunun Temel Özellikleri",
+      "pdf_sayfa": 35,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 3.2. Araştırmada Kullanılan Veri Toplama Araçlarının Özellikleri",
+      "pdf_sayfa": 39,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.1 PÇBÖ Fark Puanlarının Shapiro–Wilk Testi Sonuçları",
+      "pdf_sayfa": 44,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.2 PÇBÖ Ön Test ve Son Test Puanlarının Bağımlı Örneklemler t Testi Sonuçları",
+      "pdf_sayfa": 44,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.3 İBDÖ Fark Puanlarının Shapiro–Wilk Testi Sonuçları",
+      "pdf_sayfa": 46,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.4 İBDÖ Ön Test ve Son Test Puanlarının Bağımlı Örneklemler t Testi Sonuçları",
+      "pdf_sayfa": 46,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.5 Problem Belirleme Deneyimleri",
+      "pdf_sayfa": 48,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.6 Grup Çalışmasının Problem Belirleme ve Çözmeye Katkısı",
+      "pdf_sayfa": 49,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.7 Çözüm Sürecinde İzlenen Yollar",
+      "pdf_sayfa": 50,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.8 Problem ve Çözüm Uyumsuzluğunda İzlenen Yollar",
+      "pdf_sayfa": 51,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.9 Bireysel Beceri Katkılarına İlişkin Görüşler",
+      "pdf_sayfa": 53,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.10 Fikirlerini İfade Etmeye İlişkin Görüşler",
+      "pdf_sayfa": 54,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.11 Görüş Ayrılıklarında Ortak Karar Yolları",
+      "pdf_sayfa": 55,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.12 Grup Çalışmasının Becerilere Katkısına İlişkin Görüşler",
+      "pdf_sayfa": 56,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.13 Doğal Afetleri Öğrenmeye İlişkin Görüşler",
+      "pdf_sayfa": 58,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.14 Sürecin Olumlu ve Olumsuz Yönlerine İlişkin Görüşler",
+      "pdf_sayfa": 59,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.15 Öğretim Sürecinde Düzenleme Beklentileri",
+      "pdf_sayfa": 61,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 1",
+      "pdf_sayfa": 79,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 2",
+      "pdf_sayfa": 80,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 3",
+      "pdf_sayfa": 81,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 4",
+      "pdf_sayfa": 81,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 5",
+      "pdf_sayfa": 82,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 6",
+      "pdf_sayfa": 82,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 7",
+      "pdf_sayfa": 83,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 8",
+      "pdf_sayfa": 83,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 9",
+      "pdf_sayfa": 83,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 10",
+      "pdf_sayfa": 84,
+      "hucre_icerigi_ayni_sayfada": true
+    }
+  ],
+  "bos_sayfa": [],
+  "tasan_sozcuk": [],
+  "sekiller_baslikla_ayni_sayfada": true,
+  "puanlama_yeniden_degistirildi": false,
+  "t_ve_p_karsilastirmasi": "9 test ham veriyle yeniden kontrol edildi; son−ön yönünde mevcut önbellekle uyumlu.",
+  "PÇBÖ_yetkili_anahtar_bagimsiz_teyidi": false,
+  "benzerlik_taramasi": false,
+  "Microsoft_Word_uygulama_testi": false,
+  "pdf_uretimi": "LibreOffice",
+  "alfa_karsilastirmasi": 18,
+  "not_durumlari": {
+    "Yazısız işaret — bağlam kontrol edildi": 4,
+    "Uygulandı / kontrol edildi": 162,
+    "Bekliyor — gerçek SPSS çalıştırması": 2,
+    "Korundu / kontrol edildi": 3,
+    "Kısmen — düzen uygulandı, SPSS doğrulaması bekliyor": 1
+  },
+  "dosyalar": {
+    "172-NOT-VE-ICERIK-KARSILASTIRMA-KONTROLU.xlsx": {
+      "bytes": 43687,
+      "sha256": "3e1280fe220224d0200172d0657b7ae09a9aa4a5bd32f24166e2e5f6d4601653"
+    },
+    "GOKHAN-KAYA-TEZ-GOZDEN-GECIRILMIS-05-11-2026.docx": {
+      "bytes": 1559711,
+      "sha256": "52e7d6550af1c536a211647ef3c688873b2269d5e7932b11a72c1bcb3e3a9b6d"
+    },
+    "GOKHAN-KAYA-TEZ-GOZDEN-GECIRILMIS-05-11-2026.pdf": {
+      "bytes": 1578462,
+      "sha256": "33feb687324e2c1f9004344edf78f5c3852227eef3ab790413c8c9bdc0d6da1f"
+    },
+    "SPSS-GECIS-VE-YONTEM-GUNCELLEME-PLANI.docx": {
+      "bytes": 38441,
+      "sha256": "5c9c268ff8b760a9378056bd93c14001859f3424d19896b6307bb277eeca5e31"
+    },
+    "SPSS-GECIS-VE-YONTEM-GUNCELLEME-PLANI.pdf": {
+      "bytes": 79414,
+      "sha256": "a0e0f1cba1171587406239afe7647309eaa30232da5cb714274f51425af20cc0"
+    },
+    "SPSS-KARSILASTIRMA-KOMUTLARI.sps": {
+      "bytes": 8335,
+      "sha256": "ea6025b5b5ab169fa93e369660dd8815c60c1f7d6736de06967b2c37c8cd973e"
+    },
+    "YENIDEN-DUZENLEME-VE-ICERIK-KARSILASTIRMASI.docx": {
+      "bytes": 41484,
+      "sha256": "1d016bb6d9fb8392c7d2b5da664c92f986be8b2ae64a9284e759ce8933975864"
+    },
+    "YENIDEN-DUZENLEME-VE-ICERIK-KARSILASTIRMASI.pdf": {
+      "bytes": 162116,
+      "sha256": "d0a14b1259e7ef355279c98560b2e43824e4d232a32e77b1769e54e179737779"
+    }
+  },
+  "95_sayfalik_surum_sonrasi_eklenen_ozgun_yayin": 3,
+  "bu_tur_yeni_kaynak_eklenmedi": true,
+  "95_sayfalik_surum_sonrasi_cikarilan_sekil": 6,
+  "spss_calistirildi": false,
+  "68_sayfalik_surumdeki_27_tablonun_tum_hucreleri_korundu": true,
+  "68_sayfalik_surumdeki_34_alinti_paragrafi_aynen_korundu": true
+}

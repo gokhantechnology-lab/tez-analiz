@@ -1,0 +1,38 @@
+[
+  {
+    "surum": "Ortak 40 kişilik 95 sayfalık sürüm",
+    "toplam_sayfa": 95,
+    "giris_sozcuk": 1213,
+    "literatur_sozcuk": 3504,
+    "yontem_sozcuk": 1917,
+    "bulgular_sozcuk": 4812,
+    "sonuc_tartisma_oneriler_sozcuk": 2961,
+    "yalniz_sonuc_tartisma_sozcuk": 1996,
+    "kaynakca_sozcuk": 507,
+    "ekler_sozcuk": 1151
+  },
+  {
+    "surum": "68 sayfalık kısa sürüm",
+    "toplam_sayfa": 68,
+    "giris_sozcuk": 1173,
+    "literatur_sozcuk": 2099,
+    "yontem_sozcuk": 1969,
+    "bulgular_sozcuk": 1574,
+    "sonuc_tartisma_oneriler_sozcuk": 1057,
+    "yalniz_sonuc_tartisma_sozcuk": 932,
+    "kaynakca_sozcuk": 621,
+    "ekler_sozcuk": 1151
+  },
+  {
+    "surum": "84 sayfalık gözden geçirilmiş sürüm",
+    "toplam_sayfa": 84,
+    "giris_sozcuk": 1173,
+    "literatur_sozcuk": 4238,
+    "yontem_sozcuk": 1969,
+    "bulgular_sozcuk": 3467,
+    "sonuc_tartisma_oneriler_sozcuk": 1924,
+    "yalniz_sonuc_tartisma_sozcuk": 1799,
+    "kaynakca_sozcuk": 621,
+    "ekler_sozcuk": 1151
+  }
+]

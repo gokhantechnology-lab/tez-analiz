@@ -1,0 +1,835 @@
+[
+  {
+    "tablo": "4.5",
+    "soru": "1-a",
+    "kod": "P01",
+    "gorus": "Problem belirlemede zorlanma",
+    "f": 3,
+    "katilimcilar": [
+      "K1",
+      "K3",
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.5",
+    "soru": "1-a",
+    "kod": "P02",
+    "gorus": "Problem belirlemede zorlanmama",
+    "f": 1,
+    "katilimcilar": [
+      "K2"
+    ]
+  },
+  {
+    "tablo": "4.5",
+    "soru": "1-a",
+    "kod": "P03",
+    "gorus": "Özgünlük arayışının güçlük oluşturması",
+    "f": 2,
+    "katilimcilar": [
+      "K1",
+      "K3"
+    ]
+  },
+  {
+    "tablo": "4.5",
+    "soru": "1-a",
+    "kod": "P04",
+    "gorus": "Uygulanabilir ve çözülebilir problem seçme güçlüğü",
+    "f": 2,
+    "katilimcilar": [
+      "K1",
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.5",
+    "soru": "1-a",
+    "kod": "P18",
+    "gorus": "Problem için bilgi araştırma",
+    "f": 2,
+    "katilimcilar": [
+      "K2",
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.6",
+    "soru": "1-b",
+    "kod": "C03",
+    "gorus": "Fikir ve alternatif çeşitliliği",
+    "f": 4,
+    "katilimcilar": [
+      "K1",
+      "K2",
+      "K3",
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.6",
+    "soru": "1-b",
+    "kod": "C04",
+    "gorus": "Yardımlaşma",
+    "f": 1,
+    "katilimcilar": [
+      "K1"
+    ]
+  },
+  {
+    "tablo": "4.6",
+    "soru": "1-b",
+    "kod": "C05",
+    "gorus": "Karşılıklı görüş paylaşımı ve ortak karar",
+    "f": 1,
+    "katilimcilar": [
+      "K2"
+    ]
+  },
+  {
+    "tablo": "4.6",
+    "soru": "1-b",
+    "kod": "R08",
+    "gorus": "Küçük grubu uygun bulma",
+    "f": 1,
+    "katilimcilar": [
+      "K2"
+    ]
+  },
+  {
+    "tablo": "4.7",
+    "soru": "3-a",
+    "kod": "P01",
+    "gorus": "Problem belirlemede zorlanma",
+    "f": 1,
+    "katilimcilar": [
+      "K3"
+    ]
+  },
+  {
+    "tablo": "4.7",
+    "soru": "3-a",
+    "kod": "P05",
+    "gorus": "Problem ve çözümü birlikte ele alma",
+    "f": 3,
+    "katilimcilar": [
+      "K1",
+      "K2",
+      "K3"
+    ]
+  },
+  {
+    "tablo": "4.7",
+    "soru": "3-a",
+    "kod": "P06",
+    "gorus": "Aşamalı araştırma–değerlendirme–uygulama",
+    "f": 1,
+    "katilimcilar": [
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.7",
+    "soru": "3-a",
+    "kod": "P07",
+    "gorus": "Tasarım ve uygulama güçlüğü",
+    "f": 2,
+    "katilimcilar": [
+      "K2",
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.7",
+    "soru": "3-a",
+    "kod": "P09",
+    "gorus": "Çözümü sorgulama ve revize etme",
+    "f": 1,
+    "katilimcilar": [
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.7",
+    "soru": "3-a",
+    "kod": "P17",
+    "gorus": "Teorik problem–çözüm uyumunda belirgin sorun yaşamama",
+    "f": 2,
+    "katilimcilar": [
+      "K2",
+      "K3"
+    ]
+  },
+  {
+    "tablo": "4.7",
+    "soru": "3-a",
+    "kod": "P18",
+    "gorus": "Problem için bilgi araştırma",
+    "f": 1,
+    "katilimcilar": [
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.7",
+    "soru": "3-a",
+    "kod": "C05",
+    "gorus": "Karşılıklı görüş paylaşımı ve ortak karar",
+    "f": 1,
+    "katilimcilar": [
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.8",
+    "soru": "3-b",
+    "kod": "P05",
+    "gorus": "Problem ve çözümü birlikte ele alma",
+    "f": 1,
+    "katilimcilar": [
+      "K1"
+    ]
+  },
+  {
+    "tablo": "4.8",
+    "soru": "3-b",
+    "kod": "P07",
+    "gorus": "Tasarım ve uygulama güçlüğü",
+    "f": 2,
+    "katilimcilar": [
+      "K2",
+      "K3"
+    ]
+  },
+  {
+    "tablo": "4.8",
+    "soru": "3-b",
+    "kod": "P08",
+    "gorus": "Çözüm üretilemeyen problemi değiştirme",
+    "f": 1,
+    "katilimcilar": [
+      "K1"
+    ]
+  },
+  {
+    "tablo": "4.8",
+    "soru": "3-b",
+    "kod": "P09",
+    "gorus": "Çözümü sorgulama ve revize etme",
+    "f": 1,
+    "katilimcilar": [
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.8",
+    "soru": "3-b",
+    "kod": "P10",
+    "gorus": "Alternatif deneme ve sürdürme",
+    "f": 3,
+    "katilimcilar": [
+      "K2",
+      "K3",
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.8",
+    "soru": "3-b",
+    "kod": "P17",
+    "gorus": "Teorik problem–çözüm uyumunda belirgin sorun yaşamama",
+    "f": 2,
+    "katilimcilar": [
+      "K2",
+      "K3"
+    ]
+  },
+  {
+    "tablo": "4.8",
+    "soru": "3-b",
+    "kod": "C03",
+    "gorus": "Fikir ve alternatif çeşitliliği",
+    "f": 1,
+    "katilimcilar": [
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.9",
+    "soru": "5-a",
+    "kod": "P07",
+    "gorus": "Tasarım ve uygulama güçlüğü",
+    "f": 1,
+    "katilimcilar": [
+      "K1"
+    ]
+  },
+  {
+    "tablo": "4.9",
+    "soru": "5-a",
+    "kod": "P10",
+    "gorus": "Alternatif deneme ve sürdürme",
+    "f": 2,
+    "katilimcilar": [
+      "K2",
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.9",
+    "soru": "5-a",
+    "kod": "P11",
+    "gorus": "Problem çözmeye katkı algısı",
+    "f": 4,
+    "katilimcilar": [
+      "K1",
+      "K2",
+      "K3",
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.9",
+    "soru": "5-a",
+    "kod": "P12",
+    "gorus": "Yaratıcı düşünmeye katkı algısı",
+    "f": 3,
+    "katilimcilar": [
+      "K1",
+      "K3",
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.9",
+    "soru": "5-a",
+    "kod": "P13",
+    "gorus": "Araştırma becerisine katkı algısı",
+    "f": 3,
+    "katilimcilar": [
+      "K2",
+      "K3",
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.9",
+    "soru": "5-a",
+    "kod": "P14",
+    "gorus": "Analitik düşünmeye katkı algısı",
+    "f": 1,
+    "katilimcilar": [
+      "K3"
+    ]
+  },
+  {
+    "tablo": "4.9",
+    "soru": "5-a",
+    "kod": "P15",
+    "gorus": "Bilgiyi seçme ve değerlendirme",
+    "f": 1,
+    "katilimcilar": [
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.9",
+    "soru": "5-a",
+    "kod": "P16",
+    "gorus": "Uzmanlara başvurma",
+    "f": 1,
+    "katilimcilar": [
+      "K2"
+    ]
+  },
+  {
+    "tablo": "4.9",
+    "soru": "5-a",
+    "kod": "P18",
+    "gorus": "Problem için bilgi araştırma",
+    "f": 4,
+    "katilimcilar": [
+      "K1",
+      "K2",
+      "K3",
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.9",
+    "soru": "5-a",
+    "kod": "C10",
+    "gorus": "İletişime ilişkin katkı bildirme",
+    "f": 1,
+    "katilimcilar": [
+      "K2"
+    ]
+  },
+  {
+    "tablo": "4.10",
+    "soru": "2-a",
+    "kod": "C01",
+    "gorus": "Fikirlerini rahatça ifade etme",
+    "f": 4,
+    "katilimcilar": [
+      "K1",
+      "K2",
+      "K3",
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.10",
+    "soru": "2-a",
+    "kod": "C02",
+    "gorus": "Tanışıklık ve kendi seçtiği grupla iletişim kolaylığı",
+    "f": 4,
+    "katilimcilar": [
+      "K1",
+      "K2",
+      "K3",
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.11",
+    "soru": "2-b",
+    "kod": "C02",
+    "gorus": "Tanışıklık ve kendi seçtiği grupla iletişim kolaylığı",
+    "f": 1,
+    "katilimcilar": [
+      "K1"
+    ]
+  },
+  {
+    "tablo": "4.11",
+    "soru": "2-b",
+    "kod": "C05",
+    "gorus": "Karşılıklı görüş paylaşımı ve ortak karar",
+    "f": 4,
+    "katilimcilar": [
+      "K1",
+      "K2",
+      "K3",
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.11",
+    "soru": "2-b",
+    "kod": "C06",
+    "gorus": "Oylama",
+    "f": 1,
+    "katilimcilar": [
+      "K1"
+    ]
+  },
+  {
+    "tablo": "4.11",
+    "soru": "2-b",
+    "kod": "C07",
+    "gorus": "Gerekçelendirme ve ikna",
+    "f": 2,
+    "katilimcilar": [
+      "K3",
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.11",
+    "soru": "2-b",
+    "kod": "C08",
+    "gorus": "Dinleme ve uzlaşma",
+    "f": 2,
+    "katilimcilar": [
+      "K2",
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.11",
+    "soru": "2-b",
+    "kod": "C09",
+    "gorus": "Eleştiriye alternatif öneri ekleme",
+    "f": 1,
+    "katilimcilar": [
+      "K3"
+    ]
+  },
+  {
+    "tablo": "4.12",
+    "soru": "5-b",
+    "kod": "C03",
+    "gorus": "Fikir ve alternatif çeşitliliği",
+    "f": 2,
+    "katilimcilar": [
+      "K1",
+      "K2"
+    ]
+  },
+  {
+    "tablo": "4.12",
+    "soru": "5-b",
+    "kod": "C04",
+    "gorus": "Yardımlaşma",
+    "f": 2,
+    "katilimcilar": [
+      "K1",
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.12",
+    "soru": "5-b",
+    "kod": "C05",
+    "gorus": "Karşılıklı görüş paylaşımı ve ortak karar",
+    "f": 2,
+    "katilimcilar": [
+      "K1",
+      "K3"
+    ]
+  },
+  {
+    "tablo": "4.12",
+    "soru": "5-b",
+    "kod": "C08",
+    "gorus": "Dinleme ve uzlaşma",
+    "f": 1,
+    "katilimcilar": [
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.12",
+    "soru": "5-b",
+    "kod": "C10",
+    "gorus": "İletişime ilişkin katkı bildirme",
+    "f": 3,
+    "katilimcilar": [
+      "K2",
+      "K3",
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.12",
+    "soru": "5-b",
+    "kod": "C11",
+    "gorus": "Görev paylaşımı ve koordinasyon",
+    "f": 1,
+    "katilimcilar": [
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.12",
+    "soru": "5-b",
+    "kod": "C12",
+    "gorus": "Belirli becerideki katkının büyüklüğünde belirsizlik",
+    "f": 1,
+    "katilimcilar": [
+      "K2"
+    ]
+  },
+  {
+    "tablo": "4.13",
+    "soru": "4",
+    "kod": "L01",
+    "gorus": "Afet konusunu öğrenmeye katkı algısı",
+    "f": 4,
+    "katilimcilar": [
+      "K1",
+      "K2",
+      "K3",
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.13",
+    "soru": "4",
+    "kod": "L02",
+    "gorus": "Öğrenilenlerin akılda kalıcılığına ilişkin algı",
+    "f": 4,
+    "katilimcilar": [
+      "K1",
+      "K2",
+      "K3",
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.13",
+    "soru": "4",
+    "kod": "L03",
+    "gorus": "Araştırarak öğrenme",
+    "f": 4,
+    "katilimcilar": [
+      "K1",
+      "K2",
+      "K3",
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.13",
+    "soru": "4",
+    "kod": "L04",
+    "gorus": "Uygulayarak ve ürünle öğrenme",
+    "f": 4,
+    "katilimcilar": [
+      "K1",
+      "K2",
+      "K3",
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.13",
+    "soru": "4",
+    "kod": "L05",
+    "gorus": "Diğer grupların sunumlarından öğrenme",
+    "f": 2,
+    "katilimcilar": [
+      "K2",
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.14",
+    "soru": "6",
+    "kod": "L02",
+    "gorus": "Öğrenilenlerin akılda kalıcılığına ilişkin algı",
+    "f": 4,
+    "katilimcilar": [
+      "K1",
+      "K2",
+      "K3",
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.14",
+    "soru": "6",
+    "kod": "L04",
+    "gorus": "Uygulayarak ve ürünle öğrenme",
+    "f": 1,
+    "katilimcilar": [
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.14",
+    "soru": "6",
+    "kod": "L06",
+    "gorus": "Aktif katılım",
+    "f": 1,
+    "katilimcilar": [
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.14",
+    "soru": "6",
+    "kod": "L07",
+    "gorus": "Öğretmenliğe hazırlık",
+    "f": 1,
+    "katilimcilar": [
+      "K1"
+    ]
+  },
+  {
+    "tablo": "4.14",
+    "soru": "6",
+    "kod": "L08",
+    "gorus": "Pratik yapma fırsatı",
+    "f": 1,
+    "katilimcilar": [
+      "K1"
+    ]
+  },
+  {
+    "tablo": "4.14",
+    "soru": "6",
+    "kod": "L09",
+    "gorus": "Yoruculuk ve güçlük",
+    "f": 2,
+    "katilimcilar": [
+      "K1",
+      "K3"
+    ]
+  },
+  {
+    "tablo": "4.14",
+    "soru": "6",
+    "kod": "L10",
+    "gorus": "Maddi maliyet ve olanak kısıtı",
+    "f": 2,
+    "katilimcilar": [
+      "K1",
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.14",
+    "soru": "6",
+    "kod": "L11",
+    "gorus": "Uzun sürme ve zaman yükü",
+    "f": 1,
+    "katilimcilar": [
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.14",
+    "soru": "6",
+    "kod": "L12",
+    "gorus": "Bekleme ve zaman kaybı",
+    "f": 1,
+    "katilimcilar": [
+      "K2"
+    ]
+  },
+  {
+    "tablo": "4.14",
+    "soru": "6",
+    "kod": "L14",
+    "gorus": "Grupların farklı hızlarda ilerlemesi",
+    "f": 1,
+    "katilimcilar": [
+      "K2"
+    ]
+  },
+  {
+    "tablo": "4.14",
+    "soru": "6",
+    "kod": "R03",
+    "gorus": "Problem belirlemede yönlendirme beklentisi",
+    "f": 1,
+    "katilimcilar": [
+      "K2"
+    ]
+  },
+  {
+    "tablo": "4.15",
+    "soru": "7",
+    "kod": "L10",
+    "gorus": "Maddi maliyet ve olanak kısıtı",
+    "f": 1,
+    "katilimcilar": [
+      "K2"
+    ]
+  },
+  {
+    "tablo": "4.15",
+    "soru": "7",
+    "kod": "L12",
+    "gorus": "Bekleme ve zaman kaybı",
+    "f": 1,
+    "katilimcilar": [
+      "K3"
+    ]
+  },
+  {
+    "tablo": "4.15",
+    "soru": "7",
+    "kod": "L13",
+    "gorus": "Serbest zamanın verimsiz kullanılması",
+    "f": 1,
+    "katilimcilar": [
+      "K1"
+    ]
+  },
+  {
+    "tablo": "4.15",
+    "soru": "7",
+    "kod": "L14",
+    "gorus": "Grupların farklı hızlarda ilerlemesi",
+    "f": 1,
+    "katilimcilar": [
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.15",
+    "soru": "7",
+    "kod": "R01",
+    "gorus": "Daha fazla süre",
+    "f": 1,
+    "katilimcilar": [
+      "K1"
+    ]
+  },
+  {
+    "tablo": "4.15",
+    "soru": "7",
+    "kod": "R02",
+    "gorus": "Serbest zamanı planlama",
+    "f": 1,
+    "katilimcilar": [
+      "K1"
+    ]
+  },
+  {
+    "tablo": "4.15",
+    "soru": "7",
+    "kod": "R03",
+    "gorus": "Problem belirlemede yönlendirme beklentisi",
+    "f": 2,
+    "katilimcilar": [
+      "K2",
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.15",
+    "soru": "7",
+    "kod": "R04",
+    "gorus": "Başlangıç örneklerini artırma",
+    "f": 2,
+    "katilimcilar": [
+      "K2",
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.15",
+    "soru": "7",
+    "kod": "R05",
+    "gorus": "Bütçe ve malzeme desteği",
+    "f": 1,
+    "katilimcilar": [
+      "K2"
+    ]
+  },
+  {
+    "tablo": "4.15",
+    "soru": "7",
+    "kod": "R06",
+    "gorus": "Bekleme sürelerini azaltma",
+    "f": 1,
+    "katilimcilar": [
+      "K3"
+    ]
+  },
+  {
+    "tablo": "4.15",
+    "soru": "7",
+    "kod": "R07",
+    "gorus": "Aşamaya uygun farklı görevler",
+    "f": 1,
+    "katilimcilar": [
+      "K4"
+    ]
+  },
+  {
+    "tablo": "4.15",
+    "soru": "7",
+    "kod": "R09",
+    "gorus": "Özerk problem seçimini koruma",
+    "f": 1,
+    "katilimcilar": [
+      "K4"
+    ]
+  }
+]

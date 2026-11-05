@@ -1,3 +1,5 @@
+> Bu 68 sayfalık sürüm geçmiş kayıttır. [Güncel 84 sayfalık tez ve karşılaştırma raporu](../tez-yeniden-toparlama-2026-11-05/README.md).
+
 # 5 Kasım 2026 — danışman düzenlemeleri uygulanmış tez
 
 ## İndirilebilir dosyalar

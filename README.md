@@ -1,14 +1,12 @@
 # Tez analiz ve çalışma dosyaları
 
-## Güncel — 5 Kasım 2026, danışman düzeltmeleri
+## Güncel — 5 Kasım 2026, genişletilmiş ve kontrol edilmiş sürüm
 
-**[Tez Word](tez-calisma-ciktilari-2026-10-20/danisman-tam-duzeltme-2026-11-05/GOKHAN-KAYA-TEZ-DANISMAN-GUNCEL-05-11-2026.docx)** · **[Tez PDF — 68 sayfa](tez-calisma-ciktilari-2026-10-20/danisman-tam-duzeltme-2026-11-05/GOKHAN-KAYA-TEZ-DANISMAN-GUNCEL-05-11-2026.pdf)** · **[Tüm dosyalar ZIP](tez-calisma-ciktilari-2026-10-20/danisman-tam-duzeltme-2026-11-05/TEZ-VE-DANISMAN-DUZELTMELERI-05-11-2026.zip)**
+**[Tez Word](tez-calisma-ciktilari-2026-10-20/tez-yeniden-toparlama-2026-11-05/GOKHAN-KAYA-TEZ-GOZDEN-GECIRILMIS-05-11-2026.docx)** · **[Tez PDF — 84 sayfa](tez-calisma-ciktilari-2026-10-20/tez-yeniden-toparlama-2026-11-05/GOKHAN-KAYA-TEZ-GOZDEN-GECIRILMIS-05-11-2026.pdf)** · **[Tüm dosyalar ZIP](tez-calisma-ciktilari-2026-10-20/tez-yeniden-toparlama-2026-11-05/TEZ-VE-KARSILASTIRMA-DOSYALARI-05-11-2026.zip)**
 
-[**Ayrıntılı yapılanlar raporu**](tez-calisma-ciktilari-2026-10-20/danisman-tam-duzeltme-2026-11-05/DANISMAN-TALEPLERI-AYRINTILI-YAPILANLAR.pdf) · [**172 notun kontrol Excel’i**](tez-calisma-ciktilari-2026-10-20/danisman-tam-duzeltme-2026-11-05/172-NOT-DUZELTME-VE-DOGRULAMA-KONTROLU.xlsx) · [**Güncel klasör ve doğrulama sınırları**](tez-calisma-ciktilari-2026-10-20/danisman-tam-duzeltme-2026-11-05/)
+[Değişiklik raporu](tez-calisma-ciktilari-2026-10-20/tez-yeniden-toparlama-2026-11-05/YENIDEN-DUZENLEME-VE-ICERIK-KARSILASTIRMASI.pdf) · [172 not ve içerik kontrolü](tez-calisma-ciktilari-2026-10-20/tez-yeniden-toparlama-2026-11-05/172-NOT-VE-ICERIK-KARSILASTIRMA-KONTROLU.xlsx) · [Kapsam ve bekleyen doğrulamalar](tez-calisma-ciktilari-2026-10-20/tez-yeniden-toparlama-2026-11-05/README.md)
 
-Danışmanın 26/27 Ekim PDF’leri, mesajları, ses kaydı ve enstitü kılavuzu esas alındı. Bulgular, görüşme soruları, literatür, sonuç/tartışma ve öneriler yeniden düzenlendi. Aynı 40 kişi ve analiz sonuçları korundu; t işaretleri son−ön yönünde tutarlı raporlandı.
-
-**Gerçek SPSS çalıştırması henüz yok; kullanılan yazılım Python olarak doğru biçimde belirtiliyor.** SPSS karşılaştırma komutları hazırdır. PÇBÖ yetkili puanlama anahtarının bağımsız teyidi ve yeni benzerlik taraması bu turda tamamlanmamıştır; ayrıntılar rapordadır.
+Literatür, bulgular ve tartışma açıklamaları genişletildi. Aynı 40 katılımcı, analiz değerleri ve bütün tablo hücreleri korundu. Gerçek SPSS çalıştırması henüz yok; ana tezde gerçek yazılım bilgisi yer alır. PÇBÖ puanlama anahtarının bağımsız teyidi ve yeni benzerlik taraması bekliyor.
 
 ## Analiz kaydı ve geçmiş sürümler
 
