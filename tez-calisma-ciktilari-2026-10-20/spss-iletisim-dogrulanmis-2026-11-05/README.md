@@ -1,3 +1,5 @@
+> **Daha yeni sürüm:** [İki ölçeğin SPSS çıktıları kontrol edilen tez](../spss-iki-olcek-dogrulanmis-2026-11-05/README.md). Aşağıdaki bilgiler önceki sürümün kaydıdır.
+
 # Güncel tez — iletişim analizleri gerçek SPSS çıktısıyla doğrulandı
 
 **[Word](GOKHAN-KAYA-TEZ-SPSS-ILETISIM-05-11-2026.docx)** · **[PDF — 91 sayfa](GOKHAN-KAYA-TEZ-SPSS-ILETISIM-05-11-2026.pdf)**

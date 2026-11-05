@@ -1,10 +1,10 @@
 # Tez analiz ve çalışma dosyaları
 
-## Güncel — 5 Kasım 2026, iletişim SPSS doğrulaması
+## Güncel — 5 Kasım 2026, iki ölçeğin SPSS doğrulaması
 
-**[Word](spss-iletisim-dogrulanmis-2026-11-05/GOKHAN-KAYA-TEZ-SPSS-ILETISIM-05-11-2026.docx)** · **[PDF — 91 sayfa](spss-iletisim-dogrulanmis-2026-11-05/GOKHAN-KAYA-TEZ-SPSS-ILETISIM-05-11-2026.pdf)** · [Yapılanlar ve kapsam](spss-iletisim-dogrulanmis-2026-11-05/README.md)
+**[Word](spss-iki-olcek-dogrulanmis-2026-11-05/GOKHAN-KAYA-TEZ-SPSS-IKI-OLCEK-05-11-2026.docx)** · **[PDF — 91 sayfa](spss-iki-olcek-dogrulanmis-2026-11-05/GOKHAN-KAYA-TEZ-SPSS-IKI-OLCEK-05-11-2026.pdf)** · [Yapılanlar ve kapsam](spss-iki-olcek-dogrulanmis-2026-11-05/README.md)
 
-Gönderilen gerçek SPSS Statistics 32 çıktılarında iletişim analizleri doğrulandı. Yalnız İBDÖ için yazılım beyanı Türkçe/İngilizce özet ve yönteme eklendi. PÇBÖ anahtarı ve SPSS çalıştırması bekliyor. İBDÖ toplam çift yönlü p=,098; tablo değerleri ve alıntılar korunmuştur.
+Gönderilen gerçek SPSS Statistics 32 çıktılarında iki ölçeğin analizleri karşılaştırıldı. Türkçe/İngilizce özetler ve yöntem iki ölçeği kapsayacak şekilde güncellendi. PÇBÖ toplam çift yönlü p=,023; İBDÖ p=,098. Mevcut puanlama, tablo değerleri ve alıntılar korundu. Sayısal uyum bağımsız madde anahtarı doğrulaması anlamına gelmez.
 
 [Önceki baştan sona atıf denetimi](atif-denetimi-2026-11-05/README.md)
 

@@ -1,16 +1,16 @@
 # Tez analiz ve çalışma dosyaları
 
-## Güncel — 5 Kasım 2026, iletişim SPSS doğrulaması
+## Güncel — 5 Kasım 2026, iki ölçeğin SPSS doğrulaması
 
-**[Word](tez-calisma-ciktilari-2026-10-20/spss-iletisim-dogrulanmis-2026-11-05/GOKHAN-KAYA-TEZ-SPSS-ILETISIM-05-11-2026.docx)** · **[PDF — 91 sayfa](tez-calisma-ciktilari-2026-10-20/spss-iletisim-dogrulanmis-2026-11-05/GOKHAN-KAYA-TEZ-SPSS-ILETISIM-05-11-2026.pdf)** · [Yapılanlar ve kapsam](tez-calisma-ciktilari-2026-10-20/spss-iletisim-dogrulanmis-2026-11-05/README.md)
+**[Word](tez-calisma-ciktilari-2026-10-20/spss-iki-olcek-dogrulanmis-2026-11-05/GOKHAN-KAYA-TEZ-SPSS-IKI-OLCEK-05-11-2026.docx)** · **[PDF — 91 sayfa](tez-calisma-ciktilari-2026-10-20/spss-iki-olcek-dogrulanmis-2026-11-05/GOKHAN-KAYA-TEZ-SPSS-IKI-OLCEK-05-11-2026.pdf)** · [Yapılanlar ve kapsam](tez-calisma-ciktilari-2026-10-20/spss-iki-olcek-dogrulanmis-2026-11-05/README.md)
 
-Gönderilen gerçek SPSS Statistics 32 çıktılarında iletişim analizleri doğrulandı. Yalnız İBDÖ için yazılım beyanı Türkçe/İngilizce özet ve yönteme eklendi. PÇBÖ anahtarı ve SPSS çalıştırması bekliyor. İBDÖ toplam çift yönlü p=,098; tablo değerleri ve alıntılar korunmuştur.
+Gönderilen gerçek SPSS Statistics 32 çıktılarında iki ölçeğin analizleri karşılaştırıldı. Türkçe/İngilizce özetler ve yöntem iki ölçeği kapsayacak şekilde güncellendi. PÇBÖ toplam çift yönlü p=,023; İBDÖ p=,098. Mevcut puanlama, tablo değerleri ve alıntılar korundu. Sayısal uyum bağımsız madde anahtarı doğrulaması anlamına gelmez.
 
 [Önceki baştan sona atıf denetimi](tez-calisma-ciktilari-2026-10-20/atif-denetimi-2026-11-05/README.md)
 
 ## SPSS ile ilk çalışma
 
-[Adım adım kılavuz ve komut dosyaları](tez-calisma-ciktilari-2026-10-20/spss-kullanim-paketi-2026-11-05/README.md). Öğrenci düzeyindeki veri bu klasörde yayımlanmadı. Önce iletişim analizleri; PÇBÖ anahtar teyidi bekliyor.
+[Adım adım kılavuz ve komut dosyaları](tez-calisma-ciktilari-2026-10-20/spss-kullanim-paketi-2026-11-05/README.md). Öğrenci düzeyindeki veri bu klasörde yayımlanmadı. İki ölçeğin gerçek SPSS çıktılarının sayısal karşılaştırması tamamlandı.
 
 ## Analiz kaydı ve geçmiş sürümler
 
