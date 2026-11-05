@@ -12,6 +12,8 @@
 
 [02_PC_MEVCUT_PUANLAMA_KONTROLU_BEKLET.sps](02_PC_MEVCUT_PUANLAMA_KONTROLU_BEKLET.sps) mevcut puanlama tekrarıdır; **PÇBÖ yetkili anahtarı teyit beklediği için şimdilik çalıştırmayın.**
 
-Kimliksiz CSV yalnız şifreli tam paketin içindedir. Kılavuz ve komutlar ZIP’i ise veri içermez. 40 satır/148 değişken beklenir. Komutlar gerçek SPSS’te henüz çalıştırılmamıştır. [Karşılaştırma değerleri](KARSILASTIRMA-DEGERLERI.json) SPSS çıktısı değildir.
+Kimliksiz CSV yalnız şifreli tam paketin içindedir. Kılavuz ve komutlar ZIP’i ise veri içermez. 40 satır/148 değişken beklenir. 00 ve 01 komutları araştırmacı tarafından SPSS Statistics 32’de çalıştırıldı; [gerçek PDF/SPV çıktı kontrolü](GERCEK-SPSS-ILETISIM-DOGRULAMASI.json) 5 t testi, 5 Shapiro–Wilk, 10 alfa ve 2 Wilcoxon sonucunu doğruladı. PÇBÖ anahtarı ve çalıştırması bekliyor. [Karşılaştırma değerleri](KARSILASTIRMA-DEGERLERI.json) SPSS çıktısı değildir.
 
 Resmî ürün: [IBM SPSS Statistics](https://www.ibm.com/products/spss-statistics). Lisans, IBM hesabı ve kurulum araştırmacıya aittir; şifre paylaşılması gerekmez.
+
+Kılavuzdaki dört ondalıklı toplam ortalama yazımı düzeltildi: ön test 3,8280, son test 3,9230. Tezde iki ondalıklı ortalamalar ile t/p sonuçları değişmez.
