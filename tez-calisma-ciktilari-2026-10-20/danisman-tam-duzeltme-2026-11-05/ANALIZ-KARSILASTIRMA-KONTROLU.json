@@ -1,0 +1,148 @@
+{
+  "csv_yalniz_yerel": true,
+  "katilimci": 40,
+  "sutun": 148,
+  "kimlik_alanlari": [
+    "KOD (yapay P01-P40)"
+  ],
+  "spss_calistirildi": false,
+  "python_ile_kaynak_sonuclar_esit": [
+    {
+      "olcek": "PC",
+      "boyut": "Problem Çözmeye Güvenme",
+      "n": 40,
+      "t_son_eksi_on": -3.8854567548163996,
+      "p": 0.0003850842791727522
+    },
+    {
+      "olcek": "PC",
+      "boyut": "Yaklaşma-Kaçınma Stili",
+      "n": 40,
+      "t_son_eksi_on": -0.5528014229347431,
+      "p": 0.5835542851280295
+    },
+    {
+      "olcek": "PC",
+      "boyut": "Kişisel Kontrol",
+      "n": 40,
+      "t_son_eksi_on": -2.608866392817328,
+      "p": 0.012813985824607445
+    },
+    {
+      "olcek": "PC",
+      "boyut": "PÇBÖ Toplam",
+      "n": 40,
+      "t_son_eksi_on": -2.3723615183090705,
+      "p": 0.022703198300291327
+    },
+    {
+      "olcek": "IB",
+      "boyut": "İletişim İlkeleri ve Temel Beceriler",
+      "n": 40,
+      "t_son_eksi_on": 1.563133661822386,
+      "p": 0.12610023146737614
+    },
+    {
+      "olcek": "IB",
+      "boyut": "Kendini İfade Etme",
+      "n": 40,
+      "t_son_eksi_on": 1.2200613174429433,
+      "p": 0.22976813188050169
+    },
+    {
+      "olcek": "IB",
+      "boyut": "Etkin Dinleme ve Sözel Olmayan İletişim",
+      "n": 40,
+      "t_son_eksi_on": 1.5888985661606554,
+      "p": 0.1201584263898792
+    },
+    {
+      "olcek": "IB",
+      "boyut": "İletişim Kurmaya İsteklilik",
+      "n": 40,
+      "t_son_eksi_on": 0.7259662712736917,
+      "p": 0.4721939042225084
+    },
+    {
+      "olcek": "IB",
+      "boyut": "İBDÖ Toplam",
+      "n": 40,
+      "t_son_eksi_on": 1.6948287841735274,
+      "p": 0.09807972550719778
+    }
+  ],
+  "on_son_ayri_alfa_kontrolleri": [
+    {
+      "olcum": "PC_F1_PRE",
+      "alpha": 0.8168683181225554
+    },
+    {
+      "olcum": "PC_F1_POST",
+      "alpha": 0.8510094637223975
+    },
+    {
+      "olcum": "PC_F2_PRE",
+      "alpha": 0.8363000948704458
+    },
+    {
+      "olcum": "PC_F2_POST",
+      "alpha": 0.8350397785464667
+    },
+    {
+      "olcum": "PC_F3_PRE",
+      "alpha": 0.5811914208498649
+    },
+    {
+      "olcum": "PC_F3_POST",
+      "alpha": 0.6548174581388966
+    },
+    {
+      "olcum": "PC_TOTAL_PRE",
+      "alpha": 0.9166578545506766
+    },
+    {
+      "olcum": "PC_TOTAL_POST",
+      "alpha": 0.9040240062743152
+    },
+    {
+      "olcum": "IB_F1_PRE",
+      "alpha": 0.6856004766066994
+    },
+    {
+      "olcum": "IB_F1_POST",
+      "alpha": 0.6526669723368486
+    },
+    {
+      "olcum": "IB_F2_PRE",
+      "alpha": 0.7130971551261407
+    },
+    {
+      "olcum": "IB_F2_POST",
+      "alpha": 0.7568902756110243
+    },
+    {
+      "olcum": "IB_F3_PRE",
+      "alpha": 0.6632048255966431
+    },
+    {
+      "olcum": "IB_F3_POST",
+      "alpha": 0.6190766550522647
+    },
+    {
+      "olcum": "IB_F4_PRE",
+      "alpha": 0.6181835276419707
+    },
+    {
+      "olcum": "IB_F4_POST",
+      "alpha": 0.5249377851513893
+    },
+    {
+      "olcum": "IB_TOTAL_PRE",
+      "alpha": 0.8643235149327207
+    },
+    {
+      "olcum": "IB_TOTAL_POST",
+      "alpha": 0.8645532676628157
+    }
+  ]
+}

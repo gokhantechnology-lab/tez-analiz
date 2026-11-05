@@ -1,3 +1,5 @@
+> Bu klasör geçmiş sürümdür. **[5 Kasım 2026 güncel tez ve ayrıntılı düzeltme raporu](../danisman-tam-duzeltme-2026-11-05/)**. Bu klasörde öneri olarak sunulan tablo düzeni yeni sürümde uygulanmıştır.
+
 # 26 Ekim 2026 — ses kaydı sonrası güncel tez ve tablo raporu
 
 ## Güncel tez

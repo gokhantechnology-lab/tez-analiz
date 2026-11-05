@@ -1,0 +1,205 @@
+{
+  "tarih": "2026-11-05",
+  "tez_pdf_sayfa": 68,
+  "numarali_tablo": 17,
+  "fiziksel_tablo": 27,
+  "kod_kitabi_satiri": 53,
+  "sekil": 2,
+  "cikarilan_sekil": 6,
+  "gorusme_alt_soru": 11,
+  "soru_bazli_tablo": 11,
+  "birebir_alinti": 34,
+  "eski_30_alinti_korundu": true,
+  "ekler_metinleri_aynen_korundu": true,
+  "katilimci": 40,
+  "kadin": 33,
+  "erkek": 7,
+  "kaynakca": 22,
+  "yeni_ozgun_yayin": 3,
+  "ozet_sozcukleri": {
+    "ÖZET": 231,
+    "ABSTRACT": 260
+  },
+  "dizin_basvurusu": 66,
+  "tablo_sayfa_kontrolu": [
+    {
+      "tablo": "Tablo 3.1 Çalışma Grubunun Temel Özellikleri",
+      "pdf_sayfa": 28,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 3.2. Araştırmada Kullanılan Veri Toplama Araçlarının Özellikleri",
+      "pdf_sayfa": 32,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.1 PÇBÖ Fark Puanlarının Shapiro–Wilk Testi Sonuçları",
+      "pdf_sayfa": 37,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.2 PÇBÖ Ön Test ve Son Test Puanlarının Bağımlı Örneklemler t Testi Sonuçları",
+      "pdf_sayfa": 37,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.3 İBDÖ Fark Puanlarının Shapiro–Wilk Testi Sonuçları",
+      "pdf_sayfa": 38,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.4 İBDÖ Ön Test ve Son Test Puanlarının Bağımlı Örneklemler t Testi Sonuçları",
+      "pdf_sayfa": 39,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.5 Problem Belirleme Deneyimleri",
+      "pdf_sayfa": 40,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.6 Grup Çalışmasının Problem Belirleme ve Çözmeye Katkısı",
+      "pdf_sayfa": 41,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.7 Çözüm Sürecinde İzlenen Yollar",
+      "pdf_sayfa": 41,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.8 Problem ve Çözüm Uyumsuzluğunda İzlenen Yollar",
+      "pdf_sayfa": 42,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.9 Bireysel Beceri Katkılarına İlişkin Görüşler",
+      "pdf_sayfa": 43,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.10 Fikirlerini İfade Etmeye İlişkin Görüşler",
+      "pdf_sayfa": 44,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.11 Görüş Ayrılıklarında Ortak Karar Yolları",
+      "pdf_sayfa": 44,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.12 Grup Çalışmasının Becerilere Katkısına İlişkin Görüşler",
+      "pdf_sayfa": 45,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.13 Doğal Afetleri Öğrenmeye İlişkin Görüşler",
+      "pdf_sayfa": 46,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.14 Sürecin Olumlu ve Olumsuz Yönlerine İlişkin Görüşler",
+      "pdf_sayfa": 47,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.15 Öğretim Sürecinde Düzenleme Beklentileri",
+      "pdf_sayfa": 48,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 1",
+      "pdf_sayfa": 63,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 2",
+      "pdf_sayfa": 64,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 3",
+      "pdf_sayfa": 65,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 4",
+      "pdf_sayfa": 65,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 5",
+      "pdf_sayfa": 66,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 6",
+      "pdf_sayfa": 66,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 7",
+      "pdf_sayfa": 67,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 8",
+      "pdf_sayfa": 67,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 9",
+      "pdf_sayfa": 67,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 10",
+      "pdf_sayfa": 68,
+      "hucre_icerigi_ayni_sayfada": true
+    }
+  ],
+  "bos_sayfa": [],
+  "tasan_sozcuk": [],
+  "sekiller_baslikla_ayni_sayfada": true,
+  "spSS_calistirildi": false,
+  "puanlama_yeniden_degistirildi": false,
+  "t_ve_p_karsilastirmasi": "9 test ham veriyle yeniden kontrol edildi; son−ön yönünde mevcut önbellekle uyumlu.",
+  "PÇBÖ_yetkili_anahtar_bagimsiz_teyidi": false,
+  "benzerlik_taramasi": false,
+  "Microsoft_Word_uygulama_testi": false,
+  "pdf_uretimi": "LibreOffice",
+  "alfa_karsilastirmasi": 18,
+  "not_durumlari": {
+    "Yazısız işaret — bağlam kontrol edildi": 4,
+    "Uygulandı / kontrol edildi": 162,
+    "Bekliyor — gerçek SPSS çalıştırması": 2,
+    "Korundu / kontrol edildi": 3,
+    "Kısmen — düzen uygulandı, SPSS doğrulaması bekliyor": 1
+  },
+  "dosyalar": {
+    "172-NOT-DUZELTME-VE-DOGRULAMA-KONTROLU.xlsx": {
+      "bytes": 42465,
+      "sha256": "003b3c658942f719c8601286d0ff340cff60d45b365678890d79885c5dcd4ab0"
+    },
+    "DANISMAN-TALEPLERI-AYRINTILI-YAPILANLAR.docx": {
+      "bytes": 45109,
+      "sha256": "cffa33878600d1b64763a3fef45f13eb40a2f1892d84e4e4750601c2597e2855"
+    },
+    "DANISMAN-TALEPLERI-AYRINTILI-YAPILANLAR.pdf": {
+      "bytes": 184375,
+      "sha256": "5581a1594c6124e792cb9c9ad88e137d6d48afb46ce1b37af968ce3daf7d5a64"
+    },
+    "GOKHAN-KAYA-TEZ-DANISMAN-GUNCEL-05-11-2026.docx": {
+      "bytes": 1545441,
+      "sha256": "2a88761e148d15bdea8aa474d6a51e941d7e105a6468b130dd81f37fd7196212"
+    },
+    "GOKHAN-KAYA-TEZ-DANISMAN-GUNCEL-05-11-2026.pdf": {
+      "bytes": 1484451,
+      "sha256": "d56b1904e7842645aaacfdcf12bda08c0878a992ad8a71c76aaf5dd42307c386"
+    },
+    "SPSS-KARSILASTIRMA-KOMUTLARI.sps": {
+      "bytes": 8335,
+      "sha256": "ea6025b5b5ab169fa93e369660dd8815c60c1f7d6736de06967b2c37c8cd973e"
+    }
+  }
+}
