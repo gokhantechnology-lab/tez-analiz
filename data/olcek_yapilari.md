@@ -62,9 +62,11 @@
 
 ### Puanlama
 
+> **Çalışma kaydı (05.11.2026):** Aşağıdaki madde listesi ve toplam/alt boyut kapsamı, depodaki mevcut analizin kaydıdır. Araştırmacı ters maddeleri daha önce kaynaktan doğruladığını bildirmiş ve mevcut analizin korunmasını istemiştir. Bu açıklama bağımsız kaynak doğrulaması anlamına gelmez; farklı uyarlamalardaki puanlama dışı maddeler ve faktör yapılarıyla karşılaştırmada uyuşmazlıklar bulunmuştur. Liste ve sayısal sonuçlar bu güncellemede değiştirilmemiştir.
+
 Orijinal ölçekte **düşük puan = iyi problem çözme** yönelimi anlamına gelir.  
 Ters puanlı maddeler `7 - puan` formülüyle düzeltilir (6'lı ölçek için).  
-Düzeltme sonrası: **yüksek puan = iyi problem çözme becerisi.**
+Mevcut analiz kodunda düzeltme sonrası **düşük puan = daha olumlu problem çözme öz değerlendirmesi** olarak yorumlanmaktadır. Ters kodlama, tek başına ölçeğin tümünün yorum yönünü tersine çevirmez.
 
 ### PÇBÖ Alt Boyutları
 
@@ -107,4 +109,4 @@ Excel sütun sırasına göre ters puanlanacak maddeler (madde metinleri olumsuz
 | Ölçek | Min | Max | Yorum |
 |-------|-----|-----|-------|
 | PÇBÖ Toplam (ham) | 35 | 210 | Düşük = iyi |
-| PÇBÖ Toplam (düzeltilmiş) | 35 | 210 | Yüksek = iyi |
+| PÇBÖ Toplam (düzeltilmiş) | 35 | 210 | Mevcut analizde düşük = daha olumlu öz değerlendirme |

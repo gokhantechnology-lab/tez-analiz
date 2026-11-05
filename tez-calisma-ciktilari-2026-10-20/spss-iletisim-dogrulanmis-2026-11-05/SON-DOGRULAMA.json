@@ -5,6 +5,7 @@
   "fiziksel_tablo": 27,
   "kod_kitabi_satiri": 53,
   "sekil": 2,
+  "cikarilan_sekil": 6,
   "gorusme_alt_soru": 11,
   "soru_bazli_tablo": 11,
   "birebir_alinti": 41,
@@ -160,8 +161,11 @@
   "bos_sayfa": [],
   "tasan_sozcuk": [],
   "sekiller_baslikla_ayni_sayfada": true,
+  "iletisim_gercek_SPSS_ciktisi_dogrulandi": true,
+  "PC_SPSS_ciktisi_dogrulandi": false,
+  "SPSS_surumu": "32.0",
   "puanlama_yeniden_degistirildi": false,
-  "t_ve_p_karsilastirmasi": "Beş İBDÖ testi gönderilen gerçek SPSS çıktısıyla karşılaştırıldı; PÇBÖ için önceki önbellek gösterimi korunmuştur. Bu tur yeni ham veri analizi yapılmadı.",
+  "t_ve_p_karsilastirmasi": "Mevcut sayısal dayanaklar korundu. İBDÖ için gerçek SPSS PDF çıktısı karşılaştırması ayrı doğrulama kaydında; bu denetim yeni ham veri analizi yapmaz.",
   "PÇBÖ_yetkili_anahtar_bagimsiz_teyidi": false,
   "benzerlik_taramasi": false,
   "Microsoft_Word_uygulama_testi": false,
@@ -170,9 +174,9 @@
   "not_durumlari": {
     "Yazısız işaret — bağlam kontrol edildi": 4,
     "Uygulandı / kontrol edildi": 162,
-    "Bekliyor — gerçek SPSS çalıştırması": 2,
+    "Kısmen — İBDÖ SPSS doğrulandı; PÇBÖ çalıştırması bekliyor": 2,
     "Korundu / kontrol edildi": 3,
-    "Kısmen — düzen uygulandı, SPSS doğrulaması bekliyor": 1
+    "Kısmen — tablo düzeni ve İBDÖ SPSS doğrulandı; PÇBÖ bekliyor": 1
   },
   "dosyalar": {
     "GOKHAN-KAYA-TEZ-SPSS-ILETISIM-05-11-2026.docx": {
@@ -183,10 +187,5 @@
       "bytes": 1623749,
       "sha256": "fcfbb39779b375692a8b16997824331ff08b045e0f22df35378452bfa03867a0"
     }
-  },
-  "iletisim_gercek_SPSS_ciktisi_dogrulandi": true,
-  "PC_SPSS_ciktisi_dogrulandi": false,
-  "SPSS_surumu": "32.0",
-  "yazilim_beyani_kapsami": "Yalnız İBDÖ; Türkçe/İngilizce özet ve 3.5.",
-  "gecmis_surumlerde_cikarilan_sekil": 6
+  }
 }

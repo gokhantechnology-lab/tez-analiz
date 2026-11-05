@@ -10,4 +10,6 @@ Türkçe özet, İngilizce özet ve 3.5 Verilerin Analizi bölümüne **yalnız 
 
 [Gerçek çıktı karşılaştırması](GERCEK-SPSS-ILETISIM-DOGRULAMASI.json) · [Üç paragraftaki değişiklik](UC-YAZILIM-ACIKLAMASI-DEGISIKLIGI.json) · [Belge kontrolü](SON-DOGRULAMA.json) · [Önceki tam atıf denetimi](../atif-denetimi-2026-11-05/README.md)
 
-PÇBÖ yetkili madde anahtarı, o ölçeğin gerçek SPSS çalıştırması, benzerlik taraması ve Microsoft Word uygulamasında son açılış kontrolü henüz kapanmamıştır.
+Araştırmacının mevcut analizleri koruma talebi doğrultusunda PÇBÖ puanlama listesi ve sonuçlar değiştirilmedi. Bağımsız kaynak kontrolünde görülen uyuşmazlıklar giderilmiş sayılmadı; kaynak araştırması çalışmayı durduran koşul olmaktan çıkarıldı. PÇBÖ için gerçek SPSS çıktısı, benzerlik taraması ve Microsoft Word uygulamasında son açılış kontrolü henüz tamamlanmadı.
+
+[Güncellenen 172 danışman notunun durumu](DANISMAN-NOTLARI-GUNCEL-DURUM.json). İBDÖ SPSS kontrolü tamamlandığından eski bekleme açıklamaları güncellendi. Word/PDF içeriği bu kontrol turunda değiştirilmedi. Etik kurul kararı ve ölçek kullanım izinlerinin belgeleri henüz dosyaya eklenmedi; teslim öncesinde tamamlanmalıdır.
