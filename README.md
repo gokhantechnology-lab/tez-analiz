@@ -8,6 +8,10 @@
 
 555 paragraf kaydı, 30 düzeltme; kullanılmayan iki kaynağın çıkarılmasıyla 21 yayın. Yazılım adı yerine gerçekleşen testler anlatıldı. SPSS kullanımı ileri sürülmedi. PÇBÖ puanlama anahtarının bağımsız teyidi ve benzerlik taraması bekliyor. Sayısal tablolar ve 41 alıntı korundu.
 
+## SPSS ile ilk çalışma
+
+[Adım adım kılavuz ve komut dosyaları](tez-calisma-ciktilari-2026-10-20/spss-kullanim-paketi-2026-11-05/README.md). Öğrenci düzeyindeki veri bu klasörde yayımlanmadı. Önce iletişim analizleri; PÇBÖ anahtar teyidi bekliyor.
+
 ## Analiz kaydı ve geçmiş sürümler
 
 - [Ortak 40 kişinin analiz çalışma kitabı](tez-calisma-ciktilari-2026-10-20/ortak-40-katilimci-2026-10-25/ORTAK-40-NICEL-ANALIZLER.xlsx)

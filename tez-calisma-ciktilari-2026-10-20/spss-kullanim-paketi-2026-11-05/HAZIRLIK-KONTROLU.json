@@ -1,0 +1,77 @@
+{
+  "satir": 40,
+  "sutun": 148,
+  "csv_komut_sutunlari_ayni": true,
+  "kimlikler": "P01–P40; isim/öğrenci no yok",
+  "spss_calistirildi": false,
+  "csv_sha256": "ecb002c8e4ad8a9ccb19dcb18da7599b768f5a4ea3d96d04ffd354eace7dc1bb",
+  "aktarim_sonrasi_9_test_mevcut_degerlerle_esit": true,
+  "fark_sutunlari_son_eksi_on": true,
+  "SPSS_sozdizimi_gercek_programda_test_edildi": false,
+  "puanlama_anahtari_dogrulandi": false,
+  "karsilastirmalar": [
+    {
+      "olcek": "PC",
+      "boyut": "F1",
+      "n": 40,
+      "t": -3.88545675481639,
+      "p": 0.0003850842791727643
+    },
+    {
+      "olcek": "PC",
+      "boyut": "F2",
+      "n": 40,
+      "t": -0.5528014229347431,
+      "p": 0.5835542851280295
+    },
+    {
+      "olcek": "PC",
+      "boyut": "F3",
+      "n": 40,
+      "t": -2.608866392817328,
+      "p": 0.012813985824607445
+    },
+    {
+      "olcek": "PC",
+      "boyut": "TOTAL",
+      "n": 40,
+      "t": -2.372361518309092,
+      "p": 0.022703198300290186
+    },
+    {
+      "olcek": "IB",
+      "boyut": "F1",
+      "n": 40,
+      "t": 1.563133661822386,
+      "p": 0.12610023146737614
+    },
+    {
+      "olcek": "IB",
+      "boyut": "F2",
+      "n": 40,
+      "t": 1.2200613174429433,
+      "p": 0.22976813188050169
+    },
+    {
+      "olcek": "IB",
+      "boyut": "F3",
+      "n": 40,
+      "t": 1.5888985661606623,
+      "p": 0.12015842638987766
+    },
+    {
+      "olcek": "IB",
+      "boyut": "F4",
+      "n": 40,
+      "t": 0.7259662712736917,
+      "p": 0.4721939042225084
+    },
+    {
+      "olcek": "IB",
+      "boyut": "TOTAL",
+      "n": 40,
+      "t": 1.6948287841735274,
+      "p": 0.09807972550719778
+    }
+  ]
+}
