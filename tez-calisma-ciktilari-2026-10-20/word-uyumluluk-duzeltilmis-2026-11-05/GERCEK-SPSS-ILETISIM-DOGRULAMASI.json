@@ -1,0 +1,84 @@
+{
+  "tarih": "2026-11-05",
+  "SPSS_surumu_kayit": "32.0; creator-version 32000000",
+  "gercek_iletisim_SPSS_ciktisi_goruldu": true,
+  "PC_SPSS_analizi_goruldu": false,
+  "PDF_sayfa": 30,
+  "SPV_arsiv_butunlugu": true,
+  "istatistikleri_okuma_kaynagi": "PDF tabloları; SPV kapsayıcı bütünlüğü ve XML sürümü kontrol edildi. SPV pivot tablolarının ikili hücreleri bağımsız çözümlenmedi.",
+  "N": 40,
+  "eksik": 0,
+  "filtre_agirlik_split": "none",
+  "karsilastirmalar": [
+    {
+      "boyut": "İletişim İlkeleri ve Temel Beceriler",
+      "N": 40,
+      "mevcut_t": 1.563133661822386,
+      "SPSS_t": 1.563,
+      "mevcut_p": 0.12610023146737614,
+      "SPSS_cift_yonlu_p": 0.126,
+      "SPSS_Shapiro_W": 0.96,
+      "SPSS_Shapiro_p": 0.171,
+      "SPSS_alfa_on": 0.686,
+      "SPSS_alfa_son": 0.653
+    },
+    {
+      "boyut": "Kendini İfade Etme",
+      "N": 40,
+      "mevcut_t": 1.2200613174429433,
+      "SPSS_t": 1.22,
+      "mevcut_p": 0.22976813188050169,
+      "SPSS_cift_yonlu_p": 0.23,
+      "SPSS_Shapiro_W": 0.839,
+      "SPSS_Shapiro_p": "<.001",
+      "SPSS_alfa_on": 0.713,
+      "SPSS_alfa_son": 0.757
+    },
+    {
+      "boyut": "Etkin Dinleme ve Sözel Olmayan İletişim",
+      "N": 40,
+      "mevcut_t": 1.5888985661606554,
+      "SPSS_t": 1.589,
+      "mevcut_p": 0.1201584263898792,
+      "SPSS_cift_yonlu_p": 0.12,
+      "SPSS_Shapiro_W": 0.949,
+      "SPSS_Shapiro_p": 0.068,
+      "SPSS_alfa_on": 0.663,
+      "SPSS_alfa_son": 0.619
+    },
+    {
+      "boyut": "İletişim Kurmaya İsteklilik",
+      "N": 40,
+      "mevcut_t": 0.7259662712736917,
+      "SPSS_t": 0.726,
+      "mevcut_p": 0.4721939042225084,
+      "SPSS_cift_yonlu_p": 0.472,
+      "SPSS_Shapiro_W": 0.906,
+      "SPSS_Shapiro_p": 0.003,
+      "SPSS_alfa_on": 0.618,
+      "SPSS_alfa_son": 0.525
+    },
+    {
+      "boyut": "İBDÖ Toplam",
+      "N": 40,
+      "mevcut_t": 1.6948287841735274,
+      "SPSS_t": 1.695,
+      "mevcut_p": 0.09807972550719778,
+      "SPSS_cift_yonlu_p": 0.098,
+      "SPSS_Shapiro_W": 0.964,
+      "SPSS_Shapiro_p": 0.232,
+      "SPSS_alfa_on": 0.864,
+      "SPSS_alfa_son": 0.865
+    }
+  ],
+  "Wilcoxon_cift_yonlu_p": {
+    "F2": 0.469,
+    "F4": 0.644
+  },
+  "Warning67": "Dosya başka pencerede açıktır; File opened ve tüm N=40 tabloları var. İşlemi durduran hata görülmedi.",
+  "tek_yonlu_toplam_p_kullanilmayacak": 0.049,
+  "Wilcoxon_karsilastirma_notu": "Bağlı sıralar mevcut fark sütunuyla karşılaştırıldı. Doğrudan kayan noktalı çıkarma F4 sıralarını yapay olarak ayırabilir; farkları 12 ondalığa yuvarlayarak kontrol de aynı ,644 sonucunu verir.",
+  "PC_puanlama_anahtari_bekliyor": true,
+  "PDF_sha256": "fb0c7d3e44741425fa81ea4433b47106de126a1c9dee41bd7f0ebaa7da8f0cc4",
+  "SPV_sha256": "33bd47253ccc26a67c648d28a584808958d8228e258faa37d80b00ed9ccb1322"
+}

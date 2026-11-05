@@ -1,0 +1,160 @@
+{
+  "pdf_pages": 56,
+  "SPSS_version": "32.0",
+  "PC_checks": [
+    {
+      "test": "paired_t",
+      "scale": "F1",
+      "n": 40,
+      "pre_mean": 2.659090909090909,
+      "post_mean": 2.386363636363636,
+      "t": -3.88545675481639,
+      "p_two_sided": 0.0003850842791727643,
+      "pdf_pages": [
+        53,
+        54
+      ]
+    },
+    {
+      "test": "Shapiro_Wilk_difference",
+      "scale": "F1",
+      "W": 0.9619008989724867,
+      "p": 0.19444378850405375,
+      "pdf_page": 32
+    },
+    {
+      "test": "paired_t",
+      "scale": "F2",
+      "n": 40,
+      "pre_mean": 3.0328125,
+      "post_mean": 2.9859375,
+      "t": -0.5528014229347431,
+      "p_two_sided": 0.5835542851280295,
+      "pdf_pages": [
+        53,
+        54
+      ]
+    },
+    {
+      "test": "Shapiro_Wilk_difference",
+      "scale": "F2",
+      "W": 0.9768562713529899,
+      "p": 0.5743088128440677,
+      "pdf_page": 32
+    },
+    {
+      "test": "paired_t",
+      "scale": "F3",
+      "n": 40,
+      "pre_mean": 2.8150000000000004,
+      "post_mean": 2.525,
+      "t": -2.608866392817328,
+      "p_two_sided": 0.012813985824607445,
+      "pdf_pages": [
+        53,
+        54
+      ]
+    },
+    {
+      "test": "Shapiro_Wilk_difference",
+      "scale": "F3",
+      "W": 0.9811875235813906,
+      "p": 0.7334896309201546,
+      "pdf_page": 32
+    },
+    {
+      "test": "paired_t",
+      "scale": "TOTAL",
+      "n": 40,
+      "pre_mean": 2.9035714285714294,
+      "post_mean": 2.7414285714285707,
+      "t": -2.372361518309092,
+      "p_two_sided": 0.022703198300290186,
+      "pdf_pages": [
+        53,
+        54
+      ]
+    },
+    {
+      "test": "Shapiro_Wilk_difference",
+      "scale": "TOTAL",
+      "W": 0.9015647703124885,
+      "p": 0.002123662717838348,
+      "pdf_page": 32
+    },
+    {
+      "test": "Cronbach_alpha",
+      "scale": "F1",
+      "time": "PRE",
+      "alpha": 0.8168683181225554,
+      "pdf_page": 37
+    },
+    {
+      "test": "Cronbach_alpha",
+      "scale": "F2",
+      "time": "PRE",
+      "alpha": 0.8363000948704458,
+      "pdf_page": 39
+    },
+    {
+      "test": "Cronbach_alpha",
+      "scale": "F3",
+      "time": "PRE",
+      "alpha": 0.5811914208498649,
+      "pdf_page": 41
+    },
+    {
+      "test": "Cronbach_alpha",
+      "scale": "TOTAL",
+      "time": "PRE",
+      "alpha": 0.9166578545506766,
+      "pdf_page": 43
+    },
+    {
+      "test": "Cronbach_alpha",
+      "scale": "F1",
+      "time": "POST",
+      "alpha": 0.8510094637223975,
+      "pdf_page": 45
+    },
+    {
+      "test": "Cronbach_alpha",
+      "scale": "F2",
+      "time": "POST",
+      "alpha": 0.8350397785464667,
+      "pdf_page": 47
+    },
+    {
+      "test": "Cronbach_alpha",
+      "scale": "F3",
+      "time": "POST",
+      "alpha": 0.6548174581388966,
+      "pdf_page": 49
+    },
+    {
+      "test": "Cronbach_alpha",
+      "scale": "TOTAL",
+      "time": "POST",
+      "alpha": 0.9040240062743152,
+      "pdf_page": 51
+    },
+    {
+      "test": "Wilcoxon_total",
+      "p_two_sided": 0.0027268090175919346,
+      "pdf_Z": -2.997,
+      "pdf_page": 56
+    }
+  ],
+  "PC_all_comparisons_passed": true,
+  "IB_first_29_pages_unchanged": true,
+  "n": 40,
+  "filter_weight_split": "none in procedure notes",
+  "SPV_zip_integrity": true,
+  "SPV_pivot_binary_cells_decoded": false,
+  "numeric_evidence": "Actual exported PDF tables; source syntax alone not accepted as output.",
+  "scope": "Existing scoring reproduced. This verifies numerical software agreement, not independent validity of the scoring key.",
+  "input_hashes": {
+    "IKI_OLCEK_SPSS_SONUCLARI.pdf": "53ddde472981d2cf93a21875e8527b2e963a7089cf08116fb9780f4df04cd620",
+    "IKI_OLCEK_SPSS_SONUCLARI.spv": "7170968f75d4b35fd627ee8a3af7b419324943e2001f50cb96079905e778887b"
+  }
+}

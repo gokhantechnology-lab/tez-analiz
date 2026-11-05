@@ -1,0 +1,9 @@
+{
+  "fixed_paragraph_property_order": 75,
+  "text_unchanged": true,
+  "all_27_table_matrices_unchanged": true,
+  "compatibility_mode": 14,
+  "Word_2010_execution_test": false,
+  "cause_status": "Concrete OOXML ordering defect corrected; causation of all observed Word reordering not yet proven. Requires new export from actual Word.",
+  "corrupt_Word_saved_copy_used_as_base": false
+}

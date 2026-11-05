@@ -1,0 +1,1550 @@
+[
+  {
+    "no": 1,
+    "kaynak_pdf_sayfa": 6,
+    "kaynak_annotasyon_id": "8f9c8fad-fe2d-4f0c-b922-d03eeddf44dd",
+    "talep": "Çalışma grubunu ve eşleşen ölçümleri aynı 40 katılımcıya göre düzenle.",
+    "tezde_yeri": "Özetler; 3.2; 4.1–4.2",
+    "durum": "Yazısız işaret — bağlam kontrol edildi",
+    "yapilan": "Aynı 40 kişi esas alındı. Önceki katılımcı eşleştirmesi korundu; sonuç elde etmek için kişi seçilmedi."
+  },
+  {
+    "no": 2,
+    "kaynak_pdf_sayfa": 6,
+    "kaynak_annotasyon_id": "814ff68b-ee7a-4ebe-87a8-830d591a46b5",
+    "talep": "Çalışma grubunu ve eşleşen ölçümleri aynı 40 katılımcıya göre düzenle.",
+    "tezde_yeri": "Özetler; 3.2; 4.1–4.2",
+    "durum": "Yazısız işaret — bağlam kontrol edildi",
+    "yapilan": "Aynı 40 kişi esas alındı. Önceki katılımcı eşleştirmesi korundu; sonuç elde etmek için kişi seçilmedi."
+  },
+  {
+    "no": 3,
+    "kaynak_pdf_sayfa": 6,
+    "kaynak_annotasyon_id": "0926af07-123c-4052-9070-ff4a831e4ea7",
+    "talep": "Görüşmelerin uygulama tamamlandıktan sonra yapıldığını açıkla.",
+    "tezde_yeri": "Özetler; 3.1; 3.3.3",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Uygulama ve analiz sonrası görüşme zamanı; puana göre seçilmeyen dört görüşmeci bilgisi korundu."
+  },
+  {
+    "no": 4,
+    "kaynak_pdf_sayfa": 6,
+    "kaynak_annotasyon_id": "6bcefde2-8a77-4559-8978-c9b374a1a62e",
+    "talep": "Analizleri SPSS ile yap ve yazılımı buna göre bildir.",
+    "tezde_yeri": "Özetler; 3.5; SPSS karşılaştırma komutları",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "İki ölçeğin gerçek SPSS PDF çıktıları mevcut hesaplamalarla karşılaştırıldı. İBDÖ için 5 t, 5 Shapiro–Wilk, 10 alfa ve 2 Wilcoxon; PÇBÖ için 4 t, 4 Shapiro–Wilk, 8 alfa ve 1 Wilcoxon kontrolü tamamlandı. SPV arşiv bütünlüğü ve 32.0 sürüm kaydı kontrol edildi; pivot ikili hücreler ayrıca çözümlenmedi. Özetler ve 3.5 bölümünde iki ölçek için IBM SPSS Statistics 32 bildirildi."
+  },
+  {
+    "no": 5,
+    "kaynak_pdf_sayfa": 6,
+    "kaynak_annotasyon_id": "e33d7615-203a-4136-8351-ca76d349efed",
+    "talep": "Çalışma grubunu ve eşleşen ölçümleri aynı 40 katılımcıya göre düzenle.",
+    "tezde_yeri": "Özetler; 3.2; 4.1–4.2",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Aynı 40 kişi esas alındı. Önceki katılımcı eşleştirmesi korundu; sonuç elde etmek için kişi seçilmedi."
+  },
+  {
+    "no": 6,
+    "kaynak_pdf_sayfa": 6,
+    "kaynak_annotasyon_id": "fa468130-8675-49d8-af54-f4868c2fdb6e",
+    "talep": "Araştırma sorularını üç alt problem ve öz değerlendirmelerde değişim diliyle uyumlaştır.",
+    "tezde_yeri": "1.1; 1.2; özetler; bölüm 4",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Ana soru ve üç alt problem korundu. Bulgular ilgili alanlara göre yapılandırıldı; ek araştırma sorusu veya anlamlılık arayışı eklenmedi."
+  },
+  {
+    "no": 7,
+    "kaynak_pdf_sayfa": 13,
+    "kaynak_annotasyon_id": "232bb497-8581-4ac3-8b86-611bdfc43502",
+    "talep": "Giriş, önem ve tanımlarda kaynak, tekrar ve iddia düzeyini düzelt.",
+    "tezde_yeri": "Bölüm 1",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Program kaynakları ilk kullanımda açıldı; önem ifadeleri bağlama özgü tutuldu. Ürün performansı ölçülmüş gibi yazılmadı. Kullanılmayan genel tanım çıkarıldı."
+  },
+  {
+    "no": 8,
+    "kaynak_pdf_sayfa": 14,
+    "kaynak_annotasyon_id": "2066170e-a2be-4ba7-83b3-4e69f79ccbc2",
+    "talep": "Giriş, önem ve tanımlarda kaynak, tekrar ve iddia düzeyini düzelt.",
+    "tezde_yeri": "Bölüm 1",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Program kaynakları ilk kullanımda açıldı; önem ifadeleri bağlama özgü tutuldu. Ürün performansı ölçülmüş gibi yazılmadı. Kullanılmayan genel tanım çıkarıldı."
+  },
+  {
+    "no": 9,
+    "kaynak_pdf_sayfa": 14,
+    "kaynak_annotasyon_id": "76e5d9ec-0d92-4ce2-a09d-2c18dca4f65a",
+    "talep": "Giriş, önem ve tanımlarda kaynak, tekrar ve iddia düzeyini düzelt.",
+    "tezde_yeri": "Bölüm 1",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Program kaynakları ilk kullanımda açıldı; önem ifadeleri bağlama özgü tutuldu. Ürün performansı ölçülmüş gibi yazılmadı. Kullanılmayan genel tanım çıkarıldı."
+  },
+  {
+    "no": 10,
+    "kaynak_pdf_sayfa": 14,
+    "kaynak_annotasyon_id": "dd2765a5-e261-4c58-8552-28d4bfe40c3e",
+    "talep": "Giriş, önem ve tanımlarda kaynak, tekrar ve iddia düzeyini düzelt.",
+    "tezde_yeri": "Bölüm 1",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Program kaynakları ilk kullanımda açıldı; önem ifadeleri bağlama özgü tutuldu. Ürün performansı ölçülmüş gibi yazılmadı. Kullanılmayan genel tanım çıkarıldı."
+  },
+  {
+    "no": 11,
+    "kaynak_pdf_sayfa": 14,
+    "kaynak_annotasyon_id": "ab5e5bfa-64da-46e7-bc65-90d175082f00",
+    "talep": "Giriş, önem ve tanımlarda kaynak, tekrar ve iddia düzeyini düzelt.",
+    "tezde_yeri": "Bölüm 1",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Program kaynakları ilk kullanımda açıldı; önem ifadeleri bağlama özgü tutuldu. Ürün performansı ölçülmüş gibi yazılmadı. Kullanılmayan genel tanım çıkarıldı."
+  },
+  {
+    "no": 12,
+    "kaynak_pdf_sayfa": 14,
+    "kaynak_annotasyon_id": "86543ae9-5564-444a-a198-b3d9df929da5",
+    "talep": "Giriş, önem ve tanımlarda kaynak, tekrar ve iddia düzeyini düzelt.",
+    "tezde_yeri": "Bölüm 1",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Program kaynakları ilk kullanımda açıldı; önem ifadeleri bağlama özgü tutuldu. Ürün performansı ölçülmüş gibi yazılmadı. Kullanılmayan genel tanım çıkarıldı."
+  },
+  {
+    "no": 13,
+    "kaynak_pdf_sayfa": 16,
+    "kaynak_annotasyon_id": "60d2df5d-8fc3-471a-8d34-89261fdaa482",
+    "talep": "Giriş, önem ve tanımlarda kaynak, tekrar ve iddia düzeyini düzelt.",
+    "tezde_yeri": "Bölüm 1",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Program kaynakları ilk kullanımda açıldı; önem ifadeleri bağlama özgü tutuldu. Ürün performansı ölçülmüş gibi yazılmadı. Kullanılmayan genel tanım çıkarıldı."
+  },
+  {
+    "no": 14,
+    "kaynak_pdf_sayfa": 17,
+    "kaynak_annotasyon_id": "fd52ac5d-ff3f-4023-b489-50ca51f17bbc",
+    "talep": "Beğenilen araştırma problemi ifadesini koru.",
+    "tezde_yeri": "1.1",
+    "durum": "Korundu / kontrol edildi",
+    "yapilan": "Araştırma problemi korunarak alt problemlerle uyumu denetlendi."
+  },
+  {
+    "no": 15,
+    "kaynak_pdf_sayfa": 17,
+    "kaynak_annotasyon_id": "d43b6d42-f544-438f-a406-8fe61b33fdbe",
+    "talep": "Araştırma sorularını üç alt problem ve öz değerlendirmelerde değişim diliyle uyumlaştır.",
+    "tezde_yeri": "1.1; 1.2; özetler; bölüm 4",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Ana soru ve üç alt problem korundu. Bulgular ilgili alanlara göre yapılandırıldı; ek araştırma sorusu veya anlamlılık arayışı eklenmedi."
+  },
+  {
+    "no": 16,
+    "kaynak_pdf_sayfa": 17,
+    "kaynak_annotasyon_id": "26ed2c4a-d727-45e6-92d9-4821bff72569",
+    "talep": "Araştırma sorularını üç alt problem ve öz değerlendirmelerde değişim diliyle uyumlaştır.",
+    "tezde_yeri": "1.1; 1.2; özetler; bölüm 4",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Ana soru ve üç alt problem korundu. Bulgular ilgili alanlara göre yapılandırıldı; ek araştırma sorusu veya anlamlılık arayışı eklenmedi."
+  },
+  {
+    "no": 17,
+    "kaynak_pdf_sayfa": 17,
+    "kaynak_annotasyon_id": "b23b2347-504c-4f9e-a0e7-15e3d2d0c2ad",
+    "talep": "Araştırma sorularını üç alt problem ve öz değerlendirmelerde değişim diliyle uyumlaştır.",
+    "tezde_yeri": "1.1; 1.2; özetler; bölüm 4",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Ana soru ve üç alt problem korundu. Bulgular ilgili alanlara göre yapılandırıldı; ek araştırma sorusu veya anlamlılık arayışı eklenmedi."
+  },
+  {
+    "no": 18,
+    "kaynak_pdf_sayfa": 17,
+    "kaynak_annotasyon_id": "860b5950-8459-4f62-b25b-0207b687f4d1",
+    "talep": "Araştırma sorularını üç alt problem ve öz değerlendirmelerde değişim diliyle uyumlaştır.",
+    "tezde_yeri": "1.1; 1.2; özetler; bölüm 4",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Ana soru ve üç alt problem korundu. Bulgular ilgili alanlara göre yapılandırıldı; ek araştırma sorusu veya anlamlılık arayışı eklenmedi."
+  },
+  {
+    "no": 19,
+    "kaynak_pdf_sayfa": 17,
+    "kaynak_annotasyon_id": "d5d6c83a-6805-491e-ace3-e61237b07e56",
+    "talep": "Araştırma sorularını üç alt problem ve öz değerlendirmelerde değişim diliyle uyumlaştır.",
+    "tezde_yeri": "1.1; 1.2; özetler; bölüm 4",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Ana soru ve üç alt problem korundu. Bulgular ilgili alanlara göre yapılandırıldı; ek araştırma sorusu veya anlamlılık arayışı eklenmedi."
+  },
+  {
+    "no": 20,
+    "kaynak_pdf_sayfa": 17,
+    "kaynak_annotasyon_id": "bcdb75f1-a941-4a3d-8a10-9a0672dd9c1b",
+    "talep": "Başlıklandırma, yazı boyutu ve satır aralığını kılavuza uydur.",
+    "tezde_yeri": "Tüm tez; yeni tablo ve şekil kontrolleri",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Başlıklar gerçek Word başlık stillerine bağlandı. Metin 12 punto/1,5 satır; yeni ana tablolar 11 punto; sayfa ve başlık düzeni denetlendi. Eleştirilen Şekil 4.4 çıkarıldı."
+  },
+  {
+    "no": 21,
+    "kaynak_pdf_sayfa": 17,
+    "kaynak_annotasyon_id": "e3da4b9b-a388-4d0a-ad78-21eeb6f4718b",
+    "talep": "Araştırma sorularını üç alt problem ve öz değerlendirmelerde değişim diliyle uyumlaştır.",
+    "tezde_yeri": "1.1; 1.2; özetler; bölüm 4",
+    "durum": "Korundu / kontrol edildi",
+    "yapilan": "Ana soru ve üç alt problem korundu. Bulgular ilgili alanlara göre yapılandırıldı; ek araştırma sorusu veya anlamlılık arayışı eklenmedi."
+  },
+  {
+    "no": 22,
+    "kaynak_pdf_sayfa": 18,
+    "kaynak_annotasyon_id": "e03829fa-3947-4a09-ba0b-d3c5a87f5f5f",
+    "talep": "Giriş, önem ve tanımlarda kaynak, tekrar ve iddia düzeyini düzelt.",
+    "tezde_yeri": "Bölüm 1",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Program kaynakları ilk kullanımda açıldı; önem ifadeleri bağlama özgü tutuldu. Ürün performansı ölçülmüş gibi yazılmadı. Kullanılmayan genel tanım çıkarıldı."
+  },
+  {
+    "no": 23,
+    "kaynak_pdf_sayfa": 18,
+    "kaynak_annotasyon_id": "7c1026ac-d31f-4614-8448-386d4823a524",
+    "talep": "Giriş, önem ve tanımlarda kaynak, tekrar ve iddia düzeyini düzelt.",
+    "tezde_yeri": "Bölüm 1",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Program kaynakları ilk kullanımda açıldı; önem ifadeleri bağlama özgü tutuldu. Ürün performansı ölçülmüş gibi yazılmadı. Kullanılmayan genel tanım çıkarıldı."
+  },
+  {
+    "no": 24,
+    "kaynak_pdf_sayfa": 18,
+    "kaynak_annotasyon_id": "7222b304-dcc8-4e1d-b21d-e890e2a2c7eb",
+    "talep": "Giriş, önem ve tanımlarda kaynak, tekrar ve iddia düzeyini düzelt.",
+    "tezde_yeri": "Bölüm 1",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Program kaynakları ilk kullanımda açıldı; önem ifadeleri bağlama özgü tutuldu. Ürün performansı ölçülmüş gibi yazılmadı. Kullanılmayan genel tanım çıkarıldı."
+  },
+  {
+    "no": 25,
+    "kaynak_pdf_sayfa": 18,
+    "kaynak_annotasyon_id": "528b8101-1bc1-4bbb-ac16-eede16aa1df4",
+    "talep": "Giriş, önem ve tanımlarda kaynak, tekrar ve iddia düzeyini düzelt.",
+    "tezde_yeri": "Bölüm 1",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Program kaynakları ilk kullanımda açıldı; önem ifadeleri bağlama özgü tutuldu. Ürün performansı ölçülmüş gibi yazılmadı. Kullanılmayan genel tanım çıkarıldı."
+  },
+  {
+    "no": 26,
+    "kaynak_pdf_sayfa": 22,
+    "kaynak_annotasyon_id": "0629c866-88d4-494d-bf49-72011d4bac7c",
+    "talep": "Giriş, önem ve tanımlarda kaynak, tekrar ve iddia düzeyini düzelt.",
+    "tezde_yeri": "Bölüm 1",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Program kaynakları ilk kullanımda açıldı; önem ifadeleri bağlama özgü tutuldu. Ürün performansı ölçülmüş gibi yazılmadı. Kullanılmayan genel tanım çıkarıldı."
+  },
+  {
+    "no": 27,
+    "kaynak_pdf_sayfa": 24,
+    "kaynak_annotasyon_id": "4be80904-d5f4-4af4-9872-bee31d02f935",
+    "talep": "Başlıklandırma, yazı boyutu ve satır aralığını kılavuza uydur.",
+    "tezde_yeri": "Tüm tez; yeni tablo ve şekil kontrolleri",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Başlıklar gerçek Word başlık stillerine bağlandı. Metin 12 punto/1,5 satır; yeni ana tablolar 11 punto; sayfa ve başlık düzeni denetlendi. Eleştirilen Şekil 4.4 çıkarıldı."
+  },
+  {
+    "no": 28,
+    "kaynak_pdf_sayfa": 25,
+    "kaynak_annotasyon_id": "dc856dac-ba80-4170-b8d3-f7b9f9054e90",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 29,
+    "kaynak_pdf_sayfa": 25,
+    "kaynak_annotasyon_id": "59172585-4b80-480f-b394-a1ab8fe383c0",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 30,
+    "kaynak_pdf_sayfa": 25,
+    "kaynak_annotasyon_id": "e9f610e0-dd57-4b15-b442-0cec92db182d",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 31,
+    "kaynak_pdf_sayfa": 25,
+    "kaynak_annotasyon_id": "ea492626-584d-4e6d-86af-3c4e6f8c01b7",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 32,
+    "kaynak_pdf_sayfa": 25,
+    "kaynak_annotasyon_id": "270795ac-8aff-4f40-90d2-bfa2671f8452",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 33,
+    "kaynak_pdf_sayfa": 25,
+    "kaynak_annotasyon_id": "e1d1bee1-8b0a-40c8-9b77-b5e34077269f",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 34,
+    "kaynak_pdf_sayfa": 26,
+    "kaynak_annotasyon_id": "9540adde-8040-498f-98fa-d751a784d6e4",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 35,
+    "kaynak_pdf_sayfa": 26,
+    "kaynak_annotasyon_id": "b6da9472-b1ec-4a7d-8f0b-97b24f58b0ee",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 36,
+    "kaynak_pdf_sayfa": 26,
+    "kaynak_annotasyon_id": "e091a6cc-fdae-45c2-b91a-6cdcd096e2b4",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 37,
+    "kaynak_pdf_sayfa": 26,
+    "kaynak_annotasyon_id": "c9c156c3-8c32-40c8-bb5d-e91782327722",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 38,
+    "kaynak_pdf_sayfa": 26,
+    "kaynak_annotasyon_id": "113dda3e-eda3-4bbd-ad95-03915da29a14",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 39,
+    "kaynak_pdf_sayfa": 26,
+    "kaynak_annotasyon_id": "1af1a935-e17f-432e-ab53-03b35584b255",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 40,
+    "kaynak_pdf_sayfa": 26,
+    "kaynak_annotasyon_id": "6fa916dd-a4a1-43fc-8f4f-37c4f0310a8a",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 41,
+    "kaynak_pdf_sayfa": 26,
+    "kaynak_annotasyon_id": "fbf39e28-6e62-4e43-9f98-4081aac168a2",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 42,
+    "kaynak_pdf_sayfa": 27,
+    "kaynak_annotasyon_id": "525abeb0-fc11-4c9a-a340-0c0d2dab7d7c",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 43,
+    "kaynak_pdf_sayfa": 28,
+    "kaynak_annotasyon_id": "eaab7f47-4ed5-420e-b89c-6103319b15ee",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 44,
+    "kaynak_pdf_sayfa": 28,
+    "kaynak_annotasyon_id": "01efa40b-65ff-41ad-93b5-f337aa1a436b",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 45,
+    "kaynak_pdf_sayfa": 28,
+    "kaynak_annotasyon_id": "d4ae810e-e63f-4fa8-875e-57a99a4ecdc8",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 46,
+    "kaynak_pdf_sayfa": 28,
+    "kaynak_annotasyon_id": "a4ce7947-92ea-40c2-be94-69652fc5f221",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 47,
+    "kaynak_pdf_sayfa": 28,
+    "kaynak_annotasyon_id": "a5ecc353-9331-4ff9-abd4-b9714cd60fa8",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 48,
+    "kaynak_pdf_sayfa": 29,
+    "kaynak_annotasyon_id": "f3c55fd3-1ab9-4e32-9f38-2ee9732e16e8",
+    "talep": "Yazısız işareti bağlamı içinde değerlendir.",
+    "tezde_yeri": "2.2; 3.3.3",
+    "durum": "Yazısız işaret — bağlam kontrol edildi",
+    "yapilan": "Çevresindeki paragraf ve biçim gözden geçirildi; işaret yeni bir işlem veya veri talebi olarak uydurulmadı."
+  },
+  {
+    "no": 49,
+    "kaynak_pdf_sayfa": 29,
+    "kaynak_annotasyon_id": "c86e2f19-4027-4076-9c94-218282caaf82",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 50,
+    "kaynak_pdf_sayfa": 29,
+    "kaynak_annotasyon_id": "9ddd8233-722c-4b68-92f4-c6fdcf15645e",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 51,
+    "kaynak_pdf_sayfa": 30,
+    "kaynak_annotasyon_id": "2ed1bde1-1038-4e26-a4b2-1a1dc4f5e1b4",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 52,
+    "kaynak_pdf_sayfa": 30,
+    "kaynak_annotasyon_id": "3f9660ad-27ed-4ad7-b4a0-11917fb216fa",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 53,
+    "kaynak_pdf_sayfa": 30,
+    "kaynak_annotasyon_id": "fd786e12-e6f6-4be2-9651-32cc23d91233",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 54,
+    "kaynak_pdf_sayfa": 30,
+    "kaynak_annotasyon_id": "92f54713-02dd-4e54-acfa-cf79cd950bd5",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 55,
+    "kaynak_pdf_sayfa": 31,
+    "kaynak_annotasyon_id": "667f2e09-75ce-4f85-ad5b-cf23afd82552",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 56,
+    "kaynak_pdf_sayfa": 31,
+    "kaynak_annotasyon_id": "b3261363-11bd-4f7a-b24e-f9a560bfedc0",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 57,
+    "kaynak_pdf_sayfa": 31,
+    "kaynak_annotasyon_id": "408213d0-ce51-43d6-9aad-e359abb080e9",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 58,
+    "kaynak_pdf_sayfa": 31,
+    "kaynak_annotasyon_id": "bba06d92-a4bb-47cb-b3a9-cc8d95dc86dc",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 59,
+    "kaynak_pdf_sayfa": 31,
+    "kaynak_annotasyon_id": "6b52925c-8fc2-4d5e-8c5d-6157a2f53707",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 60,
+    "kaynak_pdf_sayfa": 31,
+    "kaynak_annotasyon_id": "ce7c04b3-e11e-406e-ae5c-0c64c6eb0877",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 61,
+    "kaynak_pdf_sayfa": 33,
+    "kaynak_annotasyon_id": "7e0bde8b-6b2c-4299-8885-db8c6b34c7f2",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 62,
+    "kaynak_pdf_sayfa": 35,
+    "kaynak_annotasyon_id": "40385a32-2205-42fc-88f4-2cf2bd18f836",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 63,
+    "kaynak_pdf_sayfa": 35,
+    "kaynak_annotasyon_id": "cbd82cf5-d8f4-425f-89ae-a305de4ea670",
+    "talep": "Olumlu değerlendirilen konu bağlantısını koru.",
+    "tezde_yeri": "2.4–2.5",
+    "durum": "Korundu / kontrol edildi",
+    "yapilan": "Proje ve afet bağlamı ilişkisi ölçülen çıktıların sınırları gözetilerek korundu; genel etkililik iddiasına dönüştürülmedi."
+  },
+  {
+    "no": 64,
+    "kaynak_pdf_sayfa": 35,
+    "kaynak_annotasyon_id": "2f4f8afa-33ab-48b9-a188-578b4f7802cc",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 65,
+    "kaynak_pdf_sayfa": 35,
+    "kaynak_annotasyon_id": "c700d4ed-c4a7-4b66-a8a6-53490fdcb6e2",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 66,
+    "kaynak_pdf_sayfa": 36,
+    "kaynak_annotasyon_id": "bfbfc058-77ab-4040-8c55-98037780a928",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 67,
+    "kaynak_pdf_sayfa": 36,
+    "kaynak_annotasyon_id": "f018a7e1-98be-4751-9d92-7b6cf846dee3",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 68,
+    "kaynak_pdf_sayfa": 36,
+    "kaynak_annotasyon_id": "9494eba3-51ec-4811-a785-9650eab79af1",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 69,
+    "kaynak_pdf_sayfa": 36,
+    "kaynak_annotasyon_id": "300da4a9-337e-49ca-ab83-325a366d7308",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 70,
+    "kaynak_pdf_sayfa": 37,
+    "kaynak_annotasyon_id": "a41aeec4-3173-4763-9a15-83c962558f6d",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 71,
+    "kaynak_pdf_sayfa": 37,
+    "kaynak_annotasyon_id": "c3d66b6c-85db-42e5-9f17-2b5b6db79e37",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 72,
+    "kaynak_pdf_sayfa": 37,
+    "kaynak_annotasyon_id": "5b209973-bd85-43b7-9320-869d1a3c3b49",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 73,
+    "kaynak_pdf_sayfa": 37,
+    "kaynak_annotasyon_id": "f79a4d5c-9214-4ace-952d-d686df10610a",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 74,
+    "kaynak_pdf_sayfa": 38,
+    "kaynak_annotasyon_id": "9947dad7-cca9-4364-ae5a-4ed967207f04",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 75,
+    "kaynak_pdf_sayfa": 38,
+    "kaynak_annotasyon_id": "5c09fcbb-221b-4632-9693-20aee6954fe5",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 76,
+    "kaynak_pdf_sayfa": 39,
+    "kaynak_annotasyon_id": "cde46683-4ece-4a30-81c2-331073539ad2",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 77,
+    "kaynak_pdf_sayfa": 39,
+    "kaynak_annotasyon_id": "2317755c-0496-47ee-a4df-690898f99d7b",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 78,
+    "kaynak_pdf_sayfa": 39,
+    "kaynak_annotasyon_id": "5aeac846-18d5-4d51-b1d7-ec8b8ae569ae",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 79,
+    "kaynak_pdf_sayfa": 39,
+    "kaynak_annotasyon_id": "d06e3add-286a-453d-b71c-63e117b66f38",
+    "talep": "Kavramsal çerçeveyi kaynaklı, konu odaklı ve ölçülü biçimde yeniden kur.",
+    "tezde_yeri": "2.1–2.6; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Teorik akış yeniden yazıldı. Kaynaksız genellemeler ve çalışmayı tekrar tekrar anlatan paragraflar ayıklandı. Resmî programlar araştırma sonuçlarından ayrıldı. İlgisiz çalışma ve kapsam tablosu çıkarıldı; OECD açıldı; kullanılmayan PISA/UNESCO/UNDRR ifadeleri geri getirilmedi."
+  },
+  {
+    "no": 80,
+    "kaynak_pdf_sayfa": 43,
+    "kaynak_annotasyon_id": "89d3f458-7fbf-44fe-a704-e523f66c9010",
+    "talep": "Tek gruplu ön test–son test desenini ve tamamlayıcı görüşmeleri açıkla.",
+    "tezde_yeri": "3.1; 3.4; özetler",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Tek gruplu desen ve kontrol grubu bulunmamasının yorumsal sınırı korundu. Akış şeması modelde değil uygulama bölümünde tutuldu. Karma desen ve biçimsel birleşim başlıkları çıkarıldı."
+  },
+  {
+    "no": 81,
+    "kaynak_pdf_sayfa": 43,
+    "kaynak_annotasyon_id": "9ecc3bfd-6b53-4ed4-a1b6-47227273831f",
+    "talep": "Tek gruplu ön test–son test desenini ve tamamlayıcı görüşmeleri açıkla.",
+    "tezde_yeri": "3.1; 3.4; özetler",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Tek gruplu desen ve kontrol grubu bulunmamasının yorumsal sınırı korundu. Akış şeması modelde değil uygulama bölümünde tutuldu. Karma desen ve biçimsel birleşim başlıkları çıkarıldı."
+  },
+  {
+    "no": 82,
+    "kaynak_pdf_sayfa": 43,
+    "kaynak_annotasyon_id": "8be8bcf8-01eb-48e3-b75e-7c382aa893be",
+    "talep": "Tek gruplu ön test–son test desenini ve tamamlayıcı görüşmeleri açıkla.",
+    "tezde_yeri": "3.1; 3.4; özetler",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Tek gruplu desen ve kontrol grubu bulunmamasının yorumsal sınırı korundu. Akış şeması modelde değil uygulama bölümünde tutuldu. Karma desen ve biçimsel birleşim başlıkları çıkarıldı."
+  },
+  {
+    "no": 83,
+    "kaynak_pdf_sayfa": 43,
+    "kaynak_annotasyon_id": "a5abee7e-9bab-412c-8999-94e096c2f6b6",
+    "talep": "Tek gruplu ön test–son test desenini ve tamamlayıcı görüşmeleri açıkla.",
+    "tezde_yeri": "3.1; 3.4; özetler",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Tek gruplu desen ve kontrol grubu bulunmamasının yorumsal sınırı korundu. Akış şeması modelde değil uygulama bölümünde tutuldu. Karma desen ve biçimsel birleşim başlıkları çıkarıldı."
+  },
+  {
+    "no": 84,
+    "kaynak_pdf_sayfa": 44,
+    "kaynak_annotasyon_id": "bb7be782-25b9-4a66-b3ca-5248732b3237",
+    "talep": "Tek gruplu ön test–son test desenini ve tamamlayıcı görüşmeleri açıkla.",
+    "tezde_yeri": "3.1; 3.4; özetler",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Tek gruplu desen ve kontrol grubu bulunmamasının yorumsal sınırı korundu. Akış şeması modelde değil uygulama bölümünde tutuldu. Karma desen ve biçimsel birleşim başlıkları çıkarıldı."
+  },
+  {
+    "no": 85,
+    "kaynak_pdf_sayfa": 45,
+    "kaynak_annotasyon_id": "6f73387c-184f-42c7-bb03-bb369cbde8da",
+    "talep": "Çalışma grubunu ve eşleşen ölçümleri aynı 40 katılımcıya göre düzenle.",
+    "tezde_yeri": "Özetler; 3.2; 4.1–4.2",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Aynı 40 kişi esas alındı. Önceki katılımcı eşleştirmesi korundu; sonuç elde etmek için kişi seçilmedi."
+  },
+  {
+    "no": 86,
+    "kaynak_pdf_sayfa": 45,
+    "kaynak_annotasyon_id": "fdd1c11e-fd92-4567-953a-bbce60d4bd97",
+    "talep": "Çalışma grubunu ve eşleşen ölçümleri aynı 40 katılımcıya göre düzenle.",
+    "tezde_yeri": "Özetler; 3.2; 4.1–4.2",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Aynı 40 kişi esas alındı. Önceki katılımcı eşleştirmesi korundu; sonuç elde etmek için kişi seçilmedi."
+  },
+  {
+    "no": 87,
+    "kaynak_pdf_sayfa": 45,
+    "kaynak_annotasyon_id": "b34114aa-527e-484b-84f5-63b7ef88b7dd",
+    "talep": "Demografik sayıları ortak gruba göre düzelt.",
+    "tezde_yeri": "Tablo 3.1; 3.2",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Araştırmacı teyidine dayalı 33 kadın, 7 erkek ve yüzdeler korundu."
+  },
+  {
+    "no": 88,
+    "kaynak_pdf_sayfa": 45,
+    "kaynak_annotasyon_id": "277b4c1d-14b7-40cf-9e31-a24c7732c4c6",
+    "talep": "Demografik sayıları ortak gruba göre düzelt.",
+    "tezde_yeri": "Tablo 3.1; 3.2",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Araştırmacı teyidine dayalı 33 kadın, 7 erkek ve yüzdeler korundu."
+  },
+  {
+    "no": 89,
+    "kaynak_pdf_sayfa": 45,
+    "kaynak_annotasyon_id": "8e5b062b-3018-4d75-868a-dc1fea645276",
+    "talep": "Çalışma grubunu ve eşleşen ölçümleri aynı 40 katılımcıya göre düzenle.",
+    "tezde_yeri": "Özetler; 3.2; 4.1–4.2",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Aynı 40 kişi esas alındı. Önceki katılımcı eşleştirmesi korundu; sonuç elde etmek için kişi seçilmedi."
+  },
+  {
+    "no": 90,
+    "kaynak_pdf_sayfa": 45,
+    "kaynak_annotasyon_id": "34fe41cd-337a-4c35-89ae-d3b73aaa7fca",
+    "talep": "Veri toplama araçlarını nicel/nitel ayrımını öne çıkarmadan tanıt.",
+    "tezde_yeri": "3.3; Tablo 3.2",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Üç araç açıkça yazıldı; özet araç tablosu üç sütuna indirildi ve Tür sütunu çıkarıldı."
+  },
+  {
+    "no": 91,
+    "kaynak_pdf_sayfa": 46,
+    "kaynak_annotasyon_id": "dcf6e5e6-46ee-403b-bdf2-2480c4bad64e",
+    "talep": "Alfa sonuçlarını ilgili ölçme aracının altında ver; bulgulardaki hesap/tablo tekrarını kaldır.",
+    "tezde_yeri": "3.3.1–3.3.2",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Ön ve son test alfa sonuçları ölçüm zamanları ayrı olacak şekilde yöntemde verildi. İki alfa tablosu ve bulgu açıklamaları kaldırıldı; hesap kayıtları korundu."
+  },
+  {
+    "no": 92,
+    "kaynak_pdf_sayfa": 48,
+    "kaynak_annotasyon_id": "49f25691-b13f-4d4b-b917-92e5420637d5",
+    "talep": "Görüşme formunun amacı, uzmanı, taslağı, son hâli ve sunumunu netleştir.",
+    "tezde_yeri": "3.3.3; Ek 3",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Yedi ana soru ve alt sorular; danışman uzman görüşü ve uzmanlık açıklaması korundu. Döküm/analiz açıklaması 3.5’e alındı. Katılımcı kodları puan sırası olarak sunulmadı."
+  },
+  {
+    "no": 93,
+    "kaynak_pdf_sayfa": 48,
+    "kaynak_annotasyon_id": "2a32c7ef-6e8b-4662-ad37-f7abe15c6490",
+    "talep": "Başlıklandırma, yazı boyutu ve satır aralığını kılavuza uydur.",
+    "tezde_yeri": "Tüm tez; yeni tablo ve şekil kontrolleri",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Başlıklar gerçek Word başlık stillerine bağlandı. Metin 12 punto/1,5 satır; yeni ana tablolar 11 punto; sayfa ve başlık düzeni denetlendi. Eleştirilen Şekil 4.4 çıkarıldı."
+  },
+  {
+    "no": 94,
+    "kaynak_pdf_sayfa": 48,
+    "kaynak_annotasyon_id": "4127baa8-b17f-4dca-88d1-6b7dee75d716",
+    "talep": "Görüşme formunun amacı, uzmanı, taslağı, son hâli ve sunumunu netleştir.",
+    "tezde_yeri": "3.3.3; Ek 3",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Yedi ana soru ve alt sorular; danışman uzman görüşü ve uzmanlık açıklaması korundu. Döküm/analiz açıklaması 3.5’e alındı. Katılımcı kodları puan sırası olarak sunulmadı."
+  },
+  {
+    "no": 95,
+    "kaynak_pdf_sayfa": 48,
+    "kaynak_annotasyon_id": "c284c980-3c49-4e4c-9b0e-9b9f61d03a9e",
+    "talep": "Görüşme formunun amacı, uzmanı, taslağı, son hâli ve sunumunu netleştir.",
+    "tezde_yeri": "3.3.3; Ek 3",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Yedi ana soru ve alt sorular; danışman uzman görüşü ve uzmanlık açıklaması korundu. Döküm/analiz açıklaması 3.5’e alındı. Katılımcı kodları puan sırası olarak sunulmadı."
+  },
+  {
+    "no": 96,
+    "kaynak_pdf_sayfa": 48,
+    "kaynak_annotasyon_id": "9b29f5e1-819e-43d7-81b6-51e0f75bcfc3",
+    "talep": "Görüşme formunun amacı, uzmanı, taslağı, son hâli ve sunumunu netleştir.",
+    "tezde_yeri": "3.3.3; Ek 3",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Yedi ana soru ve alt sorular; danışman uzman görüşü ve uzmanlık açıklaması korundu. Döküm/analiz açıklaması 3.5’e alındı. Katılımcı kodları puan sırası olarak sunulmadı."
+  },
+  {
+    "no": 97,
+    "kaynak_pdf_sayfa": 48,
+    "kaynak_annotasyon_id": "f3870ced-0f9b-49e9-9b43-ef3a2676684a",
+    "talep": "Yazısız işareti bağlamı içinde değerlendir.",
+    "tezde_yeri": "2.2; 3.3.3",
+    "durum": "Yazısız işaret — bağlam kontrol edildi",
+    "yapilan": "Çevresindeki paragraf ve biçim gözden geçirildi; işaret yeni bir işlem veya veri talebi olarak uydurulmadı."
+  },
+  {
+    "no": 98,
+    "kaynak_pdf_sayfa": 48,
+    "kaynak_annotasyon_id": "101619e7-e8e2-4ba7-ab91-0ad9476576a0",
+    "talep": "Görüşme formunun amacı, uzmanı, taslağı, son hâli ve sunumunu netleştir.",
+    "tezde_yeri": "3.3.3; Ek 3",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Yedi ana soru ve alt sorular; danışman uzman görüşü ve uzmanlık açıklaması korundu. Döküm/analiz açıklaması 3.5’e alındı. Katılımcı kodları puan sırası olarak sunulmadı."
+  },
+  {
+    "no": 99,
+    "kaynak_pdf_sayfa": 48,
+    "kaynak_annotasyon_id": "f66b5719-d53d-4440-ab88-046fea142c9a",
+    "talep": "Görüşme formunun amacı, uzmanı, taslağı, son hâli ve sunumunu netleştir.",
+    "tezde_yeri": "3.3.3; Ek 3",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Yedi ana soru ve alt sorular; danışman uzman görüşü ve uzmanlık açıklaması korundu. Döküm/analiz açıklaması 3.5’e alındı. Katılımcı kodları puan sırası olarak sunulmadı."
+  },
+  {
+    "no": 100,
+    "kaynak_pdf_sayfa": 49,
+    "kaynak_annotasyon_id": "9893e4c2-e5fa-4c89-97e4-d4e81806d1af",
+    "talep": "Ön test zamanını ilk hafta olarak düzelt ve süreç açıklamasını sadeleştir.",
+    "tezde_yeri": "3.4; Şekil 3.1–3.2",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Araştırmacının doğruladığı ilk ders, kısa tanışma sonrası ve konu öğretimi öncesi uygulama bilgisi korundu. İki şemayla karşılaştırıldı."
+  },
+  {
+    "no": 101,
+    "kaynak_pdf_sayfa": 51,
+    "kaynak_annotasyon_id": "ac7a34ef-7637-474d-9f81-837d2defc8a6",
+    "talep": "Ön test zamanını ilk hafta olarak düzelt ve süreç açıklamasını sadeleştir.",
+    "tezde_yeri": "3.4; Şekil 3.1–3.2",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Araştırmacının doğruladığı ilk ders, kısa tanışma sonrası ve konu öğretimi öncesi uygulama bilgisi korundu. İki şemayla karşılaştırıldı."
+  },
+  {
+    "no": 102,
+    "kaynak_pdf_sayfa": 51,
+    "kaynak_annotasyon_id": "dff95fcf-e331-4d33-82bb-69e9ca6b55d1",
+    "talep": "Ön test zamanını ilk hafta olarak düzelt ve süreç açıklamasını sadeleştir.",
+    "tezde_yeri": "3.4; Şekil 3.1–3.2",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Araştırmacının doğruladığı ilk ders, kısa tanışma sonrası ve konu öğretimi öncesi uygulama bilgisi korundu. İki şemayla karşılaştırıldı."
+  },
+  {
+    "no": 103,
+    "kaynak_pdf_sayfa": 51,
+    "kaynak_annotasyon_id": "a7c67030-598a-4b52-bfbd-90fd76aca84b",
+    "talep": "Veri analizini anlaşılır biçimde, işlem sırasıyla anlat; gereksiz birim/kod sayısı ayrıntılarını çıkar.",
+    "tezde_yeri": "3.5",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Tek analiz başlığı altında kullanılan işlemler açıklandı. 11/44/140 analiz birimi anlatımları ana metne konmadı. Sonraki notlara uygun olarak f için kısa tanım yöntemde tutuldu; danışman tezlerinin dili ve sırası örnek alındı."
+  },
+  {
+    "no": 104,
+    "kaynak_pdf_sayfa": 52,
+    "kaynak_annotasyon_id": "65b0a1cc-437d-4158-bce3-4303e88695dc",
+    "talep": "Veri analizini anlaşılır biçimde, işlem sırasıyla anlat; gereksiz birim/kod sayısı ayrıntılarını çıkar.",
+    "tezde_yeri": "3.5",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Tek analiz başlığı altında kullanılan işlemler açıklandı. 11/44/140 analiz birimi anlatımları ana metne konmadı. Sonraki notlara uygun olarak f için kısa tanım yöntemde tutuldu; danışman tezlerinin dili ve sırası örnek alındı."
+  },
+  {
+    "no": 105,
+    "kaynak_pdf_sayfa": 52,
+    "kaynak_annotasyon_id": "37681557-375c-4543-bae7-ae0ff5cb099f",
+    "talep": "Analizleri SPSS ile yap ve yazılımı buna göre bildir.",
+    "tezde_yeri": "Özetler; 3.5; SPSS karşılaştırma komutları",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "İki ölçeğin gerçek SPSS PDF çıktıları mevcut hesaplamalarla karşılaştırıldı. İBDÖ için 5 t, 5 Shapiro–Wilk, 10 alfa ve 2 Wilcoxon; PÇBÖ için 4 t, 4 Shapiro–Wilk, 8 alfa ve 1 Wilcoxon kontrolü tamamlandı. SPV arşiv bütünlüğü ve 32.0 sürüm kaydı kontrol edildi; pivot ikili hücreler ayrıca çözümlenmedi. Özetler ve 3.5 bölümünde iki ölçek için IBM SPSS Statistics 32 bildirildi."
+  },
+  {
+    "no": 106,
+    "kaynak_pdf_sayfa": 52,
+    "kaynak_annotasyon_id": "b674dae2-c98a-4985-b822-81b5d144a7c1",
+    "talep": "Çalışma grubunu ve eşleşen ölçümleri aynı 40 katılımcıya göre düzenle.",
+    "tezde_yeri": "Özetler; 3.2; 4.1–4.2",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Aynı 40 kişi esas alındı. Önceki katılımcı eşleştirmesi korundu; sonuç elde etmek için kişi seçilmedi."
+  },
+  {
+    "no": 107,
+    "kaynak_pdf_sayfa": 52,
+    "kaynak_annotasyon_id": "4a4e4ee1-d8fc-4fec-9216-c183c55aaee3",
+    "talep": "Veri analizini anlaşılır biçimde, işlem sırasıyla anlat; gereksiz birim/kod sayısı ayrıntılarını çıkar.",
+    "tezde_yeri": "3.5",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Tek analiz başlığı altında kullanılan işlemler açıklandı. 11/44/140 analiz birimi anlatımları ana metne konmadı. Sonraki notlara uygun olarak f için kısa tanım yöntemde tutuldu; danışman tezlerinin dili ve sırası örnek alındı."
+  },
+  {
+    "no": 108,
+    "kaynak_pdf_sayfa": 52,
+    "kaynak_annotasyon_id": "980141c6-022b-47b6-a258-eee7cd76b636",
+    "talep": "Veri analizini anlaşılır biçimde, işlem sırasıyla anlat; gereksiz birim/kod sayısı ayrıntılarını çıkar.",
+    "tezde_yeri": "3.5",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Tek analiz başlığı altında kullanılan işlemler açıklandı. 11/44/140 analiz birimi anlatımları ana metne konmadı. Sonraki notlara uygun olarak f için kısa tanım yöntemde tutuldu; danışman tezlerinin dili ve sırası örnek alındı."
+  },
+  {
+    "no": 109,
+    "kaynak_pdf_sayfa": 52,
+    "kaynak_annotasyon_id": "562cb378-7bc2-4a74-b12d-ccae2f09ef43",
+    "talep": "Veri analizini anlaşılır biçimde, işlem sırasıyla anlat; gereksiz birim/kod sayısı ayrıntılarını çıkar.",
+    "tezde_yeri": "3.5",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Tek analiz başlığı altında kullanılan işlemler açıklandı. 11/44/140 analiz birimi anlatımları ana metne konmadı. Sonraki notlara uygun olarak f için kısa tanım yöntemde tutuldu; danışman tezlerinin dili ve sırası örnek alındı."
+  },
+  {
+    "no": 110,
+    "kaynak_pdf_sayfa": 52,
+    "kaynak_annotasyon_id": "5caefd4d-c1a4-4540-8836-13a996360262",
+    "talep": "Veri analizini anlaşılır biçimde, işlem sırasıyla anlat; gereksiz birim/kod sayısı ayrıntılarını çıkar.",
+    "tezde_yeri": "3.5",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Tek analiz başlığı altında kullanılan işlemler açıklandı. 11/44/140 analiz birimi anlatımları ana metne konmadı. Sonraki notlara uygun olarak f için kısa tanım yöntemde tutuldu; danışman tezlerinin dili ve sırası örnek alındı."
+  },
+  {
+    "no": 111,
+    "kaynak_pdf_sayfa": 52,
+    "kaynak_annotasyon_id": "25b1dd87-22f5-4563-addb-9f32a9078eed",
+    "talep": "Veri analizini anlaşılır biçimde, işlem sırasıyla anlat; gereksiz birim/kod sayısı ayrıntılarını çıkar.",
+    "tezde_yeri": "3.5",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Tek analiz başlığı altında kullanılan işlemler açıklandı. 11/44/140 analiz birimi anlatımları ana metne konmadı. Sonraki notlara uygun olarak f için kısa tanım yöntemde tutuldu; danışman tezlerinin dili ve sırası örnek alındı."
+  },
+  {
+    "no": 112,
+    "kaynak_pdf_sayfa": 54,
+    "kaynak_annotasyon_id": "1488eb0a-9ee9-40eb-917c-521da059b6b0",
+    "talep": "Bulgularda tekrarları, katılım akışını ve gereksiz ara başlıkları çıkar; doğrudan ölçek sonuçlarına geç.",
+    "tezde_yeri": "4.1–4.2",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "İki katılım tablosu, iki ayrı ortalama tablosu, iki alfa tablosu ve tekrarlayan genel değerlendirme paragrafları kaldırıldı. Her ölçek tek ana başlıkta normallik ve test tablosuyla sunuldu."
+  },
+  {
+    "no": 113,
+    "kaynak_pdf_sayfa": 54,
+    "kaynak_annotasyon_id": "e0e76c70-2265-4e0c-90e3-f8fe6da384d5",
+    "talep": "Bulgularda tekrarları, katılım akışını ve gereksiz ara başlıkları çıkar; doğrudan ölçek sonuçlarına geç.",
+    "tezde_yeri": "4.1–4.2",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "İki katılım tablosu, iki ayrı ortalama tablosu, iki alfa tablosu ve tekrarlayan genel değerlendirme paragrafları kaldırıldı. Her ölçek tek ana başlıkta normallik ve test tablosuyla sunuldu."
+  },
+  {
+    "no": 114,
+    "kaynak_pdf_sayfa": 54,
+    "kaynak_annotasyon_id": "1127a4a5-3f2b-4157-a17b-790a1c6a49d3",
+    "talep": "Bulgularda tekrarları, katılım akışını ve gereksiz ara başlıkları çıkar; doğrudan ölçek sonuçlarına geç.",
+    "tezde_yeri": "4.1–4.2",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "İki katılım tablosu, iki ayrı ortalama tablosu, iki alfa tablosu ve tekrarlayan genel değerlendirme paragrafları kaldırıldı. Her ölçek tek ana başlıkta normallik ve test tablosuyla sunuldu."
+  },
+  {
+    "no": 115,
+    "kaynak_pdf_sayfa": 54,
+    "kaynak_annotasyon_id": "5b3f3c65-b2ed-4a6c-99c1-e9318479b104",
+    "talep": "Bulgularda tekrarları, katılım akışını ve gereksiz ara başlıkları çıkar; doğrudan ölçek sonuçlarına geç.",
+    "tezde_yeri": "4.1–4.2",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "İki katılım tablosu, iki ayrı ortalama tablosu, iki alfa tablosu ve tekrarlayan genel değerlendirme paragrafları kaldırıldı. Her ölçek tek ana başlıkta normallik ve test tablosuyla sunuldu."
+  },
+  {
+    "no": 116,
+    "kaynak_pdf_sayfa": 54,
+    "kaynak_annotasyon_id": "d8bfac89-3a8a-485a-a758-e0193a439d84",
+    "talep": "Bulgularda tekrarları, katılım akışını ve gereksiz ara başlıkları çıkar; doğrudan ölçek sonuçlarına geç.",
+    "tezde_yeri": "4.1–4.2",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "İki katılım tablosu, iki ayrı ortalama tablosu, iki alfa tablosu ve tekrarlayan genel değerlendirme paragrafları kaldırıldı. Her ölçek tek ana başlıkta normallik ve test tablosuyla sunuldu."
+  },
+  {
+    "no": 117,
+    "kaynak_pdf_sayfa": 55,
+    "kaynak_annotasyon_id": "c9ae7f38-8925-4e41-bec8-c36d69434a90",
+    "talep": "Bulgularda tekrarları, katılım akışını ve gereksiz ara başlıkları çıkar; doğrudan ölçek sonuçlarına geç.",
+    "tezde_yeri": "4.1–4.2",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "İki katılım tablosu, iki ayrı ortalama tablosu, iki alfa tablosu ve tekrarlayan genel değerlendirme paragrafları kaldırıldı. Her ölçek tek ana başlıkta normallik ve test tablosuyla sunuldu."
+  },
+  {
+    "no": 118,
+    "kaynak_pdf_sayfa": 55,
+    "kaynak_annotasyon_id": "555fb0c6-72f7-4fbd-ab8e-b7b4e6962245",
+    "talep": "Alfa sonuçlarını ilgili ölçme aracının altında ver; bulgulardaki hesap/tablo tekrarını kaldır.",
+    "tezde_yeri": "3.3.1–3.3.2",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Ön ve son test alfa sonuçları ölçüm zamanları ayrı olacak şekilde yöntemde verildi. İki alfa tablosu ve bulgu açıklamaları kaldırıldı; hesap kayıtları korundu."
+  },
+  {
+    "no": 119,
+    "kaynak_pdf_sayfa": 55,
+    "kaynak_annotasyon_id": "c9e1ef59-2d71-49df-a204-cc050ca49092",
+    "talep": "Düşük PÇBÖ puanının yorum yönünü yöntemde açıkla.",
+    "tezde_yeri": "3.3.2; 4.1; kontrol listesindeki anahtar sınırı",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Ters kodlama dönüşümü, madde ortalaması ve düşük puanın yorum yönü yöntemde belirtildi. Yetkili madde anahtarının bağımsız teyidi ayrıca bekleyen doğrulama olarak saklandı; bu turda ham puanlama değiştirilmedi."
+  },
+  {
+    "no": 120,
+    "kaynak_pdf_sayfa": 55,
+    "kaynak_annotasyon_id": "b5920fac-5e4f-4413-bbbb-2823e962eb76",
+    "talep": "Normallik önce gelsin; ortalama/SS aynı test tablosunda olsun; yuvarlama ve değişim dili tutarlı olsun.",
+    "tezde_yeri": "Tablo 4.1–4.4; 3.5",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Önce fark normalliği, sonra ön/son satırlı t tablosu sunuldu. Ortalamalar/SS iki; t,W,p üç ondalık. Hesap tam duyarlıkla korundu. Fark yönü iki ölçekte son−ön olarak birleştirildi."
+  },
+  {
+    "no": 121,
+    "kaynak_pdf_sayfa": 55,
+    "kaynak_annotasyon_id": "c780cace-6362-4e47-b426-f617e5fefc69",
+    "talep": "Normallik önce gelsin; ortalama/SS aynı test tablosunda olsun; yuvarlama ve değişim dili tutarlı olsun.",
+    "tezde_yeri": "Tablo 4.1–4.4; 3.5",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Önce fark normalliği, sonra ön/son satırlı t tablosu sunuldu. Ortalamalar/SS iki; t,W,p üç ondalık. Hesap tam duyarlıkla korundu. Fark yönü iki ölçekte son−ön olarak birleştirildi."
+  },
+  {
+    "no": 122,
+    "kaynak_pdf_sayfa": 55,
+    "kaynak_annotasyon_id": "11b18fdb-0c09-4a33-bfc8-800f7c0a92a1",
+    "talep": "Normallik önce gelsin; ortalama/SS aynı test tablosunda olsun; yuvarlama ve değişim dili tutarlı olsun.",
+    "tezde_yeri": "Tablo 4.1–4.4; 3.5",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Önce fark normalliği, sonra ön/son satırlı t tablosu sunuldu. Ortalamalar/SS iki; t,W,p üç ondalık. Hesap tam duyarlıkla korundu. Fark yönü iki ölçekte son−ön olarak birleştirildi."
+  },
+  {
+    "no": 123,
+    "kaynak_pdf_sayfa": 55,
+    "kaynak_annotasyon_id": "0ebbc323-6a4b-408a-ad3e-6e3b824aaf33",
+    "talep": "Normallik önce gelsin; ortalama/SS aynı test tablosunda olsun; yuvarlama ve değişim dili tutarlı olsun.",
+    "tezde_yeri": "Tablo 4.1–4.4; 3.5",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Önce fark normalliği, sonra ön/son satırlı t tablosu sunuldu. Ortalamalar/SS iki; t,W,p üç ondalık. Hesap tam duyarlıkla korundu. Fark yönü iki ölçekte son−ön olarak birleştirildi."
+  },
+  {
+    "no": 124,
+    "kaynak_pdf_sayfa": 55,
+    "kaynak_annotasyon_id": "acf262c7-7dcf-4bf5-879f-2f60afa569f4",
+    "talep": "Normallik önce gelsin; ortalama/SS aynı test tablosunda olsun; yuvarlama ve değişim dili tutarlı olsun.",
+    "tezde_yeri": "Tablo 4.1–4.4; 3.5",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Önce fark normalliği, sonra ön/son satırlı t tablosu sunuldu. Ortalamalar/SS iki; t,W,p üç ondalık. Hesap tam duyarlıkla korundu. Fark yönü iki ölçekte son−ön olarak birleştirildi."
+  },
+  {
+    "no": 125,
+    "kaynak_pdf_sayfa": 56,
+    "kaynak_annotasyon_id": "baedf192-c9dd-42ac-abda-bcf8dbddd902",
+    "talep": "Tekrarlayan tablo/grafik notlarını kaldır.",
+    "tezde_yeri": "Bölüm 4; 3.5",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Not satırları kaldırıldı. Gerekli f ve fark yönü açıklamaları yönteme, temel yorumlar tablo altındaki normal metne alındı."
+  },
+  {
+    "no": 126,
+    "kaynak_pdf_sayfa": 57,
+    "kaynak_annotasyon_id": "09d1b942-7176-486a-997d-b2b49a9ce3d1",
+    "talep": "Normallik önce gelsin; ortalama/SS aynı test tablosunda olsun; yuvarlama ve değişim dili tutarlı olsun.",
+    "tezde_yeri": "Tablo 4.1–4.4; 3.5",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Önce fark normalliği, sonra ön/son satırlı t tablosu sunuldu. Ortalamalar/SS iki; t,W,p üç ondalık. Hesap tam duyarlıkla korundu. Fark yönü iki ölçekte son−ön olarak birleştirildi."
+  },
+  {
+    "no": 127,
+    "kaynak_pdf_sayfa": 57,
+    "kaynak_annotasyon_id": "449ae43c-dcec-498c-8dc4-8cbae3e08733",
+    "talep": "SPSS sunumuna benzeyen, danışman tezleriyle uyumlu tablo düzeni kullan.",
+    "tezde_yeri": "Tablo 4.2 ve 4.4; SPSS komutları",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "İki ölçeğin gerçek SPSS PDF çıktıları mevcut hesaplamalarla karşılaştırıldı. İBDÖ için 5 t, 5 Shapiro–Wilk, 10 alfa ve 2 Wilcoxon; PÇBÖ için 4 t, 4 Shapiro–Wilk, 8 alfa ve 1 Wilcoxon kontrolü tamamlandı. SPV arşiv bütünlüğü ve 32.0 sürüm kaydı kontrol edildi; pivot ikili hücreler ayrıca çözümlenmedi. Özetler ve 3.5 bölümünde iki ölçek için IBM SPSS Statistics 32 bildirildi."
+  },
+  {
+    "no": 128,
+    "kaynak_pdf_sayfa": 58,
+    "kaynak_annotasyon_id": "10cb1b4e-42bc-44b8-b8c3-d35fd4fef995",
+    "talep": "Bulgularda tekrarları, katılım akışını ve gereksiz ara başlıkları çıkar; doğrudan ölçek sonuçlarına geç.",
+    "tezde_yeri": "4.1–4.2",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "İki katılım tablosu, iki ayrı ortalama tablosu, iki alfa tablosu ve tekrarlayan genel değerlendirme paragrafları kaldırıldı. Her ölçek tek ana başlıkta normallik ve test tablosuyla sunuldu."
+  },
+  {
+    "no": 129,
+    "kaynak_pdf_sayfa": 58,
+    "kaynak_annotasyon_id": "e91a49a2-49ee-43b0-b7c3-57bf5c1e93fb",
+    "talep": "Değişim sözcüğünü ve noktalama işaretlerini düzelt.",
+    "tezde_yeri": "Ölçek bulguları; özetler",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Değişim dili kullanıldı; gereksiz virgül ve eski uzun açıklamalar yeniden yazılan metinlerde giderildi."
+  },
+  {
+    "no": 130,
+    "kaynak_pdf_sayfa": 58,
+    "kaynak_annotasyon_id": "1db07f55-dcff-481f-aeb0-5ae789e05030",
+    "talep": "Normallik önce gelsin; ortalama/SS aynı test tablosunda olsun; yuvarlama ve değişim dili tutarlı olsun.",
+    "tezde_yeri": "Tablo 4.1–4.4; 3.5",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Önce fark normalliği, sonra ön/son satırlı t tablosu sunuldu. Ortalamalar/SS iki; t,W,p üç ondalık. Hesap tam duyarlıkla korundu. Fark yönü iki ölçekte son−ön olarak birleştirildi."
+  },
+  {
+    "no": 131,
+    "kaynak_pdf_sayfa": 58,
+    "kaynak_annotasyon_id": "9ee2a29b-214c-47eb-bc2c-751a64ea5feb",
+    "talep": "Normallik önce gelsin; ortalama/SS aynı test tablosunda olsun; yuvarlama ve değişim dili tutarlı olsun.",
+    "tezde_yeri": "Tablo 4.1–4.4; 3.5",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Önce fark normalliği, sonra ön/son satırlı t tablosu sunuldu. Ortalamalar/SS iki; t,W,p üç ondalık. Hesap tam duyarlıkla korundu. Fark yönü iki ölçekte son−ön olarak birleştirildi."
+  },
+  {
+    "no": 132,
+    "kaynak_pdf_sayfa": 58,
+    "kaynak_annotasyon_id": "231d0394-f073-48d5-97df-203c83524004",
+    "talep": "Bulgularda tekrarları, katılım akışını ve gereksiz ara başlıkları çıkar; doğrudan ölçek sonuçlarına geç.",
+    "tezde_yeri": "4.1–4.2",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "İki katılım tablosu, iki ayrı ortalama tablosu, iki alfa tablosu ve tekrarlayan genel değerlendirme paragrafları kaldırıldı. Her ölçek tek ana başlıkta normallik ve test tablosuyla sunuldu."
+  },
+  {
+    "no": 133,
+    "kaynak_pdf_sayfa": 59,
+    "kaynak_annotasyon_id": "19795793-a7d9-4977-a874-92dd2d61027b",
+    "talep": "Bulgularda tekrarları, katılım akışını ve gereksiz ara başlıkları çıkar; doğrudan ölçek sonuçlarına geç.",
+    "tezde_yeri": "4.1–4.2",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "İki katılım tablosu, iki ayrı ortalama tablosu, iki alfa tablosu ve tekrarlayan genel değerlendirme paragrafları kaldırıldı. Her ölçek tek ana başlıkta normallik ve test tablosuyla sunuldu."
+  },
+  {
+    "no": 134,
+    "kaynak_pdf_sayfa": 59,
+    "kaynak_annotasyon_id": "e9464ff6-ee8d-4370-92fc-701fce2d82b3",
+    "talep": "Bulgularda tekrarları, katılım akışını ve gereksiz ara başlıkları çıkar; doğrudan ölçek sonuçlarına geç.",
+    "tezde_yeri": "4.1–4.2",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "İki katılım tablosu, iki ayrı ortalama tablosu, iki alfa tablosu ve tekrarlayan genel değerlendirme paragrafları kaldırıldı. Her ölçek tek ana başlıkta normallik ve test tablosuyla sunuldu."
+  },
+  {
+    "no": 135,
+    "kaynak_pdf_sayfa": 60,
+    "kaynak_annotasyon_id": "677ff9e4-9f7d-443a-8e17-bf2549a50ac2",
+    "talep": "Alfa sonuçlarını ilgili ölçme aracının altında ver; bulgulardaki hesap/tablo tekrarını kaldır.",
+    "tezde_yeri": "3.3.1–3.3.2",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Ön ve son test alfa sonuçları ölçüm zamanları ayrı olacak şekilde yöntemde verildi. İki alfa tablosu ve bulgu açıklamaları kaldırıldı; hesap kayıtları korundu."
+  },
+  {
+    "no": 136,
+    "kaynak_pdf_sayfa": 60,
+    "kaynak_annotasyon_id": "16ffbb06-d62b-406d-825b-5744f9f4d2d4",
+    "talep": "Bulgularda tekrarları, katılım akışını ve gereksiz ara başlıkları çıkar; doğrudan ölçek sonuçlarına geç.",
+    "tezde_yeri": "4.1–4.2",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "İki katılım tablosu, iki ayrı ortalama tablosu, iki alfa tablosu ve tekrarlayan genel değerlendirme paragrafları kaldırıldı. Her ölçek tek ana başlıkta normallik ve test tablosuyla sunuldu."
+  },
+  {
+    "no": 137,
+    "kaynak_pdf_sayfa": 63,
+    "kaynak_annotasyon_id": "309ecc9f-c205-4475-86d0-cd6c4e18a914",
+    "talep": "Bulgularda tekrarları, katılım akışını ve gereksiz ara başlıkları çıkar; doğrudan ölçek sonuçlarına geç.",
+    "tezde_yeri": "4.1–4.2",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "İki katılım tablosu, iki ayrı ortalama tablosu, iki alfa tablosu ve tekrarlayan genel değerlendirme paragrafları kaldırıldı. Her ölçek tek ana başlıkta normallik ve test tablosuyla sunuldu."
+  },
+  {
+    "no": 138,
+    "kaynak_pdf_sayfa": 63,
+    "kaynak_annotasyon_id": "264426f3-d437-4be1-8074-d9d60f161ec6",
+    "talep": "Bulgularda tekrarları, katılım akışını ve gereksiz ara başlıkları çıkar; doğrudan ölçek sonuçlarına geç.",
+    "tezde_yeri": "4.1–4.2",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "İki katılım tablosu, iki ayrı ortalama tablosu, iki alfa tablosu ve tekrarlayan genel değerlendirme paragrafları kaldırıldı. Her ölçek tek ana başlıkta normallik ve test tablosuyla sunuldu."
+  },
+  {
+    "no": 139,
+    "kaynak_pdf_sayfa": 64,
+    "kaynak_annotasyon_id": "f6a1799e-f1b1-4a2f-8db7-5119e5a7d777",
+    "talep": "Normallik önce gelsin; ortalama/SS aynı test tablosunda olsun; yuvarlama ve değişim dili tutarlı olsun.",
+    "tezde_yeri": "Tablo 4.1–4.4; 3.5",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Önce fark normalliği, sonra ön/son satırlı t tablosu sunuldu. Ortalamalar/SS iki; t,W,p üç ondalık. Hesap tam duyarlıkla korundu. Fark yönü iki ölçekte son−ön olarak birleştirildi."
+  },
+  {
+    "no": 140,
+    "kaynak_pdf_sayfa": 64,
+    "kaynak_annotasyon_id": "55668712-c610-4439-be87-7774f4f0b4a6",
+    "talep": "Değişim sözcüğünü ve noktalama işaretlerini düzelt.",
+    "tezde_yeri": "Ölçek bulguları; özetler",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Değişim dili kullanıldı; gereksiz virgül ve eski uzun açıklamalar yeniden yazılan metinlerde giderildi."
+  },
+  {
+    "no": 141,
+    "kaynak_pdf_sayfa": 65,
+    "kaynak_annotasyon_id": "58d92a14-787f-4cf2-a3bf-6d84e13cde7c",
+    "talep": "Tekrarlayan tablo/grafik notlarını kaldır.",
+    "tezde_yeri": "Bölüm 4; 3.5",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Not satırları kaldırıldı. Gerekli f ve fark yönü açıklamaları yönteme, temel yorumlar tablo altındaki normal metne alındı."
+  },
+  {
+    "no": 142,
+    "kaynak_pdf_sayfa": 65,
+    "kaynak_annotasyon_id": "b2d020c2-82da-4700-8f6b-b1161a4f9ac0",
+    "talep": "Bulgularda tekrarları, katılım akışını ve gereksiz ara başlıkları çıkar; doğrudan ölçek sonuçlarına geç.",
+    "tezde_yeri": "4.1–4.2",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "İki katılım tablosu, iki ayrı ortalama tablosu, iki alfa tablosu ve tekrarlayan genel değerlendirme paragrafları kaldırıldı. Her ölçek tek ana başlıkta normallik ve test tablosuyla sunuldu."
+  },
+  {
+    "no": 143,
+    "kaynak_pdf_sayfa": 66,
+    "kaynak_annotasyon_id": "f33f09dd-8db3-4efb-bcf6-6775728f3eb4",
+    "talep": "Görüşme bulgularındaki öneri, katılımcı kodu ve frekans açıklamalarının yerini netleştir.",
+    "tezde_yeri": "3.3.3; 3.5; 4.3.3",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Kişi kodu ve f yöntemde açıklandı. Sorunun gerçekten istediği düzenleme önerileri, öğrenci görüşleri olarak adlandırıldı; tez önerileriyle karıştırılmadı."
+  },
+  {
+    "no": 144,
+    "kaynak_pdf_sayfa": 66,
+    "kaynak_annotasyon_id": "238f0b68-2ed0-4902-a1bf-c96a7cc68d76",
+    "talep": "Görüşme bulgularındaki öneri, katılımcı kodu ve frekans açıklamalarının yerini netleştir.",
+    "tezde_yeri": "3.3.3; 3.5; 4.3.3",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Kişi kodu ve f yöntemde açıklandı. Sorunun gerçekten istediği düzenleme önerileri, öğrenci görüşleri olarak adlandırıldı; tez önerileriyle karıştırılmadı."
+  },
+  {
+    "no": 145,
+    "kaynak_pdf_sayfa": 66,
+    "kaynak_annotasyon_id": "e4dc7fe3-b698-4c34-85cb-92b4f7645de6",
+    "talep": "Görüşme bulgularındaki öneri, katılımcı kodu ve frekans açıklamalarının yerini netleştir.",
+    "tezde_yeri": "3.3.3; 3.5; 4.3.3",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Kişi kodu ve f yöntemde açıklandı. Sorunun gerçekten istediği düzenleme önerileri, öğrenci görüşleri olarak adlandırıldı; tez önerileriyle karıştırılmadı."
+  },
+  {
+    "no": 146,
+    "kaynak_pdf_sayfa": 66,
+    "kaynak_annotasyon_id": "7e7e8e3e-bbb8-4c3b-a05c-05ffb5ee5bdc",
+    "talep": "Görüşme bulgularındaki öneri, katılımcı kodu ve frekans açıklamalarının yerini netleştir.",
+    "tezde_yeri": "3.3.3; 3.5; 4.3.3",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Kişi kodu ve f yöntemde açıklandı. Sorunun gerçekten istediği düzenleme önerileri, öğrenci görüşleri olarak adlandırıldı; tez önerileriyle karıştırılmadı."
+  },
+  {
+    "no": 147,
+    "kaynak_pdf_sayfa": 67,
+    "kaynak_annotasyon_id": "3c606eee-ed38-4489-bebb-f4ae39101bc9",
+    "talep": "Başlıklandırma, yazı boyutu ve satır aralığını kılavuza uydur.",
+    "tezde_yeri": "Tüm tez; yeni tablo ve şekil kontrolleri",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Başlıklar gerçek Word başlık stillerine bağlandı. Metin 12 punto/1,5 satır; yeni ana tablolar 11 punto; sayfa ve başlık düzeni denetlendi. Eleştirilen Şekil 4.4 çıkarıldı."
+  },
+  {
+    "no": 148,
+    "kaynak_pdf_sayfa": 67,
+    "kaynak_annotasyon_id": "5b0f4b9d-2145-491a-bb76-e13b8edab547",
+    "talep": "Görüşme sorusunu açıkça göster, yanıtları soruya göre tablolaştır; karmaşık kod şemasını ve gelişim varsayımını kaldır.",
+    "tezde_yeri": "4.3.1–4.3.3; Ek 3–4",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Üç konu başlığı altında 11 alt soru metni, soru bazlı tablo, açıklama ve birebir alıntı sırası kuruldu. Ana tablolarda P11/C10 kodları yoktur. Şekil 4.4 ve beceri katkısı grafiği çıkarıldı; özgün soru ve yanıtlar değiştirilmedi."
+  },
+  {
+    "no": 149,
+    "kaynak_pdf_sayfa": 67,
+    "kaynak_annotasyon_id": "95551d64-5038-4874-9f1c-538506acce9d",
+    "talep": "Görüşme sorusunu açıkça göster, yanıtları soruya göre tablolaştır; karmaşık kod şemasını ve gelişim varsayımını kaldır.",
+    "tezde_yeri": "4.3.1–4.3.3; Ek 3–4",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Üç konu başlığı altında 11 alt soru metni, soru bazlı tablo, açıklama ve birebir alıntı sırası kuruldu. Ana tablolarda P11/C10 kodları yoktur. Şekil 4.4 ve beceri katkısı grafiği çıkarıldı; özgün soru ve yanıtlar değiştirilmedi."
+  },
+  {
+    "no": 150,
+    "kaynak_pdf_sayfa": 67,
+    "kaynak_annotasyon_id": "739a0066-011b-4aec-bba2-5dfedacf1217",
+    "talep": "Görüşme sorusunu açıkça göster, yanıtları soruya göre tablolaştır; karmaşık kod şemasını ve gelişim varsayımını kaldır.",
+    "tezde_yeri": "4.3.1–4.3.3; Ek 3–4",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Üç konu başlığı altında 11 alt soru metni, soru bazlı tablo, açıklama ve birebir alıntı sırası kuruldu. Ana tablolarda P11/C10 kodları yoktur. Şekil 4.4 ve beceri katkısı grafiği çıkarıldı; özgün soru ve yanıtlar değiştirilmedi."
+  },
+  {
+    "no": 151,
+    "kaynak_pdf_sayfa": 67,
+    "kaynak_annotasyon_id": "50a3fffd-f65e-4693-9709-6cdcdaf4b687",
+    "talep": "Görüşme sorusunu açıkça göster, yanıtları soruya göre tablolaştır; karmaşık kod şemasını ve gelişim varsayımını kaldır.",
+    "tezde_yeri": "4.3.1–4.3.3; Ek 3–4",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Üç konu başlığı altında 11 alt soru metni, soru bazlı tablo, açıklama ve birebir alıntı sırası kuruldu. Ana tablolarda P11/C10 kodları yoktur. Şekil 4.4 ve beceri katkısı grafiği çıkarıldı; özgün soru ve yanıtlar değiştirilmedi."
+  },
+  {
+    "no": 152,
+    "kaynak_pdf_sayfa": 67,
+    "kaynak_annotasyon_id": "b6b77224-0f66-4aca-ad78-3b3813b1893c",
+    "talep": "Görüşme sorusunu açıkça göster, yanıtları soruya göre tablolaştır; karmaşık kod şemasını ve gelişim varsayımını kaldır.",
+    "tezde_yeri": "4.3.1–4.3.3; Ek 3–4",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Üç konu başlığı altında 11 alt soru metni, soru bazlı tablo, açıklama ve birebir alıntı sırası kuruldu. Ana tablolarda P11/C10 kodları yoktur. Şekil 4.4 ve beceri katkısı grafiği çıkarıldı; özgün soru ve yanıtlar değiştirilmedi."
+  },
+  {
+    "no": 153,
+    "kaynak_pdf_sayfa": 68,
+    "kaynak_annotasyon_id": "c286ed80-9950-4ddc-8acf-2fa50dcb3314",
+    "talep": "Tekrarlayan tablo/grafik notlarını kaldır.",
+    "tezde_yeri": "Bölüm 4; 3.5",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Not satırları kaldırıldı. Gerekli f ve fark yönü açıklamaları yönteme, temel yorumlar tablo altındaki normal metne alındı."
+  },
+  {
+    "no": 154,
+    "kaynak_pdf_sayfa": 68,
+    "kaynak_annotasyon_id": "659d1850-2824-40e4-8547-7287ae25430f",
+    "talep": "Görüşme sorusunu açıkça göster, yanıtları soruya göre tablolaştır; karmaşık kod şemasını ve gelişim varsayımını kaldır.",
+    "tezde_yeri": "4.3.1–4.3.3; Ek 3–4",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Üç konu başlığı altında 11 alt soru metni, soru bazlı tablo, açıklama ve birebir alıntı sırası kuruldu. Ana tablolarda P11/C10 kodları yoktur. Şekil 4.4 ve beceri katkısı grafiği çıkarıldı; özgün soru ve yanıtlar değiştirilmedi."
+  },
+  {
+    "no": 155,
+    "kaynak_pdf_sayfa": 68,
+    "kaynak_annotasyon_id": "466890ee-1909-458e-aab3-72dacfed648f",
+    "talep": "Görüşme sorusunu açıkça göster, yanıtları soruya göre tablolaştır; karmaşık kod şemasını ve gelişim varsayımını kaldır.",
+    "tezde_yeri": "4.3.1–4.3.3; Ek 3–4",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Üç konu başlığı altında 11 alt soru metni, soru bazlı tablo, açıklama ve birebir alıntı sırası kuruldu. Ana tablolarda P11/C10 kodları yoktur. Şekil 4.4 ve beceri katkısı grafiği çıkarıldı; özgün soru ve yanıtlar değiştirilmedi."
+  },
+  {
+    "no": 156,
+    "kaynak_pdf_sayfa": 68,
+    "kaynak_annotasyon_id": "80925245-f987-49e5-918b-c5a1411aac25",
+    "talep": "Görüşme sorusunu açıkça göster, yanıtları soruya göre tablolaştır; karmaşık kod şemasını ve gelişim varsayımını kaldır.",
+    "tezde_yeri": "4.3.1–4.3.3; Ek 3–4",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Üç konu başlığı altında 11 alt soru metni, soru bazlı tablo, açıklama ve birebir alıntı sırası kuruldu. Ana tablolarda P11/C10 kodları yoktur. Şekil 4.4 ve beceri katkısı grafiği çıkarıldı; özgün soru ve yanıtlar değiştirilmedi."
+  },
+  {
+    "no": 157,
+    "kaynak_pdf_sayfa": 69,
+    "kaynak_annotasyon_id": "0fd691ae-2bdf-40c9-802f-07de87341006",
+    "talep": "Tekrarlayan tablo/grafik notlarını kaldır.",
+    "tezde_yeri": "Bölüm 4; 3.5",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Not satırları kaldırıldı. Gerekli f ve fark yönü açıklamaları yönteme, temel yorumlar tablo altındaki normal metne alındı."
+  },
+  {
+    "no": 158,
+    "kaynak_pdf_sayfa": 75,
+    "kaynak_annotasyon_id": "dc1b5296-35b6-49f8-a9f0-727033e97b10",
+    "talep": "Genel değerlendirme ve nicel–nitel birleşim başlıklarını kaldır.",
+    "tezde_yeri": "Bölüm 4; 5.1",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Karşılaştırma matrisi, birleşik bulgu tablosu, 4.2.4/4.3 eski genel değerlendirmeler ve 5.1.4 eski birleşim alt başlığı çıkarıldı."
+  },
+  {
+    "no": 159,
+    "kaynak_pdf_sayfa": 78,
+    "kaynak_annotasyon_id": "a4500838-ba07-49d2-b049-cf29b9615765",
+    "talep": "Genel değerlendirme ve nicel–nitel birleşim başlıklarını kaldır.",
+    "tezde_yeri": "Bölüm 4; 5.1",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Karşılaştırma matrisi, birleşik bulgu tablosu, 4.2.4/4.3 eski genel değerlendirmeler ve 5.1.4 eski birleşim alt başlığı çıkarıldı."
+  },
+  {
+    "no": 160,
+    "kaynak_pdf_sayfa": 80,
+    "kaynak_annotasyon_id": "5b127e6c-bc50-404b-bece-fc576aca84d5",
+    "talep": "Sonuçlarda sayısal tekrarları ve gereksiz hassasiyeti gider.",
+    "tezde_yeri": "5.1; 4.1–4.2",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Kılavuza uygun olarak sonuç/tartışmadan istatistik tekrarları çıkarıldı; sayılar bulgularda iki/üç ondalık düzeniyle sunuldu."
+  },
+  {
+    "no": 161,
+    "kaynak_pdf_sayfa": 80,
+    "kaynak_annotasyon_id": "f37e3db1-0250-4867-8c18-02037e0b5328",
+    "talep": "Sonuç ve tartışmayı tek başlıkta birleştir, ilgili ve karşıt sonuçlarla tartış; önerileri kısalt.",
+    "tezde_yeri": "5.1–5.2; kaynakça",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Tek Sonuç ve Tartışma başlığı altında literatür karşılaştırmaları yeniden yazıldı. İletişimde farklı sonuç bildiren çalışmalar ve ölçüm/müdahale ayrımları açıklandı. Öneriler yedi kısa maddeye indirildi."
+  },
+  {
+    "no": 162,
+    "kaynak_pdf_sayfa": 81,
+    "kaynak_annotasyon_id": "0c4be481-fe3a-4874-94f2-16b6b9435ecb",
+    "talep": "Sonuçlarda sayısal tekrarları ve gereksiz hassasiyeti gider.",
+    "tezde_yeri": "5.1; 4.1–4.2",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Kılavuza uygun olarak sonuç/tartışmadan istatistik tekrarları çıkarıldı; sayılar bulgularda iki/üç ondalık düzeniyle sunuldu."
+  },
+  {
+    "no": 163,
+    "kaynak_pdf_sayfa": 84,
+    "kaynak_annotasyon_id": "8820bc8e-6cb0-49ec-9761-4fdf2df651aa",
+    "talep": "Genel değerlendirme ve nicel–nitel birleşim başlıklarını kaldır.",
+    "tezde_yeri": "Bölüm 4; 5.1",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Karşılaştırma matrisi, birleşik bulgu tablosu, 4.2.4/4.3 eski genel değerlendirmeler ve 5.1.4 eski birleşim alt başlığı çıkarıldı."
+  },
+  {
+    "no": 164,
+    "kaynak_pdf_sayfa": 85,
+    "kaynak_annotasyon_id": "03544039-0124-4959-af51-f1e2232eafbf",
+    "talep": "Ayrı sınırlılıklar alt başlığını kaldır.",
+    "tezde_yeri": "5.1",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Eski 5.1.5 başlığı çıkarıldı. Kontrol grubu, öz bildirim ve alt boyut yorum sınırları ilgili tartışma paragraflarında korundu."
+  },
+  {
+    "no": 165,
+    "kaynak_pdf_sayfa": 86,
+    "kaynak_annotasyon_id": "62d24e8c-40ec-4164-b401-161a51220e30",
+    "talep": "Önerileri kısa, belirli ve araştırmanın sonuçlarıyla ilişkili yaz; uygulamada yapılanı eksiklik gibi önerme.",
+    "tezde_yeri": "5.2; öneri-dayanak eşleştirmesi",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Uzun gerekçeler, genel analiz/örnekleme önerileri ve ayrı bir müdahaleyi doğrulanmış gereksinim gibi sunan ifadeler kaldırıldı. Yeni toplantı yapılmamış varsayımı kurulmadı. Rehberlik, bekleme, malzeme ve iletişim bulgularından hareket eden kısa öneriler yazıldı."
+  },
+  {
+    "no": 166,
+    "kaynak_pdf_sayfa": 86,
+    "kaynak_annotasyon_id": "7b37f69a-da83-4aaf-b5f5-3824f733618e",
+    "talep": "Önerileri kısa, belirli ve araştırmanın sonuçlarıyla ilişkili yaz; uygulamada yapılanı eksiklik gibi önerme.",
+    "tezde_yeri": "5.2; öneri-dayanak eşleştirmesi",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Uzun gerekçeler, genel analiz/örnekleme önerileri ve ayrı bir müdahaleyi doğrulanmış gereksinim gibi sunan ifadeler kaldırıldı. Yeni toplantı yapılmamış varsayımı kurulmadı. Rehberlik, bekleme, malzeme ve iletişim bulgularından hareket eden kısa öneriler yazıldı."
+  },
+  {
+    "no": 167,
+    "kaynak_pdf_sayfa": 87,
+    "kaynak_annotasyon_id": "686a6e50-087b-4944-b1ec-d9d4dc4d14a0",
+    "talep": "Önerileri kısa, belirli ve araştırmanın sonuçlarıyla ilişkili yaz; uygulamada yapılanı eksiklik gibi önerme.",
+    "tezde_yeri": "5.2; öneri-dayanak eşleştirmesi",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Uzun gerekçeler, genel analiz/örnekleme önerileri ve ayrı bir müdahaleyi doğrulanmış gereksinim gibi sunan ifadeler kaldırıldı. Yeni toplantı yapılmamış varsayımı kurulmadı. Rehberlik, bekleme, malzeme ve iletişim bulgularından hareket eden kısa öneriler yazıldı."
+  },
+  {
+    "no": 168,
+    "kaynak_pdf_sayfa": 88,
+    "kaynak_annotasyon_id": "b0c7e0ac-024d-4353-a434-74caaf4cba58",
+    "talep": "Önerileri kısa, belirli ve araştırmanın sonuçlarıyla ilişkili yaz; uygulamada yapılanı eksiklik gibi önerme.",
+    "tezde_yeri": "5.2; öneri-dayanak eşleştirmesi",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Uzun gerekçeler, genel analiz/örnekleme önerileri ve ayrı bir müdahaleyi doğrulanmış gereksinim gibi sunan ifadeler kaldırıldı. Yeni toplantı yapılmamış varsayımı kurulmadı. Rehberlik, bekleme, malzeme ve iletişim bulgularından hareket eden kısa öneriler yazıldı."
+  },
+  {
+    "no": 169,
+    "kaynak_pdf_sayfa": 88,
+    "kaynak_annotasyon_id": "f8c60259-51b0-4ba5-9b19-ba13fc1b400e",
+    "talep": "Önerileri kısa, belirli ve araştırmanın sonuçlarıyla ilişkili yaz; uygulamada yapılanı eksiklik gibi önerme.",
+    "tezde_yeri": "5.2; öneri-dayanak eşleştirmesi",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Uzun gerekçeler, genel analiz/örnekleme önerileri ve ayrı bir müdahaleyi doğrulanmış gereksinim gibi sunan ifadeler kaldırıldı. Yeni toplantı yapılmamış varsayımı kurulmadı. Rehberlik, bekleme, malzeme ve iletişim bulgularından hareket eden kısa öneriler yazıldı."
+  },
+  {
+    "no": 170,
+    "kaynak_pdf_sayfa": 88,
+    "kaynak_annotasyon_id": "f21a369f-7570-4223-91a7-25d6bc5122f9",
+    "talep": "Önerileri kısa, belirli ve araştırmanın sonuçlarıyla ilişkili yaz; uygulamada yapılanı eksiklik gibi önerme.",
+    "tezde_yeri": "5.2; öneri-dayanak eşleştirmesi",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Uzun gerekçeler, genel analiz/örnekleme önerileri ve ayrı bir müdahaleyi doğrulanmış gereksinim gibi sunan ifadeler kaldırıldı. Yeni toplantı yapılmamış varsayımı kurulmadı. Rehberlik, bekleme, malzeme ve iletişim bulgularından hareket eden kısa öneriler yazıldı."
+  },
+  {
+    "no": 171,
+    "kaynak_pdf_sayfa": 88,
+    "kaynak_annotasyon_id": "f5df31f6-5ac0-41ad-b1e3-937726c0f320",
+    "talep": "Önerileri kısa, belirli ve araştırmanın sonuçlarıyla ilişkili yaz; uygulamada yapılanı eksiklik gibi önerme.",
+    "tezde_yeri": "5.2; öneri-dayanak eşleştirmesi",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Uzun gerekçeler, genel analiz/örnekleme önerileri ve ayrı bir müdahaleyi doğrulanmış gereksinim gibi sunan ifadeler kaldırıldı. Yeni toplantı yapılmamış varsayımı kurulmadı. Rehberlik, bekleme, malzeme ve iletişim bulgularından hareket eden kısa öneriler yazıldı."
+  },
+  {
+    "no": 172,
+    "kaynak_pdf_sayfa": 88,
+    "kaynak_annotasyon_id": "07f6aacb-1ff8-447f-ac26-692111fa4c9c",
+    "talep": "Önerileri kısa, belirli ve araştırmanın sonuçlarıyla ilişkili yaz; uygulamada yapılanı eksiklik gibi önerme.",
+    "tezde_yeri": "5.2; öneri-dayanak eşleştirmesi",
+    "durum": "Uygulandı / kontrol edildi",
+    "yapilan": "Uzun gerekçeler, genel analiz/örnekleme önerileri ve ayrı bir müdahaleyi doğrulanmış gereksinim gibi sunan ifadeler kaldırıldı. Yeni toplantı yapılmamış varsayımı kurulmadı. Rehberlik, bekleme, malzeme ve iletişim bulgularından hareket eden kısa öneriler yazıldı."
+  }
+]

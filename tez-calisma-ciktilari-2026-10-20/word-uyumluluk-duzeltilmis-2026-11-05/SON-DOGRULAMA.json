@@ -1,0 +1,189 @@
+{
+  "tarih": "2026-11-05",
+  "tez_pdf_sayfa": 91,
+  "numarali_tablo": 17,
+  "fiziksel_tablo": 27,
+  "kod_kitabi_satiri": 53,
+  "sekil": 2,
+  "cikarilan_sekil": 6,
+  "gorusme_alt_soru": 11,
+  "soru_bazli_tablo": 11,
+  "birebir_alinti": 41,
+  "eski_30_alinti_korundu": true,
+  "ekler_metinleri_aynen_korundu": true,
+  "katilimci": 40,
+  "kadin": 33,
+  "erkek": 7,
+  "kaynakca": 21,
+  "bu_tur_eklenen_kaynak": 0,
+  "ozet_sozcukleri": {
+    "ÖZET": 240,
+    "ABSTRACT": 269
+  },
+  "dizin_basvurusu": 75,
+  "tablo_sayfa_kontrolu": [
+    {
+      "tablo": "Tablo 3.1 Çalışma Grubunun Temel Özellikleri",
+      "pdf_sayfa": 42,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 3.2. Araştırmada Kullanılan Veri Toplama Araçlarının Özellikleri",
+      "pdf_sayfa": 46,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.1 PÇBÖ Fark Puanlarının Shapiro–Wilk Testi Sonuçları",
+      "pdf_sayfa": 51,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.2 PÇBÖ Ön Test ve Son Test Puanlarının Bağımlı Örneklemler t Testi Sonuçları",
+      "pdf_sayfa": 51,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.3 İBDÖ Fark Puanlarının Shapiro–Wilk Testi Sonuçları",
+      "pdf_sayfa": 52,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.4 İBDÖ Ön Test ve Son Test Puanlarının Bağımlı Örneklemler t Testi Sonuçları",
+      "pdf_sayfa": 53,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.5 Problem Belirleme Deneyimleri",
+      "pdf_sayfa": 54,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.6 Grup Çalışmasının Problem Belirleme ve Çözmeye Katkısı",
+      "pdf_sayfa": 55,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.7 Çözüm Sürecinde İzlenen Yollar",
+      "pdf_sayfa": 56,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.8 Problem ve Çözüm Uyumsuzluğunda İzlenen Yollar",
+      "pdf_sayfa": 57,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.9 Bireysel Beceri Katkılarına İlişkin Görüşler",
+      "pdf_sayfa": 59,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.10 Fikirlerini İfade Etmeye İlişkin Görüşler",
+      "pdf_sayfa": 60,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.11 Görüş Ayrılıklarında Ortak Karar Yolları",
+      "pdf_sayfa": 61,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.12 Grup Çalışmasının Becerilere Katkısına İlişkin Görüşler",
+      "pdf_sayfa": 62,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.13 Doğal Afetleri Öğrenmeye İlişkin Görüşler",
+      "pdf_sayfa": 64,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.14 Sürecin Olumlu ve Olumsuz Yönlerine İlişkin Görüşler",
+      "pdf_sayfa": 65,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Tablo 4.15 Öğretim Sürecinde Düzenleme Beklentileri",
+      "pdf_sayfa": 67,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 1",
+      "pdf_sayfa": 86,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 2",
+      "pdf_sayfa": 87,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 3",
+      "pdf_sayfa": 88,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 4",
+      "pdf_sayfa": 88,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 5",
+      "pdf_sayfa": 89,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 6",
+      "pdf_sayfa": 89,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 7",
+      "pdf_sayfa": 90,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 8",
+      "pdf_sayfa": 90,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 9",
+      "pdf_sayfa": 90,
+      "hucre_icerigi_ayni_sayfada": true
+    },
+    {
+      "tablo": "Ek 4 devam 10",
+      "pdf_sayfa": 91,
+      "hucre_icerigi_ayni_sayfada": true
+    }
+  ],
+  "bos_sayfa": [],
+  "tasan_sozcuk": [],
+  "sekiller_baslikla_ayni_sayfada": true,
+  "iletisim_gercek_SPSS_ciktisi_dogrulandi": true,
+  "PC_SPSS_ciktisi_dogrulandi": true,
+  "SPSS_surumu": "32.0",
+  "puanlama_yeniden_degistirildi": false,
+  "t_ve_p_karsilastirmasi": "Mevcut sayısal dayanaklar korundu. Her iki ölçek için gerçek SPSS PDF çıktısı karşılaştırması ayrı doğrulama kayıtlarında; bu denetim yeni ham veri analizi yapmaz.",
+  "PÇBÖ_yetkili_anahtar_bagimsiz_teyidi": false,
+  "benzerlik_taramasi": false,
+  "Microsoft_Word_uygulama_testi": false,
+  "pdf_uretimi": "LibreOffice",
+  "alfa_karsilastirmasi": 18,
+  "not_durumlari": {
+    "Yazısız işaret — bağlam kontrol edildi": 4,
+    "Uygulandı / kontrol edildi": 165,
+    "Korundu / kontrol edildi": 3
+  },
+  "dosyalar": {
+    "GOKHAN-KAYA-TEZ-WORD-UYUMLU-05-11-2026.docx": {
+      "bytes": 1564704,
+      "sha256": "7aa12b95a17a40b55970e1fbef4408b41dd19ec50610ea6883710fd3ed205644"
+    },
+    "GOKHAN-KAYA-TEZ-WORD-UYUMLU-05-11-2026.pdf": {
+      "bytes": 1625252,
+      "sha256": "20cce9848836f154c33d36bcbebbd890da749c9c3a7302ed2d62381f41073830"
+    }
+  }
+}

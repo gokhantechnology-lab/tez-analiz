@@ -1,3 +1,5 @@
+> **Word 2010 kontrolünde sıralama sorunu saptandı.** [Yapısal düzeltme yapılan yeni dosya](../word-uyumluluk-duzeltilmis-2026-11-05/README.md) yeniden Word kontrolü bekliyor.
+
 # Güncel tez — iki ölçeğin gerçek SPSS çıktıları kontrol edildi
 
 **[Word](GOKHAN-KAYA-TEZ-SPSS-IKI-OLCEK-05-11-2026.docx)** · **[PDF — 91 sayfa](GOKHAN-KAYA-TEZ-SPSS-IKI-OLCEK-05-11-2026.pdf)**
