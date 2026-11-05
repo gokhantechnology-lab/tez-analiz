@@ -1,3 +1,5 @@
+> Bu sürümün ardından gerçek İBDÖ SPSS çıktıları doğrulandı. [Güncel tez ve kapsam](../spss-iletisim-dogrulanmis-2026-11-05/README.md).
+
 # Güncel tez — baştan sona atıf denetimi, 5 Kasım 2026
 
 **[Word](GOKHAN-KAYA-TEZ-ATIF-DENETIMLI-05-11-2026.docx)** · **[PDF — 91 sayfa](GOKHAN-KAYA-TEZ-ATIF-DENETIMLI-05-11-2026.pdf)** · **[Paket ZIP](TEZ-VE-ATIF-DENETIMI-05-11-2026.zip)**

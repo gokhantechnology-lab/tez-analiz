@@ -1,12 +1,12 @@
 # Tez analiz ve çalışma dosyaları
 
-## Güncel — 5 Kasım 2026, baştan sona atıf denetimi
+## Güncel — 5 Kasım 2026, iletişim SPSS doğrulaması
 
-**[Word](atif-denetimi-2026-11-05/GOKHAN-KAYA-TEZ-ATIF-DENETIMLI-05-11-2026.docx)** · **[PDF — 91 sayfa](atif-denetimi-2026-11-05/GOKHAN-KAYA-TEZ-ATIF-DENETIMLI-05-11-2026.pdf)** · **[Paket ZIP](atif-denetimi-2026-11-05/TEZ-VE-ATIF-DENETIMI-05-11-2026.zip)**
+**[Word](spss-iletisim-dogrulanmis-2026-11-05/GOKHAN-KAYA-TEZ-SPSS-ILETISIM-05-11-2026.docx)** · **[PDF — 91 sayfa](spss-iletisim-dogrulanmis-2026-11-05/GOKHAN-KAYA-TEZ-SPSS-ILETISIM-05-11-2026.pdf)** · [Yapılanlar ve kapsam](spss-iletisim-dogrulanmis-2026-11-05/README.md)
 
-[Denetim raporu](atif-denetimi-2026-11-05/BASTAN-SONA-DENETIM-RAPORU.pdf) · [Paragraf/kaynak kontrolü Excel](atif-denetimi-2026-11-05/BASTAN-SONA-ATIF-KAYNAK-DENETIMI.xlsx) · [Kapsam ve açık noktalar](atif-denetimi-2026-11-05/README.md)
+Gönderilen gerçek SPSS Statistics 32 çıktılarında iletişim analizleri doğrulandı. Yalnız İBDÖ için yazılım beyanı Türkçe/İngilizce özet ve yönteme eklendi. PÇBÖ anahtarı ve SPSS çalıştırması bekliyor. İBDÖ toplam çift yönlü p=,098; tablo değerleri ve alıntılar korunmuştur.
 
-555 paragraf kaydı, 30 düzeltme; kullanılmayan iki kaynağın çıkarılmasıyla 21 yayın. Yazılım adı yerine gerçekleşen testler anlatıldı. SPSS kullanımı ileri sürülmedi. PÇBÖ puanlama anahtarının bağımsız teyidi ve benzerlik taraması bekliyor. Sayısal tablolar ve 41 alıntı korundu.
+[Önceki baştan sona atıf denetimi](atif-denetimi-2026-11-05/README.md)
 
 ---
 
