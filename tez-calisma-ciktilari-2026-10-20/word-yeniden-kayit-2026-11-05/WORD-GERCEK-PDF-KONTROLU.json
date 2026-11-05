@@ -1,0 +1,154 @@
+{
+  "Word_PDF_creator": "Microsoft® Word 2010",
+  "pages": 91,
+  "paragraph_order": "Main chapters follow expected order; previous reordering absent.",
+  "all_27_tables_match_expected_pages": [
+    {
+      "table": "Tablo 3.1 Çalışma Grubunun Temel Özellikleri",
+      "pdf_page": 42,
+      "all_cell_text_present": true
+    },
+    {
+      "table": "Tablo 3.2. Araştırmada Kullanılan Veri Toplama Araçlarının Özellikleri",
+      "pdf_page": 46,
+      "all_cell_text_present": true
+    },
+    {
+      "table": "Tablo 4.1 PÇBÖ Fark Puanlarının Shapiro–Wilk Testi Sonuçları",
+      "pdf_page": 51,
+      "all_cell_text_present": true
+    },
+    {
+      "table": "Tablo 4.2 PÇBÖ Ön Test ve Son Test Puanlarının Bağımlı Örneklemler t Testi Sonuçları",
+      "pdf_page": 51,
+      "all_cell_text_present": true
+    },
+    {
+      "table": "Tablo 4.3 İBDÖ Fark Puanlarının Shapiro–Wilk Testi Sonuçları",
+      "pdf_page": 52,
+      "all_cell_text_present": true
+    },
+    {
+      "table": "Tablo 4.4 İBDÖ Ön Test ve Son Test Puanlarının Bağımlı Örneklemler t Testi Sonuçları",
+      "pdf_page": 53,
+      "all_cell_text_present": true
+    },
+    {
+      "table": "Tablo 4.5 Problem Belirleme Deneyimleri",
+      "pdf_page": 54,
+      "all_cell_text_present": true
+    },
+    {
+      "table": "Tablo 4.6 Grup Çalışmasının Problem Belirleme ve Çözmeye Katkısı",
+      "pdf_page": 55,
+      "all_cell_text_present": true
+    },
+    {
+      "table": "Tablo 4.7 Çözüm Sürecinde İzlenen Yollar",
+      "pdf_page": 56,
+      "all_cell_text_present": true
+    },
+    {
+      "table": "Tablo 4.8 Problem ve Çözüm Uyumsuzluğunda İzlenen Yollar",
+      "pdf_page": 57,
+      "all_cell_text_present": true
+    },
+    {
+      "table": "Tablo 4.9 Bireysel Beceri Katkılarına İlişkin Görüşler",
+      "pdf_page": 59,
+      "all_cell_text_present": true
+    },
+    {
+      "table": "Tablo 4.10 Fikirlerini İfade Etmeye İlişkin Görüşler",
+      "pdf_page": 60,
+      "all_cell_text_present": true
+    },
+    {
+      "table": "Tablo 4.11 Görüş Ayrılıklarında Ortak Karar Yolları",
+      "pdf_page": 61,
+      "all_cell_text_present": true
+    },
+    {
+      "table": "Tablo 4.12 Grup Çalışmasının Becerilere Katkısına İlişkin Görüşler",
+      "pdf_page": 62,
+      "all_cell_text_present": true
+    },
+    {
+      "table": "Tablo 4.13 Doğal Afetleri Öğrenmeye İlişkin Görüşler",
+      "pdf_page": 64,
+      "all_cell_text_present": true
+    },
+    {
+      "table": "Tablo 4.14 Sürecin Olumlu ve Olumsuz Yönlerine İlişkin Görüşler",
+      "pdf_page": 65,
+      "all_cell_text_present": true
+    },
+    {
+      "table": "Tablo 4.15 Öğretim Sürecinde Düzenleme Beklentileri",
+      "pdf_page": 67,
+      "all_cell_text_present": true
+    },
+    {
+      "table": "Ek 4 devam 1",
+      "pdf_page": 86,
+      "all_cell_text_present": true
+    },
+    {
+      "table": "Ek 4 devam 2",
+      "pdf_page": 87,
+      "all_cell_text_present": true
+    },
+    {
+      "table": "Ek 4 devam 3",
+      "pdf_page": 88,
+      "all_cell_text_present": true
+    },
+    {
+      "table": "Ek 4 devam 4",
+      "pdf_page": 88,
+      "all_cell_text_present": true
+    },
+    {
+      "table": "Ek 4 devam 5",
+      "pdf_page": 89,
+      "all_cell_text_present": true
+    },
+    {
+      "table": "Ek 4 devam 6",
+      "pdf_page": 89,
+      "all_cell_text_present": true
+    },
+    {
+      "table": "Ek 4 devam 7",
+      "pdf_page": 90,
+      "all_cell_text_present": true
+    },
+    {
+      "table": "Ek 4 devam 8",
+      "pdf_page": 90,
+      "all_cell_text_present": true
+    },
+    {
+      "table": "Ek 4 devam 9",
+      "pdf_page": 90,
+      "all_cell_text_present": true
+    },
+    {
+      "table": "Ek 4 devam 10",
+      "pdf_page": 91,
+      "all_cell_text_present": true
+    }
+  ],
+  "page_text_matches_local_PDF": 91,
+  "index_mismatches": [
+    [
+      "EKLER",
+      "ii",
+      "68"
+    ]
+  ],
+  "word_application_export_checked": true,
+  "empty_pages": [],
+  "outside_words": [],
+  "index_fix": "EKLER ii→68 corrected in current DOCX and generated PDF. Other page text unchanged after whitespace/punctuation normalization."
+}

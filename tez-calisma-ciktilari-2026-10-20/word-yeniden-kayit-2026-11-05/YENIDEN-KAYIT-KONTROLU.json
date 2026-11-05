@@ -8,10 +8,11 @@
   "pdf_pages": 91,
   "all_pdf_pages_text_identical_to_previous_correct_pdf_after_whitespace_normalization": true,
   "out_of_page_words": 0,
-  "actual_Microsoft_Word_retest_passed": false,
+  "actual_Microsoft_Word_retest_passed": true,
   "previous_fix_insufficient": true,
   "files": {
-    "GOKHAN-KAYA-TEZ-WORD-YENIDEN-KAYIT-05-11-2026.pdf": "62727469f940939117ea8e38d50991cb2e414d0b369eccef134f3df25183e892",
-    "GOKHAN-KAYA-TEZ-WORD-YENIDEN-KAYIT-05-11-2026.docx": "34423429a04fbd5d688566305a023752d0e16d1ab22766ee29724d28e4625571"
-  }
+    "GOKHAN-KAYA-TEZ-WORD-YENIDEN-KAYIT-05-11-2026.pdf": "8f277b44e19f7f4b083bf7bc13a4177b00a06b81b7700dd40c797eb371e8a1de",
+    "GOKHAN-KAYA-TEZ-WORD-YENIDEN-KAYIT-05-11-2026.docx": "4de8cacd0cb35e8cb8c93507f90659d15e1521dfc42a0b1f812958b24bbb393d"
+  },
+  "actual_Word_retest_scope": "Araştırmacının Microsoft Word PDF çıktısında 91 sayfa ve 27 tablo kontrol edildi. Ardından yalnız EKLER dizin numarası ii→68 düzeltildi; son küçük düzeltme sonrası PDF yerel üretimdir."
 }

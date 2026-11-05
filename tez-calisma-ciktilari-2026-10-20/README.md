@@ -4,7 +4,7 @@
 
 **[Word](word-yeniden-kayit-2026-11-05/GOKHAN-KAYA-TEZ-WORD-YENIDEN-KAYIT-05-11-2026.docx)** · **[PDF — 91 sayfa](word-yeniden-kayit-2026-11-05/GOKHAN-KAYA-TEZ-WORD-YENIDEN-KAYIT-05-11-2026.pdf)** · [Yapılanlar ve kapsam](word-yeniden-kayit-2026-11-05/README.md)
 
-Önceki yapısal düzeltme Word’de yeterli olmadı. Bu sürümde DOCX paketi bütünüyle yeniden kaydedildi. 555 dolu paragraf, 27 tablo ve 91 sayfalık PDF metni korundu; Microsoft Word’de yeniden kontrol bekleniyor. Gönderilen gerçek SPSS Statistics 32 çıktılarında iki ölçeğin analizleri karşılaştırıldı. Türkçe/İngilizce özetler ve yöntem iki ölçeği kapsayacak şekilde güncellendi. PÇBÖ toplam çift yönlü p=,023; İBDÖ p=,098. Mevcut puanlama, tablo değerleri ve alıntılar korundu. Sayısal uyum bağımsız madde anahtarı doğrulaması anlamına gelmez.
+Önceki yapısal düzeltme Word’de yeterli olmadı. Bu sürümde DOCX paketi bütünüyle yeniden kaydedildi. 555 dolu paragraf, 27 tablo ve 91 sayfalık PDF metni korundu; Araştırmacının Microsoft Word PDF çıktısında sıra ve tablolar doğrulandı; EKLER dizin numarası düzeltildi. Gönderilen gerçek SPSS Statistics 32 çıktılarında iki ölçeğin analizleri karşılaştırıldı. Türkçe/İngilizce özetler ve yöntem iki ölçeği kapsayacak şekilde güncellendi. PÇBÖ toplam çift yönlü p=,023; İBDÖ p=,098. Mevcut puanlama, tablo değerleri ve alıntılar korundu. Sayısal uyum bağımsız madde anahtarı doğrulaması anlamına gelmez.
 
 [Önceki baştan sona atıf denetimi](atif-denetimi-2026-11-05/README.md)
 
