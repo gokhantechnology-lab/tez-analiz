@@ -1,10 +1,10 @@
 # Tez analiz ve çalışma dosyaları
 
-## Güncel — 5 Kasım 2026, Word uyumluluk düzeltmesi
+## Güncel — 5 Kasım 2026, Word dosyasının yeniden kaydı
 
-**[Word](word-uyumluluk-duzeltilmis-2026-11-05/GOKHAN-KAYA-TEZ-WORD-UYUMLU-05-11-2026.docx)** · **[PDF — 91 sayfa](word-uyumluluk-duzeltilmis-2026-11-05/GOKHAN-KAYA-TEZ-WORD-UYUMLU-05-11-2026.pdf)** · [Yapılanlar ve kapsam](word-uyumluluk-duzeltilmis-2026-11-05/README.md)
+**[Word](word-yeniden-kayit-2026-11-05/GOKHAN-KAYA-TEZ-WORD-YENIDEN-KAYIT-05-11-2026.docx)** · **[PDF — 91 sayfa](word-yeniden-kayit-2026-11-05/GOKHAN-KAYA-TEZ-WORD-YENIDEN-KAYIT-05-11-2026.pdf)** · [Yapılanlar ve kapsam](word-yeniden-kayit-2026-11-05/README.md)
 
-Word 2010 açılışında gözlenen içerik sırası bozulması üzerine DOCX yapısında 75 paragrafın özellik sırası düzeltildi. Yeni dosyanın Word uygulamasında yeniden kontrolü bekleniyor. Gönderilen gerçek SPSS Statistics 32 çıktılarında iki ölçeğin analizleri karşılaştırıldı. Türkçe/İngilizce özetler ve yöntem iki ölçeği kapsayacak şekilde güncellendi. PÇBÖ toplam çift yönlü p=,023; İBDÖ p=,098. Mevcut puanlama, tablo değerleri ve alıntılar korundu. Sayısal uyum bağımsız madde anahtarı doğrulaması anlamına gelmez.
+Önceki yapısal düzeltme Word’de yeterli olmadı. Bu sürümde DOCX paketi bütünüyle yeniden kaydedildi. 555 dolu paragraf, 27 tablo ve 91 sayfalık PDF metni korundu; Microsoft Word’de yeniden kontrol bekleniyor. Gönderilen gerçek SPSS Statistics 32 çıktılarında iki ölçeğin analizleri karşılaştırıldı. Türkçe/İngilizce özetler ve yöntem iki ölçeği kapsayacak şekilde güncellendi. PÇBÖ toplam çift yönlü p=,023; İBDÖ p=,098. Mevcut puanlama, tablo değerleri ve alıntılar korundu. Sayısal uyum bağımsız madde anahtarı doğrulaması anlamına gelmez.
 
 [Önceki baştan sona atıf denetimi](atif-denetimi-2026-11-05/README.md)
 

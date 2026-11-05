@@ -1,3 +1,5 @@
+> **Bu düzeltme Word testinde yeterli olmadı.** [Bütünüyle yeniden kaydedilen yeni Word kontrol sürümü](../word-yeniden-kayit-2026-11-05/README.md).
+
 # Word uyumluluk düzeltmesi — yeniden Word kontrolü bekleniyor
 
 **[Word dosyası](GOKHAN-KAYA-TEZ-WORD-UYUMLU-05-11-2026.docx)** · **[PDF — 91 sayfa](GOKHAN-KAYA-TEZ-WORD-UYUMLU-05-11-2026.pdf)**

@@ -1,0 +1,17 @@
+{
+  "tarih": "2026-11-05",
+  "islem": "LibreOffice Office Open XML Text filtresiyle bütün DOCX paketinin yeniden kaydı; önceki bozuk Word kopyası kullanılmadı.",
+  "nonempty_paragraphs": 555,
+  "all_nonempty_paragraphs_preserved_in_order": true,
+  "all_27_table_matrices_preserved": true,
+  "images": 2,
+  "pdf_pages": 91,
+  "all_pdf_pages_text_identical_to_previous_correct_pdf_after_whitespace_normalization": true,
+  "out_of_page_words": 0,
+  "actual_Microsoft_Word_retest_passed": false,
+  "previous_fix_insufficient": true,
+  "files": {
+    "GOKHAN-KAYA-TEZ-WORD-YENIDEN-KAYIT-05-11-2026.pdf": "62727469f940939117ea8e38d50991cb2e414d0b369eccef134f3df25183e892",
+    "GOKHAN-KAYA-TEZ-WORD-YENIDEN-KAYIT-05-11-2026.docx": "34423429a04fbd5d688566305a023752d0e16d1ab22766ee29724d28e4625571"
+  }
+}
