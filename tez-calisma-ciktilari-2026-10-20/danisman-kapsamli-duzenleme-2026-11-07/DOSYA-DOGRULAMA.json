@@ -5,6 +5,10 @@
       "bytes": 40751,
       "sha256": "9f4ad56aaaaa58a857ed246c65d33de461a525fd77c21465da874a8ce08f4184"
     },
+    "BUTUNCUL-SON-DENETIM.json": {
+      "bytes": 5221,
+      "sha256": "af39c1da7c91b90f26a9bc89d046b411c8638d8e98f0c7cb24bacab6005e2a1b"
+    },
     "BOLUM-SAYFA-KARSILASTIRMASI.json": {
       "bytes": 707,
       "sha256": "43060e434b2c56aee0d9b52fac5e9cb18494f2d182291043fd11da36f1eda02d"
@@ -14,16 +18,24 @@
       "sha256": "8c8c21363dfcafe4a9c45e55ed567fef74affb115f19dae7c9104140adc32bf4"
     },
     "README.md": {
-      "bytes": 1891,
-      "sha256": "35aba4af2316fadc0a48c264a85d0568c39166a1fcc28b7e11dd5b2b804457c7"
+      "bytes": 2023,
+      "sha256": "e5c068fd18f416239d492fb808f0e8ddf1ddb6843fe3b9aa1b240bc07cd30382"
+    },
+    "BUTUNCUL-SON-KONTROL-RAPORU.pdf": {
+      "bytes": 61108,
+      "sha256": "1fd2c77b529273057caec2fd39c7615e536949c5a11a3f1056be48c5bcd4ff59"
     },
     "GOKHAN-KAYA-TEZ-DANISMAN-GUNCEL-07-11-2026.pdf": {
-      "bytes": 12962687,
-      "sha256": "96dfc33c071d11ab92bcf454e4a3deb66c5efa8df3c660a53258c0ba1f80dc8e"
+      "bytes": 12962796,
+      "sha256": "721bee2adf80af2c6be242736dd62940680c2f38b661c1e5f7a991cc40ac2bb2"
     },
     "GECMIS-DANISMAN-NOTLARI-KARSILIGI.json": {
       "bytes": 61824,
       "sha256": "3922d9230a723218493356d04c5e7ed9373c97dced8564c8ca95426a3b22ad89"
+    },
+    "BUTUNCUL-SON-KONTROL-RAPORU.docx": {
+      "bytes": 38444,
+      "sha256": "83cadbacbd827f1d3088c2c8bc557b102ab926ffbe0e358b7656afd6c1bce0ff"
     },
     "V2-YERLESIM-VE-PUNTO-KONTROLU.json": {
       "bytes": 1221,
@@ -42,8 +54,8 @@
       "sha256": "9e479d134603377c33165f73a77baaede5a3d90e27656f38dd4814aefec62105"
     },
     "GOKHAN-KAYA-TEZ-DANISMAN-GUNCEL-07-11-2026.docx": {
-      "bytes": 9676310,
-      "sha256": "52b63c2746534a2f067c48f1fcfe1809dd66a4785fa0dad6332c4b0b53c23bbb"
+      "bytes": 9676424,
+      "sha256": "0541f090da63b07dad491f19f78e6497b9ea68dd54aa5302274e881a5d24cda4"
     },
     "DANISMAN-DUZELTME-KONTROL-LISTESI.xlsx": {
       "bytes": 18028,

@@ -1,0 +1,169 @@
+{
+  "scope": "Bütüncül içerik, sayısal değer, nitel frekans, kaynak ve yerleşim incelemesi",
+  "paired_tests_independently_recomputed": 9,
+  "statistical_values": [
+    {
+      "scale": "PC",
+      "part": "F1",
+      "n": 40,
+      "t": -3.88545675481639,
+      "p": 0.0003850842791727643,
+      "shapiro_W": 0.9619008989724863,
+      "shapiro_p": 0.1944437885040478,
+      "mean_difference": -0.2727272727272727,
+      "CI95": [
+        -0.4147036253164581,
+        -0.1307509201380873
+      ],
+      "dz": -0.6143446547653099
+    },
+    {
+      "scale": "PC",
+      "part": "F2",
+      "n": 40,
+      "t": -0.5528014229347431,
+      "p": 0.5835542851280295,
+      "shapiro_W": 0.9768562713529899,
+      "shapiro_p": 0.5743088128440677,
+      "mean_difference": -0.046875,
+      "CI95": [
+        -0.21838982059031475,
+        0.12463982059031475
+      ],
+      "dz": -0.0874055795127915
+    },
+    {
+      "scale": "PC",
+      "part": "F3",
+      "n": 40,
+      "t": -2.608866392817328,
+      "p": 0.012813985824607445,
+      "shapiro_W": 0.9811875235813899,
+      "shapiro_p": 0.7334896309201295,
+      "mean_difference": -0.29000000000000004,
+      "CI95": [
+        -0.5148410912975921,
+        -0.06515890870240792
+      ],
+      "dz": -0.41249799561851497
+    },
+    {
+      "scale": "PC",
+      "part": "TOTAL",
+      "n": 40,
+      "t": -2.372361518309092,
+      "p": 0.022703198300290186,
+      "shapiro_W": 0.9015647703124897,
+      "shapiro_p": 0.002123662717838535,
+      "mean_difference": -0.16214285714285853,
+      "CI95": [
+        -0.30038691579941423,
+        -0.02389879848630283
+      ],
+      "dz": -0.37510329155959893
+    },
+    {
+      "scale": "IB",
+      "part": "F1",
+      "n": 40,
+      "t": 1.563133661822386,
+      "p": 0.12610023146737614,
+      "shapiro_W": 0.9602743238001351,
+      "shapiro_p": 0.1711535131922568,
+      "mean_difference": 0.10499999999999998,
+      "CI95": [
+        -0.03086972873212443,
+        0.2408697287321244
+      ],
+      "dz": 0.24715313293190624
+    },
+    {
+      "scale": "IB",
+      "part": "F2",
+      "n": 40,
+      "t": 1.2200613174429433,
+      "p": 0.22976813188050169,
+      "shapiro_W": 0.8388963653925146,
+      "shapiro_p": 4.8910883016602984e-05,
+      "mean_difference": 0.125,
+      "CI95": [
+        -0.08223250658786588,
+        0.33223250658786585
+      ],
+      "dz": 0.19290863240927106
+    },
+    {
+      "scale": "IB",
+      "part": "F3",
+      "n": 40,
+      "t": 1.5888985661606623,
+      "p": 0.12015842638987766,
+      "shapiro_W": 0.9486014093061018,
+      "shapiro_p": 0.067882770782525,
+      "mean_difference": 0.10416666666666696,
+      "CI95": [
+        -0.02843901082870723,
+        0.23677234416204115
+      ],
+      "dz": 0.25122692200217156
+    },
+    {
+      "scale": "IB",
+      "part": "F4",
+      "n": 40,
+      "t": 0.7259662712736917,
+      "p": 0.4721939042225084,
+      "shapiro_W": 0.9055711971612196,
+      "shapiro_p": 0.002787885935517987,
+      "mean_difference": 0.04000000000000002,
+      "CI95": [
+        -0.07144820359149717,
+        0.15144820359149722
+      ],
+      "dz": 0.11478534608422664
+    },
+    {
+      "scale": "IB",
+      "part": "TOTAL",
+      "n": 40,
+      "t": 1.6948287841735274,
+      "p": 0.09807972550719778,
+      "shapiro_W": 0.9641986516556755,
+      "shapiro_p": 0.2324721028437262,
+      "mean_difference": 0.09500000000000001,
+      "CI95": [
+        -0.01837761029188313,
+        0.20837761029188318
+      ],
+      "dz": 0.26797596010011404
+    }
+  ],
+  "codebook_rows_checked": 53,
+  "references": 32,
+  "uncited_reference_first_authors": [],
+  "issues": [],
+  "editorial_findings": [
+    {
+      "section": "2.2 / 2.3",
+      "finding": "Ölçüm ile deneyimin ayrımı bazı paragraflarda tekrar kuruluyor; yanlış sonuç değildir, akış açısından son editoryal geçiş yararlı.",
+      "status": "Hatalı sonuç değil; ölçüm/deneyim ayrımının farklı bölümlerde tekrar edilmesi son editoryal değerlendirmede izlenecek."
+    },
+    {
+      "section": "2.6",
+      "finding": "İlk beş araştırmanın karşılaştırılmasından sonra eklenen çalışmaların ardından katılımcı/ölçüm karşılaştırması yeniden başlıyor. Tek bir sentez sırası daha akıcı olur.",
+      "status": "Düzeltildi: 26 paragrafın tamamı korunarak araştırma açıklamaları ve sentez aynı sırada toplandı."
+    },
+    {
+      "section": "2.3",
+      "finding": "Amin ve arkadaşlarının ilk metin içi kullanımı tam yazar listesinden önce geliyor; kılavuzun ilk kullanım kuralına göre düzeltilecek.",
+      "status": "Düzeltildi: ilk kullanımda beş yazarın tamamı, sonraki kullanımda kısa biçim."
+    }
+  ],
+  "unresolved_verification": [
+    "Etik kurul karar belgesi ve izin/onam ekleri",
+    "Güncel benzerlik raporu",
+    "Bu sürümün gerçek Microsoft Word çıktısı",
+    "PÇBÖ anahtarının bağımsız birincil kaynak teyidi tamamlanmış sayılmıyor; araştırmacının doğruladığı mevcut düzen korunuyor."
+  ],
+  "status": "Sayısal ve yapısal kontroller geçti. İki somut editoryal sorun düzeltildi. Belgeler, bağımsız anahtar doğrulaması, Word ve benzerlik kontrolleri tamamlanmış sayılmaz."
+}
