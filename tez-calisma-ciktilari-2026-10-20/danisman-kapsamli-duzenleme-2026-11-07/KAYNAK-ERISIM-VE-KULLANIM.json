@@ -1,0 +1,242 @@
+[
+  {
+    "yazar": "Amin",
+    "yil": 2022,
+    "erisim": "Tam metin",
+    "dayanak": "Özet, yöntem, gözlem göstergeleri",
+    "url": "https://doi.org/10.29303/jppipa.v8i4.1825",
+    "kanıt_sha256": "b5b802bb9ee1b417af7a08df539b7faa77a19ea9e41c401e171958298a7d6731"
+  },
+  {
+    "yazar": "Bilgin",
+    "yil": 2015,
+    "erisim": "Tam metin",
+    "dayanak": "Özet, örneklem ve sonuç: 33+33; başarı/öz yeterlik",
+    "url": "https://doi.org/10.12973/eurasia.2014.1015a",
+    "kanıt_sha256": "f114192f8966ebf9acddbf0ee01c925d5b7bb79b7448163daa988b690021f331"
+  },
+  {
+    "yazar": "Condliffe",
+    "yil": 2017,
+    "erisim": "Tam metin",
+    "dayanak": "Basılı 4–11, 22–32 ve özet/sonuç; K–12 ağırlığı",
+    "url": "https://files.eric.ed.gov/fulltext/ED578933.pdf",
+    "kanıt_sha256": "e09a4e194ad561a5102951c4a803202ea0fcaa11a44f381a4b9b25394dcf57aa"
+  },
+  {
+    "yazar": "Dinçol Özgür",
+    "yil": 2020,
+    "erisim": "Tam metin",
+    "dayanak": "Özet, yöntem ve alt boyut sonuçları; PDF1,5,9 ve bulgular",
+    "url": "https://doi.org/10.17522/balikesirnef.673060",
+    "kanıt_sha256": "2696f2d565ec76d23bf92fb5a5ecc73d13462598c34fee2fb8c7eb0fde0ae4b3"
+  },
+  {
+    "yazar": "Guo",
+    "yil": 2020,
+    "erisim": "Tam metin",
+    "dayanak": "PDF1–5: tanım, seçim ölçütleri, çıktı/araç ayrımı",
+    "url": "https://doi.org/10.1016/j.ijer.2020.101586",
+    "kanıt_sha256": "9a839f050f82fd42c3c0a28cc3e1278d842cebd75f35002727d3091fb1216242"
+  },
+  {
+    "yazar": "Heppner",
+    "yil": 1982,
+    "erisim": "Künye + ikincil içerik dayanağı",
+    "dayanak": "Özgün envanterin kaydı doğrulandı; öz değerlendirme niteliği Şahin1993 yayıncı özetiyle destekleniyor. Özgün anahtar görülmedi.",
+    "url": "https://doi.org/10.1037/0022-0167.29.1.66",
+    "kanıt_sha256": "224192d75779b8aedeefbdb254b0905b18fe38fabd5fe1a24a801e2cb4acbffe"
+  },
+  {
+    "yazar": "Hsieh",
+    "yil": 2005,
+    "erisim": "Özet",
+    "dayanak": "PubMed PMID16204405: içerik analizi yaklaşımları; ayrıntılı prosedürün tam metin doğrulaması değildir.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/16204405/",
+    "kanıt_sha256": "145efca48bd47571241ee41deaa3f68ea5560a2c6efd6cb5536569584e929c7a"
+  },
+  {
+    "yazar": "Jonassen",
+    "yil": 2000,
+    "erisim": "Özet",
+    "dayanak": "Yayıncı özeti: yapılandırılmışlık, karmaşıklık, alana özgülük; dosya adı full olsa da metnin tamamına erişilmiş sayılmaz.",
+    "url": "https://doi.org/10.1007/BF02300500",
+    "kanıt_sha256": "c722233d55e21c9f530923cbd1c278738ef642c9d09d738d31b00bce57cbe998"
+  },
+  {
+    "yazar": "Kitagawa",
+    "yil": 2021,
+    "erisim": "Tam metin",
+    "dayanak": "Özet ve bölümler2–4: dönemler, öğrenme biçimleri, kamusal pedagoji",
+    "url": "https://doi.org/10.3390/educsci11050233",
+    "kanıt_sha256": "765fe6cc65a46173fbed933b2a76c81e0250f0b6cc23333097e9b70dcb48e9e4"
+  },
+  {
+    "yazar": "Kokotsaki",
+    "yil": 2016,
+    "erisim": "Özet",
+    "dayanak": "Araştırma düzeni, rastgele atama sınırı, öğretmen desteği ve değerlendirme: kayıt özeti. Tam PDF erişilemedi.",
+    "url": "https://doi.org/10.1177/1365480216659733",
+    "kanıt_sha256": "d027478b8c9c284c69a973f2c875fbfbb41ec2970c002c9a02753528521ef1af"
+  },
+  {
+    "yazar": "Korkut Owen",
+    "yil": 2014,
+    "erisim": "Tam metin",
+    "dayanak": "Basılı51–52,56–58: tanım, faktörler ve alfa; yayıncıda bildirilen DOI çözülmediği için makale URLsi kullanıldı.",
+    "url": "https://dergipark.org.tr/tr/pub/mersinefd/article/181805",
+    "kanıt_sha256": "1b1dd63c3ff9fc2b9a8fe5638e957d8a031d6d5d592fe8e717c85a48d491abd6"
+  },
+  {
+    "yazar": "Kutru",
+    "yil": 2024,
+    "erisim": "Tam metin",
+    "dayanak": "Başlık, özet, iletişim/problem çözme sonuçları; ATBÖ-STEM, farklı yaş grubu",
+    "url": "https://doi.org/10.53444/deubefd.1336324",
+    "kanıt_sha256": "226cbe6b5839b4cc221c42dcb5e5aad0b87dfae0177798b1e5fdeeac5475108d"
+  },
+  {
+    "yazar": "Lakens",
+    "yil": 2013,
+    "erisim": "Tam metin",
+    "dayanak": "Eşleştirilmiş ölçümde dz açıklaması; kaynak bu çalışmanın hesaplaması yerine gösterilmez.",
+    "url": "https://doi.org/10.3389/fpsyg.2013.00863",
+    "kanıt_sha256": "613b2e2b366795efde5b0726880df4a1f6d55911bf9cdf55cd41bf0c26ab6bf6"
+  },
+  {
+    "yazar": "MEB",
+    "yil": 2018,
+    "erisim": "Resmî tam metin",
+    "dayanak": "Özel amaçlar, bilimsel süreç/yaşam becerileri ve fen-mühendislik uygulamaları",
+    "url": "https://mufredat.meb.gov.tr/Dosyalar/201812312311937-FEN%20B%C4%B0L%C4%B0MLER%C4%B0%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI2018.pdf",
+    "kanıt_sha256": "9635eecde23824e3add830b5f33d8ddef579efa2cf5949039a607a803b74c539"
+  },
+  {
+    "yazar": "MEB",
+    "yil": 2025,
+    "erisim": "Resmî tam metin",
+    "dayanak": "PDF kapağı2025; kavramsal ve sosyal-duygusal beceriler; dosya adındaki2024 yayın yılı değildir.",
+    "url": "https://tymm.meb.gov.tr/upload/brosur/ortak_metin.pdf",
+    "kanıt_sha256": "60b385af563de44f0643c7003819fbaa1e7649151af31c9e2afd081bcdfc55af"
+  },
+  {
+    "yazar": "OECD",
+    "yil": 2018,
+    "erisim": "Resmî tam metin",
+    "dayanak": "Bilgi-beceri-tutum-değerler; bilişsel/üstbilişsel beceriler",
+    "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2018/06/the-future-of-education-and-skills_5424dd26/54ac7020-en.pdf",
+    "kanıt_sha256": "a7f739469b3de36498c67b2ea1a29a68c7bee829a789c836819ceffe88dd9761"
+  },
+  {
+    "yazar": "Ruslan",
+    "yil": 2024,
+    "erisim": "Tam metin",
+    "dayanak": "Özet, yöntem, sonuç; ters yüz + Moodle + proje bileşenleri",
+    "url": "https://doi.org/10.3390/educsci14091021",
+    "kanıt_sha256": "3293c957b8a3e4265775dfa8a92c2f90338e5952020bee7a827293948c26fbc1"
+  },
+  {
+    "yazar": "Şahin",
+    "yil": 1993,
+    "erisim": "Özet",
+    "dayanak": "Yayıncı özeti psikometrik inceleme ve öz değerlendirme kapsamını doğruluyor; madde anahtarı tam metni erişilemedi.",
+    "url": "https://doi.org/10.1007/BF01177661",
+    "kanıt_sha256": "0b784fc78ec387ff82e7cbdc9cba07a3dfc8269c8b1b012ac744d2d92475efd9"
+  },
+  {
+    "yazar": "Şeyihoğlu",
+    "yil": 2021,
+    "erisim": "Özet",
+    "dayanak": "Crossref yayıncı özeti:36öğretmen, afet okuryazarlığı ve program görüşleri. Tam PDF görülmüş sayılmadı.",
+    "url": "https://doi.org/10.33225/pec/21.79.781",
+    "kanıt_sha256": "c9ae152de8943b4296cb36217279c7aa06e396e5eb10497f9b2e42974312ca70"
+  },
+  {
+    "yazar": "Weiyi",
+    "yil": 2025,
+    "erisim": "Tam metin",
+    "dayanak": "Özet ve temalar: üniversite sosyal problem çözme; iletişim/duygu düzenleme",
+    "url": "https://doi.org/10.3389/feduc.2025.1509641",
+    "kanıt_sha256": "caf54dc7b87fc7edd81ab5be0bee62bab726f8a2bff665ba6779fc389e50bd9c"
+  },
+  {
+    "yazar": "Zhang",
+    "yil": 2023,
+    "erisim": "Tam metin",
+    "dayanak": "Yayıncı başlığı ve özet/sonuç: meta-analiz ve düzenleyici değişkenler",
+    "url": "https://doi.org/10.3389/fpsyg.2023.1202728",
+    "kanıt_sha256": "c9205df37317369b972efeadf62b3b81d9fb74171c2f38b2d8b3c8d969fdc900"
+  },
+  {
+    "yazar": "Sözcü",
+    "yil": 2020,
+    "erisim": "Tam metin",
+    "dayanak": "Program önerisi; 9. sınıf, 5 ünite, 49 kazanım. Deneysel etkililik iddiası aktarılmadı.",
+    "url": "https://dergipark.org.tr/tr/pub/afet/article/708183",
+    "tam_metin": "https://dergipark.org.tr/tr/download/article-file/1089450",
+    "not": "PDF üst bilgisindeki DOI ile yayıncı kaydındaki DOI farklı olduğundan kaynakçada doğrulanan yayıncı sayfası kullanıldı.",
+    "kanıt_sha256": "ea83fa0391662d5e03d594878469b77b37e938e766c3e42b45a8b5b45601f1ab"
+  },
+  {
+    "yazar": "Barron vd.",
+    "yil": 1998,
+    "erisim": "ERIC özeti ve Crossref künyesi; tam metne erişilmedi",
+    "dayanak": "Öğrenmeye uygun hedefler, destek, biçimlendirici öz değerlendirme ve sosyal yapılar. Kullanım bu açık özet kapsamıyla sınırlı.",
+    "url": "https://doi.org/10.1207/s15327809jls0703&4_2",
+    "ozet": "https://eric.ed.gov/?id=EJ584623",
+    "kanıt_sha256": "40474eb7e4897aa77dfa130a213917a79ae69210b867753dcd35de2567e65cc8"
+  },
+  {
+    "yazar": "Bell",
+    "yil": 2010,
+    "erisim": "ERIC özeti ve Crossref künyesi; tam metne erişilmedi",
+    "dayanak": "Sorgulama, öğrenci yönelimi ve birlikte proje üretme; iletişim ve problem çözmeyle kavramsal ilişki. Sayısal etki/örneklem sonucu aktarılmadı.",
+    "url": "https://doi.org/10.1080/00098650903505415",
+    "ozet": "https://eric.ed.gov/?id=EJ872047",
+    "kanıt_sha256": "45d20becc5e99fb81f3f3f0c2a53a2f3c6d4c7a96b751232d90e218debdae184"
+  },
+  {
+    "yazar": "Dillenbourg",
+    "yil": 1999,
+    "erisim": "Tam metin; yazarın üniversite arşivi",
+    "dayanak": "İş birliği koşulları, etkileşim, ortak çalışma/görev paylaşımı ve öğrenme süreçlerinin ayrımı; bölümün kavramsal açıklamaları.",
+    "url": "https://tecfa.unige.ch/tecfa/publicat/dil-papers-2/Dil.7.1.14.pdf",
+    "kanıt_sha256": "9f1343b446a0dac7001cb6b1aec93d2de15942a3cc994a02c924523a63ab8e46"
+  },
+  {
+    "yazar": "Fitriani vd.",
+    "yil": 2025,
+    "erisim": "Tam metin; yayıncı PDF ve Crossref künyesi",
+    "dayanak": "Yöntem: 72 öğretmen adayı, iki 36 kişilik grup, sekiz hafta, 22 maddelik öz değerlendirme ve proje puanlaması. Bulgular: alt boyut ve araçlara göre farklı örüntüler.",
+    "url": "https://doi.org/10.11591/ijere.v14i3.27725",
+    "tam_metin": "https://ijere.iaescore.com/index.php/IJERE/article/download/27725/14491",
+    "kanıt_sha256": "923a38b50123e515d87e42749cf282d09e316850ee4874388deacae30ba16372"
+  },
+  {
+    "yazar": "Sefton vd.",
+    "yil": 2020,
+    "erisim": "Tam metin; yayıncı PDF ve Crossref künyesi",
+    "dayanak": "Animasyon projesi, sanat/dil derslerini bütünleştirme, akran ve öğretmen geri bildirimi, değerlendirme açıklığı ve katılımcı deneyimleri. Nicel etki sonucu gibi sunulmadı.",
+    "url": "https://doi.org/10.22329/jtl.v14i2.6320",
+    "tam_metin": "https://jtl.uwindsor.ca/index.php/jtl/article/download/6320/5126",
+    "kanıt_sha256": "f513e76e3164e8bbf3711f4cb9bd50f294afef506cd1f6c761bf79d3750c8a1a"
+  },
+  {
+    "yazar": "Seyedin vd.",
+    "yil": 2018,
+    "erisim": "Tam metin; Europe PMC XML ve Crossref künyesi",
+    "dayanak": "15 çalışmanın sistematik incelemesi; afet eğitimi stratejilerinde sekiz alan, hedef kitle ve araç seçimi.",
+    "url": "https://doi.org/10.4103/jehp.jehp_31_18",
+    "tam_metin": "https://europepmc.org/articles/PMC6089020",
+    "kanıt_sha256": "4b7799c6282cd0b1f0a498d88cda7bae4325428e2119454655194627dc2d4519"
+  },
+  {
+    "yazar": "Tuononen vd.",
+    "yil": 2022,
+    "erisim": "Tam metin; yayıncı PDF ve Crossref künyesi",
+    "dayanak": "2014–2019 döneminden 116 yükseköğretim araştırmasının sistematik incelemesi; beceri tanımları, araç farklılıkları ve bağlamsal öğrenme etmenleri.",
+    "url": "https://doi.org/10.3389/feduc.2022.885917",
+    "tam_metin": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2022.885917/pdf",
+    "kanıt_sha256": "1e5c2b0868deab2516f951cc54b35048584bbfc1b7118155b0ae0f8ebc187a46"
+  }
+]

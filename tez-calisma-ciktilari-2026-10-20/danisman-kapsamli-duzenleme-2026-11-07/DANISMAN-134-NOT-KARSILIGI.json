@@ -1,0 +1,940 @@
+[
+  {
+    "not_no": 1,
+    "kaynak_pdf_sayfasi": 13,
+    "konu": "Giriş ve problem durumu",
+    "islem": "Eski uzun metnin genelden özele akışı esas alındı; açılış, gerekçe ve problem açıklaması genişletildi; iddialar kaynakla sınırlandırıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 2,
+    "kaynak_pdf_sayfasi": 13,
+    "konu": "Giriş ve problem durumu",
+    "islem": "Eski uzun metnin genelden özele akışı esas alındı; açılış, gerekçe ve problem açıklaması genişletildi; iddialar kaynakla sınırlandırıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 3,
+    "kaynak_pdf_sayfasi": 13,
+    "konu": "Giriş ve problem durumu",
+    "islem": "Eski uzun metnin genelden özele akışı esas alındı; açılış, gerekçe ve problem açıklaması genişletildi; iddialar kaynakla sınırlandırıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 4,
+    "kaynak_pdf_sayfasi": 13,
+    "konu": "Giriş ve problem durumu",
+    "islem": "Eski uzun metnin genelden özele akışı esas alındı; açılış, gerekçe ve problem açıklaması genişletildi; iddialar kaynakla sınırlandırıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 5,
+    "kaynak_pdf_sayfasi": 13,
+    "konu": "Giriş ve problem durumu",
+    "islem": "Eski uzun metnin genelden özele akışı esas alındı; açılış, gerekçe ve problem açıklaması genişletildi; iddialar kaynakla sınırlandırıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 6,
+    "kaynak_pdf_sayfasi": 13,
+    "konu": "Kaynağa erişim düzeyi",
+    "islem": "Kaynak erişim kayıtları kaynak bazında verildi; tam metni görülmeyen yayınlar tam metin okunmuş gibi sunulmadı.",
+    "durum": "Erişim sınırı raporlandı"
+  },
+  {
+    "not_no": 7,
+    "kaynak_pdf_sayfasi": 13,
+    "konu": "Giriş ve problem durumu",
+    "islem": "Eski uzun metnin genelden özele akışı esas alındı; açılış, gerekçe ve problem açıklaması genişletildi; iddialar kaynakla sınırlandırıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 8,
+    "kaynak_pdf_sayfasi": 13,
+    "konu": "Giriş ve problem durumu",
+    "islem": "Eski uzun metnin genelden özele akışı esas alındı; açılış, gerekçe ve problem açıklaması genişletildi; iddialar kaynakla sınırlandırıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 9,
+    "kaynak_pdf_sayfasi": 13,
+    "konu": "Giriş ve problem durumu",
+    "islem": "Eski uzun metnin genelden özele akışı esas alındı; açılış, gerekçe ve problem açıklaması genişletildi; iddialar kaynakla sınırlandırıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 10,
+    "kaynak_pdf_sayfasi": 14,
+    "konu": "Giriş ve problem durumu",
+    "islem": "Eski uzun metnin genelden özele akışı esas alındı; açılış, gerekçe ve problem açıklaması genişletildi; iddialar kaynakla sınırlandırıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 11,
+    "kaynak_pdf_sayfasi": 15,
+    "konu": "Giriş ve problem durumu",
+    "islem": "Eski uzun metnin genelden özele akışı esas alındı; açılış, gerekçe ve problem açıklaması genişletildi; iddialar kaynakla sınırlandırıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 12,
+    "kaynak_pdf_sayfasi": 19,
+    "konu": "Literatür yapısı ve kaynaklar",
+    "islem": "Kuramsal açıklama ve araştırma sentezi genişletildi; dar alt başlıklar bütünleştirildi; İngilizce kaynak ve güncel MEB belgesi kullanıldı.",
+    "durum": "Uygulandı; erişim düzeyleri ayrıca raporlandı"
+  },
+  {
+    "not_no": 13,
+    "kaynak_pdf_sayfasi": 20,
+    "konu": "Literatür yapısı ve kaynaklar",
+    "islem": "Kuramsal açıklama ve araştırma sentezi genişletildi; dar alt başlıklar bütünleştirildi; İngilizce kaynak ve güncel MEB belgesi kullanıldı.",
+    "durum": "Uygulandı; erişim düzeyleri ayrıca raporlandı"
+  },
+  {
+    "not_no": 14,
+    "kaynak_pdf_sayfasi": 21,
+    "konu": "Literatür yapısı ve kaynaklar",
+    "islem": "Kuramsal açıklama ve araştırma sentezi genişletildi; dar alt başlıklar bütünleştirildi; İngilizce kaynak ve güncel MEB belgesi kullanıldı.",
+    "durum": "Uygulandı; erişim düzeyleri ayrıca raporlandı"
+  },
+  {
+    "not_no": 15,
+    "kaynak_pdf_sayfasi": 22,
+    "konu": "Kaynak erişimi",
+    "islem": "Erişim türü kaynak raporunda gösterildi; bağımsız ölçek puanlama anahtarı tam metinle doğrulanmış sayılmadı.",
+    "durum": "Erişim sınırı raporlandı"
+  },
+  {
+    "not_no": 16,
+    "kaynak_pdf_sayfasi": 24,
+    "konu": "Literatür yapısı ve kaynaklar",
+    "islem": "Kuramsal açıklama ve araştırma sentezi genişletildi; dar alt başlıklar bütünleştirildi; İngilizce kaynak ve güncel MEB belgesi kullanıldı.",
+    "durum": "Uygulandı; erişim düzeyleri ayrıca raporlandı"
+  },
+  {
+    "not_no": 17,
+    "kaynak_pdf_sayfasi": 25,
+    "konu": "Literatür yapısı ve kaynaklar",
+    "islem": "Kuramsal açıklama ve araştırma sentezi genişletildi; dar alt başlıklar bütünleştirildi; İngilizce kaynak ve güncel MEB belgesi kullanıldı.",
+    "durum": "Uygulandı; erişim düzeyleri ayrıca raporlandı"
+  },
+  {
+    "not_no": 18,
+    "kaynak_pdf_sayfasi": 27,
+    "konu": "Literatür yapısı ve kaynaklar",
+    "islem": "Kuramsal açıklama ve araştırma sentezi genişletildi; dar alt başlıklar bütünleştirildi; İngilizce kaynak ve güncel MEB belgesi kullanıldı.",
+    "durum": "Uygulandı; erişim düzeyleri ayrıca raporlandı"
+  },
+  {
+    "not_no": 19,
+    "kaynak_pdf_sayfasi": 27,
+    "konu": "Literatür yapısı ve kaynaklar",
+    "islem": "Kuramsal açıklama ve araştırma sentezi genişletildi; dar alt başlıklar bütünleştirildi; İngilizce kaynak ve güncel MEB belgesi kullanıldı.",
+    "durum": "Uygulandı; erişim düzeyleri ayrıca raporlandı"
+  },
+  {
+    "not_no": 20,
+    "kaynak_pdf_sayfasi": 28,
+    "konu": "Literatür yapısı ve kaynaklar",
+    "islem": "Kuramsal açıklama ve araştırma sentezi genişletildi; dar alt başlıklar bütünleştirildi; İngilizce kaynak ve güncel MEB belgesi kullanıldı.",
+    "durum": "Uygulandı; erişim düzeyleri ayrıca raporlandı"
+  },
+  {
+    "not_no": 21,
+    "kaynak_pdf_sayfasi": 28,
+    "konu": "Literatür yapısı ve kaynaklar",
+    "islem": "Kuramsal açıklama ve araştırma sentezi genişletildi; dar alt başlıklar bütünleştirildi; İngilizce kaynak ve güncel MEB belgesi kullanıldı.",
+    "durum": "Uygulandı; erişim düzeyleri ayrıca raporlandı"
+  },
+  {
+    "not_no": 22,
+    "kaynak_pdf_sayfasi": 29,
+    "konu": "Literatür yapısı ve kaynaklar",
+    "islem": "Kuramsal açıklama ve araştırma sentezi genişletildi; dar alt başlıklar bütünleştirildi; İngilizce kaynak ve güncel MEB belgesi kullanıldı.",
+    "durum": "Uygulandı; erişim düzeyleri ayrıca raporlandı"
+  },
+  {
+    "not_no": 23,
+    "kaynak_pdf_sayfasi": 30,
+    "konu": "Literatür yapısı ve kaynaklar",
+    "islem": "Kuramsal açıklama ve araştırma sentezi genişletildi; dar alt başlıklar bütünleştirildi; İngilizce kaynak ve güncel MEB belgesi kullanıldı.",
+    "durum": "Uygulandı; erişim düzeyleri ayrıca raporlandı"
+  },
+  {
+    "not_no": 24,
+    "kaynak_pdf_sayfasi": 34,
+    "konu": "Literatür yapısı ve kaynaklar",
+    "islem": "Kuramsal açıklama ve araştırma sentezi genişletildi; dar alt başlıklar bütünleştirildi; İngilizce kaynak ve güncel MEB belgesi kullanıldı.",
+    "durum": "Uygulandı; erişim düzeyleri ayrıca raporlandı"
+  },
+  {
+    "not_no": 25,
+    "kaynak_pdf_sayfasi": 40,
+    "konu": "Araştırma gerekçesi",
+    "islem": "İki becerinin aynı uygulamada farklı örüntü gösterebilmesi ve doğal afet bağlamı açıklandı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 26,
+    "kaynak_pdf_sayfasi": 41,
+    "konu": "Araştırma deseni",
+    "islem": "Tek gruplu ön test–son test deseni; uygulama sonrası dört görüşmenin tamamlayıcı işlevi yazıldı. Karma desen iddiası kaldırıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 27,
+    "kaynak_pdf_sayfasi": 41,
+    "konu": "Araştırma deseni",
+    "islem": "Tek gruplu ön test–son test deseni; uygulama sonrası dört görüşmenin tamamlayıcı işlevi yazıldı. Karma desen iddiası kaldırıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 28,
+    "kaynak_pdf_sayfasi": 45,
+    "konu": "Uzman kimliği",
+    "islem": "Görüşme formunun uzman incelemesinde kişinin adı yerine uzmanlık alanı sunuldu.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 29,
+    "kaynak_pdf_sayfasi": 48,
+    "konu": "Araştırmacının rolü",
+    "islem": "Uygulama anlatımında araştırmacı ifadesi kullanıldı; katılımcı alıntıları değiştirilmedi.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 30,
+    "kaynak_pdf_sayfasi": 49,
+    "konu": "Proje uygulamasının somutlaştırılması",
+    "islem": "18 grup için problem–çözüm–materyal tablosu; yöntemde iki afiş; eklerde 17 gruptan 19 görsel ve 18 grubun özeti eklendi.",
+    "durum": "Uygulandı; G13 yazılı kayıtla sunuldu"
+  },
+  {
+    "not_no": 31,
+    "kaynak_pdf_sayfasi": 49,
+    "konu": "Yinelenen takvim şekli",
+    "islem": "Aynı haftalık anlatımı yineleyen şekil kaldırıldı; uygulama sırası korundu. Yeni 3.2 ve 3.3 numaraları proje afişlerine aittir.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 32,
+    "kaynak_pdf_sayfasi": 50,
+    "konu": "Kodlama açıklaması",
+    "islem": "Anlam birimi, kodlama örneği, kategori bağlantısı ve frekansın anlamı yöntem bölümünde açıklandı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 33,
+    "kaynak_pdf_sayfasi": 51,
+    "konu": "Temel istatistik testi",
+    "islem": "Ana karşılaştırmanın bağımlı örneklemler t testi, Wilcoxon’un ek analiz olduğu belirtildi.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 34,
+    "kaynak_pdf_sayfasi": 54,
+    "konu": "Görüşme sorusunun açıklığı",
+    "islem": "Gerçekte uygulanmış soru korundu; kayıtsız Nasıl?/Neden? takip sorusu sonradan uygulanmış gibi eklenmedi. Açıklama ve yanıt bağlamı genişletildi.",
+    "durum": "Uygulama formu korunarak düzenlendi"
+  },
+  {
+    "not_no": 35,
+    "kaynak_pdf_sayfasi": 54,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 36,
+    "kaynak_pdf_sayfasi": 54,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 37,
+    "kaynak_pdf_sayfasi": 54,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 38,
+    "kaynak_pdf_sayfasi": 54,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 39,
+    "kaynak_pdf_sayfasi": 54,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 40,
+    "kaynak_pdf_sayfasi": 54,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 41,
+    "kaynak_pdf_sayfasi": 54,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 42,
+    "kaynak_pdf_sayfasi": 54,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 43,
+    "kaynak_pdf_sayfasi": 54,
+    "konu": "Kodun alıntıdaki dayanağı",
+    "islem": "K1’in çözüm geliştirip geliştiremeyeceğine ilişkin tam yanıtı verildi; kısa seçkinin sakladığı bağlam açıldı.",
+    "durum": "Tam yanıtla kontrol edildi"
+  },
+  {
+    "not_no": 44,
+    "kaynak_pdf_sayfasi": 55,
+    "konu": "K2 yanıtının kodu",
+    "islem": "Yanıtta güncellik açıkça belirtilmediği için güncellik kodu eklenmedi; araştırmayla problem belirleme ifadesi korundu.",
+    "durum": "Veriye sadık alternatif"
+  },
+  {
+    "not_no": 45,
+    "kaynak_pdf_sayfasi": 55,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 46,
+    "kaynak_pdf_sayfasi": 55,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 47,
+    "kaynak_pdf_sayfasi": 55,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 48,
+    "kaynak_pdf_sayfasi": 55,
+    "konu": "Görüşme sorusunun açıklığı",
+    "islem": "Gerçekte uygulanmış soru korundu; kayıtsız Nasıl?/Neden? takip sorusu sonradan uygulanmış gibi eklenmedi. Açıklama ve yanıt bağlamı genişletildi.",
+    "durum": "Uygulama formu korunarak düzenlendi"
+  },
+  {
+    "not_no": 49,
+    "kaynak_pdf_sayfasi": 55,
+    "konu": "Görüşme sorusunun açıklığı",
+    "islem": "Gerçekte uygulanmış soru korundu; kayıtsız Nasıl?/Neden? takip sorusu sonradan uygulanmış gibi eklenmedi. Açıklama ve yanıt bağlamı genişletildi.",
+    "durum": "Uygulama formu korunarak düzenlendi"
+  },
+  {
+    "not_no": 50,
+    "kaynak_pdf_sayfasi": 55,
+    "konu": "Görüşme sorusunun açıklığı",
+    "islem": "Gerçekte uygulanmış soru korundu; kayıtsız Nasıl?/Neden? takip sorusu sonradan uygulanmış gibi eklenmedi. Açıklama ve yanıt bağlamı genişletildi.",
+    "durum": "Uygulama formu korunarak düzenlendi"
+  },
+  {
+    "not_no": 51,
+    "kaynak_pdf_sayfasi": 56,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 52,
+    "kaynak_pdf_sayfasi": 56,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 53,
+    "kaynak_pdf_sayfasi": 57,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 54,
+    "kaynak_pdf_sayfasi": 57,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 55,
+    "kaynak_pdf_sayfasi": 57,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 56,
+    "kaynak_pdf_sayfasi": 57,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 57,
+    "kaynak_pdf_sayfasi": 57,
+    "konu": "Sorun yaşayanların sayısı",
+    "islem": "Teorik uyumsuzluk ile tasarım güçlüğü ayrıldı; tam yanıtların desteklemediği 3/1 sayımı zorlanmadı.",
+    "durum": "Veriye sadık alternatif"
+  },
+  {
+    "not_no": 58,
+    "kaynak_pdf_sayfasi": 58,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 59,
+    "kaynak_pdf_sayfasi": 58,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 60,
+    "kaynak_pdf_sayfasi": 58,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 61,
+    "kaynak_pdf_sayfasi": 58,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 62,
+    "kaynak_pdf_sayfasi": 59,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 63,
+    "kaynak_pdf_sayfasi": 59,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 64,
+    "kaynak_pdf_sayfasi": 59,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 65,
+    "kaynak_pdf_sayfasi": 59,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 66,
+    "kaynak_pdf_sayfasi": 59,
+    "konu": "İletişim kodunun dayanağı",
+    "islem": "K2’nin tam yanıtında iletişim becerisine katkı açıkça belirtiliyor; iletişim kodu bu tam alıntıyla korundu.",
+    "durum": "Tam yanıtla kontrol edildi"
+  },
+  {
+    "not_no": 67,
+    "kaynak_pdf_sayfasi": 59,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 68,
+    "kaynak_pdf_sayfasi": 59,
+    "konu": "Görüşme sorusunun açıklığı",
+    "islem": "Gerçekte uygulanmış soru korundu; kayıtsız Nasıl?/Neden? takip sorusu sonradan uygulanmış gibi eklenmedi. Açıklama ve yanıt bağlamı genişletildi.",
+    "durum": "Uygulama formu korunarak düzenlendi"
+  },
+  {
+    "not_no": 69,
+    "kaynak_pdf_sayfasi": 60,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 70,
+    "kaynak_pdf_sayfasi": 60,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 71,
+    "kaynak_pdf_sayfasi": 60,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 72,
+    "kaynak_pdf_sayfasi": 60,
+    "konu": "Bilgi değerlendirme kodu",
+    "islem": "K4’ün açık ifadesine dayanarak bilgiyi seçme ve değerlendirme kodlandı; katılımcının adlandırmadığı eleştirel düşünme becerisi kesin kazanım gibi yazılmadı.",
+    "durum": "Veriye sadık alternatif"
+  },
+  {
+    "not_no": 73,
+    "kaynak_pdf_sayfasi": 60,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 74,
+    "kaynak_pdf_sayfasi": 60,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 75,
+    "kaynak_pdf_sayfasi": 60,
+    "konu": "Görüşme sorusunun açıklığı",
+    "islem": "Gerçekte uygulanmış soru korundu; kayıtsız Nasıl?/Neden? takip sorusu sonradan uygulanmış gibi eklenmedi. Açıklama ve yanıt bağlamı genişletildi.",
+    "durum": "Uygulama formu korunarak düzenlendi"
+  },
+  {
+    "not_no": 76,
+    "kaynak_pdf_sayfasi": 61,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 77,
+    "kaynak_pdf_sayfasi": 61,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 78,
+    "kaynak_pdf_sayfasi": 61,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 79,
+    "kaynak_pdf_sayfasi": 61,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 80,
+    "kaynak_pdf_sayfasi": 61,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 81,
+    "kaynak_pdf_sayfasi": 61,
+    "konu": "Görüşme sorusunun açıklığı",
+    "islem": "Gerçekte uygulanmış soru korundu; kayıtsız Nasıl?/Neden? takip sorusu sonradan uygulanmış gibi eklenmedi. Açıklama ve yanıt bağlamı genişletildi.",
+    "durum": "Uygulama formu korunarak düzenlendi"
+  },
+  {
+    "not_no": 82,
+    "kaynak_pdf_sayfasi": 62,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 83,
+    "kaynak_pdf_sayfasi": 62,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 84,
+    "kaynak_pdf_sayfasi": 62,
+    "konu": "Metinsiz işaretleme",
+    "islem": "İşaretlemenin çevresindeki soru ve yanıt bağlamı incelendi; yazılı olmayan bir talep uydurulmadı.",
+    "durum": "Bağlam kontrolü"
+  },
+  {
+    "not_no": 85,
+    "kaynak_pdf_sayfasi": 62,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 86,
+    "kaynak_pdf_sayfasi": 62,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 87,
+    "kaynak_pdf_sayfasi": 62,
+    "konu": "Görüşme sorusunun açıklığı",
+    "islem": "Gerçekte uygulanmış soru korundu; kayıtsız Nasıl?/Neden? takip sorusu sonradan uygulanmış gibi eklenmedi. Açıklama ve yanıt bağlamı genişletildi.",
+    "durum": "Uygulama formu korunarak düzenlendi"
+  },
+  {
+    "not_no": 88,
+    "kaynak_pdf_sayfasi": 62,
+    "konu": "Görüşme sorusunun açıklığı",
+    "islem": "Gerçekte uygulanmış soru korundu; kayıtsız Nasıl?/Neden? takip sorusu sonradan uygulanmış gibi eklenmedi. Açıklama ve yanıt bağlamı genişletildi.",
+    "durum": "Uygulama formu korunarak düzenlendi"
+  },
+  {
+    "not_no": 89,
+    "kaynak_pdf_sayfasi": 62,
+    "konu": "Görüşme sorusunun açıklığı",
+    "islem": "Gerçekte uygulanmış soru korundu; kayıtsız Nasıl?/Neden? takip sorusu sonradan uygulanmış gibi eklenmedi. Açıklama ve yanıt bağlamı genişletildi.",
+    "durum": "Uygulama formu korunarak düzenlendi"
+  },
+  {
+    "not_no": 90,
+    "kaynak_pdf_sayfasi": 62,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 91,
+    "kaynak_pdf_sayfasi": 62,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 92,
+    "kaynak_pdf_sayfasi": 62,
+    "konu": "Görüşme sorusunun açıklığı",
+    "islem": "Gerçekte uygulanmış soru korundu; kayıtsız Nasıl?/Neden? takip sorusu sonradan uygulanmış gibi eklenmedi. Açıklama ve yanıt bağlamı genişletildi.",
+    "durum": "Uygulama formu korunarak düzenlendi"
+  },
+  {
+    "not_no": 93,
+    "kaynak_pdf_sayfasi": 62,
+    "konu": "Görüşme sorusunun açıklığı",
+    "islem": "Gerçekte uygulanmış soru korundu; kayıtsız Nasıl?/Neden? takip sorusu sonradan uygulanmış gibi eklenmedi. Açıklama ve yanıt bağlamı genişletildi.",
+    "durum": "Uygulama formu korunarak düzenlendi"
+  },
+  {
+    "not_no": 94,
+    "kaynak_pdf_sayfasi": 63,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 95,
+    "kaynak_pdf_sayfasi": 63,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 96,
+    "kaynak_pdf_sayfasi": 63,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 97,
+    "kaynak_pdf_sayfasi": 63,
+    "konu": "Görüşme sorusunun açıklığı",
+    "islem": "Gerçekte uygulanmış soru korundu; kayıtsız Nasıl?/Neden? takip sorusu sonradan uygulanmış gibi eklenmedi. Açıklama ve yanıt bağlamı genişletildi.",
+    "durum": "Uygulama formu korunarak düzenlendi"
+  },
+  {
+    "not_no": 98,
+    "kaynak_pdf_sayfasi": 63,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 99,
+    "kaynak_pdf_sayfasi": 64,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 100,
+    "kaynak_pdf_sayfasi": 64,
+    "konu": "Görüşme sorusunun açıklığı",
+    "islem": "Gerçekte uygulanmış soru korundu; kayıtsız Nasıl?/Neden? takip sorusu sonradan uygulanmış gibi eklenmedi. Açıklama ve yanıt bağlamı genişletildi.",
+    "durum": "Uygulama formu korunarak düzenlendi"
+  },
+  {
+    "not_no": 101,
+    "kaynak_pdf_sayfasi": 64,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 102,
+    "kaynak_pdf_sayfasi": 64,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 103,
+    "kaynak_pdf_sayfasi": 64,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 104,
+    "kaynak_pdf_sayfasi": 64,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 105,
+    "kaynak_pdf_sayfasi": 65,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 106,
+    "kaynak_pdf_sayfasi": 65,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 107,
+    "kaynak_pdf_sayfasi": 65,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 108,
+    "kaynak_pdf_sayfasi": 65,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 109,
+    "kaynak_pdf_sayfasi": 65,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 110,
+    "kaynak_pdf_sayfasi": 66,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 111,
+    "kaynak_pdf_sayfasi": 66,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 112,
+    "kaynak_pdf_sayfasi": 66,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 113,
+    "kaynak_pdf_sayfasi": 66,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 114,
+    "kaynak_pdf_sayfasi": 66,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 115,
+    "kaynak_pdf_sayfasi": 66,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 116,
+    "kaynak_pdf_sayfasi": 67,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 117,
+    "kaynak_pdf_sayfasi": 68,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 118,
+    "kaynak_pdf_sayfasi": 68,
+    "konu": "Metinsiz işaretleme",
+    "islem": "İşaretlemenin çevresindeki öneri yanıtı tam bağlamıyla kontrol edildi.",
+    "durum": "Bağlam kontrolü"
+  },
+  {
+    "not_no": 119,
+    "kaynak_pdf_sayfasi": 68,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 120,
+    "kaynak_pdf_sayfasi": 68,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 121,
+    "kaynak_pdf_sayfasi": 68,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 122,
+    "kaynak_pdf_sayfasi": 68,
+    "konu": "Gruplar arası iş birliği yorumu",
+    "islem": "K4’ün önerisi aşamaya uygun farklı görevler olarak sunuldu; doğrudan belirtilmeyen gruplar arası iş birliği yeni veri gibi eklenmedi.",
+    "durum": "Veriye sadık alternatif"
+  },
+  {
+    "not_no": 123,
+    "kaynak_pdf_sayfasi": 68,
+    "konu": "Görüşme bulgularının sunumu",
+    "islem": "Özgün soru, kısa giriş, kod/frekans tablosu ve tam katılımcı yanıtı birlikte düzenlendi. Kodlar o soruya verilen tam yanıtlarla karşılaştırıldı; olumlu/olumsuz yönler ayrıldı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 124,
+    "kaynak_pdf_sayfasi": 69,
+    "konu": "Öz değerlendirme/algı terimi",
+    "islem": "Ölçeğin adı korunarak puanın kapsamı açıklandı; ses kaydındaki kesinleşmemiş terminoloji önerisi yeni bir yöntem kararı gibi uygulanmadı.",
+    "durum": "Danışman kararı kesinleşmedi"
+  },
+  {
+    "not_no": 125,
+    "kaynak_pdf_sayfasi": 69,
+    "konu": "Ölçümün kapsamı",
+    "islem": "Öz bildirim kapsamı ölçek ve uygulama maddeleriyle açıklandı; performans testi yapılmış gibi bir ifade kurulmadı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 126,
+    "kaynak_pdf_sayfasi": 69,
+    "konu": "Çalışmanın katkısının anlatımı",
+    "islem": "Sınırlılık açıklamaları sadeleştirildi; ürünler yöntemde ve eklerde görünür kılındı.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 127,
+    "kaynak_pdf_sayfasi": 69,
+    "konu": "Sonuç ve tartışmanın açıklığı",
+    "islem": "Sonuçlar ilgili ölçüm alanıyla karşılaştırıldı; eski güçlü tartışmanın işlevleri genişletilerek korundu; dört görüşme tüm örnekleme genellenmedi.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 128,
+    "kaynak_pdf_sayfasi": 70,
+    "konu": "Sonuç ve tartışmanın açıklığı",
+    "islem": "Sonuçlar ilgili ölçüm alanıyla karşılaştırıldı; eski güçlü tartışmanın işlevleri genişletilerek korundu; dört görüşme tüm örnekleme genellenmedi.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 129,
+    "kaynak_pdf_sayfasi": 70,
+    "konu": "Sonuç ve tartışmanın açıklığı",
+    "islem": "Sonuçlar ilgili ölçüm alanıyla karşılaştırıldı; eski güçlü tartışmanın işlevleri genişletilerek korundu; dört görüşme tüm örnekleme genellenmedi.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 130,
+    "kaynak_pdf_sayfasi": 70,
+    "konu": "Sonuç ve tartışmanın açıklığı",
+    "islem": "Sonuçlar ilgili ölçüm alanıyla karşılaştırıldı; eski güçlü tartışmanın işlevleri genişletilerek korundu; dört görüşme tüm örnekleme genellenmedi.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 131,
+    "kaynak_pdf_sayfasi": 71,
+    "konu": "Sonuç ve tartışmanın açıklığı",
+    "islem": "Sonuçlar ilgili ölçüm alanıyla karşılaştırıldı; eski güçlü tartışmanın işlevleri genişletilerek korundu; dört görüşme tüm örnekleme genellenmedi.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 132,
+    "kaynak_pdf_sayfasi": 74,
+    "konu": "Proje uygulamasının somutlaştırılması",
+    "islem": "18 grup için problem–çözüm–materyal tablosu; yöntemde iki afiş; eklerde 17 gruptan 19 görsel ve 18 grubun özeti eklendi.",
+    "durum": "Uygulandı; G13 yazılı kayıtla sunuldu"
+  },
+  {
+    "not_no": 133,
+    "kaynak_pdf_sayfasi": 80,
+    "konu": "Ölçeklerin eklerde sunumu",
+    "islem": "25 ve 35 özgün madde, yanıt dereceleri bulunan tablolarla sunuldu.",
+    "durum": "Uygulandı"
+  },
+  {
+    "not_no": 134,
+    "kaynak_pdf_sayfasi": 82,
+    "konu": "Ölçeklerin eklerde sunumu",
+    "islem": "25 ve 35 özgün madde, yanıt dereceleri bulunan tablolarla sunuldu.",
+    "durum": "Uygulandı"
+  }
+]

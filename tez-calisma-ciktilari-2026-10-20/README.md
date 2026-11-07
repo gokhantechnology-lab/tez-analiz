@@ -1,6 +1,12 @@
 # Tez analiz ve çalışma dosyaları
 
-## Güncel — 5 Kasım 2026, Word dosyasının yeniden kaydı
+## Güncel inceleme sürümü — 7 Kasım 2026
+
+[Word](danisman-kapsamli-duzenleme-2026-11-07/GOKHAN-KAYA-TEZ-DANISMAN-GUNCEL-07-11-2026.docx) · [PDF — 126 sayfa](danisman-kapsamli-duzenleme-2026-11-07/GOKHAN-KAYA-TEZ-DANISMAN-GUNCEL-07-11-2026.pdf) · [Yapılanlar ve açık kontroller](danisman-kapsamli-duzenleme-2026-11-07/YAPILANLAR-VE-ACIK-KONTROLLER.pdf) · [Danışman kontrol listesi](danisman-kapsamli-duzenleme-2026-11-07/DANISMAN-DUZELTME-KONTROL-LISTESI.xlsx)
+
+Giriş ve literatür yeniden yapılandırılıp genişletildi; 29 kaynak ve ilgili araştırmaların karşılaştırma tablosu var. Yöntemde 18 grubun proje tablosu ve iki afiş, eklerde 17 grubun 19 görseli bulunur. Gerçek SPSS sonuçları ve 44 tam görüşme yanıtı korunmuştur. Etik kurul karar belgesi, izin/onam belgeleri, güncel benzerlik raporu ve bu sürümün gerçek Microsoft Word kontrolü açık işlerdir. Ayrıntılar rapordadır. Aşağıdaki eski tarihli sürümler geçmiş kayıttır.
+
+## Önceki — 5 Kasım 2026, Word dosyasının yeniden kaydı
 
 **[Word](word-yeniden-kayit-2026-11-05/GOKHAN-KAYA-TEZ-WORD-YENIDEN-KAYIT-05-11-2026.docx)** · **[PDF — 91 sayfa](word-yeniden-kayit-2026-11-05/GOKHAN-KAYA-TEZ-WORD-YENIDEN-KAYIT-05-11-2026.pdf)** · [Yapılanlar ve kapsam](word-yeniden-kayit-2026-11-05/README.md)
 
