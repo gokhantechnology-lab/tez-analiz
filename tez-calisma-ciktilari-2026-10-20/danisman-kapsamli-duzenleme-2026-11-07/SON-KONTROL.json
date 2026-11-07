@@ -1,12 +1,12 @@
 {
-  "pdf_pages": 126,
-  "tables": 40,
+  "pdf_pages": 119,
+  "tables": 23,
   "numbered_tables": 19,
   "figures": 22,
   "full_interview_answers": 44,
   "questions": 11,
   "codebook_rows": 53,
-  "references": 29,
+  "references": 32,
   "unchanged_quantitative_and_original_method_tables": 6,
   "scale_items_preserved": {
     "IB": 25,
@@ -17,283 +17,202 @@
   "table_layout": [
     {
       "table": 1,
-      "rows": 5,
+      "rows": 10,
       "same_page": [
-        49
-      ]
+        50
+      ],
+      "continuous_table": true,
+      "each_row_intact": true
     },
     {
       "table": 2,
-      "rows": 4,
+      "rows": 5,
       "same_page": [
-        49
-      ]
+        52
+      ],
+      "continuous_table": false,
+      "each_row_intact": true
     },
     {
       "table": 3,
-      "rows": 5,
+      "rows": 4,
       "same_page": [
-        51
-      ]
+        56
+      ],
+      "continuous_table": false,
+      "each_row_intact": true
     },
     {
       "table": 4,
-      "rows": 4,
-      "same_page": [
-        55
-      ]
+      "rows": 19,
+      "same_page": [],
+      "continuous_table": true,
+      "each_row_intact": true
     },
     {
       "table": 5,
-      "rows": 5,
+      "rows": 10,
       "same_page": [
-        58
-      ]
+        63
+      ],
+      "continuous_table": false,
+      "each_row_intact": true
     },
     {
       "table": 6,
       "rows": 5,
       "same_page": [
-        58
-      ]
+        65
+      ],
+      "continuous_table": false,
+      "each_row_intact": true
     },
     {
       "table": 7,
-      "rows": 5,
+      "rows": 9,
       "same_page": [
-        59
-      ]
+        65
+      ],
+      "continuous_table": false,
+      "each_row_intact": true
     },
     {
       "table": 8,
-      "rows": 5,
+      "rows": 6,
       "same_page": [
-        59
-      ]
+        66
+      ],
+      "continuous_table": false,
+      "each_row_intact": true
     },
     {
       "table": 9,
-      "rows": 3,
+      "rows": 11,
       "same_page": [
-        59
-      ]
+        67
+      ],
+      "continuous_table": false,
+      "each_row_intact": true
     },
     {
       "table": 10,
-      "rows": 10,
+      "rows": 4,
       "same_page": [
-        62
-      ]
+        68
+      ],
+      "continuous_table": false,
+      "each_row_intact": true
     },
     {
       "table": 11,
       "rows": 5,
       "same_page": [
-        66
-      ]
+        69
+      ],
+      "continuous_table": false,
+      "each_row_intact": true
     },
     {
       "table": 12,
-      "rows": 9,
+      "rows": 6,
       "same_page": [
-        66
-      ]
+        70
+      ],
+      "continuous_table": false,
+      "each_row_intact": true
     },
     {
       "table": 13,
-      "rows": 6,
+      "rows": 5,
       "same_page": [
-        68
-      ]
+        71
+      ],
+      "continuous_table": false,
+      "each_row_intact": true
     },
     {
       "table": 14,
-      "rows": 11,
+      "rows": 7,
       "same_page": [
-        68
-      ]
+        72
+      ],
+      "continuous_table": false,
+      "each_row_intact": true
     },
     {
       "table": 15,
-      "rows": 4,
+      "rows": 7,
       "same_page": [
-        69
-      ]
+        74
+      ],
+      "continuous_table": false,
+      "each_row_intact": true
     },
     {
       "table": 16,
-      "rows": 5,
-      "same_page": [
-        70
-      ]
-    },
-    {
-      "table": 17,
-      "rows": 6,
-      "same_page": [
-        71
-      ]
-    },
-    {
-      "table": 18,
-      "rows": 5,
-      "same_page": [
-        72
-      ]
-    },
-    {
-      "table": 19,
-      "rows": 7,
-      "same_page": [
-        73
-      ]
-    },
-    {
-      "table": 20,
       "rows": 7,
       "same_page": [
         75
-      ]
+      ],
+      "continuous_table": false,
+      "each_row_intact": true
     },
     {
-      "table": 21,
-      "rows": 7,
-      "same_page": [
-        76
-      ]
-    },
-    {
-      "table": 22,
+      "table": 17,
       "rows": 5,
       "same_page": [
-        77
-      ]
+        76
+      ],
+      "continuous_table": false,
+      "each_row_intact": true
     },
     {
-      "table": 23,
+      "table": 18,
+      "rows": 6,
+      "same_page": [
+        77
+      ],
+      "continuous_table": false,
+      "each_row_intact": true
+    },
+    {
+      "table": 19,
       "rows": 6,
       "same_page": [
         78
-      ]
+      ],
+      "continuous_table": false,
+      "each_row_intact": true
     },
     {
-      "table": 24,
-      "rows": 6,
-      "same_page": [
-        79
-      ]
+      "table": 20,
+      "rows": 26,
+      "same_page": [],
+      "continuous_table": true,
+      "each_row_intact": true
     },
     {
-      "table": 25,
-      "rows": 10,
-      "same_page": [
-        92
-      ]
+      "table": 21,
+      "rows": 36,
+      "same_page": [],
+      "continuous_table": true,
+      "each_row_intact": true
     },
     {
-      "table": 26,
-      "rows": 10,
-      "same_page": [
-        93
-      ]
+      "table": 22,
+      "rows": 54,
+      "same_page": [],
+      "continuous_table": true,
+      "each_row_intact": true
     },
     {
-      "table": 27,
-      "rows": 8,
+      "table": 23,
+      "rows": 19,
       "same_page": [
-        93
-      ]
-    },
-    {
-      "table": 28,
-      "rows": 10,
-      "same_page": [
-        94
-      ]
-    },
-    {
-      "table": 29,
-      "rows": 10,
-      "same_page": [
-        95
-      ]
-    },
-    {
-      "table": 30,
-      "rows": 10,
-      "same_page": [
-        96
-      ]
-    },
-    {
-      "table": 31,
-      "rows": 9,
-      "same_page": [
-        97
-      ]
-    },
-    {
-      "table": 32,
-      "rows": 9,
-      "same_page": [
-        99
-      ]
-    },
-    {
-      "table": 33,
-      "rows": 9,
-      "same_page": [
-        100
-      ]
-    },
-    {
-      "table": 34,
-      "rows": 9,
-      "same_page": [
-        101
-      ]
-    },
-    {
-      "table": 35,
-      "rows": 9,
-      "same_page": [
-        102
-      ]
-    },
-    {
-      "table": 36,
-      "rows": 9,
-      "same_page": [
-        103
-      ]
-    },
-    {
-      "table": 37,
-      "rows": 9,
-      "same_page": [
-        104
-      ]
-    },
-    {
-      "table": 38,
-      "rows": 6,
-      "same_page": [
-        105
-      ]
-    },
-    {
-      "table": 39,
-      "rows": 10,
-      "same_page": [
-        125
-      ]
-    },
-    {
-      "table": 40,
-      "rows": 10,
-      "same_page": [
-        126
-      ]
+        119
+      ],
+      "continuous_table": true,
+      "each_row_intact": true
     }
   ],
   "issues": [],

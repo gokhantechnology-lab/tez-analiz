@@ -1,46 +1,53 @@
 {
-  "YAPILANLAR-VE-ACIK-KONTROLLER.docx": {
-    "bytes": 39967,
-    "sha256": "2ddb6de33c1243b5a3fc3fc402fd7a923f618890e3abb79d3d7a7c5779ade8bc"
-  },
-  "BOLUM-SAYFA-KARSILASTIRMASI.json": {
-    "bytes": 279,
-    "sha256": "37dc90c15597942b1829f9460394c90af1c12f29e58a18a43636bcbf1bfe93c6"
-  },
-  "README.md": {
-    "bytes": 1785,
-    "sha256": "66f5c5f438f1b8d04941eb60f61041ffe0524334189d83f85d864b4975f3a78e"
-  },
-  "GOKHAN-KAYA-TEZ-DANISMAN-GUNCEL-07-11-2026.pdf": {
-    "bytes": 12950554,
-    "sha256": "69c7e80799c91f3383cd7dd895772482e6c418fe445e31f665b69ac502aeffd6"
-  },
-  "GECMIS-DANISMAN-NOTLARI-KARSILIGI.json": {
-    "bytes": 61824,
-    "sha256": "3922d9230a723218493356d04c5e7ed9373c97dced8564c8ca95426a3b22ad89"
-  },
-  "YAPILANLAR-VE-ACIK-KONTROLLER.pdf": {
-    "bytes": 99107,
-    "sha256": "f345253463f6b3d9a5a7a1b607c772719fbe38b00a28a1cdf8acffb2a1927ddd"
-  },
-  "DANISMAN-134-NOT-KARSILIGI.json": {
-    "bytes": 43430,
-    "sha256": "1c791470116607d469e288c65afbfa2ee10af97f6f1106f9102c602608e384d0"
-  },
-  "KAYNAK-ERISIM-VE-KULLANIM.json": {
-    "bytes": 11248,
-    "sha256": "8c21a163a56157de8298c41f57de4b25884c302074a77d2b6bc1c3c8168d9ab0"
-  },
-  "GOKHAN-KAYA-TEZ-DANISMAN-GUNCEL-07-11-2026.docx": {
-    "bytes": 9676113,
-    "sha256": "fac9b2d586ba17061bcfe050d63b5ff82e83c0c5d934ed31eca9bd4bad3b8815"
-  },
-  "DANISMAN-DUZELTME-KONTROL-LISTESI.xlsx": {
-    "bytes": 18027,
-    "sha256": "f3d15cde40c6bae5d5780579c9240350c41dadf03382c0069329cc4ac6260991"
-  },
-  "SON-KONTROL.json": {
-    "bytes": 4045,
-    "sha256": "37bc4faa4616ddbc499f25fe8a4c478cc74d938c95da4077c79abb95cf7177bc"
+  "revision": "7 Kasım 2026 — bütüncül içerik ve yerleşim kontrolü; 119 sayfa, 32 kaynak",
+  "files": {
+    "YAPILANLAR-VE-ACIK-KONTROLLER.docx": {
+      "bytes": 40751,
+      "sha256": "9f4ad56aaaaa58a857ed246c65d33de461a525fd77c21465da874a8ce08f4184"
+    },
+    "BOLUM-SAYFA-KARSILASTIRMASI.json": {
+      "bytes": 707,
+      "sha256": "43060e434b2c56aee0d9b52fac5e9cb18494f2d182291043fd11da36f1eda02d"
+    },
+    "README.md": {
+      "bytes": 1802,
+      "sha256": "fa5713cdd86845779a307bb37d38fcde2b2db02329881bd62629d0346d5c798e"
+    },
+    "GOKHAN-KAYA-TEZ-DANISMAN-GUNCEL-07-11-2026.pdf": {
+      "bytes": 12962687,
+      "sha256": "96dfc33c071d11ab92bcf454e4a3deb66c5efa8df3c660a53258c0ba1f80dc8e"
+    },
+    "GECMIS-DANISMAN-NOTLARI-KARSILIGI.json": {
+      "bytes": 61824,
+      "sha256": "3922d9230a723218493356d04c5e7ed9373c97dced8564c8ca95426a3b22ad89"
+    },
+    "V2-YERLESIM-VE-PUNTO-KONTROLU.json": {
+      "bytes": 1221,
+      "sha256": "3e90498f36d88051ad0a300c85f33f7b4fbfc017008986987abdc92fa12f141d"
+    },
+    "YAPILANLAR-VE-ACIK-KONTROLLER.pdf": {
+      "bytes": 108090,
+      "sha256": "651b4585d59fa3c229f3059990ca15eae904cb065cb57ee372f7d8c583057fe8"
+    },
+    "DANISMAN-134-NOT-KARSILIGI.json": {
+      "bytes": 43430,
+      "sha256": "1c791470116607d469e288c65afbfa2ee10af97f6f1106f9102c602608e384d0"
+    },
+    "KAYNAK-ERISIM-VE-KULLANIM.json": {
+      "bytes": 12779,
+      "sha256": "9e479d134603377c33165f73a77baaede5a3d90e27656f38dd4814aefec62105"
+    },
+    "GOKHAN-KAYA-TEZ-DANISMAN-GUNCEL-07-11-2026.docx": {
+      "bytes": 9676310,
+      "sha256": "52b63c2746534a2f067c48f1fcfe1809dd66a4785fa0dad6332c4b0b53c23bbb"
+    },
+    "DANISMAN-DUZELTME-KONTROL-LISTESI.xlsx": {
+      "bytes": 18028,
+      "sha256": "ec9f1242f8cfded3aac01217a917ff3ea11b8bc8b55d3315aed98005beddf88e"
+    },
+    "SON-KONTROL.json": {
+      "bytes": 3918,
+      "sha256": "ed37dab98250bd419a0ed38a7659232ea9b2ccaf918b6e789df684bc96758f1b"
+    }
   }
 }

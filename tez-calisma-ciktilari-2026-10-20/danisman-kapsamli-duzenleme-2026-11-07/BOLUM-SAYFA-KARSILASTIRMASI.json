@@ -12,15 +12,25 @@
     ]
   },
   "current_version": {
-    "total": 126,
+    "total": 119,
     "counts": [
       10,
-      27,
-      15,
-      15,
+      28,
+      14,
+      14,
       8,
       4,
-      35
+      29
     ]
+  },
+  "previous_126_page_version_comparison": {
+    "previous_total": 126,
+    "current_total": 119,
+    "codebook_rows_preserved_exactly": 53,
+    "full_answers_preserved": 44,
+    "scale_items_preserved": 60,
+    "groups_preserved": 18,
+    "appendix_images_preserved": 19,
+    "explanation": "Son 126→119 değişikliği yapay tablo parçaları ve sayfa boşluklarının giderilmesidir; bu veri birimleri çıkarılmadı."
   }
 }

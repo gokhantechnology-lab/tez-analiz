@@ -1,0 +1,57 @@
+{
+  "pdf_pages": 119,
+  "body_paragraphs_checked": 439,
+  "table_font_pt": 10.5,
+  "quote_count": 44,
+  "quote_font_distribution": {
+    "12": 18,
+    "10": 26
+  },
+  "references": 32,
+  "reference_hanging_indent_cm": 0.5,
+  "appendices": [
+    {
+      "title": "Ek 1. İletişim Becerileri Ölçeği",
+      "pdf_page": 91,
+      "y": 104.1
+    },
+    {
+      "title": "Ek 2. Problem Çözme Becerileri Ölçeği",
+      "pdf_page": 93,
+      "y": 71.4
+    },
+    {
+      "title": "Ek 3. Yarı yapılandırılmış görüşme formu",
+      "pdf_page": 96,
+      "y": 71.4
+    },
+    {
+      "title": "Ek 4. Nitel içerik analizi kod kitabı",
+      "pdf_page": 97,
+      "y": 71.4
+    },
+    {
+      "title": "Ek 5. Uygulamada Hazırlanan Proje ve Poster Örnekleri",
+      "pdf_page": 100,
+      "y": 71.4
+    },
+    {
+      "title": "Ek 6. Uygulama Arşivindeki Projelerin Özeti",
+      "pdf_page": 119,
+      "y": 71.4
+    }
+  ],
+  "table_figure_reference_paragraphs_fixed": 6,
+  "pto_source_mentions": {
+    "Guo": 5,
+    "Condliffe": 5,
+    "Kokotsaki": 4,
+    "Häkkinen": 3,
+    "Puspitasari": 3,
+    "Fitriani": 4,
+    "Sefton": 5,
+    "Tsybulsky": 1
+  },
+  "issues": [],
+  "actual_Microsoft_Word_test": false
+}

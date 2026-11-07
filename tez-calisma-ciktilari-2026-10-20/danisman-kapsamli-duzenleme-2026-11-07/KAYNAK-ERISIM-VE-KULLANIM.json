@@ -238,5 +238,32 @@
     "url": "https://doi.org/10.3389/feduc.2022.885917",
     "tam_metin": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2022.885917/pdf",
     "kanıt_sha256": "1e5c2b0868deab2516f951cc54b35048584bbfc1b7118155b0ae0f8ebc187a46"
+  },
+  {
+    "yazar": "Häkkinen vd.",
+    "yil": 2017,
+    "erisim": "Tam metin; üniversite arşivinde kabul edilmiş yazar nüshası",
+    "dayanak": "Öğretmen eğitiminde iş birlikli problem çözmeyi destekleyen pedagojik çerçeve; görevler, etkileşim ve ortak düzenleme.",
+    "url": "https://doi.org/10.1080/13540602.2016.1203772",
+    "tam_metin": "https://jyx.jyu.fi/bitstreams/7060741c-d746-4452-be8b-58458f033a12/download",
+    "kanıt_sha256": "1f21113ecc9a36673be66aa89925707ec25e2243b2f991154831f9c32325848f"
+  },
+  {
+    "yazar": "Puspitasari",
+    "yil": 2020,
+    "erisim": "Tam metin; yayıncı PDF",
+    "dayanak": "İngilizce öğretmen adaylarıyla nitel durum çalışması; üç sınıf gözlemi, altı görüşme, yansıtıcı yazılar ve ürünler. Nicel etki gibi sunulmadı.",
+    "url": "https://doi.org/10.21093/ijeltal.v5i1.638",
+    "tam_metin": "https://ijeltal.org/index.php/ijeltal/article/download/638/pdf",
+    "kanıt_sha256": "7998bb9befb2446685b4fe68b2b847d7bb3a54d1d2590afcec43021a85562009"
+  },
+  {
+    "yazar": "Tsybulsky vd.",
+    "yil": 2020,
+    "erisim": "ERIC özeti ve Crossref künyesi; tam metne erişilmedi",
+    "dayanak": "76 öğretmen adayı, 38 görüşme ve 152 yansıtıcı rapor; deneyimlerin içerik ve niteliği. Kullanım açık özet bilgileriyle sınırlandı.",
+    "url": "https://doi.org/10.1080/02619768.2019.1711052",
+    "ozet": "https://eric.ed.gov/?id=EJ1257996",
+    "kanıt_sha256": "e6c2a7c8157eea9b27b648c0dec4e80d9f1018037d2e1976d50657f453002d55"
   }
 ]

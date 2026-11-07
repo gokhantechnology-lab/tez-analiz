@@ -2,9 +2,9 @@
 
 ## Güncel inceleme sürümü — 7 Kasım 2026
 
-[Word](tez-calisma-ciktilari-2026-10-20/danisman-kapsamli-duzenleme-2026-11-07/GOKHAN-KAYA-TEZ-DANISMAN-GUNCEL-07-11-2026.docx) · [PDF — 126 sayfa](tez-calisma-ciktilari-2026-10-20/danisman-kapsamli-duzenleme-2026-11-07/GOKHAN-KAYA-TEZ-DANISMAN-GUNCEL-07-11-2026.pdf) · [Yapılanlar ve açık kontroller](tez-calisma-ciktilari-2026-10-20/danisman-kapsamli-duzenleme-2026-11-07/YAPILANLAR-VE-ACIK-KONTROLLER.pdf) · [Danışman kontrol listesi](tez-calisma-ciktilari-2026-10-20/danisman-kapsamli-duzenleme-2026-11-07/DANISMAN-DUZELTME-KONTROL-LISTESI.xlsx)
+[Word](tez-calisma-ciktilari-2026-10-20/danisman-kapsamli-duzenleme-2026-11-07/GOKHAN-KAYA-TEZ-DANISMAN-GUNCEL-07-11-2026.docx) · [PDF — 119 sayfa](tez-calisma-ciktilari-2026-10-20/danisman-kapsamli-duzenleme-2026-11-07/GOKHAN-KAYA-TEZ-DANISMAN-GUNCEL-07-11-2026.pdf) · [Yapılanlar ve açık kontroller](tez-calisma-ciktilari-2026-10-20/danisman-kapsamli-duzenleme-2026-11-07/YAPILANLAR-VE-ACIK-KONTROLLER.pdf) · [Danışman kontrol listesi](tez-calisma-ciktilari-2026-10-20/danisman-kapsamli-duzenleme-2026-11-07/DANISMAN-DUZELTME-KONTROL-LISTESI.xlsx)
 
-Giriş ve literatür yeniden yapılandırılıp genişletildi; 29 kaynak ve ilgili araştırmaların karşılaştırma tablosu var. Yöntemde 18 grubun proje tablosu ve iki afiş, eklerde 17 grubun 19 görseli bulunur. Gerçek SPSS sonuçları ve 44 tam görüşme yanıtı korunmuştur. Etik kurul karar belgesi, izin/onam belgeleri, güncel benzerlik raporu ve bu sürümün gerçek Microsoft Word kontrolü açık işlerdir. Ayrıntılar rapordadır. Aşağıdaki eski tarihli sürümler geçmiş kayıttır.
+Giriş ve literatür yeniden yapılandırılıp genişletildi; 32 kaynak ve ilgili araştırmaların karşılaştırma tablosu var. Yöntemde 18 grubun proje tablosu ve iki afiş, eklerde 17 grubun 19 görseli bulunur. Gerçek SPSS sonuçları ve 44 tam görüşme yanıtı korunmuştur. Etik kurul karar belgesi, izin/onam belgeleri, güncel benzerlik raporu ve bu sürümün gerçek Microsoft Word kontrolü açık işlerdir. Ayrıntılar rapordadır. Aşağıdaki eski tarihli sürümler geçmiş kayıttır.
 
 ## Önceki — 5 Kasım 2026, Word dosyasının yeniden kaydı
 
