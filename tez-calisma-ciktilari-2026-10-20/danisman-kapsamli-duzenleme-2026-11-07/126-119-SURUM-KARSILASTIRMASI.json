@@ -1,0 +1,60 @@
+{
+  "searched_local_workspace_pdfs": true,
+  "searched_all_local_git_history_thesis_pdf_blobs": 20,
+  "found_129_page_thesis_pdf": false,
+  "verified_comparison": "126→119",
+  "chapters": [
+    {
+      "section": "Ön sayfalar",
+      "previous": 12,
+      "current": 12,
+      "change": 0
+    },
+    {
+      "section": "1. BÖLÜM: GİRİŞ",
+      "previous": 10,
+      "current": 10,
+      "change": 0
+    },
+    {
+      "section": "2. BÖLÜM: KAVRAMSAL ÇERÇEVE VE İLGİLİ ARAŞTIRMALAR",
+      "previous": 27,
+      "current": 28,
+      "change": 1
+    },
+    {
+      "section": "3. BÖLÜM: YÖNTEM",
+      "previous": 15,
+      "current": 14,
+      "change": -1
+    },
+    {
+      "section": "4. BULGULAR",
+      "previous": 15,
+      "current": 14,
+      "change": -1
+    },
+    {
+      "section": "5. SONUÇ, TARTIŞMA VE ÖNERİLER",
+      "previous": 8,
+      "current": 8,
+      "change": 0
+    },
+    {
+      "section": "KAYNAKÇA",
+      "previous": 4,
+      "current": 4,
+      "change": 0
+    },
+    {
+      "section": "EKLER",
+      "previous": 35,
+      "current": 29,
+      "change": -6
+    }
+  ],
+  "media_files_identical": true,
+  "source_count_previous": 29,
+  "source_count_current": 32,
+  "note": "129 sayfalık sürüm yerel dosyalarda ve mevcut Git geçmişinde bulunamadı; Microsoft Word sayfalama farkı olasılığı bu dosya olmadan doğrulanamaz."
+}

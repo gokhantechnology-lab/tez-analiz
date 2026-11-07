@@ -9,9 +9,13 @@
       "bytes": 707,
       "sha256": "43060e434b2c56aee0d9b52fac5e9cb18494f2d182291043fd11da36f1eda02d"
     },
+    "126-119-SURUM-KARSILASTIRMASI.json": {
+      "bytes": 1387,
+      "sha256": "8c8c21363dfcafe4a9c45e55ed567fef74affb115f19dae7c9104140adc32bf4"
+    },
     "README.md": {
-      "bytes": 1802,
-      "sha256": "fa5713cdd86845779a307bb37d38fcde2b2db02329881bd62629d0346d5c798e"
+      "bytes": 1891,
+      "sha256": "35aba4af2316fadc0a48c264a85d0568c39166a1fcc28b7e11dd5b2b804457c7"
     },
     "GOKHAN-KAYA-TEZ-DANISMAN-GUNCEL-07-11-2026.pdf": {
       "bytes": 12962687,
@@ -44,6 +48,10 @@
     "DANISMAN-DUZELTME-KONTROL-LISTESI.xlsx": {
       "bytes": 18028,
       "sha256": "ec9f1242f8cfded3aac01217a917ff3ea11b8bc8b55d3315aed98005beddf88e"
+    },
+    "SAYFA-FARKI-ACIKLAMASI.md": {
+      "bytes": 1908,
+      "sha256": "16d0d338edb9292d42d01dda99b79f76660cf0e6caadbdee620615caf1a87420"
     },
     "SON-KONTROL.json": {
       "bytes": 3918,

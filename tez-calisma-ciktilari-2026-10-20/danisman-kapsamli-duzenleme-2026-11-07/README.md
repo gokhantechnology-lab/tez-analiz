@@ -13,3 +13,5 @@ Son PDF **119 sayfa**, 19 numaralı tablo ve 22 şekil içerir. Eklerle birlikte
 ## Açık kontroller
 
 Etik kurul karar/onay belgesi; ölçek izin e-postaları ve onam belgelendirmesi; bu sürümün gerçek Microsoft Word görünümü; güncel benzerlik raporu ve kesin savunma takvimi. Araştırmacının doğruladığı PÇBÖ anahtarı korunmuştur; bağımsız birincil anahtar doğrulaması yapıldığı iddia edilmez. Bu dosya koşulsuz “%100 teslim hazır” olarak etiketlenmez.
+
+[126 → 119 sayfa: bölüm ve içerik karşılaştırması](SAYFA-FARKI-ACIKLAMASI.md)
