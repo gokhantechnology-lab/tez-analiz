@@ -1,0 +1,46 @@
+{
+  "TEZ-GORSELLI-13-11-2026.docx": {
+    "bytes": 9779131,
+    "sha256": "ba257d7ee7aad9cc2a2f7cb03a63c19827e09c22fd710c99022d7a5736763b62"
+  },
+  "TEZ-OZGUN-119-SAYFA.docx": {
+    "bytes": 9676424,
+    "sha256": "0541f090da63b07dad491f19f78e6497b9ea68dd54aa5302274e881a5d24cda4"
+  },
+  "DIZIN-SAYFA-ESLESTIRME.json": {
+    "bytes": 13901,
+    "sha256": "439ef11772d285a344d1052e6e48f5b3eff45c745f9b4a37fb890591e7aa656c"
+  },
+  "KARSILASTIRMA-VE-KILAVUZ-NOTU.md": {
+    "bytes": 4009,
+    "sha256": "99046bc7dd7a666813803f2f668090f7635b215477c31682819586ddff5baddc"
+  },
+  "TEZ-GORSELLI-13-11-2026.pdf": {
+    "bytes": 13072492,
+    "sha256": "8f8e35482d699bf45549dffd43dc9594a8b6173981825f61aa752d3659121cf7"
+  },
+  "SES-TALEPLERI-VE-KARSILASTIRMALI-KONTROL-RAPORU.docx": {
+    "bytes": 41474,
+    "sha256": "bcccb93181734330fff35a55a70aa7553eee75dc9ef66208a79e538c8f2bfc4e"
+  },
+  "TEZ-OZGUN-119-SAYFA.pdf": {
+    "bytes": 12962796,
+    "sha256": "721bee2adf80af2c6be242736dd62940680c2f38b661c1e5f7a991cc40ac2bb2"
+  },
+  "SES-KAYITLARI-COZUMU-11-11-2026.txt": {
+    "bytes": 3048,
+    "sha256": "b27efc7627db1e6d2a4cdf135099394f3166c6df7474b20122717d2bf134b798"
+  },
+  "SES-TALEPLERI-VE-KARSILASTIRMALI-KONTROL-RAPORU.pdf": {
+    "bytes": 149310,
+    "sha256": "1e36377bcc53697b384c34078be1332a61e92587d810cb035dc0a69b1b771e98"
+  },
+  "README.md": {
+    "bytes": 1071,
+    "sha256": "35652e403017855883a7662429b9d3b707cbc8f1bca79d17b25f392d69ebbfff"
+  },
+  "DENETIM.json": {
+    "bytes": 6253,
+    "sha256": "7697e5b6d79e8a4a087c5a393d01abd1af4f6386a9be2bcf64427ca0bf64854e"
+  }
+}

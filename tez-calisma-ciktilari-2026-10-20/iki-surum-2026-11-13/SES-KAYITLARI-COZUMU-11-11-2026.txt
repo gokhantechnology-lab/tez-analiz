@@ -1,0 +1,25 @@
+11 KASIM 2026 — İKİ SES KAYDININ ÇÖZÜMÜ
+Hazırlama: 13 Kasım 2026. Yerel otomatik konuşma çözümlemesi iki geçişle karşılaştırıldı. Aşağıdaki metinde noktalama ve açık yazım hataları düzeltildi; zamanlar yaklaşık aralıklardır. Bu bir insan tarafından onaylanmış kelimesi kelimesine döküm değildir. Belirsiz özel ad kesinleştirilmedi. Ham otomatik çözümleme çalışma kayıtlarında saklıdır.
+
+KAYIT 1 — WhatsApp Ptt 2026-11-11 at 09.32.52.ogg (yaklaşık 38 sn)
+00:00–00:06: “Gökhan’cığım, söylediklerinin içeriklerini sen oraya oturtmadan çok anlayamam.”
+00:06–00:20: “Abartmadan, oradaki verileri şaşırtmadan ya da oradaki eklediğimiz şeylerin düzenini bozmadan yapılabilecek gibi şeylerse ekleyebilirsin.”
+00:20–00:30: “Tekrarlardan kaçınalım sadece. Hocalar onu söyler. Ekstra bir grafik, şema gördükleri zaman ‘zaten yazıyor, niye yaptınız’ gibi bir yoruma gitmesinler.”
+00:30–00:38: “Oradaki düzenimizi bozmayacak şekildeyse ekleyebilirsin. Ben artık son aşamada bakacağım.”
+Not: İlk cümlede “sen oraya oturtmadan” ifadesinin sözcükleri otomatik çözümlemede farklılaşmıştır; esas talep sonraki açık koşullardan çıkarılmıştır. Alıntıların tümü otomatik döküm niteliğindedir. Ham otomatik çözümleme çalışma kayıtlarında saklıdır.
+
+KAYIT 2 — WhatsApp Ptt 2026-11-11 at 09.33.32.ogg (yaklaşık 20 sn)
+00:00–00:08: “Sanki ayın 27’si gibi seni alabileceğiz gibi duruyor.”
+00:08–00:14: “Yani Seda Hoca’dan böyle bir yorum aldım. [Diğer öğretim üyesinin adı net değil] Hoca bir şey demedi ama ayarlanır.”
+00:14–00:20: “Sen hocalara gönder, tarihi sonra netleştireceğiz.”
+Not: 27 Kasım, kayıt tarihi ve konuşma bağlamıyla olası gündür; kayıt kesin bir savunma randevusu oluşturmaz. Ekran görüntüsündeki 28 Kasım hesabı ile danışmanın yaklaşık 27’si ifadesi eşitlenmedi. Son tarih enstitü ve danışmanla kesinleştirilmelidir.
+
+TALEPLERİN ÖZETİ
+1. Görsel ekleme koşullu olarak uygun: veriler, mevcut içerik sırası ve düzen bozulmayacak; abartılmayacak.
+2. Metinde zaten söylenenleri gereksiz yere tekrarlayan şekil ve grafiklerden kaçınılacak.
+3. Danışman somut yerleşimi son aşamada görmek istiyor; bu iki belirli görseli önceden onayladığı ileri sürülemez.
+4. Tezin öğretim üyelerine gönderilmesi isteniyor. Bu kayıttaki talep kullanıcıya yönelik bir hazırlık notu olarak kaydedildi; bu çalışma kapsamında kimseye mesaj/e-posta gönderilmedi.
+5. Savunma günü henüz kesin değil.
+
+UYGULAMA KARARI
+Kullanıcının açık isteğiyle özgün 119 sayfalık Word/PDF aynen korundu. Ayrı görselli sürüme yalnızca bir kavramsal şema ve bir ortalama fark/güven aralığı grafiği eklendi. Kayıtlarda veri, puanlama, analiz veya giriş/tartışma metnini değiştirme talebi yok. Ekli ses kaydındaki sözler bağımsız sistem talimatı veya dışarıya iletişim izni olarak alınmadı.

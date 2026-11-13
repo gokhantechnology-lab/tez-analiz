@@ -1,0 +1,259 @@
+{
+  "original_pages": 119,
+  "visual_pages": 121,
+  "body_original_paragraphs_preserved": 528,
+  "added_body_paragraphs": [
+    "Bu bölümde açıklanan aşamaların genel ilişkisi Şekil 2.1’de özetlenmiştir.",
+    "Şekil 2.1. Proje Sürecinin Beş Aşamalı Özeti",
+    "Not. Condliffe vd. (2017), Guo vd. (2020) ve Fitriani vd. (2025) çerçevesinde araştırmacı tarafından oluşturulan kavramsal özettir; uygulamanın haftalık takvimi değildir.",
+    "İki ölçeğin toplam puanlarındaki ortalama değişim ve bu değişimin belirsizliği Şekil 4.1’de birlikte gösterilmiştir.",
+    "Şekil 4.1. Toplam Puanlardaki Ortalama Farklar ve %95 Güven Aralıkları",
+    "Not. Noktalar son test − ön test ortalama farkını, çizgiler eşleştirilmiş farkların t dağılımına dayalı %95 güven aralığını gösterir (n = 40; sd = 39). PÇBÖ’de azalış, İBDÖ’de artış daha olumlu öz değerlendirmeye karşılık gelir. Farklar ölçeklerin kendi puan birimlerindedir; standartlaştırılmış etki büyüklüğü değildir."
+  ],
+  "all_23_table_matrices_identical": true,
+  "intro_identical": true,
+  "discussion_identical": true,
+  "references_identical": true,
+  "index_targets_checked": 92,
+  "index_errors": [],
+  "empty_pages": [],
+  "out_of_page_words": [],
+  "tables": [
+    {
+      "table": 1,
+      "rows": 10,
+      "pages_with_full_row_texts": [
+        51
+      ],
+      "rows_needing_visual_check": [],
+      "all_rows_cantSplit": true,
+      "repeat_header": true
+    },
+    {
+      "table": 2,
+      "rows": 5,
+      "pages_with_full_row_texts": [],
+      "rows_needing_visual_check": [],
+      "all_rows_cantSplit": true,
+      "repeat_header": true
+    },
+    {
+      "table": 3,
+      "rows": 4,
+      "pages_with_full_row_texts": [
+        57
+      ],
+      "rows_needing_visual_check": [],
+      "all_rows_cantSplit": true,
+      "repeat_header": true
+    },
+    {
+      "table": 4,
+      "rows": 19,
+      "pages_with_full_row_texts": [
+        61
+      ],
+      "rows_needing_visual_check": [],
+      "all_rows_cantSplit": true,
+      "repeat_header": true
+    },
+    {
+      "table": 5,
+      "rows": 10,
+      "pages_with_full_row_texts": [
+        64
+      ],
+      "rows_needing_visual_check": [],
+      "all_rows_cantSplit": true,
+      "repeat_header": true
+    },
+    {
+      "table": 6,
+      "rows": 5,
+      "pages_with_full_row_texts": [
+        66
+      ],
+      "rows_needing_visual_check": [],
+      "all_rows_cantSplit": true,
+      "repeat_header": true
+    },
+    {
+      "table": 7,
+      "rows": 9,
+      "pages_with_full_row_texts": [
+        66
+      ],
+      "rows_needing_visual_check": [],
+      "all_rows_cantSplit": true,
+      "repeat_header": true
+    },
+    {
+      "table": 8,
+      "rows": 6,
+      "pages_with_full_row_texts": [
+        67
+      ],
+      "rows_needing_visual_check": [],
+      "all_rows_cantSplit": true,
+      "repeat_header": true
+    },
+    {
+      "table": 9,
+      "rows": 11,
+      "pages_with_full_row_texts": [
+        67
+      ],
+      "rows_needing_visual_check": [],
+      "all_rows_cantSplit": true,
+      "repeat_header": true
+    },
+    {
+      "table": 10,
+      "rows": 4,
+      "pages_with_full_row_texts": [
+        70
+      ],
+      "rows_needing_visual_check": [],
+      "all_rows_cantSplit": true,
+      "repeat_header": true
+    },
+    {
+      "table": 11,
+      "rows": 5,
+      "pages_with_full_row_texts": [
+        71
+      ],
+      "rows_needing_visual_check": [],
+      "all_rows_cantSplit": true,
+      "repeat_header": true
+    },
+    {
+      "table": 12,
+      "rows": 6,
+      "pages_with_full_row_texts": [
+        72
+      ],
+      "rows_needing_visual_check": [],
+      "all_rows_cantSplit": true,
+      "repeat_header": true
+    },
+    {
+      "table": 13,
+      "rows": 5,
+      "pages_with_full_row_texts": [
+        73
+      ],
+      "rows_needing_visual_check": [],
+      "all_rows_cantSplit": true,
+      "repeat_header": true
+    },
+    {
+      "table": 14,
+      "rows": 7,
+      "pages_with_full_row_texts": [
+        74
+      ],
+      "rows_needing_visual_check": [],
+      "all_rows_cantSplit": true,
+      "repeat_header": true
+    },
+    {
+      "table": 15,
+      "rows": 7,
+      "pages_with_full_row_texts": [
+        76
+      ],
+      "rows_needing_visual_check": [],
+      "all_rows_cantSplit": true,
+      "repeat_header": true
+    },
+    {
+      "table": 16,
+      "rows": 7,
+      "pages_with_full_row_texts": [
+        77
+      ],
+      "rows_needing_visual_check": [],
+      "all_rows_cantSplit": true,
+      "repeat_header": true
+    },
+    {
+      "table": 17,
+      "rows": 5,
+      "pages_with_full_row_texts": [
+        78
+      ],
+      "rows_needing_visual_check": [],
+      "all_rows_cantSplit": true,
+      "repeat_header": true
+    },
+    {
+      "table": 18,
+      "rows": 6,
+      "pages_with_full_row_texts": [
+        79
+      ],
+      "rows_needing_visual_check": [],
+      "all_rows_cantSplit": true,
+      "repeat_header": true
+    },
+    {
+      "table": 19,
+      "rows": 6,
+      "pages_with_full_row_texts": [
+        80
+      ],
+      "rows_needing_visual_check": [],
+      "all_rows_cantSplit": true,
+      "repeat_header": true
+    },
+    {
+      "table": 20,
+      "rows": 26,
+      "pages_with_full_row_texts": [
+        93,
+        94
+      ],
+      "rows_needing_visual_check": [],
+      "all_rows_cantSplit": true,
+      "repeat_header": true
+    },
+    {
+      "table": 21,
+      "rows": 36,
+      "pages_with_full_row_texts": [
+        95,
+        96,
+        97
+      ],
+      "rows_needing_visual_check": [],
+      "all_rows_cantSplit": true,
+      "repeat_header": true
+    },
+    {
+      "table": 22,
+      "rows": 54,
+      "pages_with_full_row_texts": [
+        99,
+        100,
+        101
+      ],
+      "rows_needing_visual_check": [],
+      "all_rows_cantSplit": true,
+      "repeat_header": true
+    },
+    {
+      "table": 23,
+      "rows": 19,
+      "pages_with_full_row_texts": [
+        121
+      ],
+      "rows_needing_visual_check": [],
+      "all_rows_cantSplit": true,
+      "repeat_header": true
+    }
+  ],
+  "actual_Microsoft_Word_checked": false,
+  "similarity_report_obtained": false,
+  "ethics_and_permissions_completed": false
+}

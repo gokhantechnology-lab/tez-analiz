@@ -1,0 +1,554 @@
+[
+  {
+    "title": "ETİK BEYANI",
+    "bookmark": "TezNov07_0000",
+    "pdf_page": 4,
+    "page_label": "i"
+  },
+  {
+    "title": "ÖNSÖZ",
+    "bookmark": "TezNov07_0001",
+    "pdf_page": 5,
+    "page_label": "ii"
+  },
+  {
+    "title": "ÖZET",
+    "bookmark": "TezNov07_0002",
+    "pdf_page": 6,
+    "page_label": "iii"
+  },
+  {
+    "title": "ABSTRACT",
+    "bookmark": "TezNov07_0003",
+    "pdf_page": 7,
+    "page_label": "iv"
+  },
+  {
+    "title": "1. BÖLÜM: GİRİŞ",
+    "bookmark": "TezNov07_0004",
+    "pdf_page": 13,
+    "page_label": "1"
+  },
+  {
+    "title": "1.1. Problem Durumu",
+    "bookmark": "TezNov07_0005",
+    "pdf_page": 15,
+    "page_label": "3"
+  },
+  {
+    "title": "1.2. Amaç",
+    "bookmark": "TezNov07_0006",
+    "pdf_page": 19,
+    "page_label": "7"
+  },
+  {
+    "title": "1.3. Araştırmanın Önemi",
+    "bookmark": "TezNov07_0007",
+    "pdf_page": 19,
+    "page_label": "7"
+  },
+  {
+    "title": "1.4. Araştırmanın Sınırlılıkları",
+    "bookmark": "TezNov07_0008",
+    "pdf_page": 19,
+    "page_label": "7"
+  },
+  {
+    "title": "1.5. Araştırmanın Varsayımları",
+    "bookmark": "TezNov07_0009",
+    "pdf_page": 20,
+    "page_label": "8"
+  },
+  {
+    "title": "1.6. Araştırma Tanımları ve Kısaltmalar",
+    "bookmark": "TezNov07_0010",
+    "pdf_page": 20,
+    "page_label": "8"
+  },
+  {
+    "title": "2. BÖLÜM: KAVRAMSAL ÇERÇEVE VE İLGİLİ ARAŞTIRMALAR",
+    "bookmark": "TezNov07_0011",
+    "pdf_page": 23,
+    "page_label": "11"
+  },
+  {
+    "title": "2.1. Fen Eğitimi ve Güncel Beceri Çerçeveleri",
+    "bookmark": "TezNov07_0012",
+    "pdf_page": 23,
+    "page_label": "11"
+  },
+  {
+    "title": "2.2. Problem Çözme Becerileri",
+    "bookmark": "TezNov07_0013",
+    "pdf_page": 23,
+    "page_label": "11"
+  },
+  {
+    "title": "2.3. İletişim Becerileri",
+    "bookmark": "TezNov07_0014",
+    "pdf_page": 28,
+    "page_label": "16"
+  },
+  {
+    "title": "2.4. Proje Tabanlı Öğrenme Yaklaşımı",
+    "bookmark": "TezNov07_0015",
+    "pdf_page": 33,
+    "page_label": "21"
+  },
+  {
+    "title": "2.4.1. Temel İlkeler ve Öğrenme Görevinin Yapılandırılması",
+    "bookmark": "TezNov07_0016",
+    "pdf_page": 33,
+    "page_label": "21"
+  },
+  {
+    "title": "2.4.2. Problem Belirlemeden Ürünün Paylaşılmasına Uygulama Aşamaları",
+    "bookmark": "TezNov07_0017",
+    "pdf_page": 35,
+    "page_label": "23"
+  },
+  {
+    "title": "2.4.3. Öğretmen Rehberliği ve Grup İçi Çalışma",
+    "bookmark": "TezNov07_0018",
+    "pdf_page": 37,
+    "page_label": "25"
+  },
+  {
+    "title": "2.4.4. Süreç, Ürün ve Beceri Değerlendirmesi",
+    "bookmark": "TezNov07_0019",
+    "pdf_page": 39,
+    "page_label": "27"
+  },
+  {
+    "title": "2.5. Afet Eğitimi ve Afet Bilinci",
+    "bookmark": "TezNov07_0020",
+    "pdf_page": 41,
+    "page_label": "29"
+  },
+  {
+    "title": "2.6. Konuyla İlgili Yapılmış Çalışmalar",
+    "bookmark": "TezNov07_0021",
+    "pdf_page": 43,
+    "page_label": "31"
+  },
+  {
+    "title": "3. BÖLÜM: YÖNTEM",
+    "bookmark": "TezNov07_0023",
+    "pdf_page": 52,
+    "page_label": "40"
+  },
+  {
+    "title": "3.1. Araştırma Modeli",
+    "bookmark": "TezNov07_0024",
+    "pdf_page": 52,
+    "page_label": "40"
+  },
+  {
+    "title": "3.2. Evren ve Örneklem/Çalışma Grubu",
+    "bookmark": "TezNov07_0025",
+    "pdf_page": 52,
+    "page_label": "40"
+  },
+  {
+    "title": "3.3. Veri Toplama Araçları",
+    "bookmark": "TezNov07_0027",
+    "pdf_page": 53,
+    "page_label": "41"
+  },
+  {
+    "title": "3.3.1. İletişim Becerileri Ölçeği (İBDÖ)",
+    "bookmark": "TezNov07_0028",
+    "pdf_page": 53,
+    "page_label": "41"
+  },
+  {
+    "title": "3.3.2. Problem Çözme Becerileri Ölçeği (PÇBÖ)",
+    "bookmark": "TezNov07_0029",
+    "pdf_page": 55,
+    "page_label": "43"
+  },
+  {
+    "title": "3.3.3. Yarı Yapılandırılmış Görüşmeler",
+    "bookmark": "TezNov07_0030",
+    "pdf_page": 56,
+    "page_label": "44"
+  },
+  {
+    "title": "3.4. Uygulama Süreci",
+    "bookmark": "TezNov07_0032",
+    "pdf_page": 57,
+    "page_label": "45"
+  },
+  {
+    "title": "3.5. Verilerin Analizi",
+    "bookmark": "TezNov07_0038",
+    "pdf_page": 64,
+    "page_label": "52"
+  },
+  {
+    "title": "4. BULGULAR",
+    "bookmark": "TezNov07_0039",
+    "pdf_page": 66,
+    "page_label": "54"
+  },
+  {
+    "title": "4.1. Problem Çözme Öz Değerlendirmelerine İlişkin Bulgular",
+    "bookmark": "TezNov07_0040",
+    "pdf_page": 66,
+    "page_label": "54"
+  },
+  {
+    "title": "4.2. İletişim Öz Değerlendirmelerine İlişkin Bulgular",
+    "bookmark": "TezNov07_0043",
+    "pdf_page": 67,
+    "page_label": "55"
+  },
+  {
+    "title": "4.3. Görüşme Sorularından Elde Edilen Bulgular",
+    "bookmark": "TezNov07_0046",
+    "pdf_page": 69,
+    "page_label": "57"
+  },
+  {
+    "title": "4.3.1. Problem Çözmeye İlişkin Görüşme Bulguları",
+    "bookmark": "TezNov07_0047",
+    "pdf_page": 69,
+    "page_label": "57"
+  },
+  {
+    "title": "4.3.2. İletişim ve Grup Çalışmasına İlişkin Görüşme Bulguları",
+    "bookmark": "TezNov07_0053",
+    "pdf_page": 74,
+    "page_label": "62"
+  },
+  {
+    "title": "4.3.3. Ders Deneyimlerine İlişkin Görüşme Bulguları",
+    "bookmark": "TezNov07_0056",
+    "pdf_page": 77,
+    "page_label": "65"
+  },
+  {
+    "title": "5. SONUÇ, TARTIŞMA VE ÖNERİLER",
+    "bookmark": "TezNov07_0060",
+    "pdf_page": 81,
+    "page_label": "69"
+  },
+  {
+    "title": "5.1. Sonuç ve Tartışma",
+    "bookmark": "TezNov07_0061",
+    "pdf_page": 81,
+    "page_label": "69"
+  },
+  {
+    "title": "5.2. Öneriler",
+    "bookmark": "TezNov07_0062",
+    "pdf_page": 88,
+    "page_label": "76"
+  },
+  {
+    "title": "KAYNAKÇA",
+    "bookmark": "TezNov07_0063",
+    "pdf_page": 89,
+    "page_label": "77"
+  },
+  {
+    "title": "EKLER",
+    "bookmark": "TezNov07_0064",
+    "pdf_page": 5,
+    "page_label": "ii"
+  },
+  {
+    "title": "Ek 1. İletişim Becerileri Ölçeği",
+    "bookmark": "TezNov07_0065",
+    "pdf_page": 93,
+    "page_label": "81"
+  },
+  {
+    "title": "Ek 2. Problem Çözme Becerileri Ölçeği",
+    "bookmark": "TezNov07_0066",
+    "pdf_page": 95,
+    "page_label": "83"
+  },
+  {
+    "title": "Ek 3. Yarı yapılandırılmış görüşme formu",
+    "bookmark": "TezNov07_0067",
+    "pdf_page": 98,
+    "page_label": "86"
+  },
+  {
+    "title": "Ek 4. Nitel içerik analizi kod kitabı",
+    "bookmark": "TezNov07_0068",
+    "pdf_page": 99,
+    "page_label": "87"
+  },
+  {
+    "title": "Ek 5. Uygulamada Hazırlanan Proje ve Poster Örnekleri",
+    "bookmark": "TezNov07_0069",
+    "pdf_page": 102,
+    "page_label": "90"
+  },
+  {
+    "title": "Ek 6. Uygulama Arşivindeki Projelerin Özeti",
+    "bookmark": "TezNov07_0089",
+    "pdf_page": 121,
+    "page_label": "109"
+  },
+  {
+    "title": "Tablo 2.1 İlgili Araştırmaların Öğretim Düzeni ve Değerlendirme Bakımından Karşılaştırılması",
+    "bookmark": "TezNov07_0022",
+    "pdf_page": 51,
+    "page_label": "39"
+  },
+  {
+    "title": "Tablo 3.1 Çalışma Grubunun Temel Özellikleri",
+    "bookmark": "TezNov07_0026",
+    "pdf_page": 53,
+    "page_label": "41"
+  },
+  {
+    "title": "Tablo 3.2. Araştırmada Kullanılan Veri Toplama Araçlarının Özellikleri",
+    "bookmark": "TezNov07_0031",
+    "pdf_page": 57,
+    "page_label": "45"
+  },
+  {
+    "title": "Tablo 3.3 Uygulamada Geliştirilen Proje ve Materyal Örnekleri",
+    "bookmark": "TezNov07_0034",
+    "pdf_page": 61,
+    "page_label": "49"
+  },
+  {
+    "title": "Tablo 3.4 Proje Değerlendirmesinde Kullanılan Ölçütler",
+    "bookmark": "TezNov07_0037",
+    "pdf_page": 64,
+    "page_label": "52"
+  },
+  {
+    "title": "Tablo 4.1 PÇBÖ Fark Puanlarının Shapiro–Wilk Testi Sonuçları",
+    "bookmark": "TezNov07_0041",
+    "pdf_page": 66,
+    "page_label": "54"
+  },
+  {
+    "title": "Tablo 4.2 PÇBÖ Ön Test ve Son Test Puanlarının Bağımlı Örneklemler t Testi Sonuçları",
+    "bookmark": "TezNov07_0042",
+    "pdf_page": 66,
+    "page_label": "54"
+  },
+  {
+    "title": "Tablo 4.3 İBDÖ Fark Puanlarının Shapiro–Wilk Testi Sonuçları",
+    "bookmark": "TezNov07_0044",
+    "pdf_page": 67,
+    "page_label": "55"
+  },
+  {
+    "title": "Tablo 4.4 İBDÖ Ön Test ve Son Test Puanlarının Bağımlı Örneklemler t Testi Sonuçları",
+    "bookmark": "TezNov07_0045",
+    "pdf_page": 68,
+    "page_label": "56"
+  },
+  {
+    "title": "Tablo 4.5 Problem Belirlemeye İlişkin Açıklamalar",
+    "bookmark": "TezNov07_0048",
+    "pdf_page": 70,
+    "page_label": "58"
+  },
+  {
+    "title": "Tablo 4.6 Grup Çalışmasının Problem Belirleme ve Çözmeye Katkıları",
+    "bookmark": "TezNov07_0049",
+    "pdf_page": 71,
+    "page_label": "59"
+  },
+  {
+    "title": "Tablo 4.7 Çözüm Sürecinde İzlenen Yollar",
+    "bookmark": "TezNov07_0050",
+    "pdf_page": 72,
+    "page_label": "60"
+  },
+  {
+    "title": "Tablo 4.8 Problem–Çözüm Uyumu ve Uygulama Güçlüklerinde İzlenen Yollar",
+    "bookmark": "TezNov07_0051",
+    "pdf_page": 73,
+    "page_label": "61"
+  },
+  {
+    "title": "Tablo 4.9 Bireysel Beceri Katkılarına İlişkin Görüşler",
+    "bookmark": "TezNov07_0052",
+    "pdf_page": 74,
+    "page_label": "62"
+  },
+  {
+    "title": "Tablo 4.10 Görüş Ayrılıklarında İzlenen İletişim Yolları",
+    "bookmark": "TezNov07_0054",
+    "pdf_page": 76,
+    "page_label": "64"
+  },
+  {
+    "title": "Tablo 4.11 Grup Çalışmasına Atfedilen Ek Katkılar",
+    "bookmark": "TezNov07_0055",
+    "pdf_page": 77,
+    "page_label": "65"
+  },
+  {
+    "title": "Tablo 4.12 Doğal Afetleri Öğrenmeye İlişkin Görüşler",
+    "bookmark": "TezNov07_0057",
+    "pdf_page": 78,
+    "page_label": "66"
+  },
+  {
+    "title": "Tablo 4.13 Sürecin Olumlu ve Olumsuz Yönlerine İlişkin Görüşler",
+    "bookmark": "TezNov07_0058",
+    "pdf_page": 79,
+    "page_label": "67"
+  },
+  {
+    "title": "Tablo 4.14 Öğretim Sürecine İlişkin Düzenleme Önerileri",
+    "bookmark": "TezNov07_0059",
+    "pdf_page": 80,
+    "page_label": "68"
+  },
+  {
+    "title": "Şekil 2.1. Proje Sürecinin Beş Aşamalı Özeti",
+    "bookmark": "YeniSekil2_1",
+    "pdf_page": 36,
+    "page_label": "24"
+  },
+  {
+    "title": "Şekil 3.1. Uygulama ve veri toplama sürecinin akışı",
+    "bookmark": "TezNov07_0033",
+    "pdf_page": 58,
+    "page_label": "46"
+  },
+  {
+    "title": "Şekil 3.2 G3 — Problem ve çözüm düşüncesini açıklayan Akıllı Dolap posteri",
+    "bookmark": "TezNov07_0035",
+    "pdf_page": 62,
+    "page_label": "50"
+  },
+  {
+    "title": "Şekil 3.3 G4 — Kuraklık problemine yönelik proje posteri",
+    "bookmark": "TezNov07_0036",
+    "pdf_page": 63,
+    "page_label": "51"
+  },
+  {
+    "title": "Şekil 4.1. Toplam Puanlardaki Ortalama Farklar ve %95 Güven Aralıkları",
+    "bookmark": "YeniSekil4_1",
+    "pdf_page": 69,
+    "page_label": "57"
+  },
+  {
+    "title": "Şekil E5.1 G1 — Çöl bölgelerinde su ihtiyacı",
+    "bookmark": "TezNov07_0070",
+    "pdf_page": 102,
+    "page_label": "90"
+  },
+  {
+    "title": "Şekil E5.2 G2 — Obruk oluşumu ve can–mal kaybı",
+    "bookmark": "TezNov07_0071",
+    "pdf_page": 103,
+    "page_label": "91"
+  },
+  {
+    "title": "Şekil E5.3 G3 — Depremde dolap kapaklarının açılması",
+    "bookmark": "TezNov07_0072",
+    "pdf_page": 104,
+    "page_label": "92"
+  },
+  {
+    "title": "Şekil E5.4 G3 — Depremde dolap kapaklarının açılması",
+    "bookmark": "TezNov07_0073",
+    "pdf_page": 105,
+    "page_label": "93"
+  },
+  {
+    "title": "Şekil E5.5 G4 — Tarım alanlarında kuraklık riski",
+    "bookmark": "TezNov07_0074",
+    "pdf_page": 106,
+    "page_label": "94"
+  },
+  {
+    "title": "Şekil E5.6 G4 — Tarım alanlarında kuraklık riski",
+    "bookmark": "TezNov07_0075",
+    "pdf_page": 107,
+    "page_label": "95"
+  },
+  {
+    "title": "Şekil E5.7 G5 — Eğimli arazilerde toprak kayması",
+    "bookmark": "TezNov07_0076",
+    "pdf_page": 108,
+    "page_label": "96"
+  },
+  {
+    "title": "Şekil E5.8 G6 — Dolu yağışında araçların zarar görmesi",
+    "bookmark": "TezNov07_0077",
+    "pdf_page": 109,
+    "page_label": "97"
+  },
+  {
+    "title": "Şekil E5.9 G7 — Deprem sırasında güvenli alan oluşturma",
+    "bookmark": "TezNov07_0078",
+    "pdf_page": 110,
+    "page_label": "98"
+  },
+  {
+    "title": "Şekil E5.10 G8 — Depremde bina hasarı",
+    "bookmark": "TezNov07_0079",
+    "pdf_page": 111,
+    "page_label": "99"
+  },
+  {
+    "title": "Şekil E5.11 G9 — Orman yangınlarının erken fark edilmesi",
+    "bookmark": "TezNov07_0080",
+    "pdf_page": 112,
+    "page_label": "100"
+  },
+  {
+    "title": "Şekil E5.12 G10 — Sel sonrasında suyun kirlenmesi",
+    "bookmark": "TezNov07_0081",
+    "pdf_page": 113,
+    "page_label": "101"
+  },
+  {
+    "title": "Şekil E5.13 G11 — Çığ ve sel etkisinin azaltılması",
+    "bookmark": "TezNov07_0082",
+    "pdf_page": 114,
+    "page_label": "102"
+  },
+  {
+    "title": "Şekil E5.14 G12 — Depremde binayı boşaltamama",
+    "bookmark": "TezNov07_0083",
+    "pdf_page": 115,
+    "page_label": "103"
+  },
+  {
+    "title": "Şekil E5.15 G14 — Orman yangınının büyümesi",
+    "bookmark": "TezNov07_0084",
+    "pdf_page": 116,
+    "page_label": "104"
+  },
+  {
+    "title": "Şekil E5.16 G15 — Zemin kat ve altındaki su baskınları",
+    "bookmark": "TezNov07_0085",
+    "pdf_page": 117,
+    "page_label": "105"
+  },
+  {
+    "title": "Şekil E5.17 G16 — Yanardağ çevresinde yaşam risklerine ilişkin farkındalık",
+    "bookmark": "TezNov07_0086",
+    "pdf_page": 118,
+    "page_label": "106"
+  },
+  {
+    "title": "Şekil E5.18 G17 — Yanardağdan çıkan gazların yayılması",
+    "bookmark": "TezNov07_0087",
+    "pdf_page": 119,
+    "page_label": "107"
+  },
+  {
+    "title": "Şekil E5.19 G18 — Taşkının etkilerini azaltma",
+    "bookmark": "TezNov07_0088",
+    "pdf_page": 120,
+    "page_label": "108"
+  }
+]
