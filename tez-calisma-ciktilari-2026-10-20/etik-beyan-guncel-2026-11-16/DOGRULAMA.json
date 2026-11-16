@@ -1,0 +1,13 @@
+{
+  "pages": 121,
+  "only_changed_docx_paragraph": 59,
+  "only_changed_pdf_page": 4,
+  "old_date": "30/07/2026",
+  "new_date": "16/11/2026",
+  "table_contents_unchanged": true,
+  "actual_signature_added": false,
+  "files": {
+    "docx": "379537cf07c575076e1aff286f96a2437066d232251d265943838df4bc8f258d",
+    "pdf": "a25102c8d02115dff5b40964b23b5ba1ad1c6b2129d932f221eba6a3b8c8f0a9"
+  }
+}
