@@ -1,0 +1,20 @@
+{
+  "only_changed_docx_zip_part": [
+    "docProps/core.xml"
+  ],
+  "only_removed_property": "cp:lastModifiedBy",
+  "previous_property_value": "metaks aksesuar",
+  "author_preserved": "Gökhan Kaya",
+  "all_other_docx_parts_byte_identical": true,
+  "pdf_byte_identical": true,
+  "docx_xml_search_terms": [
+    "Codex",
+    "ChatGPT",
+    "OpenAI",
+    "metaks aksesuar"
+  ],
+  "docx_xml_matches": [],
+  "page_count": 121,
+  "software_metadata_preserved": true,
+  "windows_local_acl_not_part_of_document": true
+}
