@@ -1,0 +1,85 @@
+[
+  {
+    "paragraph": 614,
+    "before": "Barron, B. J. S., Schwartz, D. L., Vye, N. J., Moore, A., Petrosino, A., Zech, L., et al. (1998). Doing with understanding: Lessons from research on problem- and project-based learning. Journal of the Learning Sciences, 7(3), 271–311. https://doi.org/10.1207/s15327809jls0703&4_2",
+    "after": "Barron, B. J. S., Schwartz, D. L., Vye, N. J., Moore, A., Petrosino, A., Zech, L., et al. (1998). Doing with understanding: Lessons from research on problem- and project-based learning. Journal of the Learning Sciences, 7(3–4), 271–311. https://doi.org/10.1207/s15327809jls0703&4_2",
+    "reason": "Barron vd. (1998): birleşik 3–4 sayı bilgisi özgün makale/sayı kaydına göre tamamlandı. DOI ve sayfalar aynı."
+  },
+  {
+    "paragraph": 618,
+    "before": "Dillenbourg, P. (1999). What do you mean by collaborative learning? In P. Dillenbourg (Ed.), Collaborative-learning: Cognitive and computational approaches (pp. 1–19). Elsevier. https://tecfa.unige.ch/tecfa/publicat/dil-papers-2/Dil.7.1.14.pdf",
+    "after": "Dillenbourg, P. (1999). What do you mean by collaborative learning? In P. Dillenbourg (Ed.), Collaborative-learning: Cognitive and computational approaches (pp. 1–19). Oxford: Elsevier. https://tecfa.unige.ch/tecfa/publicat/dil-papers-2/Dil.7.1.14.pdf",
+    "reason": "Dillenbourg (1999): kılavuzun kitap bölümü künyesi düzenine göre, üniversite arşivindeki nüshada belirtilen basım yeri tamamlandı."
+  },
+  {
+    "paragraph": 623,
+    "before": "Heppner, P. P., & Petersen, C. H. (1982). The development and implications of a personal problem-solving inventory. Journal of Counseling Psychology, 29(1), 66-75. https://doi.org/10.1037/0022-0167.29.1.66",
+    "after": "Heppner, P. P., & Petersen, C. H. (1982). The development and implications of a personal problem-solving inventory. Journal of Counseling Psychology, 29(1), 66–75. https://doi.org/10.1037/0022-0167.29.1.66",
+    "reason": "Sayfa aralığı çizgisi kaynakçanın diğer kayıtlarıyla aynı biçime getirildi; sayısal değer değişmedi."
+  },
+  {
+    "paragraph": 627,
+    "before": "Kokotsaki, D., Menzies, V., & Wiggins, A. (2016). Project-based learning: A review of the literature. Improving Schools, 19(3), 267-277. https://doi.org/10.1177/1365480216659733",
+    "after": "Kokotsaki, D., Menzies, V., & Wiggins, A. (2016). Project-based learning: A review of the literature. Improving Schools, 19(3), 267–277. https://doi.org/10.1177/1365480216659733",
+    "reason": "Sayfa aralığı çizgisi kaynakçanın diğer kayıtlarıyla aynı biçime getirildi; sayısal değer değişmedi."
+  },
+  {
+    "paragraph": 628,
+    "before": "Korkut Owen, F., ve Bugay, A. (2014). İletişim Becerileri Ölçeği’nin geliştirilmesi: Geçerlik ve güvenirlik çalışması. Mersin Üniversitesi Eğitim Fakültesi Dergisi, 10(2), 51-64. https://dergipark.org.tr/tr/pub/mersinefd/article/181805",
+    "after": "Korkut Owen, F., ve Bugay, A. (2014). İletişim Becerileri Ölçeği’nin geliştirilmesi: Geçerlik ve güvenirlik çalışması. Mersin Üniversitesi Eğitim Fakültesi Dergisi, 10(2), 51–64. https://dergipark.org.tr/tr/pub/mersinefd/article/181805",
+    "reason": "Sayfa aralığı çizgisi kaynakçanın diğer kayıtlarıyla aynı biçime getirildi; sayısal değer değişmedi."
+  },
+  {
+    "paragraph": 639,
+    "before": "Şahin, N., Şahin, N. H., & Heppner, P. P. (1993). Psychometric properties of the Problem Solving Inventory in a group of Turkish university students. Cognitive Therapy and Research, 17(4), 379-396. https://doi.org/10.1007/BF01177661",
+    "after": "Şahin, N., Şahin, N. H., & Heppner, P. P. (1993). Psychometric properties of the Problem Solving Inventory in a group of Turkish university students. Cognitive Therapy and Research, 17(4), 379–396. https://doi.org/10.1007/BF01177661",
+    "reason": "Sayfa aralığı çizgisi kaynakçanın diğer kayıtlarıyla aynı biçime getirildi; sayısal değer değişmedi."
+  },
+  {
+    "paragraph": 631,
+    "before_link": "https://mufredat.meb.gov.tr/Dosyalar/201812312311937-FEN%20BİLİMLERİ%20ÖĞRETİM%20PROGRAMI2018.pdf",
+    "after_link": "https://mufredat.meb.gov.tr/Dosyalar/201812312311937-FEN%20B%C4%B0L%C4%B0MLER%C4%B0%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI2018.pdf",
+    "reason": "MEB (2018) tıklanabilir bağlantısı, görünen tam kodlanmış URL ile birebir eşitlendi. Unicode/URL kodlama farkı giderildi."
+  },
+  {
+    "paragraph": 366,
+    "before": "Bu beş çalışma katılımcılar bakımından birlikte değerlendirildiğinde, öğretmen adaylarıyla yapılan araştırmaların bile farklı program ve ders bağlamlarında yürütüldüğü görülmektedir. Sınıf öğretmenliği, kimya öğretmenliği, biyoloji ve bilişim eğitimi aynı öğrenme görevlerini içermemektedir. Kutru ve Hasançebi’nin (2024) çalışmasında ise hedef grup ortaokul öğrencileridir. Bu nedenle mevcut araştırmaya yakınlık, yalnızca proje veya beceri sözcüklerinin bulunmasına göre belirlenmemiştir. Hedef grubun eğitim düzeyi, kullanılan öğretim bileşenleri ve ölçme araçları birlikte dikkate alınmıştır; sayısal yaş bilgisi yerine kaynaklarda doğrulanan eğitim düzeyi belirtilmiştir.",
+    "after": "Bu çalışmalar katılımcılar bakımından birlikte değerlendirildiğinde, öğretmen adaylarıyla yapılan araştırmaların bile farklı program ve ders bağlamlarında yürütüldüğü görülmektedir. Sınıf öğretmenliği, kimya öğretmenliği, biyoloji ve bilişim eğitimi aynı öğrenme görevlerini içermemektedir. Kutru ve Hasançebi’nin (2024) çalışmasında ise hedef grup ortaokul öğrencileridir. Bu nedenle mevcut araştırmaya yakınlık, yalnızca proje veya beceri sözcüklerinin bulunmasına göre belirlenmemiştir. Hedef grubun eğitim düzeyi, kullanılan öğretim bileşenleri ve ölçme araçları birlikte dikkate alınmıştır; sayısal yaş bilgisi yerine kaynaklarda doğrulanan eğitim düzeyi belirtilmiştir.",
+    "reason": "Araştırma sentezinde artık beşten fazla yayın bulunduğu için geride kalmış sayı ifadesi kaldırıldı."
+  },
+  {
+    "paragraph": 366,
+    "before": "Bu çalışmalar katılımcılar bakımından birlikte değerlendirildiğinde, öğretmen adaylarıyla yapılan araştırmaların bile farklı program ve ders bağlamlarında yürütüldüğü görülmektedir. Sınıf öğretmenliği, kimya öğretmenliği, biyoloji ve bilişim eğitimi aynı öğrenme görevlerini içermemektedir. Kutru ve Hasançebi’nin (2024) çalışmasında ise hedef grup ortaokul öğrencileridir. Bu nedenle mevcut araştırmaya yakınlık, yalnızca proje veya beceri sözcüklerinin bulunmasına göre belirlenmemiştir. Hedef grubun eğitim düzeyi, kullanılan öğretim bileşenleri ve ölçme araçları birlikte dikkate alınmıştır; sayısal yaş bilgisi yerine kaynaklarda doğrulanan eğitim düzeyi belirtilmiştir.",
+    "after": "Bu çalışmalar katılımcılar bakımından birlikte değerlendirildiğinde, öğretmen adaylarıyla yapılan araştırmaların bile farklı program ve ders bağlamlarında yürütüldüğü görülmektedir. Sınıf öğretmenliği, kimya öğretmenliği, biyoloji ve bilişim eğitimi aynı öğrenme görevlerini içermemektedir. Kutru ve Hasançebi’nin (2024) çalışmasında ise hedef grup ortaokul öğrencileridir. Bu nedenle mevcut araştırmaya yakınlık, yalnızca proje veya beceri sözcüklerinin bulunmasına göre belirlenmemiştir. Hedef grubun eğitim düzeyi, kullanılan öğretim bileşenleri ve ölçme araçları birlikte dikkate alınmıştır; karşılaştırmada katılımcıların eğitim düzeyi ve öğrenim gördükleri programlar esas alınmıştır.",
+    "reason": "Yazım sürecini anlatan cümle araştırma karşılaştırmasını anlatacak şekilde sadeleştirildi; belirli bir çalışmada verilen yaş bilgisini dışlayan ifade kaldırıldı."
+  },
+  {
+    "paragraph": 445,
+    "before": "Ders kapsamında projeler sekiz ölçüt üzerinden toplam 100 puanla değerlendirilmiştir. Paylaşılan puanlama dosyasında grup bazında doldurulmuş puanlar bulunmaktadır. Ölçütler Tablo 3.4’te verilmiştir. Bu ders değerlendirmesi, araştırmanın ön test–son test ölçek puanlarından ayrı bir süreçtir; bireysel öğrenci notları araştırma bulgusu olarak raporlanmamıştır.",
+    "after": "Ders kapsamında projeler sekiz ölçüt üzerinden toplam 100 puanla değerlendirilmiştir. Ders kapsamında tutulan kayıtlarda grup bazındaki proje puanları yer almaktadır. Ölçütler Tablo 3.4’te verilmiştir. Bu ders değerlendirmesi, araştırmanın ön test–son test ölçek puanlarından ayrı bir süreçtir; bireysel öğrenci notları araştırma bulgusu olarak raporlanmamıştır.",
+    "reason": "Dışarıdaki dosya paylaşımına gönderme yapan editoryal ifade, mevcut ders kayıtlarını anlatan akademik ifadeyle değiştirildi."
+  },
+  {
+    "paragraph": 31,
+    "before": "FEN BİLGİSİ ÖĞRETMENLİĞİ BÖLÜMÜ",
+    "after": "FEN BİLGİSİ ÖĞRETMENLİĞİ BİLİM DALI",
+    "reason": "İç kapakta bölüm yerine bilim dalı adı, Marmara Üniversitesi resmî tez örnekleriyle tutarlı hâle getirildi.",
+    "evidence": "https://katalog.marmara.edu.tr/veriler/yordambt/cokluortam/1F/6899861b50582.pdf"
+  },
+  {
+    "paragraph": 36,
+    "type": "format_only",
+    "reason": "İç kapaktaki boş satıra uygulanmış gri dolgu kaldırıldı; boş karakterin Verdana fontu kapakla uyumlu Times New Roman yapıldı. Görünen gri çubuk kalıntısı temizlendi; metin değişmedi."
+  },
+  {
+    "paragraph": 37,
+    "type": "format_only",
+    "reason": "İç kapaktaki boş satıra uygulanmış gri dolgu kaldırıldı; boş karakterin Verdana fontu kapakla uyumlu Times New Roman yapıldı. Görünen gri çubuk kalıntısı temizlendi; metin değişmedi."
+  },
+  {
+    "paragraph": 4,
+    "before": "",
+    "after": "FEN BİLGİSİ ÖĞRETMENLİĞİ BİLİM DALI",
+    "reason": "Kılavuz 3.11 (s.29) dış kapakta Ana Bilim Dalı/Bilim Dalı ve Program adlarını ister; boş satır kullanılarak dış kapağa eksik bilim dalı adı eklendi."
+  }
+]

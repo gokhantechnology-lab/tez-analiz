@@ -1,0 +1,38 @@
+{
+  "TEZ-KAYNAKCA-VE-SON-KONTROL-16-11-2026.docx": {
+    "bytes": 9797076,
+    "sha256": "2fdf12229f37558c9c149e7f3b0ec868fb996d8b288d95f03101a1465bb598ca"
+  },
+  "KAYNAKCA-VE-GENEL-KONTROL-RAPORU.md": {
+    "bytes": 14219,
+    "sha256": "ceed73fef5185c0e1a66b74c6d9f083967e8a35dbd6fc64fa9834abb75489bf8"
+  },
+  "TEZ-KAYNAKCA-VE-SON-KONTROL-16-11-2026.pdf": {
+    "bytes": 13086553,
+    "sha256": "a36078b4235d51e0104a98bf32448716cbc2f477a7e4ad3a6d818f7cedf5d6d6"
+  },
+  "SON-DOGRULAMA.json": {
+    "bytes": 1132,
+    "sha256": "ddc41ab264279432bded6c6a3937a668941c82ff6455dd8219418676db431a86"
+  },
+  "KAYNAKCA-VE-GENEL-KONTROL-RAPORU.docx": {
+    "bytes": 40276,
+    "sha256": "cf23777751717038902fd54149b2eb07c1ed112fc46b8dfbf2cf85b80e40e62f"
+  },
+  "32-KAYNAK-DOGRULAMA.json": {
+    "bytes": 19578,
+    "sha256": "805ad848487448fbdd3a7ad73c0fad8e9d2ffde18fa84882eadc6f408d3e298a"
+  },
+  "UYGULANAN-DEGISIKLIKLER.json": {
+    "bytes": 10249,
+    "sha256": "f727b161d37114db198fc003279b86080ec14acc2e2d50df30eff1a7fed9eb97"
+  },
+  "README.md": {
+    "bytes": 973,
+    "sha256": "4ecdaa458a537e73c27142d9a214edcae42eb2b133f36b7b0db593a9693de475"
+  },
+  "KAYNAKCA-VE-GENEL-KONTROL-RAPORU.pdf": {
+    "bytes": 73735,
+    "sha256": "fd1eb4db312f47cc3fa13168022ade6f0bd6240fc9b1da8eb0a25cd2eb4f6973"
+  }
+}
