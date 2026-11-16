@@ -1,0 +1,23 @@
+{
+  "pdf_pages": 121,
+  "previous_pdf_pages": 121,
+  "paragraphs_preserved": 768,
+  "changed_paragraphs": 44,
+  "sentence_operations": 49,
+  "all_headings_and_paragraph_formats_identical": true,
+  "all_section_and_margin_settings_identical": true,
+  "all_23_tables_byte_equivalent_XML": true,
+  "all_44_interview_quotes_byte_equivalent_XML": true,
+  "all_32_reference_paragraphs_identical": true,
+  "all_figure_extents_and_image_bytes_identical": true,
+  "numbers_and_citation_years_preserved_in_each_changed_paragraph": true,
+  "ethics_date": "16/11/2026",
+  "control_group_limitation_unchanged": true,
+  "index_targets_checked": 92,
+  "missing_docx_body_paragraphs_in_pdf": [],
+  "empty_pages": [],
+  "out_of_page_words": [],
+  "remaining_author_defense_wording_matches": [],
+  "actual_Microsoft_Word_test": false,
+  "new_statistics_or_scoring_changes": false
+}
