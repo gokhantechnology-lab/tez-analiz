@@ -1,0 +1,39 @@
+GÖRSEL V2 — AYRI YENİ TEZ SAVUNMA SUNUMU
+22 Kasım 2026
+
+ÖNCE İNCELE
+GORSEL-V2-ANA-SUNUM-22-SLAYT.pdf — yalnızca 22 ana slayt.
+GORSEL-V2-ONIZLEME.jpg — seçilmiş altı slaydın toplu görünümü.
+
+SAVUNMADA KULLAN
+GOKHAN-KAYA-SAVUNMA-GORSEL-V2.pptx — düzenlenebilir PowerPoint.
+22 ana + 12 yedek slayt. Konuşma metni ve geçişler notlarda gömülü.
+Hedef süre 23:45; yöntem/uygulama/analiz 14:10. Bu süre gerçek prova sonucu değil.
+GOKHAN-KAYA-SAVUNMA-GORSEL-V2.pdf — yedeklerle birlikte 34 slayt.
+
+ÇALIŞMA DOSYASI
+GORSEL-V2-SUNUM-CALISMA-DOSYASI.docx / .pdf — 25 sayfa.
+Yeni slayt numaralarına göre açıklama, konuşma, görseli anlatma ve geçişler.
+V1'in 18 slaytlık eski çalışma belgesi bu sunumun sırasıyla karıştırılmamalı.
+
+DEĞİŞİKLİK VE KAYNAKLAR
+V2-DEGISIKLIK-VE-TASARIM-RAPORU.docx / .pdf — 2 sayfa.
+Tasarım kararları, başvurulan birincil sunum rehberleri, değişenler ve sınırlar.
+KONTROL-VE-KORUMA-KAYDI.json — içerik, yerleşim ve 27 eski dosyanın hash kontrolü.
+GRAFIK-VERILERI.json — daha önce doğrulanmış veriler; yeni analiz değil.
+SLAYT-AKISI-VE-DAYANAKLAR.json — yeni akış ve slayt bazında tez/kaynak dayanağı.
+
+KORUMA VE SINIRLAR
+Önceki sunum, çalışma belgeleri ve tez dosyaları değiştirilmedi.
+Veri, puanlama veya SPSS sonuçları değiştirilmedi. Gerçek proje görselleri kullanıldı.
+Şemalar açıklayıcı çizimlerdir; gerçek süreç fotoğrafı veya uydurma bireysel veri değil.
+PDF LibreOffice ile kontrol edildi; gerçek PowerPoint/Word görünümü ayrıca test edilmedi.
+Sunum bilgisayarında teknik prova ve sesli süre provası yapılmalı.
+Savunma tarihi bilinmediği için tarih uydurulmadı. Etik/izin belgeleri veya benzerlik
+raporu bu işlemde tamamlanmış varsayılmadı.
+
+CANVA
+Sunumun tamamının Canva hesabına aktarılması otomatik onay incelemesinde,
+dosyaya özel açık aktarım onayı bulunmadığı gerekçesiyle reddedildi.
+Ret başka bir yolla aşılmadı; Canva tasarım bağlantısı oluşturulmadı.
+PowerPoint/PDF dosyaları hazırdır. Canva kopyası için ayrıca açık aktarım onayı gerekir.

@@ -1,0 +1,63 @@
+{
+  "slides": 34,
+  "pdf_pages": 34,
+  "missing_text": [],
+  "out_of_page_words": [],
+  "empty_pages": [],
+  "main_slides": 22,
+  "backup_slides": 12,
+  "target_seconds": 1425,
+  "method_application_analysis_seconds": 850,
+  "notes_and_transitions_present": true,
+  "previous_files_unchanged": 27,
+  "previous_file_hashes": {
+    "savunma-hazirlik-2026-11-22/01-KONUSMACI-NOTLARI.docx": "4548d60bfcb61b36f2696d0a5a05e89148222fca807869ae737445b64d2756fb",
+    "savunma-hazirlik-2026-11-22/GOKHAN-KAYA-SAVUNMA-TUM-DOSYALAR.zip": "68ca49fa2f75273d3015e44811efde81c59879cee1d85bee50dabaae9f658b9c",
+    "savunma-hazirlik-2026-11-22/GOKHAN-KAYA-ANA-SUNUM-18-SLAYT.pdf": "e62b8a770ecf35829620a714611353eb543cfc1b407fde891c08cf90715d4fb2",
+    "savunma-hazirlik-2026-11-22/GRAFIK-VERILERI.json": "84d9c543fb99231b152affef2b197c7263d3a539b214e8c3285c4f0b89190db8",
+    "savunma-hazirlik-2026-11-22/SLAYT-DAYANAKLARI.json": "5bb3dae91f91e7ca3ccff9895fc4be46340a1d905968f88f0cacf187ed5fb4c2",
+    "savunma-hazirlik-2026-11-22/OKU-BENI.txt": "64b1e0a46388bd68095d397d16b113fd8828f68c548e89a0d793ebd673a7963d",
+    "savunma-hazirlik-2026-11-22/PAKET-KAPSAMI.json": "90dcf6e3d0a0dda5138a78fb0cd28354dee85811fc37f06832e445859aa1a8a2",
+    "savunma-hazirlik-2026-11-22/KONTROL-KAYDI.json": "a7be1ac40fbd918de521380ba59cdd75974b38d6fbc34b6336046dd91853a434",
+    "savunma-hazirlik-2026-11-22/02-OLASI-JURI-SORULARI.docx": "3a2d33ccc14e7bcb16dd106e907bc846c401708efb259123caa89730528296ae",
+    "savunma-hazirlik-2026-11-22/GOKHAN-KAYA-SAVUNMA-22-11-2026.pptx": "78cf8fd500cec313a355d261eee0bdc874c2094c97dc3c42f53f48dda7dd088b",
+    "savunma-hazirlik-2026-11-22/03-ILGILI-CALISMALAR-VE-OLCEKLER.pdf": "08fd22b640d0ec7b350d612bd753d96a7d92b0590f659d5a0b6c06cb04da0510",
+    "savunma-hazirlik-2026-11-22/03-ILGILI-CALISMALAR-VE-OLCEKLER.docx": "354da12a771edb5d11ef3e59f84d8ec5d4d31b6353151b8ce7895e0df9ac2b4a",
+    "savunma-hazirlik-2026-11-22/GOKHAN-KAYA-SAVUNMA-22-11-2026.pdf": "04b59ad37f2162163ef12f79001f0d706f0a061a915f0b42cd037802e16b531a",
+    "savunma-hazirlik-2026-11-22/02-OLASI-JURI-SORULARI.pdf": "6b342170c6d902b649f1ef12a6e3249d1118aa14cf8d2ba099f0509ba1ceb378",
+    "savunma-hazirlik-2026-11-22/SHA256SUMS.txt": "9ac1df3b1030a9cc1ae40e52dcd19cdb880cd696c01103054c3c0abe981aead8",
+    "savunma-hazirlik-2026-11-22/01-KONUSMACI-NOTLARI.pdf": "a7c1b387ae4d704b11ee066a64527cd9290932d969473f28b468f6c7e53a71f4",
+    "savunma-anlatim-calisma-2026-11-22/SLAYT-SLAYT-ANLATIM-VE-CALISMA-22-11-2026.pdf": "1787be5946a266430e982a0831b816887f857ffdaaea8f0a09638b15780dfae3",
+    "savunma-anlatim-calisma-2026-11-22/OKU-BENI.txt": "8f717d11315caa8ed94d590643b4be7e87817158a553693f9226c164b4450d04",
+    "savunma-anlatim-calisma-2026-11-22/YERLESIM-KONTROLU.json": "035e37ecf26fe438a721f019e6f77274b98903fd434e60aff480a3162dc640f0",
+    "savunma-anlatim-calisma-2026-11-22/SLAYT-SLAYT-ANLATIM-VE-CALISMA-22-11-2026.docx": "d7547db458c0fa3b05c74f92b42400cc2b8b122cbed4dbde991fea625302ec09",
+    "savunma-anlatim-calisma-2026-11-22/SHA256SUMS.txt": "b1dc2396276e6f92e9f58c379499cf120161266586b17c199119f7cf8559e8a3",
+    "savunma-anlatim-calisma-2026-11-22/SURUM-VE-DAYANAK.json": "22abee6b6049e1db902752c7c81b07e421005730960c1be31b7084aac2a1f58a",
+    "dosya-ozellikleri-guncel-2026-11-16/GOKHAN-KAYA-TEZ-GUNCEL-16-11-2026.pdf": "f05b97a32468bc1c9318a106a2503c6004b41134cb581d7bfa67132e2228e4b6",
+    "dosya-ozellikleri-guncel-2026-11-16/METADATA-KONTROLU.json": "76febc55f77f1c9b7a6774983c20ac1807d56f7858d212fc3e448faed5b6e96b",
+    "dosya-ozellikleri-guncel-2026-11-16/GOKHAN-KAYA-TEZ-GUNCEL-16-11-2026.docx": "8cdab55d74096378bc46ef8e815736e57c1176d36da24eafd1b9b9f3462a6935",
+    "dosya-ozellikleri-guncel-2026-11-16/SHA256SUMS.txt": "83185068e5cca8aee994c452a68abd2e8db604c3c35e5177d18678481ce7d018",
+    "dosya-ozellikleri-guncel-2026-11-16/README.md": "6d16bef0792a1fd1839eb84714da934e9ee811ce84a3a499b58ed72e69c8ac1b"
+  },
+  "appendix_table_values_identical_to_v1": true,
+  "main_result_labels_checked": true,
+  "participant_quote_checked": true,
+  "documents": {
+    "GORSEL-V2-SUNUM-CALISMA-DOSYASI": {
+      "pages": 25,
+      "missing_paragraphs": [],
+      "out_of_page_words": []
+    },
+    "V2-DEGISIKLIK-VE-TASARIM-RAPORU": {
+      "pages": 2,
+      "missing_paragraphs": [],
+      "out_of_page_words": []
+    }
+  },
+  "new_statistics": false,
+  "actual_timed_rehearsal": false,
+  "actual_Microsoft_PowerPoint_test": false,
+  "actual_Canva_import_test": false,
+  "canva_import_status": "rejected_by_automatic_approval_review; no design created",
+  "visual_review": "34 slaytın temas sayfaları, seçilmiş tam boy slaytlar, iki grafik ve belge önizlemeleri incelendi."
+}
