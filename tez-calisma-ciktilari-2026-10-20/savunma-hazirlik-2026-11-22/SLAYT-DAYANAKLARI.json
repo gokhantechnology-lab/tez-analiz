@@ -1,0 +1,182 @@
+[
+  {
+    "slide": 1,
+    "title": "Doğal afetler bağlamında\nproje tabanlı öğrenme",
+    "seconds": 30,
+    "source": "Tez: kapak; Özet; §1.2"
+  },
+  {
+    "slide": 2,
+    "title": "Araştırmanın çıkış noktası",
+    "seconds": 70,
+    "source": "Tez: §1.1–1.3; Kokotsaki vd., 2016; Guo vd., 2020"
+  },
+  {
+    "slide": 3,
+    "title": "Üç soruya yanıt aradım",
+    "seconds": 70,
+    "source": "Tez: §1.1, Alt Problemler; §1.2"
+  },
+  {
+    "slide": 4,
+    "title": "Aynı grubun iki ölçümünü karşılaştırdım",
+    "seconds": 85,
+    "source": "Tez: §3.1; §3.4; §1.4"
+  },
+  {
+    "slide": 5,
+    "title": "Analizler aynı 40 kişiye dayanıyor",
+    "seconds": 65,
+    "source": "Tez: §3.2; Tablo 3.1; §3.5"
+  },
+  {
+    "slide": 6,
+    "title": "Ölçme araçları araştırma sorularıyla eşleşiyor",
+    "seconds": 70,
+    "source": "Tez: §3.3; Heppner ve Petersen, 1982; Şahin vd., 1993; Korkut Owen ve Bugay, 2014"
+  },
+  {
+    "slide": 7,
+    "title": "Sekiz haftalık uygulama",
+    "seconds": 90,
+    "source": "Tez: §3.4; Şekil 3.1"
+  },
+  {
+    "slide": 8,
+    "title": "Afet başlığından çalışılabilir probleme",
+    "seconds": 80,
+    "source": "Tez: §3.4; Tablo 3.3; §4.3.1"
+  },
+  {
+    "slide": 9,
+    "title": "Ürün, geri bildirimle geliştirildi",
+    "seconds": 80,
+    "source": "Tez: §3.4; Tablo 4.8"
+  },
+  {
+    "slide": 10,
+    "title": "İki proje örneği",
+    "seconds": 85,
+    "source": "Tez: Tablo 3.3; Şekil 3.2–3.3; Ek 5"
+  },
+  {
+    "slide": 11,
+    "title": "Rehberlik ve değerlendirme nasıl yürütüldü?",
+    "seconds": 80,
+    "source": "Tez: §3.4; Tablo 3.4; §3.5"
+  },
+  {
+    "slide": 12,
+    "title": "Nicel analizlerin mantığı",
+    "seconds": 90,
+    "source": "Tez: §3.5; Tablo 4.1–4.4; Lakens, 2013"
+  },
+  {
+    "slide": 13,
+    "title": "Görüşme yanıtından bulguya",
+    "seconds": 80,
+    "source": "Tez: §3.3.3; §3.5; §4.3; Ek 3–4"
+  },
+  {
+    "slide": 14,
+    "title": "Problem çözmede olumlu yönde değişim",
+    "seconds": 80,
+    "source": "Tez: Tablo 4.2; Şekil 4.1; §4.1"
+  },
+  {
+    "slide": 15,
+    "title": "İletişimde anlamlı değişim bulunmadı",
+    "seconds": 80,
+    "source": "Tez: Tablo 4.4; Şekil 4.1; §4.2"
+  },
+  {
+    "slide": 16,
+    "title": "Görüşmeler sürecin nasıl yaşandığını açıklıyor",
+    "seconds": 85,
+    "source": "Tez: §4.3; Tablo 4.5, 4.10–4.11, 4.14"
+  },
+  {
+    "slide": 17,
+    "title": "Bulgular birlikte nasıl okunmalı?",
+    "seconds": 80,
+    "source": "Tez: §5.1; §1.4; Guo vd., 2020; Kutru ve Hasançebi, 2024; Ruslan vd., 2024"
+  },
+  {
+    "slide": 18,
+    "title": "Sonuç ve uygulamaya dönük öneriler",
+    "seconds": 60,
+    "source": "Tez: §5.1–5.2"
+  },
+  {
+    "slide": 19,
+    "title": "Fark puanları ve destekleyici analizler",
+    "seconds": 0,
+    "source": "Tez: §3.5; Tablo 4.1, 4.3; §4.1–4.2"
+  },
+  {
+    "slide": 20,
+    "title": "Kendi çalışma grubumda iç tutarlılık",
+    "seconds": 0,
+    "source": "Tez: §3.3.1–3.3.2"
+  },
+  {
+    "slide": 21,
+    "title": "Problem çözme alt boyutları",
+    "seconds": 0,
+    "source": "Tez: Tablo 4.2; §3.5"
+  },
+  {
+    "slide": 22,
+    "title": "İletişim alt boyutları",
+    "seconds": 0,
+    "source": "Tez: Tablo 4.4"
+  },
+  {
+    "slide": 23,
+    "title": "Başka ölçekler de var: seçim ölçütleri",
+    "seconds": 0,
+    "source": "Korkut Owen ve Bugay, 2014; Şahin vd., 1993; Ersanlı ve Balcı, 1998; Eskin ve Aycan, 2009"
+  },
+  {
+    "slide": 24,
+    "title": "Nitel analizde izlenebilir örnek",
+    "seconds": 0,
+    "source": "Tez: §3.5; Soru 2-b; Tablo 4.10; Ek 4"
+  },
+  {
+    "slide": 25,
+    "title": "Proje değerlendirmesinin sekiz ölçütü",
+    "seconds": 0,
+    "source": "Tez: Tablo 3.4"
+  },
+  {
+    "slide": 26,
+    "title": "Araştırmanın kapsamı ve sonraki adım",
+    "seconds": 0,
+    "source": "Tez: §1.4; §3.1–3.5; §5.2"
+  },
+  {
+    "slide": 27,
+    "title": "Yakın çalışma: Yer Bilimi ve grup döngüsü",
+    "seconds": 0,
+    "source": "Uyanık, Şekerci, Önen Öztürk ve Ağlarcı Özdemir, 2025 • doi:10.32003/igge.1617727"
+  },
+  {
+    "slide": 28,
+    "title": "Yakın çalışmalar: becerilerin değerlendirilmesi",
+    "seconds": 0,
+    "source": "Usta-Gezer, 2025 • doi:10.29329/ijcae.2025.1312.4 | Ayaydın vd., 2026 • doi:10.33400/kuje.1735549"
+  },
+  {
+    "slide": 29,
+    "title": "Sunumda kullanılan temel kaynaklar",
+    "seconds": 0,
+    "source": "Tezin kaynakçası; slaytlardaki kısa atıflar"
+  },
+  {
+    "slide": 30,
+    "title": "Alternatif araçlar ve ek okumalar",
+    "seconds": 0,
+    "source": "Savunma öncesi ek okumalar • erişim: 22.11.2026"
+  }
+]

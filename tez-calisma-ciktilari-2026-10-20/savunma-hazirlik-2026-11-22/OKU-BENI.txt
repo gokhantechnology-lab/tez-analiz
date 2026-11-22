@@ -1,0 +1,58 @@
+GÖKHAN KAYA — TEZ SAVUNMASI HAZIRLIK PAKETİ
+22 Kasım 2026
+
+1. GOKHAN-KAYA-SAVUNMA-22-11-2026.pptx
+Düzenlenebilir PowerPoint. 18 ana + 12 yedek slayt; iki yerel PowerPoint bölümü.
+Her slaytta konuşmacı notu var. Ana anlatım hedefi 22 dakika 40 saniye.
+Bu süre gerçek prova sonucu değildir; 20–25 dakika için planlama hedefidir.
+18. slaytta anlatımı tamamlayın; yedekleri yalnızca soru gelirse kullanın.
+
+2. GOKHAN-KAYA-ANA-SUNUM-18-SLAYT.pdf
+Sadece ana anlatımın kolay inceleme kopyası.
+
+3. GOKHAN-KAYA-SAVUNMA-22-11-2026.pdf
+Yedeklerle birlikte 30 slaydın PDF'si.
+
+4. 01-KONUSMACI-NOTLARI.docx / .pdf
+22 sayfa. Slayt başına süre, söylenecek metin, gösterilecek içerik ve dayanak.
+Yedek slayt açıklamaları, temel kaynaklar ve prova/teknik kontrol notları da var.
+
+5. 02-OLASI-JURI-SORULARI.docx / .pdf
+10 sayfa. 42 olası soru; kısa yanıt, devam sorusuna hazırlık ve tez dayanağı.
+Neden bu ölçekler, diğer araçlar, desen, örneklem, analizler ve sınırlılıklar işlenir.
+
+6. 03-ILGILI-CALISMALAR-VE-OLCEKLER.docx / .pdf
+6 sayfa. Oya Ağlarcı Özdemir'in ortak yazarlı Yer Bilimi çalışması;
+Seda Usta Gezer'in değerlendirme önerileri ve ortak yazarlı STEM çalışması.
+Bağlantılar, okuma sayfaları, ortak/farklı yönler ve prova soruları var.
+Alternatif ölçekler ayrıca karşılaştırılır.
+
+KONTROL KAPSAMI
+Mevcut tez dosyaları değişmedi. Yeni veri veya SPSS analizi üretilmedi.
+Ana sonuçlar, iki alt boyut tablosu, bütün alfa katsayıları, rubrik ve kısa
+katılımcı alıntısı kaynakla karşılaştırıldı. PDF'de eksik slayt metni,
+boş slayt veya sayfa dışına taşma saptanmadı. Slaytlar görsel olarak incelendi.
+PDF'ler LibreOffice ile üretildi. Gerçek Microsoft PowerPoint / Word ve
+Canva içe aktarım görünümü ayrıca test edilmedi. Sunum yapılacak bilgisayarda
+PPTX ve PDF'yi açıp fontları ve görselleri kontrol edin.
+
+ARAŞTIRMACININ TAMAMLAYACAĞI NOKTALAR
+Savunma tarihi bilinmediği için kapakta tarih uydurulmadı.
+Kontrol grubu kararının gerçek gerekçesi, başlangıç sınıf mevcudu ve dışarıda
+kalan kayıtlar, görüşmeci seçiminde kullanılan somut rastgele işlem, grup
+oluşturma ayrıntıları ve etik/izin belgeleri tezden doğrulanabilen kapsamı
+aşıyorsa gerçekleşmiş gibi doldurulmadı; soru belgesinin başında listelendi.
+Bu notları savunma öncesinde kendi kayıtlarınızla tamamlayın.
+Paket herhangi bir etik/izin ekini veya benzerlik raporunu tamamlamaz.
+
+CANVA
+PPTX dosyası düzenlenebilir; istenirse Canva'ya aktarılabilir. Bu paket için
+Canva hesabına dosya yüklenmedi veya tasarım oluşturulmadı. İçe aktarım sonrası
+konuşmacı notlarını ve tablo/grafik yerleşimini ayrıca kontrol edin.
+
+KAYNAK VE İZLENEBİLİRLİK
+SLAYT-DAYANAKLARI.json: slayt bazında tez/kaynak bağlantısı.
+GRAFIK-VERILERI.json: daha önce doğrulanmış grafik hesapları; yeni analiz değil.
+KONTROL-KAYDI.json ve PAKET-KAPSAMI.json: doğrulama kapsamı ve sınırları.
+SHA256SUMS.txt: bütün dosyaların bütünlük değerleri.
+Özgün dergi PDF'leri yeniden dağıtılmadı; erişim bağlantıları okuma belgesinde.

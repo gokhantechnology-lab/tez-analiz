@@ -1,0 +1,45 @@
+{
+  "pptx_slides": 30,
+  "pdf_pages": 30,
+  "main_slides": 18,
+  "backup_slides": 12,
+  "notes_present": true,
+  "missing_slide_text": [],
+  "out_of_bounds": [],
+  "empty_slides": [],
+  "documents": {
+    "01-KONUSMACI-NOTLARI": {
+      "pages": 22,
+      "missing_text": [],
+      "empty_pages": []
+    },
+    "02-OLASI-JURI-SORULARI": {
+      "pages": 10,
+      "missing_text": [],
+      "empty_pages": []
+    },
+    "03-ILGILI-CALISMALAR-VE-OLCEKLER": {
+      "pages": 6,
+      "missing_text": [],
+      "empty_pages": []
+    }
+  },
+  "source_thesis_unchanged": true,
+  "numeric_results_reused_without_new_analysis": true,
+  "PCBO_table_exact": true,
+  "IBDO_table_exact": true,
+  "rubric_exact": true,
+  "participant_quote_exact": true,
+  "alpha_coefficients_exact": true,
+  "main_result_labels_checked": true,
+  "native_presentation_sections": 2,
+  "visual_review": "30 slaytın temas sayfaları ve grafiklerin tam boy görselleri incelendi; üç belge için sayfa önizlemeleri kontrol edildi.",
+  "question_count": 42,
+  "main_pdf_pages": 18,
+  "source_thesis_pdf_sha256": "f05b97a32468bc1c9318a106a2503c6004b41134cb581d7bfa67132e2228e4b6",
+  "actual_Microsoft_PowerPoint_test": false,
+  "actual_Canva_import_test": false,
+  "actual_timed_rehearsal": false,
+  "pdf_export": "LibreOffice Impress / Writer",
+  "source_thesis_docx_sha256": "8cdab55d74096378bc46ef8e815736e57c1176d36da24eafd1b9b9f3462a6935"
+}
