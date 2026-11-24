@@ -1,0 +1,27 @@
+GÖKHAN KAYA — SAVUNMA V3 / 24 KASIM 2026
+
+ANA DOSYALAR
+GOKHAN-KAYA-SAVUNMA-V3.pptx: Düzenlenebilir sunum; 24 ana + 28 yedek slayt. Ana sunum 24. slaytta biter. Ana slaytlarda konuşmacı notları vardır.
+GOKHAN-KAYA-SAVUNMA-V3.pdf: Aynı 52 sayfanın sabit görünümü. Grafik ve alıntılara iç bağlantılar, geri dönüş düğmeleri ve PDF bölüm işaretleri bulunur.
+V3-SUNUM-CALISMA-DOSYASI.docx / .pdf: Yeni slayt sırasına bağlı 29 sayfalık hazırlık belgesi. Konuşma metinleri, görseli açıklama yönlendirmeleri, olası sorular, formüller ve kişisel kayıtlarla tamamlanacak bilgiler içerir.
+V3-KARSILASTIRMA-RAPORU.docx / .pdf: V2 ile karşılaştırma ve değişikliklerin kapsamı; 2 sayfa.
+SPSS-KAYNAK-TABLOLARI.pdf: Gerçek 56 sayfalık SPSS çıktısının ilgili 8 sayfası. Alt kümenin sayfaları özgün 26, 27, 29, 30, 53, 54, 55, 56. sayfalardır.
+V3-ANA-AKIS-ONIZLEME.jpg: İlk 24 slaydın toplu önizlemesi.
+
+KULLANIM
+Hedef süre 23:55; gerçek sesli prova sonucu değildir. Yaklaşık 12:35 yöntem/uygulama/analiz; 8:05 bulgular ve birlikte yorum; kalan süre giriş ve kapanış.
+17 ve 18. slayttaki Grafik düğmeleri 37 ve 38. sayfaya gider. 20–22. slaytlardaki alıntı düğmeleri 39–52. sayfalardaki 28 tam görüşme yanıtına gider. Sonuca dön veya Tabloya dön düğmesi ilgili ana slayda döndürür. Diğer yanıtlar düğmesi aynı sorunun kalan iki yanıtını açar.
+Yedeklerin tamamı ana anlatımın parçası değildir; yalnızca sorulursa açılır. 25–36 eski doğrulanmış yöntem/kaynak yedekleridir. 33–34. sayfalarda jüri çalışmalarına ilişkin önceki hazırlık özeti korunmuştur.
+Önceki ayrıntılı jüri soruları ve ilgili çalışmalar belgeleri ../savunma-hazirlik-2026-11-22/ klasöründe korunmuştur. Eski belgelerdeki ana slayt numaraları V1'e aittir; V3 için bu çalışma dosyasını esas al.
+
+DAYANAK VE SINIRLAR
+Güncel tez: ../dosya-ozellikleri-guncel-2026-11-16/GOKHAN-KAYA-TEZ-GUNCEL-16-11-2026.docx. Tez, V1 ve V2 değiştirilmedi. Önceki 336 izlenen dosyanın özeti karşılaştırıldı; değişiklik yok.
+Veriler, ölçek puanlaması ve mevcut test sonuçları değiştirilmedi. Alt boyut |d_z| ve Wilcoxon r büyüklükleri mevcut doğrulanmış çıktılardan türetildi. Yeni SPSS çalıştırması veya ham veri yeniden analizi yapılmadı. Formüller ve kaynak eşleştirmesi JSON dosyasında açıklanır.
+Görüşmecilerin seçiminin somut adımları, gerçek başlangıç sınıf mevcudu/grup sayısı/haftalık süre, ikinci uzman kod incelemesi ve etik/izin belgeleri çalışma dosyasındaki kontrol bölümünde açık bırakıldı. Belgelenmeyen işlemler yapılmış gibi yazılmadı.
+PPTX ve PDF iç bağlantıları kontrol edildi; PDF görünümü LibreOffice üzerinden incelendi. Savunma bilgisayarında Microsoft PowerPoint'te açılış ve tıklamalar ayrıca denenmelidir. Gerçek süreli prova, benzerlik raporu ve etik ek denetimi tamamlanmış sayılmaz.
+
+DOĞRULAMA
+V3-KONTROL.json: Slayt, metin, alıntı, bağlantı ve eski dosya koruma kontrolleri.
+V3-ISTATISTIK-DAYANAKLARI.json: Kaynak özetleri, test değerleri ve türetilen büyüklükler.
+V3-SLAYT-AKISI-VE-DAYANAKLAR.json: Ana akış ve alıntı sayfalarının kaynak eşleştirmesi.
+SHA256SUMS.txt: ZIP dışındaki teslim dosyalarının özetleri. ZIP tüm bu dosyaları içerir.

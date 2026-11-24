@@ -1,0 +1,334 @@
+{
+  "date": "2026-11-24",
+  "slides": {
+    "main": 24,
+    "backup": 28,
+    "total": 52
+  },
+  "planned_seconds": 1435,
+  "actual_timed_rehearsal": false,
+  "speaker_notes_verified": 24,
+  "verbatim_answers_verified": 28,
+  "quote_pages": 14,
+  "pdf_internal_links": 51,
+  "pdf_link_mapping": [
+    {
+      "from_page": 17,
+      "to_page": 37,
+      "label": "Grafik"
+    },
+    {
+      "from_page": 18,
+      "to_page": 38,
+      "label": "Grafik"
+    },
+    {
+      "from_page": 20,
+      "to_page": 39,
+      "label": "Alıntılar"
+    },
+    {
+      "from_page": 21,
+      "to_page": 41,
+      "label": "Alıntılar"
+    },
+    {
+      "from_page": 21,
+      "to_page": 43,
+      "label": "Alıntılar"
+    },
+    {
+      "from_page": 21,
+      "to_page": 45,
+      "label": "Alıntılar"
+    },
+    {
+      "from_page": 21,
+      "to_page": 47,
+      "label": "Alıntılar"
+    },
+    {
+      "from_page": 22,
+      "to_page": 49,
+      "label": "Katkı alıntıları"
+    },
+    {
+      "from_page": 22,
+      "to_page": 51,
+      "label": "Grup deneyimi"
+    },
+    {
+      "from_page": 25,
+      "to_page": 24,
+      "label": "Ana sunuma dön"
+    },
+    {
+      "from_page": 26,
+      "to_page": 24,
+      "label": "Ana sunuma dön"
+    },
+    {
+      "from_page": 27,
+      "to_page": 24,
+      "label": "Ana sunuma dön"
+    },
+    {
+      "from_page": 28,
+      "to_page": 24,
+      "label": "Ana sunuma dön"
+    },
+    {
+      "from_page": 29,
+      "to_page": 24,
+      "label": "Ana sunuma dön"
+    },
+    {
+      "from_page": 30,
+      "to_page": 24,
+      "label": "Ana sunuma dön"
+    },
+    {
+      "from_page": 31,
+      "to_page": 24,
+      "label": "Ana sunuma dön"
+    },
+    {
+      "from_page": 32,
+      "to_page": 24,
+      "label": "Ana sunuma dön"
+    },
+    {
+      "from_page": 33,
+      "to_page": 24,
+      "label": "Ana sunuma dön"
+    },
+    {
+      "from_page": 34,
+      "to_page": 24,
+      "label": "Ana sunuma dön"
+    },
+    {
+      "from_page": 35,
+      "to_page": 24,
+      "label": "Ana sunuma dön"
+    },
+    {
+      "from_page": 36,
+      "to_page": 24,
+      "label": "Ana sunuma dön"
+    },
+    {
+      "from_page": 37,
+      "to_page": 17,
+      "label": "Tabloya dön"
+    },
+    {
+      "from_page": 38,
+      "to_page": 18,
+      "label": "Tabloya dön"
+    },
+    {
+      "from_page": 39,
+      "to_page": 20,
+      "label": "Sonuca dön"
+    },
+    {
+      "from_page": 39,
+      "to_page": 40,
+      "label": "Diğer yanıtlar"
+    },
+    {
+      "from_page": 40,
+      "to_page": 20,
+      "label": "Sonuca dön"
+    },
+    {
+      "from_page": 40,
+      "to_page": 39,
+      "label": "Önceki yanıtlar"
+    },
+    {
+      "from_page": 41,
+      "to_page": 21,
+      "label": "Sonuca dön"
+    },
+    {
+      "from_page": 41,
+      "to_page": 42,
+      "label": "Diğer yanıtlar"
+    },
+    {
+      "from_page": 42,
+      "to_page": 21,
+      "label": "Sonuca dön"
+    },
+    {
+      "from_page": 42,
+      "to_page": 41,
+      "label": "Önceki yanıtlar"
+    },
+    {
+      "from_page": 43,
+      "to_page": 21,
+      "label": "Sonuca dön"
+    },
+    {
+      "from_page": 43,
+      "to_page": 44,
+      "label": "Diğer yanıtlar"
+    },
+    {
+      "from_page": 44,
+      "to_page": 21,
+      "label": "Sonuca dön"
+    },
+    {
+      "from_page": 44,
+      "to_page": 43,
+      "label": "Önceki yanıtlar"
+    },
+    {
+      "from_page": 45,
+      "to_page": 21,
+      "label": "Sonuca dön"
+    },
+    {
+      "from_page": 45,
+      "to_page": 46,
+      "label": "Diğer yanıtlar"
+    },
+    {
+      "from_page": 46,
+      "to_page": 21,
+      "label": "Sonuca dön"
+    },
+    {
+      "from_page": 46,
+      "to_page": 45,
+      "label": "Önceki yanıtlar"
+    },
+    {
+      "from_page": 47,
+      "to_page": 21,
+      "label": "Sonuca dön"
+    },
+    {
+      "from_page": 47,
+      "to_page": 48,
+      "label": "Diğer yanıtlar"
+    },
+    {
+      "from_page": 48,
+      "to_page": 21,
+      "label": "Sonuca dön"
+    },
+    {
+      "from_page": 48,
+      "to_page": 47,
+      "label": "Önceki yanıtlar"
+    },
+    {
+      "from_page": 49,
+      "to_page": 22,
+      "label": "Sonuca dön"
+    },
+    {
+      "from_page": 49,
+      "to_page": 50,
+      "label": "Diğer yanıtlar"
+    },
+    {
+      "from_page": 50,
+      "to_page": 22,
+      "label": "Sonuca dön"
+    },
+    {
+      "from_page": 50,
+      "to_page": 49,
+      "label": "Önceki yanıtlar"
+    },
+    {
+      "from_page": 51,
+      "to_page": 22,
+      "label": "Sonuca dön"
+    },
+    {
+      "from_page": 51,
+      "to_page": 52,
+      "label": "Diğer yanıtlar"
+    },
+    {
+      "from_page": 52,
+      "to_page": 22,
+      "label": "Sonuca dön"
+    },
+    {
+      "from_page": 52,
+      "to_page": 51,
+      "label": "Önceki yanıtlar"
+    }
+  ],
+  "native_pptx_internal_links": 51,
+  "statistics_table_rows_verified": 9,
+  "wilcoxon_rows": [
+    {
+      "label": "PÇBÖ toplam",
+      "n": 40,
+      "ties": 2,
+      "n_effective": 38,
+      "Z": -2.997,
+      "p": ",003",
+      "source_pages": [
+        55,
+        56
+      ],
+      "r_abs": 0.48617759912889535,
+      "r_display": "0,486"
+    },
+    {
+      "label": "İBDÖ • Kendini İfade Etme",
+      "n": 40,
+      "ties": 11,
+      "n_effective": 29,
+      "Z": -0.725,
+      "p": ",469",
+      "source_pages": [
+        29,
+        30
+      ],
+      "r_abs": 0.1346291201783626,
+      "r_display": "0,135"
+    },
+    {
+      "label": "İBDÖ • İletişim Kurmaya İsteklilik",
+      "n": 40,
+      "ties": 11,
+      "n_effective": 29,
+      "Z": -0.463,
+      "p": ",644",
+      "source_pages": [
+        29,
+        30
+      ],
+      "r_abs": 0.08597694157597502,
+      "r_display": "0,086"
+    }
+  ],
+  "documents": {
+    "V3-SUNUM-CALISMA-DOSYASI": {
+      "pages": 29,
+      "paragraphs_verified": 403
+    },
+    "V3-KARSILASTIRMA-RAPORU": {
+      "pages": 2,
+      "paragraphs_verified": 42
+    }
+  },
+  "previous_tracked_files_unchanged": 336,
+  "changed_previous_files": [],
+  "render_engine": "LibreOffice PDF export; internal PDF links copied from verified native PPTX link destinations",
+  "native_microsoft_office_review_completed": false,
+  "second_coder_review_claimed": false,
+  "raw_scoring_or_test_results_changed": false,
+  "ethics_permission_and_similarity_report_completed_by_this_task": false
+}

@@ -1,0 +1,195 @@
+{
+  "source_thesis": "tez-calisma-ciktilari-2026-10-20/dosya-ozellikleri-guncel-2026-11-16/GOKHAN-KAYA-TEZ-GUNCEL-16-11-2026.docx",
+  "source_thesis_sha256": "8cdab55d74096378bc46ef8e815736e57c1176d36da24eafd1b9b9f3462a6935",
+  "source_spss_sha256": "53ddde472981d2cf93a21875e8527b2e963a7089cf08116fb9780f4df04cd620",
+  "paired_t": {
+    "pc": [
+      {
+        "label": "Problem Çözmeye Güvenme",
+        "pre": "2,66 ± 0,64",
+        "post": "2,39 ± 0,61",
+        "t": "−3,885",
+        "p": "< ,001",
+        "abs_dz": 0.6143446547653099,
+        "dz_display": "0,614",
+        "raw_t": -3.88545675481639,
+        "n": 40,
+        "source_pdf_pages": [
+          53,
+          54
+        ]
+      },
+      {
+        "label": "Yaklaşma-Kaçınma Stili",
+        "pre": "3,03 ± 0,63",
+        "post": "2,99 ± 0,61",
+        "t": "−0,553",
+        "p": ",584",
+        "abs_dz": 0.0874055795127915,
+        "dz_display": "0,087",
+        "raw_t": -0.5528014229347431,
+        "n": 40,
+        "source_pdf_pages": [
+          53,
+          54
+        ]
+      },
+      {
+        "label": "Kişisel Kontrol",
+        "pre": "2,82 ± 0,67",
+        "post": "2,53 ± 0,68",
+        "t": "−2,609",
+        "p": ",013",
+        "abs_dz": 0.41249799561851497,
+        "dz_display": "0,412",
+        "raw_t": -2.608866392817328,
+        "n": 40,
+        "source_pdf_pages": [
+          53,
+          54
+        ]
+      },
+      {
+        "label": "PÇBÖ Toplam",
+        "pre": "2,90 ± 0,58",
+        "post": "2,74 ± 0,52",
+        "t": "−2,372",
+        "p": ",023",
+        "abs_dz": 0.37510329155959893,
+        "dz_display": "0,375",
+        "raw_t": -2.372361518309092,
+        "n": 40,
+        "source_pdf_pages": [
+          53,
+          54
+        ]
+      }
+    ],
+    "ib": [
+      {
+        "label": "İletişim İlkeleri ve Temel Beceriler",
+        "pre": "3,91 ± 0,40",
+        "post": "4,01 ± 0,34",
+        "t": "1,563",
+        "p": ",126",
+        "abs_dz": 0.24715313293190624,
+        "dz_display": "0,247",
+        "raw_t": 1.563133661822386,
+        "n": 40,
+        "source_pdf_pages": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "Kendini İfade Etme",
+        "pre": "3,68 ± 0,63",
+        "post": "3,80 ± 0,64",
+        "t": "1,220",
+        "p": ",230",
+        "abs_dz": 0.19290863240927106,
+        "dz_display": "0,193",
+        "raw_t": 1.2200613174429433,
+        "n": 40,
+        "source_pdf_pages": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "Etkin Dinleme ve Sözel Olmayan İletişim",
+        "pre": "3,91 ± 0,45",
+        "post": "4,02 ± 0,40",
+        "t": "1,589",
+        "p": ",120",
+        "abs_dz": 0.2512269220021705,
+        "dz_display": "0,251",
+        "raw_t": 1.5888985661606554,
+        "n": 40,
+        "source_pdf_pages": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "İletişim Kurmaya İsteklilik",
+        "pre": "3,69 ± 0,52",
+        "post": "3,73 ± 0,50",
+        "t": "0,726",
+        "p": ",472",
+        "abs_dz": 0.11478534608422664,
+        "dz_display": "0,115",
+        "raw_t": 0.7259662712736917,
+        "n": 40,
+        "source_pdf_pages": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "İBDÖ Toplam",
+        "pre": "3,83 ± 0,39",
+        "post": "3,92 ± 0,36",
+        "t": "1,695",
+        "p": ",098",
+        "abs_dz": 0.26797596010011404,
+        "dz_display": "0,268",
+        "raw_t": 1.6948287841735274,
+        "n": 40,
+        "source_pdf_pages": [
+          26,
+          27
+        ]
+      }
+    ]
+  },
+  "wilcoxon": [
+    {
+      "label": "PÇBÖ toplam",
+      "n": 40,
+      "ties": 2,
+      "n_effective": 38,
+      "Z": -2.997,
+      "p": ",003",
+      "source_pages": [
+        55,
+        56
+      ],
+      "r_abs": 0.48617759912889535,
+      "r_display": "0,486"
+    },
+    {
+      "label": "İBDÖ • Kendini İfade Etme",
+      "n": 40,
+      "ties": 11,
+      "n_effective": 29,
+      "Z": -0.725,
+      "p": ",469",
+      "source_pages": [
+        29,
+        30
+      ],
+      "r_abs": 0.1346291201783626,
+      "r_display": "0,135"
+    },
+    {
+      "label": "İBDÖ • İletişim Kurmaya İsteklilik",
+      "n": 40,
+      "ties": 11,
+      "n_effective": 29,
+      "Z": -0.463,
+      "p": ",644",
+      "source_pages": [
+        29,
+        30
+      ],
+      "r_abs": 0.08597694157597502,
+      "r_display": "0,086"
+    }
+  ],
+  "formulas": {
+    "abs_dz": "abs(t_unrounded)/sqrt(40)",
+    "r_approx": "abs(Z_rounded)/sqrt(n_nonzero_differences)"
+  },
+  "scope": "Mevcut test değerleri korunmuştur. Ham veri analizi veya yeniden puanlama yapılmamıştır. Etki büyüklükleri mevcut çıktılardan türetilmiştir."
+}
