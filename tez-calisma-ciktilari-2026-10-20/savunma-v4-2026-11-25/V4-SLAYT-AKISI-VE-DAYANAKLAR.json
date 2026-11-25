@@ -1,0 +1,470 @@
+{
+  "main_slides": [
+    {
+      "title": "Proje tabanlı öğrenme:\ndoğal afetlerden\nçözüm düşüncesine",
+      "section": "GİRİŞ",
+      "seconds": 40,
+      "kind": "cover",
+      "notes": "Değerli hocalarım, hoş geldiniz. Ben Gökhan Kaya. Bugün sizlere, danışmanım Prof. Dr. Fatma Önen Öztürk ile yürüttüğüm yüksek lisans tez çalışmamı sunacağım. Çalışmamı incelemek ve değerlendirmek için zaman ayırdığınız için teşekkür ederim. Araştırmamda, doğal afetler temalı proje tabanlı öğrenme sürecini problem çözme ve iletişim becerileri açısından ele aldım. Önce uygulamadan bir örnekle araştırmanın çıkış noktasını göstereceğim. Ardından araştırmanın problemine, amacına ve önemine değinip yöntemi ve uygulama sürecini açıklayacağım. Bulgular, sonuçlar ve önerilerle tamamlayacağım.",
+      "source": "Tez: kapak; Özet; §1.2",
+      "old_slide": 1,
+      "explain": "Kapak çalışmanın ders, tema ve iki öz değerlendirme alanını tanıtır. Görsel gerçek G3 ürünüdür.",
+      "origin_v2": 1,
+      "old_v3": 1,
+      "transition": "Araştırmanın çıkış noktasını, uygulamada geliştirilen bir proje örneği üzerinden anlatmak istiyorum."
+    },
+    {
+      "title": "Bir afet başlığını çalışılabilir\nbir probleme dönüştürmek",
+      "section": "GİRİŞ",
+      "seconds": 35,
+      "kind": "hook",
+      "notes": "Burada öğretmen adaylarının hazırladığı Akıllı Dolap maketini görüyorsunuz. Grup, deprem gibi geniş bir konu içinde dolap kapaklarının açılması sorununu ele aldı ve sensörlü kilitleme önerisi geliştirdi. Böyle bir projede öğretmen adayları önce problemi belirliyor, ardından çözüm seçenekleri geliştiriyor ve grup içinde karar veriyor. Ben de çalışmamda bu süreci, problem çözme ve iletişim becerileri açısından inceledim.",
+      "source": "Tez: §3.4; Tablo 3.3, G3; Ek 5, Şekil E5.4",
+      "old_slide": null,
+      "explain": "Öğrenci ürünü, araştırmanın günlük yaşamla ilişkisini somutlaştırır. Konu ile problem arasındaki farkı göster; teknik başarı iddiasına geçme.",
+      "origin_v2": 2,
+      "old_v3": 2,
+      "transition": "Bu örnekten hareketle araştırmamın problemine ve amacına geçmek istiyorum."
+    },
+    {
+      "title": "Araştırma problemi ve amaç",
+      "section": "GİRİŞ",
+      "seconds": 55,
+      "kind": "full_problem",
+      "notes": "Araştırmada, doğal afetler temalı proje tabanlı öğrenme sürecinde öğretmen adaylarının problem çözme ve iletişim becerilerini ele aldım. Uygulama öncesinde ve sonrasında aynı adaylardan aldığım iki ölçeğin puanlarını ayrı ayrı karşılaştırdım. Ayrıca uygulamayı nasıl deneyimlediklerini görüşmeler yoluyla inceledim. Böylece problem çözme ve iletişim ölçeği puanlarının değişip değişmediğini ve katılımcıların süreç hakkında neler düşündüğünü araştırdım.",
+      "source": "Güncel tez: §1.1, araştırma problemi; §1.2, amaç",
+      "explain": "Problem ve amaç açıkça gösterilir; kavramsal çerçeve kısa tutulur.",
+      "origin_v2": null,
+      "old_v3": 3,
+      "transition": "Bu soruyu neden incelemeye değer bulduğumu kısaca açıklayayım."
+    },
+    {
+      "title": "Bu araştırma neden önemli?",
+      "section": "GİRİŞ",
+      "kind": "importance",
+      "old_v3": null,
+      "explain": "Aynı uygulamada iki beceri alanı ayrı ölçülür; dersin nasıl düzenleneceğine ilişkin bağlama özgü bilgi üretilir.",
+      "source": "Güncel tez: §1.3; §2.6, son paragraflar",
+      "notes": "Bu araştırmanın önemini üç noktada açıklayabilirim. Birincisi, aynı proje sürecinde problem çözme ve iletişimi ayrı araçlarla incelemem. Grup içinde bu beceriler birlikte kullanılsa da ikisinin aynı biçimde değiştiğini varsaymadım. İkincisi, doğal afetler temasının öğretmen adaylarına gerçek yaşamla ilişkili ve farklı çözümler geliştirilebilen bir çalışma bağlamı sağlaması. Üçüncüsü, görüşmelerin ve proje belgelerinin başlangıç rehberliği, grup içi kararlar, zaman ve malzeme planlaması gibi ders tasarımı kararlarını açıklamaya yardımcı olması. Katkıyı, bu öğretim bağlamının sonuçlarını ve uygulanışını birlikte açıklamak üzerinden değerlendiriyorum.",
+      "seconds": 35,
+      "transition": "Bu gerekçeyi üç alt probleme dönüştürdüm."
+    },
+    {
+      "title": "Alt problemler ve veri kaynakları",
+      "section": "GİRİŞ",
+      "kind": "subquestions",
+      "old_v3": null,
+      "explain": "Tezdeki üç alt problem ayrı veri kaynağıyla eşleştirilir. Uzun sorular tezdeki tam hâliyle çalışma dosyasında bulunur.",
+      "source": "Güncel tez: §1.1, alt problemler; §3.3",
+      "notes": "Bu amaç doğrultusunda üç soruya yanıt aradım. Birinci soru, problem çözme ölçeği puanlarının uygulama öncesi ve sonrasında değişip değişmediği. İkinci soru, aynı değişimin iletişim ölçeğinde görülüp görülmediği. Bu iki soru için aynı kırk kişinin ön test ve son test verilerini kullandım. Üçüncü soru, öğretmen adaylarının uygulama sürecine ilişkin görüşlerinin nasıl olduğuydu. Bunun için uygulama ve ölçek analizleri sonrasında kura ile seçilen dört kişiyle görüşme yaptım. Böylece puan değişimini ölçeklerle, süreç deneyimini görüşmelerle ele aldım.",
+      "seconds": 35,
+      "transition": "Bu sorulara yanıt verebilmek için kullandığım araştırma düzenine geçiyorum."
+    },
+    {
+      "title": "Aynı grubun uygulama öncesi\nve sonrası ölçümleri karşılaştırıldı",
+      "section": "YÖNTEM",
+      "seconds": 60,
+      "kind": "design",
+      "notes": "Araştırmada tek gruplu ön test–son test deseni kullandım. Fiziksel ortam ve mevcut olanaklar sınıfı iki ayrı uygulama grubuna ayırmaya elvermediği için çalışmayı tek grupla yürüttüm. Aynı kişilerin başlangıç ve bitiş ölçümlerini eşleştirerek karşılaştırdım. Ön testleri konu öğretimi ve proje çalışmalarından önce uyguladım. Proje sunumları ve son testler sekiz haftalık akış içinde tamamlandı. Uygulama ve ölçek sonuçlarının incelenmesinden sonra, kura yoluyla seçilen dört katılımcıyla görüşme yaptım. Görüşmelerle katılımcıların uygulama deneyimlerini ele aldım. Desenin yorum sınırlarına sonuç bölümünde kısaca değineceğim.",
+      "source": "Tez: §3.1; §3.4; §1.4",
+      "old_slide": 4,
+      "explain": "Ön testler öğretimden önce, son testler sekiz haftalık akışın sonunda. Görüşmeler uygulama ve ölçek analizlerinden sonra; görüşmeciler puana göre seçilmedi.",
+      "origin_v2": 5,
+      "old_v3": 4,
+      "transition": "Şimdi analiz grubunun nasıl oluştuğunu göstereyim."
+    },
+    {
+      "title": "Dört ölçüm kaydı\naynı 40 kişi için eşleştirildi",
+      "section": "YÖNTEM",
+      "seconds": 45,
+      "kind": "cohort",
+      "notes": "Çalışma grubum bir devlet üniversitesinde ikinci sınıfta öğrenim gören fen bilgisi öğretmen adaylarından oluştu. Uygulama, kolay ulaşılabilir Yer Bilimi dersi ortamında gerçekleştirildi. Nicel analizlere iki ölçeğin ön test ve son test kayıtlarının tamamında kullanılabilir verisi bulunan aynı kırk kişiyi aldım. Bu nedenle her iki beceri alanını aynı katılımcılar üzerinden inceleyebildim. Dört dosyadaki kayıtları öğrenci numaraları üzerinden eşleştirdim; ad kayıtlarının uyumunu da kontrol ettim. Eksik yanıtlar için puan ataması yapılmadı. Görüşmelerde dört katılımcıyı K1–K4 kodlarıyla gösterdim. Buradaki kırk kişi analiz grubunu, dört kişi ise görüşme grubunu ifade ediyor. Proje arşivindeki grup numaraları farklı bir kayıt birimidir.",
+      "source": "Tez: §3.2; Tablo 3.1; §3.5",
+      "old_slide": 5,
+      "explain": "40 nokta 40 analiz katılımcısını temsil eder; bireysel veri değildir. İki ölçeğin iki zamanı aynı kişilerde eşleşir.",
+      "origin_v2": 6,
+      "old_v3": 5,
+      "transition": "Bu kişilerden veri toplarken kullandığım iki aracı tanıtacağım."
+    },
+    {
+      "title": "PÇBÖ, problem çözmeye ilişkin\nöz değerlendirmeye odaklanıyor",
+      "section": "YÖNTEM",
+      "seconds": 55,
+      "kind": "pc_scale",
+      "notes": "Problem çözme için Heppner ve Petersen’in geliştirdiği, Şahin ve arkadaşlarının Türkçe psikometrik çalışmasını yaptığı aracı kullandım. Üniversite öğrencileriyle yapılmış Türkçe çalışma, araştırma grubum açısından uygun bir dayanak sağladı. Her iki ölçek de katılımcıların kendilerine ilişkin değerlendirmelerine dayanıyor. Bu araçta problem çözmeye güvenme, yaklaşma–kaçınma stili ve kişisel kontrol olmak üzere üç alt boyutu ele aldım. Örnek maddede kişinin yeni ve zor problemleri çözebilme yeteneğine duyduğu güven soruluyor. Toplam ve alt boyut sonuçlarını madde ortalamalarıyla raporladım. Kullanılan puan yönünde düşük puan, kişinin problem çözmeye ilişkin daha olumlu değerlendirmesine karşılık geliyor.",
+      "source": "Tez: §3.3.2; Ek 2; Heppner ve Petersen, 1982; Şahin vd., 1993",
+      "old_slide": 6,
+      "explain": "Bu bir performans problemi çözme sınavı değil, kişinin problem çözmeye ilişkin değerlendirmesidir. Üç alt boyutun anlamını ve yorum yönünü anlat.",
+      "origin_v2": 7,
+      "old_v3": 6,
+      "transition": "İletişim için kullandığım ölçeğe geçiyorum."
+    },
+    {
+      "title": "İBDÖ, iletişimin\ndört yönünü ayrı değerlendirdi",
+      "section": "YÖNTEM",
+      "seconds": 55,
+      "kind": "ib_scale",
+      "notes": "İletişim için Korkut Owen ve Bugay’ın üniversite öğrencileriyle geliştirdiği ölçeği kullandım. Araç yirmi beş maddeden ve dört boyuttan oluşuyor: iletişim ilkeleri ve temel beceriler, kendini ifade etme, etkin dinleme ve sözel olmayan iletişim ile iletişim kurmaya isteklilik. Bu kapsam, iletişimin farklı yönlerini ayrı ayrı incelememe olanak verdi. Ölçekte yüksek puan daha olumlu yöndedir. Alt boyutlardaki madde sayıları sırasıyla on, dört, altı ve beş. Türkçe psikometrik çalışmanın yanında, kendi grubumda ön test ve son test iç tutarlılığını da ayrı hesapladım. Alt boyutların güvenirlik sonuçlarını yorumda dikkate aldım. Katsayıların tamamı ve alternatif araçlar yedek slaytlarda bulunuyor.",
+      "source": "Tez: §3.3.1; Korkut Owen ve Bugay, 2014",
+      "old_slide": 6,
+      "explain": "25 nokta ölçeğin madde dağılımıdır: 10+4+6+5. Bu dağılım, katılımcı sayısı veya bulgu büyüklüğü değildir.",
+      "origin_v2": 8,
+      "old_v3": 7,
+      "transition": "Şimdi iki ölçüm arasında yürüttüğümüz uygulamayı anlatacağım."
+    },
+    {
+      "title": "Sekiz hafta: hazırlıktan\nson değerlendirmeye",
+      "section": "UYGULAMA",
+      "seconds": 50,
+      "kind": "timeline",
+      "notes": "Sekiz haftalık uygulamayı dört bölümde özetleyebilirim. İlk dersin başında, konu öğretiminden önce ön testler uygulandı. Daha sonra proje tabanlı öğrenmenin aşamaları ve adaylardan beklenenler açıklandı; doğal afetler temasına giriş yapıldı. İkinci hafta konuya ilişkin ortak bilgi zemini üzerinde çalışıldı. Üçüncü hafta gruplar problem durumlarını ve ilk taslaklarını sundu. Dördüncü haftadan itibaren araştırma ve materyal geliştirme sürdürüldü. Beşinci haftadaki ara sunumlarda geri bildirim verildi; altıncı hafta düzenlemeler devam etti. Yedinci hafta ürünlerin son kontrolleri yapıldı. Sekizinci haftada projelerin son hâli değerlendirildi ve son testler uygulandı. Görüşmeler, bu sekiz haftalık uygulama ve ölçek analizlerinden sonra yapıldı. Bu akışta başlangıç hazırlığı, öğrenci kararları, üretim ve geri bildirim birbirini izledi. Şimdi bu aşamaları başlangıçtan itibaren daha somut açıklayacağım.",
+      "source": "Tez: §3.4; Şekil 3.1",
+      "old_slide": 7,
+      "explain": "Sekiz haftanın her birini ve dört ana işlevi göster: hazırlık, problem taslağı, geliştirme ve tamamlama.",
+      "origin_v2": 9,
+      "old_v3": 8,
+      "transition": "İlk iki haftadaki hazırlıkla başlayayım."
+    },
+    {
+      "title": "Önce başlangıç ölçümü,\nardından ortak hazırlık",
+      "section": "UYGULAMA",
+      "seconds": 55,
+      "kind": "phase1",
+      "notes": "Uygulamanın ilk dersinde kısa bilgilendirmeden sonra her iki ölçeğin ön testleri, konu öğretimi ve proje çalışmalarından önce uygulandı. Bu sıra, başlangıç ölçümünün öğretimden önce alınması açısından önemliydi. Daha sonra proje tabanlı öğrenmenin özellikleri, aşamaları ve öğretmen adaylarından beklenenler açıklandı. Doğal afetler temasına giriş yapıldı; ikinci haftada konunun öğretimine devam edildi. Bu hazırlıkla adayların ortak tema ve çalışma beklentileri hakkında bilgi sahibi olması amaçlandı. Hazırlık aşamasıyla öğrencilerin seçeceği problem aynı şey değildi: tema ortak olsa da üzerinde çalışılacak somut problem gruplar tarafından geliştirildi. Bir sonraki aşamada adaylar ilk problem ve çözüm taslaklarını sınıfta paylaştı. Ön testin ilk derste alınması başlangıç ölçümünü sağladı. Ardından ortak bilgi zemini oluşturduk; çünkü farklı grupların aynı tema içinde çalışabilmesi için önce temel konu ve beklentilerin anlaşılması gerekiyordu.",
+      "source": "Tez: §3.4, ilk iki hafta",
+      "old_slide": null,
+      "explain": "Ön testin öğretimden önce uygulanmasının mantığını açıkla. Ortak tema verilmesi ile öğrencinin problem seçmesi farklı adımlardır.",
+      "origin_v2": 10,
+      "old_v3": 9,
+      "transition": "Bu hazırlığın ardından gruplar somut problemlerini belirledi."
+    },
+    {
+      "title": "Genel konu,\nsınırlandırılmış probleme dönüştü",
+      "section": "UYGULAMA",
+      "seconds": 65,
+      "kind": "phase2",
+      "notes": "Problem belirleme aşamasında gruplardan genel bir afet konusunu çalışabilecekleri somut bir gereksinime dönüştürmelerini istedim. Örneğin yalnızca depremi anlatmak yerine, deprem sırasında dolap kapaklarının açılması gibi belirli bir problem ele alınabildi. Kuraklık başlığı altında da tarım alanlarında nemin izlenmesi bir çözüm düşüncesine dönüştürüldü. Üçüncü haftadaki sunumlarda fikirleri kapsam, uygulanabilirlik ve içerik açısından birlikte değerlendirdik. Bazı fikirlerin daha dar ve yapılabilir hâle getirilmesi gerekti. Görüşmelerde üç katılımcı problem belirlerken zorlandığını söyledi; özellikle özgünlük ve yapılabilirlik öne çıktı. Bu nedenle başlangıçta bir problemin nasıl sınırlandırılacağını açıklamanın önemli olduğunu düşünüyorum. Buradaki örnekler öğrencinin kendi kararını verebilmesi için bir çerçeve sunuyor. Üçüncü haftadaki sınıf içi sunum ve geri bildirimin amacı, fikri malzeme hazırlığına geçmeden önce kapsam ve uygulanabilirlik bakımından gözden geçirmekti. Böylece öğrenciler genel afet başlığından, sınırlı sürede üzerinde çalışabilecekleri bir probleme ilerledi.",
+      "source": "Tez: §3.4; Tablo 3.3; §4.3.1",
+      "old_slide": 8,
+      "explain": "Deprem → dolap kapaklarının açılması → sensörlü kilitleme önerisi, arşivdeki problem–çözüm ilişkisidir. Belirli bir grubun kayıtsız taslak değişimini uydurma.",
+      "origin_v2": 11,
+      "old_v3": 10,
+      "transition": "İlk taslakları geliştirme ve geri bildirim aşaması izledi."
+    },
+    {
+      "title": "Ara sunumlar,\ndüzenleme için fırsat verdi",
+      "section": "UYGULAMA",
+      "seconds": 85,
+      "kind": "phase3",
+      "notes": "Uygulamada ara sunumlar, grupların bitmiş bir ürünü göstermesinden önce çalışmalarını gözden geçirebildiği aşamalardı. Üçüncü haftadaki ilk değerlendirmeyi beşinci haftadaki taslak sunumları izledi. Araştırmacı ve sınıf arkadaşları ürünün hangi probleme yanıt verdiği, uygulanabilirliği ve sunuluşu üzerinde geri bildirim verdi. Altıncı haftada gruplar materyallerini geliştirmeyi sürdürdü; ihtiyaç duyan gruplarla görüşmeler yapıldı. Benim rolüm, grupların karşılaştığı güçlüklerde rehberlik sağlamak ve kararlarını açıklamalarını desteklemekti. Bu akış, proje tabanlı öğrenmenin araştırma, üretim, paylaşım ve düzenleme yönlerini bir araya getirdi. Görüşmelerde problem değiştirme, farklı yollar deneme ve çözümü geliştirme gibi yolların anlatılması da sürecin öğrenciler açısından nasıl yaşandığını gösteriyor. Bu deneyimleri sonraki bölümde doğrudan görüşme bulgularıyla ilişkilendireceğim. Dördüncü haftadaki bağımsız çalışma ile gruplar araştırma ve tasarım kararlarını geliştirdi. Beşinci haftada taslakları sunmaları, geri bildirimin ürün tamamlanmadan kullanılmasını sağladı. Altıncı haftada ihtiyaç duyan gruplarla görüşülerek düzenlemeler sürdürüldü. Bu sıralama, öğrencilerin önerilerini açıklayıp gözden geçirebilmeleri için alan açtı.",
+      "source": "Tez: §3.4; Tablo 4.8",
+      "old_slide": 9,
+      "explain": "Süreç şeması taslak paylaşma, geri bildirim ve düzenlemeyi gösterir. Poster ve materyal, aynı proje grubunun arşiv belgeleridir; önce/sonra etkililik karşılaştırması değildir.",
+      "origin_v2": 12,
+      "old_v3": 11,
+      "transition": "Son aşamada tamamlanan ürünlerden birkaç örnek göstereyim."
+    },
+    {
+      "title": "Tamamlanan ürünler\nproblem ve çözümü görünür kıldı",
+      "section": "UYGULAMA",
+      "seconds": 55,
+      "kind": "phase4",
+      "notes": "Yedinci haftada ürünlerin son kontrolleri yapıldı ve eksikler giderilmeye çalışıldı. Sekizinci haftada projelerin son hâli gözden geçirildi ve son testler uygulandı; proje sunumları da sekiz haftalık akış içinde tamamlandı. Burada arşivden dört tamamlanmış ürün örneği görüyorsunuz. Dolap kapakları, tarımda kuraklık riski, depremde bina hasarı ve taşkının etkileri farklı grupların ele aldığı problemlerdendi. Bu görseller, ortak tema içinde farklı çözüm düşüncelerinin nasıl materyallere dönüştürüldüğünü gösteriyor. Araştırmanın bireysel öz değerlendirme sonuçları ise ölçek puanlarına dayanıyor. Son testler başlangıçta kullandığım iki araçla alındı. Dört görüşme uygulama ve ölçek analizlerinden sonra yapıldı. Böylece ders ürünleri, ölçek karşılaştırmaları ve süreç deneyimleri kendi veri işlevleriyle ele alındı. Yedinci haftadaki kontrolün amacı eksikleri tamamlamaktı. Sekizinci haftadaki son değerlendirme ve son testler, ürün sürecinin tamamlanması ile bireysel puanların yeniden ölçülmesini aynı akışta bir araya getirdi.",
+      "source": "Tez: §3.4; Tablo 3.3; Ek 5, G3/G4/G8/G18",
+      "old_slide": null,
+      "explain": "Fotoğraflar yalnızca tamamlanmış ürün örnekleridir; yedinci ya da sekizinci haftada çekildikleri ileri sürülmüyor. Son test ve paylaşımın işlevini anlat.",
+      "origin_v2": 13,
+      "old_v3": 12,
+      "transition": "Tamamlanan ürünlerden birinin problem ve çözüm bağlantısını biraz daha yakından göstereyim."
+    },
+    {
+      "title": "Bir projenin problem, poster\nve ürün bağlantısı",
+      "section": "UYGULAMA",
+      "kind": "project_case",
+      "old_v3": null,
+      "seconds": 45,
+      "explain": "G4’ün problem tanımı, posteri ve ürünü aynı örnekte eşleştirilir; süreç takvimi veya önce–sonra fotoğrafı olarak sunulmaz.",
+      "source": "Güncel tez: Tablo 3.3; §3.4; Ek 5, G4",
+      "notes": "Uygulamanın nasıl somutlaştığını bir proje üzerinden göstermek istiyorum. G4 grubu tarım alanlarında kuraklık riskini ele aldı. Çözüm düşüncesi, toprağın nemini izlemeye yönelik sensörlü bir materyal hazırlamaktı. Soldaki poster problemi ve çözüm düşüncesini açıklıyor; sağdaki tarım alanı modeli ise bu düşünceyi somutlaştırıyor. Bu örnekte konu, problem ve ürün arasındaki bağı görebiliyoruz. Uygulamadaki araştırma, açıklama ve ortak kararların bir ürünle nasıl ifade edildiğine örnek olarak bu iki belgeyi birlikte gösteriyorum.",
+      "transition": "Şimdi bu uygulama adımlarını PTÖ bileşenleriyle eşleştireyim."
+    },
+    {
+      "title": "PTÖ bileşenlerinin\nuygulamadaki karşılığı",
+      "section": "UYGULAMA",
+      "seconds": 55,
+      "kind": "pto_match",
+      "notes": "Bu tabloda proje tabanlı öğrenmenin beş bileşenini uygulamadaki karşılıklarıyla eşleştiriyorum. Gerçek yaşam problemi doğal afetlerle ilişkili gereksinimler üzerinden ele alındı. Öğrenciler ortak tema içinde kendi problem ve çözüm düşüncelerini geliştirdi. Kaynak araştırması yapıp maket, materyal veya poster hazırladı. Ara sunumlarda araştırmacı ve akran geri bildirimleri aldı; çalışmalarını düzenledi. Grup çalışması ve sınıf içi paylaşım bu süreci tamamladı. Bu eşleştirme, yaklaşımın ders içinde nasıl uygulandığını gösteriyor. Örneğin Akıllı Dolap ürününde problem seçimi, çözüm düşüncesinin açıklanması ve ürün oluşturma birlikte görülebiliyor.",
+      "source": "Güncel tez: §3.4; Ek 5; danışmanın PTÖ eşleştirme belgesi",
+      "explain": "Danışmanın önerdiği eşleştirme tablosunun, belgelenmiş bileşenlerle sınırlandırılmış sunum sürümü.",
+      "origin_v2": null,
+      "old_v3": 13,
+      "transition": "Süreçte benim, öğrencilerin ve akranların rollerini açıklayayım."
+    },
+    {
+      "title": "Rehberlik süreç boyunca,\ndeğerlendirme farklı amaçlarla yürüdü",
+      "section": "YÖNTEM",
+      "seconds": 35,
+      "kind": "roles",
+      "notes": "Süreçte beklentileri açıkladım, grupların taslak ve ara ürünlerini sunmalarını sağladım. Araştırmacı ve akran geri bildirimleri, çalışmaların geliştirilmesi için kullanıldı. Gerektiğinde grupların karşılaştığı güçlüklerle ilgili rehberlik sağladım. Öğrenciler araştırma, problem ve ürün kararlarına katıldı. Araştırma sonuçlarında bireysel ölçek ölçümleri ve görüşme yanıtları kullanıldı. Proje belgeleri ise uygulamanın içeriğini somutlaştırdı. Ders kapsamında yapılan ürün değerlendirmesinin ayrıntılı puanlama tablosunu ana anlatıma taşımıyorum; sorulursa araştırma verisinden farkını açıklayabilirim.",
+      "source": "Tez: §3.4; Tablo 3.4; §3.5",
+      "old_slide": 11,
+      "explain": "Araştırmacı rehberlik verir, öğrenciler problem/ürün kararlarına katılır, akranlar geri bildirim sağlar. Ders rubriği ile bireysel ölçek analizini ayır.",
+      "origin_v2": 14,
+      "old_v3": 14,
+      "transition": "Toplanan ölçek verilerini nasıl analiz ettiğime geçiyorum."
+    },
+    {
+      "title": "Nicel analiz,\neşleştirilmiş farklara dayandı",
+      "section": "ANALİZ",
+      "seconds": 55,
+      "kind": "quant",
+      "notes": "İlk adımda aynı kişilerin ölçümlerini eşleştirdim. Karşılaştırmalar bağımlı ölçümlerdi; çünkü ön test ve son test aynı kişilerden elde edildi. Bu nedenle temel analiz olarak bağımlı örneklemler t testi kullanıldı. Normallik kontrolünü ham ön test veya son test puanlarına değil, son test eksi ön test farklarına uyguladım. Normal dağılımdan anlamlı sapma bulunan karşılaştırmalarda Wilcoxon işaretli sıralar testiyle ek kontrol yapıldı. Örneğin problem çözme toplam farklarında Shapiro–Wilk sonucu anlamlıydı ve ek Wilcoxon kontrolü de anlamlı değişim gösterdi. Testleri çift yönlü ve sıfır virgül sıfır beş anlamlılık düzeyinde yürüttüm. Yalnızca p değerini değil, ortalama farkı, yüzde doksan beş güven aralığını ve eşleştirilmiş etki büyüklüğünü birlikte değerlendirdim. Alt boyutları ikincil sonuçlar olarak ele aldım; çoklu karşılaştırma düzeltmesi uygulanmadı. Toplam ve alt boyut test değerlerini bulgular bölümündeki tablolarda göstereceğim; güven aralığı grafiklerini bağlantıyla açabilirim.",
+      "source": "Tez: §3.5; Tablo 4.1–4.4; Lakens, 2013",
+      "old_slide": 12,
+      "explain": "Δ son test − ön testtir. Fark dağılımı, temel karşılaştırma, ek kontroller ve yorum ölçütlerinin işlevlerini sırayla anlat.",
+      "origin_v2": 15,
+      "old_v3": 15,
+      "transition": "Görüşme yanıtlarını nasıl ele aldığımı da bir örnekle göstereyim."
+    },
+    {
+      "title": "Görüşme ifadesinden koda,\nkoddan izlenebilir bulguya",
+      "section": "ANALİZ",
+      "seconds": 60,
+      "kind": "qual",
+      "notes": "Görüşmelerde yedi ana soruluk yarı yapılandırılmış formu kullandım. Form bir alan uzmanının görüşü doğrultusunda açıklık ve araştırma amacına uygunluk bakımından düzenlenmişti. Kayıtları kelimesi kelimesine yazıya aktardıktan sonra her soruya verilen yanıtları ayrı inceledim. Anlamlı cümle veya cümle grupları üzerinden kodlar oluşturdum; bir yanıtta birden fazla görüş varsa birden fazla kod kullanılabildi. Slayttaki oylama örneği, bir ifadeden koda geçişi gösteriyor. Kodları tam yanıtlarla karşılaştırıp kapsamlarını gözden geçirdim. Tablolardaki f değeri, o görüşü ilgili soruda dile getiren katılımcı sayısıdır. Bir kişi birden fazla kodda bulunabildiği için frekansları toplayıp kişi sayısı elde etmiyorum. Doğrudan alıntılar ve Ek 4’teki kod kitabı, bulgunun hangi yanıta dayandığını izlemeyi sağlıyor. Görüşme yanıtlarından çıkardığım kodları danışmanım da inceledi.",
+      "source": "Tez: §3.3.3; §3.5; §4.3; Ek 3–4",
+      "old_slide": 13,
+      "explain": "Alıntı K1’in Soru 2-b yanıtındaki tam bir cümledir. Oylama koduna ve ilgili içerik alanına geçişi örnekler; frekans cümle sayısı değildir.",
+      "origin_v2": 16,
+      "old_v3": 16,
+      "transition": "Şimdi problem çözme ölçeğinin sonuçlarına geçiyorum."
+    },
+    {
+      "title": "Problem çözme: toplam ve\nalt boyut sonuçları",
+      "section": "BULGULAR",
+      "seconds": 85,
+      "kind": "pc_stats",
+      "notes": "Tabloda aynı kırk kişinin problem çözme ölçeğindeki ön test ve son test ortalamaları, standart sapmaları ve bağımlı örneklemler t testi sonuçları var. Bütün değerleri tek tek okumak yerine temel bulguyu özetleyeceğim. Toplam ortalama iki virgül doksandan iki virgül yetmiş dörde indi; p değeri ,023. Bu ölçekte puanların düşmesi olumlu yöndedir. Alt boyutlarda problem çözmeye güvenme ve kişisel kontrolde anlamlı değişim bulunurken yaklaşma–kaçınma stilinde bulunmadı. Son sütundaki etki büyüklükleri eşleştirilmiş ölçümler için mutlak Cohen d-z değerleridir. Bunlar doğrulanmış t değerlerinin karekök kırka bölünmesiyle hesaplandı. Alt boyutlar ikincil sonuçlardır; çoklu karşılaştırma düzeltmesi yapılmadı. Güvenirliği sınırlı kişisel kontrol sonucunu bu kapsamda yorumluyorum. Toplam farkların normallik kontrolü nedeniyle yapılan Wilcoxon sonucunu da birazdan göstereceğim.",
+      "source": "Güncel tez: Tablo 4.2; gerçek SPSS PDF s.53–54; |d_z| = |t| / √40",
+      "explain": "Sayıları tek tek okumadan toplam değişimi ve iki alt boyutu belirt. PÇBÖ’de düşük puan olumlu; alt boyut sonuçları ikincildir.",
+      "origin_v2": null,
+      "old_v3": 17,
+      "transition": "İletişim ölçeğinde ise farklı bir sonuç elde ettim."
+    },
+    {
+      "title": "İletişim: toplam ve\nalt boyut sonuçları",
+      "section": "BULGULAR",
+      "seconds": 80,
+      "kind": "ib_stats",
+      "notes": "İletişim ölçeğinde toplam madde ortalaması ön testte üç virgül seksen üç, son testte üç virgül doksan iki. Bu artış istatistiksel olarak anlamlı bulunmadı; çift yönlü p değeri ,098. Tabloda bütün alt boyutların da ortalama yönü yukarı olsa da hiçbirinde anlamlı değişim bulunmadığını görüyoruz. Son sütun, yine eşleştirilmiş ölçümler için hesaplanan mutlak d-z büyüklüklerini gösteriyor. Özellikle bu sonuçta tek yönlü p değeri yerine tezdeki analiz planına uygun çift yönlü değeri kullanıyorum. Bazı alt boyutların iç tutarlılık katsayıları sınırlı; bu durum onların yorum kapsamını da etkiliyor. Kendini ifade etme ve iletişime isteklilik farklarında normalden sapma olduğu için bu iki boyutun ek Wilcoxon kontrolleri yapıldı. Bunlar bir sonraki tabloda yer alıyor.",
+      "source": "Güncel tez: Tablo 4.4; gerçek SPSS PDF s.26–27; |d_z| = |t| / √40",
+      "explain": "İBDÖ toplamında p=,098 çift yönlü sonuçtur. Hiçbir alt boyutta anlamlı değişim yok. Gelişme varmış gibi yalnızca ortalamaya dayanma.",
+      "origin_v2": null,
+      "old_v3": 18,
+      "transition": "Ek Wilcoxon kontrollerini de aynı tabloda özetleyeyim."
+    },
+    {
+      "title": "Ek Wilcoxon kontrolleri\nana sonuçlarla aynı yönde",
+      "section": "BULGULAR",
+      "seconds": 65,
+      "kind": "wilcoxon",
+      "notes": "Bu tabloda normal dağılımdan sapma görülen üç karşılaştırmanın ek Wilcoxon sonuçları yer alıyor. Problem çözme toplamında p değeri ,003 ve değişim anlamlı. İletişimde kendini ifade etme için ,469, iletişime isteklilik için ,644; bu iki kontrolde anlamlı değişim yok. Böylece ek kontroller temel t testi sonuçlarıyla uyumlu. Tablodaki Z ve p değerleri gerçek SPSS çıktısından alınmıştır. r büyüklüğü, Z’nin mutlak değerinin sıfır olmayan fark sayısının kareköküne bölünmesiyle hesaplandı. Eşit ön test–son test puanları bu hesapta dışarıda olduğu için etkili sayı problem çözmede otuz sekiz, diğer iki boyutta yirmi dokuzdur. Bu payda seçimini açıkça belirtiyorum. Z’nin işaretini ölçek puanının değişim yönüyle karıştırmıyorum; yönü ön test ve son test ortalamalarıyla açıklıyorum.",
+      "source": "Gerçek SPSS PDF s.29–30, 55–56; r = |Z| / √Nₑ",
+      "explain": "Nₑ sıfır olmayan eşleştirilmiş fark sayısıdır. r sonradan hesaplanan büyüklüktür; Z ve p SPSS değerleridir.",
+      "origin_v2": null,
+      "old_v3": 19,
+      "transition": "Görüşmelerde önce problem belirleme deneyimine bakalım."
+    },
+    {
+      "title": "Problem belirleme: zorlananlar\nve zorlanmayanlar",
+      "section": "BULGULAR",
+      "seconds": 60,
+      "kind": "qual_problem",
+      "notes": "Problem belirleme sorusunda üç katılımcı zorlandığını, bir katılımcı zorlanmadığını belirtti. Tablonun solunda zorlanma gerekçelerini, sağında zorlanmama gerekçesini ayırdım. Özgünlük iki kişinin, uygulanabilirlik ve çözüm geliştirebilme de iki kişinin yanıtında yer aldı. Zorlanmadığını belirten katılımcı araştırma yaparak problem belirleyebildiğini açıkladı. Kodlar birbirini dışlamadığı için soldaki frekansların toplamının üç olması gerekmiyor. Bu düzen, aynı listede olumlu ve olumsuz deneyimleri karıştırmadan soruya verilen yanıtları görmeyi sağlıyor. İhtiyaç olursa alıntı bağlantısıyla dört kişinin tam yanıtlarını açabilirim. Buradaki yorum, görüşülen kişilerin başlangıçta özgün ve çalışılabilir bir problem seçme aşamasına ilişkin deneyimlerine dayanıyor.",
+      "source": "Güncel tez: Soru 1-a; Tablo 4.5; K1–K4; danışmanın örnek tablo belgesi",
+      "explain": "Danışmanın iki ana sütun önerisi uygulandı. Kodlar ve frekanslar güncel tezdeki hâliyle korundu; 2+2 ayrı kişi toplamı değildir.",
+      "origin_v2": null,
+      "old_v3": 20,
+      "transition": "Diğer görüşme sonuçlarını dört başlıkta özetleyeceğim."
+    },
+    {
+      "title": "Görüşmeler: deneyimler\nve düzenleme gereksinimleri",
+      "section": "BULGULAR",
+      "seconds": 65,
+      "kind": "qual_summary",
+      "notes": "Görüşmelerin diğer sonuçlarını dört başlıkta özetliyorum. İletişim sorularında dört katılımcı fikirlerini rahatça açıklayabildiğini belirtti; oylama, gerekçelendirme ve dinleme gibi yollar anlatıldı. Öğrenme deneyimlerinde araştırma yapma ve bilgiyi uygulamada kullanma dört kişinin yanıtında yer aldı. Kalıcılığa ilişkin ifadeler de katılımcı değerlendirmeleridir; gecikmeli test sonucu değildir. Olumsuz yönlerde maliyet, yoruculuk ve zaman kullanımı öne çıktı. Düzenleme önerilerinde ders zamanının planlanması ve başlangıçta örnek gösterilmesi vardı. Her satır ilgili sorunun yanıtlarına dayanıyor. Ana anlatımda uzun alıntıları okumayacağım; gerekirse satırın yanındaki bağlantıdan ilgili tam yanıtları açabilirim.",
+      "source": "Güncel tez: §4.3; Tablo 4.10, 4.12–4.14; Ek 3–4",
+      "explain": "Farklı sorulardaki görüşler ayrı satırlarda. Alıntılar yedek slaytlarda, bağlantıyla açılır. Kullanılan soru formu değiştirilmedi.",
+      "origin_v2": null,
+      "old_v3": 21,
+      "transition": "Şimdi ölçek sonuçlarıyla görüşmelerde anlatılan deneyimleri birlikte değerlendireyim."
+    },
+    {
+      "title": "Sonuçlar ve süreç deneyimleri\nbirlikte nasıl okunabilir?",
+      "section": "BULGULAR",
+      "seconds": 65,
+      "kind": "interpret",
+      "notes": "Problem çözme ölçeğinde olumlu yönde anlamlı değişim buldum; görüşülen dört kişi de problem çözmeye katkı atfeden açıklamalar yaptı. Gerçek bir problem üzerinde çalışma, seçenek geliştirme ve revizyon bu sonucu anlamlandırırken ele aldığım süreçler. İletişim ölçeğinde anlamlı değişim bulunmadı; buna karşılık dört katılımcı grup içinde fikirlerini rahatça açıklayabildiğini söyledi. Tanışık gruplarda çalışma, uygulama süresi ve ölçeğin proje toplantılarının ötesindeki iletişim alanlarını kapsaması bu farklılığa ilişkin olası açıklamalar. Bazı alt boyutların sınırlı iç tutarlılığını da dikkate aldım. Ölçek sonuçlarıyla görüşme deneyimlerini birlikte ele alarak uygulamanın güçlü ve geliştirilmesi gereken yönlerini değerlendirdim.",
+      "source": "Güncel tez: §5.1; Tablo 4.9–4.14; danışmanın tartışma önerileri",
+      "explain": "Olası açıklamaları doğrudan nedensel kanıt olarak sunma. Grup içi rahatlık ile genel iletişim öz değerlendirmesi farklıdır.",
+      "origin_v2": null,
+      "old_v3": 22,
+      "transition": "Bu yorumların kapsamını kısaca belirteyim."
+    },
+    {
+      "title": "Yorum, çalışma grubunun\nve ölçümlerin kapsamıyla sınırlı",
+      "section": "SONUÇ",
+      "seconds": 35,
+      "kind": "limits",
+      "notes": "Bulgular tek ders ortamında, sekiz haftalık uygulamaya katılan 40 kişilik analiz grubuna dayanıyor. Ölçek verileri katılımcı yanıtlarından, görüşme bulguları dört kişinin deneyimlerinden elde edildi. Kontrol grubu bulunmadığı için gözlenen değişimi yalnızca uygulamanın etkisine bağlayamıyorum. Sonraki araştırmalarda karşılaştırma grubu, daha uzun izleme ve ölçütleri açık süreç gözlemleri kullanılabilir. Dersin düzenlenmesine yönelik önerilerimi ise görüşmelerde belirtilen somut gereksinimlere dayandırdım.",
+      "source": "Tez: §1.4; §3.1–3.5; §5.2",
+      "old_slide": null,
+      "explain": "Sınırlılıkları tek yerde kısa ve doğrudan belirt. Araştırmayı küçümseyen veya aynı sınırı tekrar tekrar vurgulayan cümleler kurma.",
+      "origin_v2": 21,
+      "old_v3": 23,
+      "transition": "Bulgulara dayalı önerilerimle sunumu tamamlayacağım."
+    },
+    {
+      "title": "İki alan farklı sonuç verdi;\nsüreç için somut öneriler oluştu",
+      "section": "SONUÇ",
+      "seconds": 35,
+      "kind": "closing",
+      "notes": "Özetle, problem çözme ölçeğinde olumlu yönde anlamlı değişim bulunurken iletişim ölçeğinde anlamlı değişim bulunmadı. Görüşmeler başlangıç rehberliği, zaman ve malzeme planlaması gibi somut düzenleme gereksinimleri gösterdi. Benzer dersler için üç önerimi özetliyorum: çalışılabilir problem seçimini örneklerle desteklemek, geri bildirim ve görev zamanlarını planlamak, malzeme ve bütçe gereksinimlerini baştan konuşmak. Dinlediğiniz için teşekkür ederim; sorularınızı ve değerlendirmelerinizi almak isterim.",
+      "source": "Tez: §5.1–5.2",
+      "old_slide": 18,
+      "explain": "İki nicel sonucu ve bulgulara dayalı iki uygulama önerisini toparla. Burada yeni veri veya uzun literatür anlatısı açma.",
+      "origin_v2": 22,
+      "old_v3": 24,
+      "transition": "[Ana anlatım burada biter. Sorular için bekle; yedekleri kendiliğinden açma.]"
+    }
+  ],
+  "quote_pages": [
+    {
+      "key": "q1a",
+      "page": 42,
+      "answers": [
+        "“Zorlandık. Özellikle yaratıcı ve özgün bir problem bulmak bizim için zorlayıcıydı. Ayrıca bir problem bulsak bile buna uygun bir çözüm geliştirip geliştiremeyeceğimizi de düşünüyorduk. Bu nedenle çözüm üretebileceğimiz uygun bir problem bulmakta da zorlandık.” (K1)",
+        "“Zorlanmadık. Konumuz doğal afetler olduğu için kısa bir araştırma süreci bizim için yeterli oldu. Araştırma yaptıktan sonra ele alabileceğimiz problemleri belirleyebildik.” (K2)"
+      ],
+      "return_page": 23
+    },
+    {
+      "key": "q1a",
+      "page": 43,
+      "answers": [
+        "“Zorlandık. Özellikle özgün bir problem ve proje ortaya koymaya çalışmak bizim için zorlayıcı oldu. Daha önce yapılmış şeylerden farklı bir şey ortaya çıkarmaya çalıştığımız için problem belirleme aşamasında zorlandığımızı düşünüyorum.” (K3)",
+        "Başlangıçta biraz zorlandık. Doğal afetlerle ilgili aslında çok fazla problem var ama bizim yapabileceğimiz bir proje kapsamında ele alınabilecek bir problem seçmek kolay olmadı. Bazı fikirler bulduk ama ya çok genel kaldı ya da çözümünü bizim yapabileceğimiz şekilde somutlaştıramadık. Araştırdıkça seçeneklerimiz arttı ve ne yapabileceğimiz daha net hale geldi. (K4)"
+      ],
+      "return_page": 23
+    },
+    {
+      "key": "q2b",
+      "page": 44,
+      "answers": [
+        "“Farklı düşündüğümüz durumlarda fikirlerimizi karşılıklı olarak dile getirdik ve fikir birliği sağlamaya çalıştık. Gerektiğinde oylama yaparak karar verdik. Grup arkadaşlarımızı kendimiz seçmiş olmamızın iletişimimizi kolaylaştırdığını düşünüyorum. Eğer gruplar rastgele oluşturulsaydı belki bu konuda daha fazla zorlanabilirdik.” (K1)",
+        "“Fikir ayrılıkları olduğunda herkes kendi önerisini rahatlıkla dile getiriyordu. Farklı ihtimalleri birlikte değerlendiriyorduk ve herkesin söz hakkı oluyordu. Birbirimizin görüşlerini dinledikten sonra sonuç olarak ortak bir noktada buluşabiliyorduk.” (K2)"
+      ],
+      "return_page": 24
+    },
+    {
+      "key": "q2b",
+      "page": 45,
+      "answers": [
+        "Uyumlu olmayan görüşler olduğunda herkes kendi fikrini açıklıyor ve birbirini ikna etmeye çalışıyordu. Ben özellikle farklı bir çözüm önerim yoksa sadece eleştiri yapmamaya çalıştım. Çünkü bir fikri beğenmediğimi söyleyip onun yerine farklı bir çözüm sunmamanın doğru olmadığını düşünüyorum. Bu nedenle eleştirdiğim bir konuda mümkün olduğunca alternatif bir öneri de sunmaya çalıştım. (K3)",
+        "Fikir ayrılıkları oldu ama çok büyük sorunlara dönüşmedi. Genellikle herkes neden kendi fikrinin daha uygun olduğunu açıklıyordu. Sonra hangisinin uygulanabilir olduğuna bakıyorduk. Bazen benim önerdiğim fikirden vazgeçtiğim de oldu. Çünkü diğer arkadaşımın söylediği şeyin daha mantıklı olduğunu gördüğüm durumlar vardı. Bence burada birbirimizi dinlemek önemliydi. Herkes sadece kendi fikrinde ısrar etseydi ilerleyemezdik. (K4)"
+      ],
+      "return_page": 24
+    },
+    {
+      "key": "q4",
+      "page": 46,
+      "answers": [
+        "“Evet, katkı sağladığını düşünüyorum. Kendimiz araştırmalar yaptık, uygulama gerçekleştirdik ve süreç sonunda ortaya bir ürün çıkardık. Bu nedenle öğrenmenin kesinlikle daha kalıcı hâle geldiğini düşünüyorum.” (K1)",
+        "Kesinlikle katkı sağladığını düşünüyorum. Her grup ele aldığı problem nedeniyle belirli bir doğal afet konusunda daha ayrıntılı bilgi sahibi oldu. Çünkü çok fazla araştırma yaptık ve öğrendiklerimizi uygulayarak pekiştirdik. Bunun yanında diğer grupların sunumlarını da inceleme fırsatımız oldu. Böylece sadece kendi çalıştığımız afet konusunda değil, hemen hemen bütün doğal afetlerle ilgili fikir sahibi olduk. Bu nedenle konuyu daha detaylı ve kalıcı bir şekilde öğrendiğimizi düşünüyorum. (K2)"
+      ],
+      "return_page": 24
+    },
+    {
+      "key": "q4",
+      "page": 47,
+      "answers": [
+        "“Kesinlikle katkı sağladığını düşünüyorum. Dersin teorik olarak anlatılması da tabii ki bize bir şeyler öğretti ancak bilgiyi kendimizin araştırmasının öğrenmenin daha kalıcı olmasına katkı sağladığını düşünüyorum. Araştırarak ve uygulayarak öğrendiğimiz için konuyu daha iyi kavradık.” (K3)",
+        "Evet, sağladığını düşünüyorum. Normal derste anlatıldığında bilgileri öğreniyoruz ama bir süre sonra bazılarını unutabiliyoruz. Burada kendimiz araştırma yaptığımız ve öğrendiğimiz bilgileri projede kullanmak zorunda olduğumuz için daha fazla aklımda kaldı. Özellikle kendi çalıştığımız afet konusunda çok daha ayrıntılı bilgi sahibi oldum. Diğer grupların projelerini ve sunumlarını görmek de farklı doğal afetler hakkında bilgi edinmemizi sağladı. (K4)"
+      ],
+      "return_page": 24
+    },
+    {
+      "key": "q6",
+      "page": 48,
+      "answers": [
+        "Olumsuz yönü, sürecin klasik bir derse göre daha yorucu olması. Özellikle bu tür öğretim süreçleri birden fazla derste aynı anda uygulandığında daha da yorucu olabiliyor. Ayrıca hazırlanan projeler ekonomik açıdan bizim için maliyetli olabiliyor. Olumlu yönü ise kesinlikle daha kalıcı bir öğrenme sağlaması. Aynı zamanda bize pratik yapma fırsatı veriyor ve geleceğe hazırlanmamız açısından katkı sağlıyor. Öğretmenliğe hazırlayan bir öğretim yöntemi olduğunu düşünüyorum. (K1)",
+        "Olumlu yönü, daha önce de söylediğim gibi, öğrenmenin daha kalıcı olmasını sağlaması ve farklı becerilerimizin gelişmesine katkıda bulunmasıydı. Olumsuz yönlerinden biri ise sürecin bazı bölümlerinde çok fazla zaman kaybı yaşanabilmesiydi. Özellikle problem belirleme aşamasında bazı gruplar çok fazla zaman kaybetti. Onların geride kalması bazen bizim de beklememize ve sürecimizin gecikmesine neden oldu. Bu tür zaman kayıplarını azaltmak için bazı aşamalarda daha fazla yönlendirme yapılmasının faydalı olabileceğini düşünüyorum. (K2)"
+      ],
+      "return_page": 24
+    },
+    {
+      "key": "q6",
+      "page": 49,
+      "answers": [
+        "“Olumlu yönleri olarak bize kazandırdığı becerileri ve öğrenmenin daha kalıcı olmasına sağladığı katkıyı söyleyebilirim. Araştırmak, çözüm üretmek ve ortaya bir ürün çıkarmak açısından faydalı bir süreçti. Olumsuz yönü ise sürecin zaman zaman zor ve yorucu olmasıydı.” (K3)",
+        "Olumlu yönü bence derse daha aktif katılmamızı sağlamasıydı. Sadece dinlemek yerine araştırdık, tartıştık ve bir şey ortaya çıkardık. Bu yüzden öğrendiklerimizin daha kalıcı olduğunu düşünüyorum. Grup çalışması ve problem çözme gibi beceriler açısından da faydalıydı. Olumsuz tarafı ise gerçekten zaman alan bir süreç olması. Özellikle tasarım ve uygulama aşaması düşündüğümüzden daha uzun sürdü. Bir de kullanacağımız malzemeleri kendimiz temin ettiğimiz için maddi açıdan zaman zaman zorlayıcı olabiliyor. (K4)"
+      ],
+      "return_page": 24
+    },
+    {
+      "key": "q7",
+      "page": 50,
+      "answers": [
+        "Bence süreç için daha fazla zamanımız olmalıydı. Bunun dışında, ders içerisinde verilen serbest zamanların sürece çok fazla katkı sağladığını düşünmüyorum. Bu zamanlar bazen boş geçiriliyordu ve tatil gibi algılanabiliyordu. Bu nedenle verilen zamanın daha planlı ve verimli kullanılmasını sağlayacak bir düzenleme yapılabilir. (K1)",
+        "Bence özellikle başlangıçta daha fazla örnek verilebilirdi. Örneklerin artırılması ne yapabileceğimizi anlamamız açısından faydalı olabilirdi. Bunun yanında bütçe de önemli bir konuydu. Daha iyi ve kapsamlı projeler ortaya çıkarılabilirdi ancak maddi imkânların kısıtlı olması yapabileceklerimizi sınırlandırdı. Bu nedenle proje sürecinde kullanılabilecek malzemeler veya bütçe konusunda da bazı düzenlemeler yapılabilir. (K2)"
+      ],
+      "return_page": 24
+    },
+    {
+      "key": "q7",
+      "page": 51,
+      "answers": [
+        "Yüz yüze yapılan derslerde grup sayısının fazla olması bazen çok fazla beklememize ve zaman kaybetmemize neden oldu. Öğretim elemanının bütün gruplarla ayrı ayrı ilgilenmesi gerektiği için bazı zamanlarda kendi sıramızı bekliyorduk. Bu bekleme süreleri de dersin zaman zaman sıkıcı hâle gelmesine neden oldu. Bu nedenle grupların bekleme sürelerini azaltacak ve ders zamanının daha verimli kullanılmasını sağlayacak bir düzenleme yapılabileceğini düşünüyorum. (K3)",
+        "Bence başlangıçta problem belirleme konusunda biraz daha yönlendirme yapılabilirdi. Direkt problem verilmesini istemezdim çünkü o zaman çalışmanın amacı değişirdi ama nasıl bir problemin proje için uygun olduğu konusunda birkaç farklı örnek görmek işimizi kolaylaştırabilirdi. Bir de grupların farklı hızlarda ilerlemesi bazen ders süresinin verimli kullanılmasını zorlaştırdı. Bazı gruplar bir aşamayı tamamlamışken diğerleri hâlâ önceki aşamada olabiliyordu. Ders içinde gruplara aşamalarına göre farklı görevler verilmesi süreci daha verimli hale getirebilirdi. (K4)"
+      ],
+      "return_page": 24
+    },
+    {
+      "key": "q5a",
+      "page": 52,
+      "answers": [
+        "Yaratıcı düşünme ve problem çözme becerilerimizin gelişmesine katkı sağladığını düşünüyorum. Hazır bir bilgiyi kopyalayıp kullanamamak bizi daha fazla araştırma yapmaya ve düşünmeye yöneltti. Özgün bir proje ortaya çıkarmaya çalışmak da yaratıcı düşünme becerilerimizi kullanmamızı sağladı. Problem belirleme ve probleme uygun çözüm bulma süreçlerinin yanında materyal tasarlarken karşılaştığımız engelleri aşmaya çalışmamızın da problem çözme becerilerimizi geliştirdiğini düşünüyorum. (K1)",
+        "Kendi adıma özellikle araştırma ve problem çözme becerilerimizin geliştiğini düşünüyorum. Kaynak taraması yaptık, uzmanlara başvurduk ve farklı bilgiler edinmeye çalıştık. Süreç boyunca sadece başlangıçta belirlediğimiz probleme çözüm aramadık; projeyi tamamlamaya çalışırken de karşımıza birçok farklı problem çıktı. Bunları çözebilmek için sürekli alternatif yollar bulmaya çalıştık. Bu nedenle problem çözme becerilerimizin de geliştiğini düşünüyorum. Ayrıca süreç içerisinde insanlarla iletişim kurmamız gerektiği için iletişim becerilerimize de katkı sağladı. (K2)"
+      ],
+      "return_page": 25
+    },
+    {
+      "key": "q5a",
+      "page": 53,
+      "answers": [
+        "Araştırma, yaratıcı düşünme, analitik düşünme ve problem çözme becerilerimizin gelişmesine katkı sağladığını düşünüyorum. Faydalı süreçler yaşadık. Öncelikle bir problem belirledik ve bu probleme çözüm ararken araştırma yaptık. Süreç içerisinde karşılaştığımız sorunlarla başa çıkmaya ve bunlara çözüm üretmeye çalıştık. Aynı zamanda özgün fikirler ortaya koymaya çalışmamızın da yaratıcı düşünme becerilerimize katkı sağladığını düşünüyorum. (K3)",
+        "En fazla problem çözme, araştırma ve yaratıcı düşünme becerilerimize katkı sağladığını düşünüyorum. Çünkü bize hazır bir problem ve hazır bir çözüm verilmedi. Önce neyin problem olduğunu kendimiz belirledik, sonra bunun için ne yapılabileceğini düşündük. Bazen bulduğumuz çözüm işe yaramadığında başka bir yol düşünmek zorunda kaldık. Özellikle proje ortaya çıkana kadar karşılaştığımız küçük sorunların da problem çözme becerimize katkı sağladığını düşünüyorum. Araştırma yaparken de her bulduğumuz bilgiyi kullanamayacağımızı gördük ve işimize yarayan bilgileri seçmeye çalıştık. (K4)"
+      ],
+      "return_page": 25
+    },
+    {
+      "key": "q5b",
+      "page": 54,
+      "answers": [
+        "“Bence katkı sağladı. Grup içerisinde farklı fikirlerin ortaya çıkması ve birlikte çözüm aramamız süreci kolaylaştırdı. Birbirimize yardımcı olmamız ve ortak kararlar almamız da sürece olumlu katkı sağladı.” (K1)",
+        "“Grup olarak çalışmanın daha fazla kişiyle iletişim kurma, farklı bağlantılardan yararlanma ve bir problem karşısında daha fazla çözüm alternatifi ortaya çıkarma gibi katkıları oldu. Ancak bunun belirli bir becerimi ne ölçüde geliştirdiği konusunda kesin bir şey söyleyemiyorum.” (K2)"
+      ],
+      "return_page": 25
+    },
+    {
+      "key": "q5b",
+      "page": 55,
+      "answers": [
+        "“Evet. Özellikle benim iletişim becerilerime katkı sağladığını düşünüyorum. Normalde daha sessiz ve çekingen biriyim. Bu çalışma sırasında grup arkadaşlarımla sürekli iletişim kurmam, fikirlerimi paylaşmam ve birlikte karar vermem gerekti. Bu süreç sayesinde iletişim becerilerimin güçlendiğini görebiliyorum.” (K3)",
+        "Bence özellikle iletişim ve birlikte çalışma açısından katkı sağladı. Çünkü sadece kendi yapacağımız işi düşünmüyorduk. Görev paylaşımı yapmak, birbirimizi dinlemek ve yaptığımız şeyleri bir araya getirmek gerekiyordu. Bazen bir arkadaşımızın eksik kaldığı yerde diğerimiz yardımcı oldu. Ayrıca kendi fikrini anlatmak kadar karşıdaki kişinin fikrini dinlemenin de önemli olduğunu gördük. (K4)"
+      ],
+      "return_page": 25
+    }
+  ],
+  "main_seconds": 1465
+}

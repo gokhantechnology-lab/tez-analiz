@@ -1,0 +1,36 @@
+GÖKHAN KAYA — SAVUNMA V4 / 25 KASIM 2026
+
+GOKHAN-KAYA-SAVUNMA-V4.pptx: Düzenlenebilir sunum. 27 ana + 28 yedek = 55 slayt. Ana sunum 27. slaytta biter. Her ana slaydın notlarında ana konuşma ve ayrı hazırlık ayrıntıları vardır.
+GOKHAN-KAYA-SAVUNMA-V4.pdf: Aynı 55 slaydın sabit görünümü; alıntı/grafik bağlantıları ve geri dönüş düğmeleri içerir.
+V4-AYRINTILI-CALISMA-DOSYASI.docx / .pdf: 60 sayfalık ayrıntılı çalışma dosyası. Her ana slayt için anlatım sayfası ile gerekçe ve soru hazırlığı sayfası vardır. PDF'de slayt bazlı yer imleri bulunur.
+V4-KARSILASTIRMA-RAPORU.docx / .pdf: 2 sayfalık bütüncül değerlendirme ve V3–V4 karşılaştırması.
+V4-ANA-AKIS-ONIZLEME.jpg: İlk 27 slaydın toplu önizlemesi.
+SPSS-KAYNAK-TABLOLARI.pdf: Önceki doğrulanmış gerçek SPSS çıktısının 8 dayanak sayfası. Özgün PDF sayfaları 26, 27, 29, 30, 53, 54, 55, 56. Eski dosyayla birebir aynıdır.
+
+NE DEĞİŞTİ?
+3: Tezdeki tam temel problem ve amaç.
+4: Araştırmanın önemi — araştırma, bağlam, uygulama katkısı.
+5: Üç alt problem ve veri kaynakları.
+11–14: Hafta, öğrenci çalışması, rehberlik ve uygulama gerekçeleri.
+15: G4 örneğinde problem–poster–materyal ilişkisi.
+20–22: Mevcut doğrulanmış istatistik tabloları.
+23–25: Görüşme sonuçları ve birlikte yorum.
+26–27: Kapsam ve önerilerle kapanış.
+
+NASIL ÇALIŞILIR?
+Ana konuşma planı 24:25'tir; gerçek sesli prova sonucu değildir. Giriş 3:20; yöntem/uygulama/analiz 12:55; bulgular 7:00; kapanış 1:10.
+Çalışma dosyasındaki gerekçe ve soru hazırlığı sayfalarının tümünü ana konuşmada okumazsın. Bu sayfalar unuttuğun ayrıntıları hatırlaman ve sorulara hazırlanman içindir. Ana konuşma metni, ekranda gösterilecek noktalar ve geçişler ayrı yazılmıştır. Ayrıntıların tamamını ana konuşmaya katarsan 25 dakika aşılır.
+Slayt 3'teki problem/amaç tezden aynen korunur. Öz değerlendirme terimi resmî cümlede bulunur; konuşmanın her yerinde tekrar edilmez. İki aracın veri niteliği ölçme bölümünde açıklanır; bulgular ölçek puanlarıyla anlatılır.
+
+BAĞLANTILAR
+20→40→20 ve 21→41→21: Güven aralığı grafikleri.
+23→42–43→23: Problem belirleme tam yanıtları.
+24→44–51→24: İletişim, öğrenme, olumsuz yönler, öneriler.
+25→52–55→25: Katkı ve grup deneyimi tam yanıtları.
+28–39: Önceki doğrulanmış 12 yöntem ve kaynak yedeği.
+
+KORUNANLAR / KAPSAM
+Tez ve önceki sunum dosyaları değiştirilmedi. Önceki 355 izlenen dosyanın özetleri karşılaştırıldı; değişiklik yok. Puanlama ve ham veri yeniden analiz edilmedi. Mevcut sayılar, güven aralıkları, kod frekansları ve 28 tam yanıt korundu.
+Uygulama ayrıntıları tez §3.4 ve arşiv belgelerine dayanır. Kura, fiziksel koşullar ve danışman kod incelemesi araştırmacının açıklamalarıdır. Bağımsız çift kodlama veya uyum yüzdesi yapıldığı söylenmez. 57 adlık liste başlangıç test örneklemi veya kesin devamsızlık dökümü değildir.
+PDF görünümü ve metinler, 27 ana slaydın notları, 51 iç bağlantı ve sayısal tablolar denetlendi. Gerçek Microsoft PowerPoint/Word açılışı ve süreli sesli prova sunum bilgisayarında ayrıca yapılmalıdır. Etik belge içeriği ve benzerlik raporu bu çalışmada tamamlanmış sayılmaz.
+V4-KONTROL.json kontrol sonuçlarını; diğer JSON dosyaları akış, dayanak ve formülleri içerir. SHA256SUMS.txt ZIP dışındaki dosyaların özetlerini içerir.
