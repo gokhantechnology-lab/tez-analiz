@@ -1,0 +1,18 @@
+26 KASIM 2026 — SAVUNMA İÇİN SON KONTROL
+
+AÇILACAK ANA DOSYA
+GOKHAN-KAYA-ANA-SUNUM-SON.pptx / .pdf — 27 ana slayt; teşekkür slaydında biter. Ana anlatım planı 23:05; gerçek sesli prova sonucu değildir. Önceki slayt sırası korundu.
+
+ÖNCE ÇALIŞILACAK BELGE
+SON-HAZIRLIK-VE-ISTATISTIK-REHBERI.docx / .pdf — 16 sayfa. İlk sayfa çalışma sırası; 2: p değeri; 3: t testi, Wilcoxon, Shapiro–Wilk; 4: tablo okuma; 5: güven aralığı, etki büyüklüğü, Cronbach alfa; 6: istatistik soruları; 7: yöntem ve uygulama soruları; 8–16: bütün ana slaytların kısa konuşmaları.
+Ana konuşmalar PowerPoint notlarıyla eşleşir. Önceki 60 sayfalık çalışma dosyası ayrıntılı başvuru kaynağı olarak korunmuştur.
+
+YEDEK DOSYA
+GOKHAN-KAYA-YEDEKLER-SON.pptx / .pdf — 30 slayt. Soru gelirse açılır; ana sunuma bağlı otomatik geçiş yoktur. İlk 28 yedek önceki ayrı dosyayla aynı sıra ve içeriktedir. 29: teknik nicel analiz özeti; 30: N/N_e/Z/p/r ve hesap açıklamalarını içeren tam Wilcoxon tablosu. Alıntılar arasında 14 iç bağlantı vardır. İlk 28 yedekteki özgün sayfa atıfları birleşik V4 numaralarıdır.
+
+GENEL İNCELEME
+Bütün 27 slayt ve konuşmalar hocanın talepleriyle birlikte incelendi. Yöntem/uygulama, PTÖ eşleştirmesi, alt boyut ve etki tabloları, Wilcoxon tablosu, nitel ayrım ve kısa tartışma korundu. Sadece 18. slayta odaklanılmadı. 18 sadeleştirildi; 19’da danışman kod incelemesi görünür oldu; 20–21’de toplam satırlar vurgulandı; 22 tablosu sadeleştirilip tam teknik versiyonu yedeğe alındı; 6, 8, 17 ve 25’te dil netleştirildi. Bütün ana konuşmalarda teknik hesap yükü azaltıldı.
+BUTUNCUL-KONTROL-VE-DEGISIKLIKLER.txt 27 slaytın her biri için inceleme kararını açıklar.
+
+KORUNANLAR
+Eski tez, sunum ve hazırlık belgeleri değiştirilmedi. Veriler, puanlama ve test değerleri korunmuştur; yeni SPSS analizi yapılmadı. Ana tablolardaki tüm sayılar önceki doğrulanmış dosyayla karşılaştırıldı. PDF metinleri, tablo hücreleri, 27 konuşma ve bağlantılar denetlendi. Microsoft PowerPoint/Word gerçek uygulama görünümü ve süreli prova sunum bilgisayarında ayrıca yapılmalıdır. Etik belge içeriği ve benzerlik raporu bu çalışmayla tamamlanmış sayılmaz.

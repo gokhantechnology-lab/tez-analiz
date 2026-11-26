@@ -1,0 +1,31 @@
+{
+  "GOKHAN-KAYA-ANA-SUNUM-SON": {
+    "slides": 27,
+    "pdf_pages": 27,
+    "all_visible_text_verified": true,
+    "internal_links": 0
+  },
+  "GOKHAN-KAYA-YEDEKLER-SON": {
+    "slides": 30,
+    "pdf_pages": 30,
+    "all_visible_text_verified": true,
+    "internal_links": 14
+  },
+  "reviewed_main_slides": 27,
+  "speaker_passages_matching_guide": 27,
+  "guide_pages": 16,
+  "existing_statistics_unchanged": true,
+  "planned_seconds": 1385,
+  "timed_rehearsal_completed": false,
+  "old_tracked_files_changed": false,
+  "native_microsoft_office_review_completed": false,
+  "advisor_requirements_retained": [
+    "method_and_application_emphasis",
+    "PTO_mapping",
+    "subscale_and_effect_tables",
+    "Wilcoxon_table",
+    "separated_qualitative_experiences",
+    "brief_discussion_and_recommendations"
+  ],
+  "advisor_code_review_visible": true
+}
