@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-27",
+  "packet_pages": 23,
+  "front_note_pages": 3,
+  "thesis_pdf_original_pages": [
+    54,
+    56,
+    65,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101
+  ],
+  "spss_original_pages": [
+    26,
+    27,
+    29,
+    30,
+    53,
+    54,
+    55,
+    56
+  ],
+  "thesis_sha256": "f05b97a32468bc1c9318a106a2503c6004b41134cb581d7bfa67132e2228e4b6",
+  "spss_subset_sha256": "c990d37bd29b42850c31b48f48288f3c4d6f74553798680f911eb35aa4fd1f91",
+  "all_inserted_page_text_unchanged": true,
+  "optional_article_pages": 14,
+  "permission_document_included": false,
+  "full_text_1982_and_1993_included": false
+}
